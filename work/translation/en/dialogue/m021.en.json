@@ -1,0 +1,475 @@
+{
+ "mission": "021",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 11,
+   "en": "The United Space Force has already begun its assault on Amaterasu.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 12,
+   "en": "We have to pin down the enemy strike force.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 13,
+   "en": "Enemy ship acquired. It looks like one they captured from the United Space Force.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 14,
+   "en": "No sign of movement from it yet.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 21,
+   "en": "Boson particle readings rising!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 22,
+   "en": "Get into intercept positions!",
+   "speaker": "Commander?"
+  },
+  {
+   "id": 23,
+   "en": "We're engaging the enemy as well.",
+   "speaker": "Operator?"
+  },
+  {
+   "id": 25,
+   "en": "Strong heat signature from the enemy ship!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 26,
+   "en": "It appears to be loaded with high-mass explosives.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 27,
+   "en": "Looks like they planned a suicide attack with it.",
+   "speaker": "?"
+  },
+  {
+   "id": 31,
+   "en": "Boson particle readings rising...!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 32,
+   "en": "I won't let it end like this.",
+   "speaker": "Enemy (ship commander?)"
+  },
+  {
+   "id": 33,
+   "en": "Let it be carved deep into your very flesh!",
+   "speaker": "Enemy (ship commander?)"
+  },
+  {
+   "id": 34,
+   "en": "The enemy ship is starting to move!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 41,
+   "en": "It's got a lock on you!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 42,
+   "en": "Can't we destroy it with our cannons!?",
+   "speaker": "Commander?"
+  },
+  {
+   "id": 43,
+   "en": "That's too dangerous! It'll take our own units too!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 44,
+   "en": "We can't let them reach Amaterasu.",
+   "speaker": "Commander?"
+  },
+  {
+   "id": 45,
+   "en": "Keep at it and wipe out the enemy.",
+   "speaker": "Commander?"
+  },
+  {
+   "id": 46,
+   "en": "This is where your fate runs out.",
+   "speaker": "Hokushin?"
+  },
+  {
+   "id": 51,
+   "en": "Boson particle readings rising!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 52,
+   "en": "More of them!?",
+   "speaker": "Commander?"
+  },
+  {
+   "id": 53,
+   "en": "Let us settle this.",
+   "speaker": "Hokushin?"
+  },
+  {
+   "id": 55,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 56,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 57,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 58,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 59,
+   "en": "Jump...!",
+   "speaker": "Hokushin?"
+  },
+  {
+   "id": 61,
+   "en": "Enemy ship gone silent. Looks like engine trouble.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 62,
+   "en": "Now we just need to take out the rest of the enemy.",
+   "speaker": "?"
+  },
+  {
+   "id": 66,
+   "en": "All enemy signals in the area are gone.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 67,
+   "en": "Roger. Get out of there right away.",
+   "speaker": "?"
+  },
+  {
+   "id": 68,
+   "en": "We're going to destroy the enemy ship.",
+   "speaker": "?"
+  },
+  {
+   "id": 71,
+   "en": "A Boson Jump!?",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 72,
+   "en": "What, a Boson Jump!?",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 73,
+   "en": "It's a Boson Jump!",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 74,
+   "en": "A Boson Jump!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 75,
+   "en": "Hey, that's a Boson Jump!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 76,
+   "en": "It's a Boson Jump.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 77,
+   "en": "BOSON JUMP CONFIRMED.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 78,
+   "en": "It's a Boson Jump!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 79,
+   "en": "This is... a Boson Jump!",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 80,
+   "en": "Boson Jump confirmed.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 81,
+   "en": "They knew we were here!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 82,
+   "en": "So they were onto us!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 83,
+   "en": "It seems they noticed us.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 84,
+   "en": "Looks like they were onto us as well.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 85,
+   "en": "You mean they knew about us!?",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 86,
+   "en": "So they knew about us.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 88,
+   "en": "No way, they knew we were coming!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 89,
+   "en": "They must have known about us.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 90,
+   "en": "It appears the enemy had detected us.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 91,
+   "en": "We did it! That's the end of that.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 92,
+   "en": "All right, good work!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 93,
+   "en": "Thank you for your hard work.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 94,
+   "en": "Thank goodness. Looks like it's over.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 95,
+   "en": "That's the end of it! Good job!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 96,
+   "en": "Thank goodness, it all ended safely.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 97,
+   "en": "CRISIS AVERTED.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 98,
+   "en": "Objective achieved! Thank you for your hard work!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 99,
+   "en": "The objective's been achieved. Good work.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 100,
+   "en": "Objective completion confirmed. Thanks for your work.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 101,
+   "en": "It's heading your way!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 102,
+   "en": "It's coming right at you!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 103,
+   "en": "It's heading toward you.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 104,
+   "en": "Heads up, it's coming your way.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 105,
+   "en": "It's coming your way!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 106,
+   "en": "It's heading your way.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 107,
+   "en": "TARGET APPROACH CONFIRMED.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 108,
+   "en": "It's heading your way!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 109,
+   "en": "It's headed your way, you know.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 110,
+   "en": "It is heading toward your position.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 111,
+   "en": "If that battleship touches you, it's over! Be careful!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 112,
+   "en": "Touch that battleship and you're finished! Watch it!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 113,
+   "en": "Touch the battleship and it's over. Please be careful.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 114,
+   "en": "Touch that battleship and it's all over. Careful now.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 115,
+   "en": "Touch that battleship and it's game over! Be careful!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 116,
+   "en": "If the battleship touches you, it's over. Be careful.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 117,
+   "en": "BLAST SCALE ON BATTLESHIP CONTACT: UNPREDICTABLE.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 118,
+   "en": "Contact the battleship and it's over. Please beware.",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 119,
+   "en": "Contact with that battleship means the end. Careful.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 120,
+   "en": "Blast scale from battleship contact is unpredictable.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 121,
+   "en": "You did it! That was amazing!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 122,
+   "en": "Splendid piloting.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 123,
+   "en": "Beautifully done. Just what I'd expect.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 124,
+   "en": "Amazing. That's beyond what I expected.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 125,
+   "en": "Eeek! Wait, that was amazing!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 126,
+   "en": "Amazing. Now you're showing what you can really do.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 127,
+   "en": "CRISIS AVERTED.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 128,
+   "en": "What amazing skill! I'm so impressed!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 129,
+   "en": "Well, isn't that impressive. Keep it up.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 130,
+   "en": "Just what I'd expect from an ace pilot.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

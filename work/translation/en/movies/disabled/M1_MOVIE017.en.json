@@ -1,0 +1,425 @@
+{
+ "movie": "M1_MOVIE017",
+ "segments": [
+  {
+   "type": "static",
+   "card": 0,
+   "frames": [
+    19,
+    134
+   ],
+   "box": [
+    42,
+    193,
+    470,
+    256
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      202,
+      220
+     ],
+     "en": "— Ra Cailum Medical Crew",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 16,
+     "weight": 700
+    },
+    {
+     "band": [
+      229,
+      247
+     ],
+     "en": "Anna Stephanie —",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 16,
+     "weight": 700
+    }
+   ],
+   "ink_rows": [
+    [
+     200,
+     222
+    ],
+    [
+     227,
+     249
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 1,
+   "frames": [
+    182,
+    396
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      377
+     ],
+     "en": "When we left the sea of stars and returned to Earth,",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      404
+     ],
+     "en": "what awaited us was the fierce fire of war.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     379
+    ],
+    [
+     386,
+     406
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 2,
+   "frames": [
+    431,
+    574
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      378
+     ],
+     "en": "Armed clashes were steadily",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      404
+     ],
+     "en": "laying waste to the land.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     380
+    ],
+    [
+     386,
+     406
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 3,
+   "frames": [
+    606,
+    761
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      377
+     ],
+     "en": "Yet through it all, Miss Relena",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      404
+     ],
+     "en": "kept calling for peace.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     379
+    ],
+    [
+     386,
+     406
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 4,
+   "frames": [
+    798,
+    1008
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      377
+     ],
+     "en": "An age of peace may be a naive ideal.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      404
+     ],
+     "en": "Perhaps there can be no order without force.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     379
+    ],
+    [
+     386,
+     406
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 5,
+   "frames": [
+    1037,
+    1239
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      377
+     ],
+     "en": "Even so, I could believe that Miss Relena",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      404
+     ],
+     "en": "would lead us into an age of peace.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     379
+    ],
+    [
+     386,
+     406
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 6,
+   "frames": [
+    1293,
+    1456
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      378
+     ],
+     "en": "Everyone felt the same, and I think that's",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      404
+     ],
+     "en": "why they threw themselves into the fighting.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     380
+    ],
+    [
+     386,
+     406
+    ]
+   ],
+   "bg_level": 16.0
+  }
+ ]
+}

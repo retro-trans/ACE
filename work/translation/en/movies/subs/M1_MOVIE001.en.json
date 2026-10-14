@@ -1,0 +1,239 @@
+{
+ "movie": "M1_MOVIE001",
+ "cards": [
+  {
+   "id": 0,
+   "frames": [
+    19,
+    134
+   ],
+   "kind": "title",
+   "box": [
+    115,
+    199,
+    399,
+    249
+   ],
+   "lines": [
+    [
+     199,
+     223
+    ],
+    [
+     226,
+     249
+    ]
+   ],
+   "peak": 33,
+   "en": "< Unified Earth Calendar 044, July\n— Six months before the Refugee Ship Incident — >"
+  },
+  {
+   "id": 1,
+   "frames": [
+    200,
+    315
+   ],
+   "kind": "title",
+   "box": [
+    114,
+    199,
+    400,
+    249
+   ],
+   "lines": [
+    [
+     199,
+     223
+    ],
+    [
+     226,
+     249
+    ]
+   ],
+   "peak": 212,
+   "en": "— Ra Cailum Operations Staff Officer\nLucrezia Noin —"
+  },
+  {
+   "id": 2,
+   "frames": [
+    364,
+    534
+   ],
+   "kind": "subtitle",
+   "box": [
+    84,
+    357,
+    428,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 483,
+   "en": "I was assigned to the Ra Cailum six months ago,\nat UCE Base No. 4."
+  },
+  {
+   "id": 3,
+   "frames": [
+    576,
+    728
+   ],
+   "kind": "subtitle",
+   "box": [
+    104,
+    357,
+    410,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 591,
+   "en": "Back then, Londo Bell had only just been formed\nas a UCE special operations unit."
+  },
+  {
+   "id": 4,
+   "frames": [
+    765,
+    917
+   ],
+   "kind": "subtitle",
+   "box": [
+    122,
+    357,
+    391,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 777,
+   "en": "Our first orders were to transport\nclassified UCE cargo to Jaburo."
+  },
+  {
+   "id": 5,
+   "frames": [
+    971,
+    1125
+   ],
+   "kind": "subtitle",
+   "box": [
+    87,
+    357,
+    426,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 1104,
+   "en": "I suppose that, at the time, I didn't yet take\nthings as seriously as I do now."
+  },
+  {
+   "id": 6,
+   "frames": [
+    1160,
+    1391
+   ],
+   "kind": "subtitle",
+   "box": [
+    94,
+    357,
+    420,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 1176,
+   "en": "But on the day before the mission,\na sudden explosion changed everything."
+  },
+  {
+   "id": 7,
+   "frames": [
+    1435,
+    1640
+   ],
+   "kind": "subtitle",
+   "box": [
+    104,
+    357,
+    410,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 1455,
+   "en": "I've been through a great deal since that day,\nbut looking back, the last thing we did was—"
+  },
+  {
+   "id": 8,
+   "frames": [
+    1668,
+    1781
+   ],
+   "kind": "subtitle",
+   "box": [
+    105,
+    357,
+    409,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 1704,
+   "en": "perhaps, by then, already\nimpossible to avoid."
+  }
+ ]
+}

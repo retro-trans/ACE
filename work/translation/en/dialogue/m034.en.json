@@ -1,0 +1,315 @@
+{
+ "mission": "034",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defeat enemy forces",
+   "speaker": "System"
+  },
+  {
+   "id": 2,
+   "en": "---",
+   "speaker": "System"
+  },
+  {
+   "id": 3,
+   "en": "Defeat the Zwarth",
+   "speaker": "System"
+  },
+  {
+   "id": 10,
+   "en": "Some enemies are Surface folk turned Holy Warriors.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 11,
+   "en": "Even so, we cannot stop fighting.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 12,
+   "en": "To crush a single evil,",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 13,
+   "en": "there are times we must pile up thousands of corpses.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 14,
+   "en": "We're moving to support our allies.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 15,
+   "en": "All units, clear out the enemies around us!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 16,
+   "en": "Incoming fire from the enemy ship!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 17,
+   "en": "Enemy battleship heat signature! Full salvo incoming!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 18,
+   "en": "All units, stay alert!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 19,
+   "en": "Incoming fire from the enemy ship!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 20,
+   "en": "Enemy battleship heat signature! Full salvo incoming!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 21,
+   "en": "All ships, prepare to fire!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 22,
+   "en": "Fire!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 23,
+   "en": "We will now open a full salvo.",
+   "speaker": "? (Gran Garan side)"
+  },
+  {
+   "id": 24,
+   "en": "Open fire!",
+   "speaker": "? (Gran Garan side)"
+  },
+  {
+   "id": 25,
+   "en": "Enemy force confirmed, approaching our position.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 26,
+   "en": "They're identified as Reclaimers!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 27,
+   "en": "The day Orphan surfaces is close at hand.",
+   "speaker": "Jonathan Green?"
+  },
+  {
+   "id": 28,
+   "en": "Anyone who gets in our way will be eliminated!",
+   "speaker": "Jonathan Green?"
+  },
+  {
+   "id": 29,
+   "en": "It cannot be helped. Intercept them.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 30,
+   "en": "By draining the life energy of the Earth,",
+   "speaker": "Jonathan Green?"
+  },
+  {
+   "id": 31,
+   "en": "Orphan will return to space!",
+   "speaker": "Jonathan Green?"
+  },
+  {
+   "id": 32,
+   "en": "We will now rescue the people taken from the Surface.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 33,
+   "en": "We launch all Aura Battlers and storm the enemy ship.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 34,
+   "en": "Understood.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 35,
+   "en": "We'll concentrate on taking down the enemy.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 36,
+   "en": "A unit is approaching our position!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 37,
+   "en": "They're Drake Army Aura Battlers.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 38,
+   "en": "That Holy Warriors from the Surface are not needed...",
+   "speaker": "Black Knight (Bern Bunnings)?"
+  },
+  {
+   "id": 39,
+   "en": "I will prove it myself!",
+   "speaker": "Black Knight (Bern Bunnings)?"
+  },
+  {
+   "id": 40,
+   "en": "",
+   "speaker": ""
+  },
+  {
+   "id": 41,
+   "en": "",
+   "speaker": ""
+  },
+  {
+   "id": 42,
+   "en": "",
+   "speaker": ""
+  },
+  {
+   "id": 43,
+   "en": "",
+   "speaker": ""
+  },
+  {
+   "id": 44,
+   "en": "All enemy signals in the area are gone.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 45,
+   "en": "Regrettably, Drake got away, but",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 46,
+   "en": "we were able to save the captive Surface people.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 47,
+   "en": "You have our gratitude for your help.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 48,
+   "en": "Organic Plate obtained.",
+   "speaker": "System"
+  },
+  {
+   "id": 50,
+   "en": "When the shelling starts, you're safer in the sea.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 51,
+   "en": "When the shelling comes, get underwater. It's safer.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 52,
+   "en": "During bombardment, please dive underwater if you can.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 53,
+   "en": "When shelling starts, you'd better hide in the sea.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 54,
+   "en": "If they shoot, get into the sea as fast as you can!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 55,
+   "en": "When shelling starts, get in the sea if you can, okay?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 56,
+   "en": "EVADE BOMBARDMENT UNDERWATER.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 57,
+   "en": "If shelling comes, it's best to retreat underwater.",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 58,
+   "en": "Watch out for the shelling. The sea is safer.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 59,
+   "en": "During bombardment, it is safer to retreat underwater.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 60,
+   "en": "This one's not like the others. Be careful!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 61,
+   "en": "This one's strong!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 62,
+   "en": "Don't underestimate this enemy's capabilities.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 63,
+   "en": "What...? This enemy's strong. Be careful.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 64,
+   "en": "Ugh, no way! This one's strong!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 65,
+   "en": "The enemy is strong. Be careful.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 66,
+   "en": "ALARM MESSAGE: DANGER. EVADE.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 67,
+   "en": "This enemy is strong! Please be careful!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 68,
+   "en": "That enemy's performance is something else. Watch out.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 69,
+   "en": "The target is high-performance. Please stay alert.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "table": "008",
+ "dialogue_file": "work/translation/en/dialogue/m008.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "E2 Robbery Unit Siege",
+   "speaker": "-"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "-"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "-"
+  },
+  {
+   "id": 4,
+   "en": "Destroy the recon helicopter",
+   "speaker": "-"
+  },
+  {
+   "id": 100,
+   "en": "The UCE main force seems to have located the Poseidal Army unit that stole the E2.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 101,
+   "en": "The main force has <mk(0,-50,0,1)><ar(0,0,1)><mk(-75,0,1,3,50)><ar(0,1,3,250)><mk(25,50,0,3,100)><ar(0,0,3,250)><mk(-80,-75,2,3,150)><ar(0,2,3,250)><mk(75,0,7,3,200)><ar(0,7,3,250)><mk(80,-75,6,3,250)><ar(0,6,3,250)>driven the target into <pic(0)><cs(3)>Antarctica<ce()> and is encircling it in force.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 102,
+   "en": "We will join this operation too, as <mk(-25,75,0,0)><ar(0,0,0)>a pursuit unit. Everyone, stay sharp out there.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 103,
+   "en": "But to think the brass hid something like that... It seems they don't trust us.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 104,
+   "en": "But we have no time to argue about that. Right now, carrying out the mission comes first.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 200,
+   "en": "<cs(1)>White Fang<ce()>'s attack threw off our plans. This is a heavy blow...",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 201,
+   "en": "Our agents who made it back report that one E2 has fallen into White Fang's hands.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 202,
+   "en": "What they're after is unknown... but clearly another E2 has gone to another faction.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 203,
+   "en": "Four E2s remain unrecovered. We've lost track of Poseidal too; things are getting worse.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 204,
+   "en": "In effect we're back to square one, but don't lose heart. We'll continue the pursuit.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 205,
+   "en": "White Fang... I will meet them again, without fail, and learn what they truly intend...",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 300,
+   "en": "The enemy won't wait for us. Always judge the situation and respond flexibly.",
+   "speaker": "Lucrezia Noin?"
+  }
+ ]
+}

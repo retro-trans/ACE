@@ -1,0 +1,42 @@
+{
+ "group": "modes",
+ "font": "f010",
+ "where": [
+  "\\target\\menu\\fmg\\f100.fmg@0x0"
+ ],
+ "limits": {
+  "lines": 1,
+  "width": 256,
+  "bytes": 26
+ },
+ "rows": [
+  {
+   "id": 1,
+   "en": "Start the mission"
+  },
+  {
+   "id": 2,
+   "en": "Adjust your unit"
+  },
+  {
+   "id": 3,
+   "en": "Look up terms"
+  },
+  {
+   "id": 4,
+   "en": "Save or load data"
+  },
+  {
+   "id": 5,
+   "en": "Change game options"
+  },
+  {
+   "id": 10,
+   "en": "Select a stage"
+  },
+  {
+   "id": 20,
+   "en": "Select and adjust units"
+  }
+ ]
+}

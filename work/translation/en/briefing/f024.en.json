@@ -1,0 +1,71 @@
+{
+ "table": "024",
+ "dialogue_file": "work/translation/en/dialogue/m024.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Quell Enemy Remnants",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Defeat all Doro units",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "<mk(12.5,-50,6,1,50)><mk(25,-25,5,1,100)><mk(50,-12.5,4,1,150)><pic(0)><cs(3)>Around NA Point<ce()>, remnant forces of the Martian Successors are running rampant.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 101,
+   "en": "Our mission this time is to <mk(-37.5,37.5,1,0)><ar(0,1,0,100)>suppress them.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 102,
+   "en": "The enemy is very heavily armed. Reports say the allied units sent ahead were wiped out.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 103,
+   "en": "We have no data on the enemy at all, but it's certainly a formidable foe. Be careful.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 104,
+   "en": "Commander Misumaru's words bother me... but for now, the surface threat comes first.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 200,
+   "en": "Lately, similar enhanced machines have been appearing all over and running rampant.",
+   "speaker": "UCE official?"
+  },
+  {
+   "id": 201,
+   "en": "Details are unknown, but they all share an energy output far beyond anything normal.",
+   "speaker": "UCE official?"
+  },
+  {
+   "id": 202,
+   "en": "I want you to annihilate them on sight. I'll contact you again as soon as we learn more.",
+   "speaker": "UCE official?"
+  },
+  {
+   "id": 300,
+   "en": "What on earth are you doing in a place like this? Think about what your role is.",
+   "speaker": "UCE official?"
+  }
+ ]
+}

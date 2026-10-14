@@ -1,0 +1,386 @@
+{
+ "group": "desc",
+ "font": "f010",
+ "where": [
+  "\\target\\menu\\fmg\\f202.fmg@0x0",
+  "\\target\\menu\\bnd\\mode_data\\MenuTitleIntro.csc:\\target\\menu\\fmg\\f202.fmg@0x1b2800",
+  "\\target\\menu\\bnd\\mode_data\\MenuCampaign.csc:\\target\\menu\\fmg\\f202.fmg@0x660000",
+  "\\target\\menu\\bnd\\mode_data\\MenuFree.csc:\\target\\menu\\fmg\\f202.fmg@0x5fc800",
+  "\\target\\menu\\bnd\\mode_data\\MenuMulti.csc:\\target\\menu\\fmg\\f202.fmg@0x44d800"
+ ],
+ "limits": {
+  "lines": 2,
+  "width": 447,
+  "bytes": 83
+ },
+ "rows": [
+  {
+   "id": 1,
+   "en": "Set the game's difficulty."
+  },
+  {
+   "id": 2,
+   "en": "Automatically matches the enemy's altitude and fires the best attack for the range."
+  },
+  {
+   "id": 3,
+   "en": "Control all unit movement freely,\nand freely choose and fire any attack."
+  },
+  {
+   "id": 10,
+   "en": "Depart for the next mission."
+  },
+  {
+   "id": 11,
+   "en": "Upgrade your carrier's capabilities."
+  },
+  {
+   "id": 12,
+   "en": "Choose the units to load onto your carrier."
+  },
+  {
+   "id": 13,
+   "en": "Add upgrade slots to your units."
+  },
+  {
+   "id": 14,
+   "en": "Read explanations of terms, units and controls."
+  },
+  {
+   "id": 15,
+   "en": "Set up Auto Save or save the game."
+  },
+  {
+   "id": 16,
+   "en": "Configure various game features."
+  },
+  {
+   "id": 17,
+   "en": "Increase the number of units your carrier holds."
+  },
+  {
+   "id": 18,
+   "en": "Increase the repair resources used to repair units."
+  },
+  {
+   "id": 19,
+   "en": "Reduce the repair resources used for repairs."
+  },
+  {
+   "id": 20,
+   "en": "Choose where to load the unit."
+  },
+  {
+   "id": 21,
+   "en": "Choose a unit to load onto your carrier."
+  },
+  {
+   "id": 22,
+   "en": "Choose a unit to add upgrade slots to."
+  },
+  {
+   "id": 23,
+   "en": "Equip the unit with a new upgrade slot."
+  },
+  {
+   "id": 24,
+   "en": "Level up an equipped upgrade slot."
+  },
+  {
+   "id": 25,
+   "en": "Remove an equipped upgrade slot."
+  },
+  {
+   "id": 26,
+   "en": "Choose the upgrade slot to level up."
+  },
+  {
+   "id": 27,
+   "en": "Choose the upgrade slot to remove."
+  },
+  {
+   "id": 28,
+   "en": "Reduces the damage you take."
+  },
+  {
+   "id": 29,
+   "en": "Increases normal movement speed."
+  },
+  {
+   "id": 30,
+   "en": "Increases dash duration."
+  },
+  {
+   "id": 31,
+   "en": "Increases movement speed when using verniers."
+  },
+  {
+   "id": 32,
+   "en": "Reduces Stagger."
+  },
+  {
+   "id": 33,
+   "en": "Increases turning speed."
+  },
+  {
+   "id": 34,
+   "en": "Increases weapon power and barrier duration."
+  },
+  {
+   "id": 35,
+   "en": "Increases weapon fire rate and blade length."
+  },
+  {
+   "id": 36,
+   "en": "Choose the weapon to equip the upgrade slot on."
+  },
+  {
+   "id": 37,
+   "en": "Choose a topic to read about."
+  },
+  {
+   "id": 38,
+   "en": "Explanation of the selected topic."
+  },
+  {
+   "id": 50,
+   "en": "Start the briefing."
+  },
+  {
+   "id": 51,
+   "en": "Level up the upgrade slots equipped on a unit."
+  },
+  {
+   "id": 52,
+   "en": "Read explanations of terms, units and controls."
+  },
+  {
+   "id": 53,
+   "en": "Set up Auto Save or save the game."
+  },
+  {
+   "id": 54,
+   "en": "Configure various game features."
+  },
+  {
+   "id": 55,
+   "en": "Choose a topic to read about."
+  },
+  {
+   "id": 56,
+   "en": "Change gameplay settings."
+  },
+  {
+   "id": 57,
+   "en": "Change control settings."
+  },
+  {
+   "id": 58,
+   "en": "Change the volume of BGM, voices and more."
+  },
+  {
+   "id": 59,
+   "en": "Change screen settings."
+  },
+  {
+   "id": 60,
+   "en": "Turn demo playback ON/OFF."
+  },
+  {
+   "id": 61,
+   "en": "Turn lock sight info ON/OFF."
+  },
+  {
+   "id": 62,
+   "en": "Change which targets are locked onto first."
+  },
+  {
+   "id": 63,
+   "en": "Lock onto targets in front of your unit."
+  },
+  {
+   "id": 64,
+   "en": "Lock onto targets at the center of the camera."
+  },
+  {
+   "id": 65,
+   "en": "Lock onto nearby targets."
+  },
+  {
+   "id": 66,
+   "en": "Lock onto targets with low armor."
+  },
+  {
+   "id": 67,
+   "en": "Change the control type."
+  },
+  {
+   "id": 68,
+   "en": "Turn vibration ON/OFF."
+  },
+  {
+   "id": 69,
+   "en": "Automatically turn your unit to face the target."
+  },
+  {
+   "id": 70,
+   "en": "Change the button settings."
+  },
+  {
+   "id": 71,
+   "en": "Select an item to change its button setting."
+  },
+  {
+   "id": 72,
+   "en": "Change the BGM volume."
+  },
+  {
+   "id": 73,
+   "en": "Change the sound effect volume."
+  },
+  {
+   "id": 74,
+   "en": "Change the voice volume."
+  },
+  {
+   "id": 75,
+   "en": "Turn text display ON/OFF."
+  },
+  {
+   "id": 76,
+   "en": "Change the screen brightness."
+  },
+  {
+   "id": 77,
+   "en": "Turn Auto Save ON/OFF."
+  },
+  {
+   "id": 78,
+   "en": "Load a game."
+  },
+  {
+   "id": 79,
+   "en": "Save the game."
+  },
+  {
+   "id": 80,
+   "en": "Quit the game and return to the title screen."
+  },
+  {
+   "id": 81,
+   "en": "Change the screen contrast."
+  },
+  {
+   "id": 82,
+   "en": "Turn Auto Save ON/OFF."
+  },
+  {
+   "id": 83,
+   "en": "Explanation of the selected topic."
+  },
+  {
+   "id": 84,
+   "en": "Level up the upgrade slot."
+  },
+  {
+   "id": 85,
+   "en": "Level up the upgrade slot."
+  },
+  {
+   "id": 100,
+   "en": "Sortie on the mission."
+  },
+  {
+   "id": 101,
+   "en": "Register your player unit for the sortie."
+  },
+  {
+   "id": 102,
+   "en": "Register wingman units for the sortie."
+  },
+  {
+   "id": 103,
+   "en": "Choose a unit to register for the sortie."
+  },
+  {
+   "id": 120,
+   "en": "Combat results for the mission."
+  },
+  {
+   "id": 121,
+   "en": "Combat results of your wingman units."
+  },
+  {
+   "id": 122,
+   "en": "Details of your Ace Points."
+  },
+  {
+   "id": 130,
+   "en": "Sortie on the mission."
+  },
+  {
+   "id": 131,
+   "en": "Select a mission."
+  },
+  {
+   "id": 132,
+   "en": "Select a unit."
+  },
+  {
+   "id": 133,
+   "en": "Add upgrade slots to your units."
+  },
+  {
+   "id": 134,
+   "en": "Set up Auto Save or save the game."
+  },
+  {
+   "id": 135,
+   "en": "Configure various game features."
+  },
+  {
+   "id": 136,
+   "en": "Choose a mission to sortie on."
+  },
+  {
+   "id": 137,
+   "en": "Choose a unit to sortie."
+  },
+  {
+   "id": 138,
+   "en": "Choose a mission to sortie on."
+  },
+  {
+   "id": 150,
+   "en": "Choose the units for the versus battle."
+  },
+  {
+   "id": 151,
+   "en": "Choose the\nnumber of units."
+  },
+  {
+   "id": 152,
+   "en": "Choose the number of units and the versus units."
+  },
+  {
+   "id": 153,
+   "en": "Select a stage."
+  },
+  {
+   "id": 154,
+   "en": "Set the time limit."
+  },
+  {
+   "id": 155,
+   "en": "Set up the controllers."
+  },
+  {
+   "id": 156,
+   "en": "Start the versus battle."
+  },
+  {
+   "id": 157,
+   "en": "Set up your control type."
+  }
+ ]
+}

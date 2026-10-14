@@ -1,0 +1,101 @@
+{
+ "table": "040",
+ "dialogue_file": "work/translation/en/dialogue/m040.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "UCE Fleet Support",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Friendly Leo survives",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "<pic(0)><cs(3)>Axis<ce()> is closing in on <pic(1)><cs(3)>the Gate of Zedan<ce()>. There's no way left to avoid a collision...",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 101,
+   "en": "The UCE has apparently given up the Gate of Zedan and ordered all fleets to evacuate.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 102,
+   "en": "Right now, <mk(-75,-25,3,3)><mk(-87.5,-62.5,3,3,50)><mk(-50,-50,3,3,100)><mk(-62.5,-87.5,3,3,150)><mk(-25,-75,3,3,200)><mk(-87.5,37.5,0,1,300)><ar(0,0,1,650)><mk(-50,37.5,0,1,350)><ar(0,0,1,650)><mk(-12.5,12.5,7,1,400)><ar(0,7,1,650)><mk(12.5,-12.5,7,1,450)><ar(0,7,1,650)><mk(37.5,-50,6,1,500)><ar(0,6,1,650)><mk(37.5,-87.5,6,1,550)><ar(0,6,1,650)><pic(2)><cs(3)>the UCE fleet<ce()> is surrounded by enemy forces. <mk(75,25,6,3,750)><ar(0,6,3,950)><mk(75,0,6,0,800)><ar(0,6,0,950)><mk(75,-25,6,3,850)><ar(0,6,3,950)>We will cover their withdrawal.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 103,
+   "en": "We may have parted ways with the UCE, but pointless annihilation must be avoided.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 104,
+   "en": "The enemy is Neo Zeon, led by Char.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 105,
+   "en": "Has he truly changed...? I can't say.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 106,
+   "en": "This will surely be a hard battle. I wish you all success, and a safe return.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 200,
+   "en": "More than half of the UCE fleet has been wiped out. The losses are immense...",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 201,
+   "en": "Duke Dermail is missing as well. He most likely did not make it.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 202,
+   "en": "With no chain of command, the UCE is paralyzed. No surprise for a patchwork force...",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 203,
+   "en": "Other enemy forces are sure to take advantage of this and start moving on Earth.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 204,
+   "en": "I want to call you back to Earth right away. Your strength is still needed.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 205,
+   "en": "Now that Char is gone, Poseidal is the one who holds the key.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 206,
+   "en": "To end this war, I want you to defeat Poseidal, who pulls its strings from the shadows.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 300,
+   "en": "We can't stand still if we want peace. Don't let your guard down, even for an instant.",
+   "speaker": "briefing commander (unnamed)"
+  }
+ ]
+}

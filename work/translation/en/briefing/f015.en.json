@@ -1,0 +1,96 @@
+{
+ "table": "015",
+ "dialogue_file": "work/translation/en/dialogue/m015.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Recapture Granada",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Rescue the shuttle within 1 minute",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "The UCE's long-planned operation to retake the <pic(0)><cs(3)>lunar cities<ce()> is now going ahead.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 101,
+   "en": "Their hub, <pic(1)><cs(3)>Granada<ce()>, is held by <mk(50,0,7,1)><ar(0,7,1,250)><mk(37.5,37.5,7,1,50)><ar(0,7,1,250)><mk(0,50,7,1,150)><ar(0,7,1,250)>the Titans, rebels within the UCE.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 102,
+   "en": "Granada is the Moon's key stronghold; without it, an assault on the Giganos Lunar Empire",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 103,
+   "en": "will be extremely difficult. We also need to weaken the Titans beforehand.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 104,
+   "en": "We <mk(-75,-25,3,3)><ar(0,3,3,200)><mk(-62.5,-62.5,3,0,50)><ar(0,3,0,200)><mk(-25,-75,3,3,100)><ar(0,3,3,200)>will go in ahead, engage the defense forces, and cover our allies' push into Granada.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 105,
+   "en": "Good luck to you all.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 200,
+   "en": "The liberation of Granada should be a foothold for taking Giganos. Good work.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 201,
+   "en": "On another matter, the UCE Parliament recently approved forming a UCE Space Force.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 202,
+   "en": "The point is to unify, under UCE command, forces each UCE body has run on its own.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 203,
+   "en": "It's supposedly for keeping order in space, but it is in effect an army made for war.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 204,
+   "en": "Should the E2 never return, worst case, it's a fair call... but something bothers me.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 205,
+   "en": "The UCE has changed since OZ took the lead... and the space colonies are pushing back.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 206,
+   "en": "Things are unstable, but for now, all we can do is what is within our power.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 300,
+   "en": "To think that even we of the Ra Cailum can't stand up to them...",
+   "speaker": "Bright Noa"
+  }
+ ]
+}

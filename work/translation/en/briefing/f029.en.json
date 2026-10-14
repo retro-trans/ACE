@@ -1,0 +1,111 @@
+{
+ "table": "029",
+ "dialogue_file": "work/translation/en/dialogue/m029.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defend La Vie en Rose",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "Escort target destroyed",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Defeat the Risnir",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "We have received a request for support from Commander Misumaru of the United Space Force.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 101,
+   "en": "The space dock ship <pic(0)><cs(3)>La Vie en Rose<ce()> <mk(-75,-62.5,2,1)><ar(0,2,1,200)><mk(-62.5,0,1,1,50)><ar(0,1,1,200)><mk(62.5,0,7,1,100)><ar(0,7,1,200)><mk(75,-62.5,6,1,150)><ar(0,6,1,200)>is currently under attack by the Poseidal Army.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 102,
+   "en": "The UCE Space Force ignored the call for support. I guess they've got bigger problems...",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 103,
+   "en": "Our priority is to keep our allies safe. We will now <mk(0,50,0,0)><ar(0,0,0,50)>move out to rescue them.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 200,
+   "en": "It's been a while, people of the Ra Cailum. I thank you for your cooperation.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 201,
+   "en": "Here on La Vie en Rose, enhanced machines using E2 were being mass-produced.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 202,
+   "en": "By producing machines that fuse E2 with Mobile Doll technology, Dermail",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 203,
+   "en": "is trying to build an invincible army. And the reason they have begun their offensive now",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 204,
+   "en": "is that the prototypes are done and they have the power to overwhelm all other factions.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 205,
+   "en": "The UCE Space Force is now heading for Sweetwater, together with the Enhanced Corps.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 206,
+   "en": "As an example to the colonies that declared they would stop supplying resources to Earth,",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 207,
+   "en": "they intend to crush Sweetwater, where Kahns, the leader of the colonies, is.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 208,
+   "en": "Even innocent civilians are about to be dragged into this...",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 209,
+   "en": "The UCE is now merely Dermail's private property. But we won't simply overlook that.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 210,
+   "en": "The United Space Force intends to do everything in its power to stop him.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 211,
+   "en": "I won't force you to act. I want you to judge the right path for yourselves.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 300,
+   "en": "I had heard of your exploits, so I find this outcome truly regrettable.",
+   "speaker": "Kouichirou Misumaru?"
+  }
+ ]
+}

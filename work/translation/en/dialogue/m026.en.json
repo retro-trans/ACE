@@ -1,0 +1,280 @@
+{
+ "mission": "026",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "Defeat the Falguen",
+   "speaker": "HUD"
+  },
+  {
+   "id": 10,
+   "en": "Deploy around the area and wipe out the enemy.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 11,
+   "en": "Don't wreck the Noventa Cannons. We need them intact.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 12,
+   "en": "Noventa Cannons are powerful. Be sure to dodge them!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 13,
+   "en": "Noventa Cannon energy at critical!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 14,
+   "en": "I can't hit them! Quit scurrying around, damn it!",
+   "speaker": "enemy cannon gunner (?)"
+  },
+  {
+   "id": 15,
+   "en": "Enemy units sighted. They have no ID codes.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 16,
+   "en": "What are these things...?",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 17,
+   "en": "I've never seen machines like these!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 18,
+   "en": "It looks like the fortress has been taken.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 19,
+   "en": "Right. All units, return to the Ra Cailum...",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 20,
+   "en": "Heat signature confirmed on radar.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 21,
+   "en": "The Giganos ideal I raised with the Marshal\nburst like a dream before a petty man's ambition.",
+   "speaker": "Meio Plato"
+  },
+  {
+   "id": 22,
+   "en": "And now, revenge is the only purpose I have left.",
+   "speaker": "Meio Plato"
+  },
+  {
+   "id": 23,
+   "en": "That's... So he's alive, the Blue Hawk of Giganos!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 24,
+   "en": "Return fire!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 25,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 26,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 27,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 28,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 29,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 30,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 31,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 32,
+   "en": "Brother, you're alive!",
+   "speaker": "Linda Plato?"
+  },
+  {
+   "id": 33,
+   "en": "Brother, please stop this!",
+   "speaker": "Linda Plato?"
+  },
+  {
+   "id": 34,
+   "en": "Fate has tied us together in a strange way,",
+   "speaker": "Light Newman? (pilot-dependent)"
+  },
+  {
+   "id": 35,
+   "en": "Blue Hawk of Giganos.",
+   "speaker": "(same as 34 / 40)"
+  },
+  {
+   "id": 36,
+   "en": "Whoever makes his only sister cry, I won't forgive!",
+   "speaker": "Tapp Oceano? / Kain Wakaba?"
+  },
+  {
+   "id": 37,
+   "en": "Dan, Karl, Welner... I'm sorry...",
+   "speaker": "Meio Plato"
+  },
+  {
+   "id": 38,
+   "en": "The Falguen has gone silent.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 39,
+   "en": "I'd rather not have fought him as an enemy.\nHe was a fine officer...",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 40,
+   "en": "Looks like we've gotta settle this once and for all,",
+   "speaker": "Kain Wakaba?"
+  },
+  {
+   "id": 50,
+   "en": "Fight while keeping yourself hidden underwater.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 51,
+   "en": "Use the water for cover while you fight.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 52,
+   "en": "Please fight while staying well hidden underwater.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 53,
+   "en": "Keep yourself hidden underwater while you fight.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 54,
+   "en": "Hide underwater while you fight!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 55,
+   "en": "Fight while hiding underwater, okay?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 56,
+   "en": "ON HEAT SOURCE DETECTION, RETREAT UNDERWATER.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 57,
+   "en": "Please fight while hiding underwater!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 58,
+   "en": "Make good use of the water while you fight.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 59,
+   "en": "If a heat source is detected, withdraw underwater.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 60,
+   "en": "It's dangerous! Get out of there!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 61,
+   "en": "Look out! Get clear!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 62,
+   "en": "It's dangerous! Please get to safety!",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 63,
+   "en": "It's dangerous, get out of there!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 64,
+   "en": "Look out! Hurry up and get clear!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 65,
+   "en": "It's dangerous! Get to safety!",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 66,
+   "en": "EVACUATE IMMEDIATELY.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 67,
+   "en": "Look out! Please get clear!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 68,
+   "en": "Watch out, get clear of it!",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 69,
+   "en": "Danger. Please withdraw to safety.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 70,
+   "en": "Noventa Cannon energy at critical!",
+   "speaker": "Ra Cailum operator"
+  }
+ ]
+}

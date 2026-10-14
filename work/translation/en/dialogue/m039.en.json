@@ -1,0 +1,620 @@
+{
+ "mission": "039",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "3 Geara Dogas reach allies",
+   "speaker": "HUD"
+  },
+  {
+   "id": 11,
+   "en": "Prepare for fleet combat!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 12,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 14,
+   "en": "Don't let the enemy get near the Ra Cailum!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 21,
+   "en": "Ngh, we can't hold out any longer!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 22,
+   "en": "We can't hold ou...",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 23,
+   "en": "The Ra Cailum's been sunk...!? No...!",
+   "speaker": "?"
+  },
+  {
+   "id": 25,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 26,
+   "en": "We can't hold out much longer either!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 31,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 32,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 33,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 34,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 35,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 36,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 37,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 38,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 39,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 40,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 41,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 42,
+   "en": "We've taken a hit to port!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 43,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 44,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 45,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 46,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 47,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 48,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 51,
+   "en": "A unit is approaching our position!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 52,
+   "en": "Bag that and I'd make Captain, or even Supreme Leader!",
+   "speaker": "Neo Zeon pilot (Gyunei Guss?)"
+  },
+  {
+   "id": 54,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 55,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 57,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 58,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 61,
+   "en": "Confirmed: the enemy flagship has been sunk.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 63,
+   "en": "The enemy fleet has been all but wiped out.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 64,
+   "en": "Good work.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 65,
+   "en": "All units, return to the Ra Cailum.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 71,
+   "en": "All enemy mobile suits appear to have been destroyed.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 72,
+   "en": "The enemy is offering to surrender.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 73,
+   "en": "Good. Demand that they disarm.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 74,
+   "en": "The operation is a success.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 76,
+   "en": "We've taken a hit to starboard!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 81,
+   "en": "Come back safe, okay?",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 82,
+   "en": "I'm counting on you. Give it everything you've got.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 83,
+   "en": "Please do your best to carry out the mission.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 84,
+   "en": "You can do this. Go for it.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 85,
+   "en": "Be careful out there, and go get 'em!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 86,
+   "en": "Take care out there. Do your best.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 87,
+   "en": "READY.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 88,
+   "en": "Go out there and do your best, okay?",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 89,
+   "en": "I'll be waiting for you to come back.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 90,
+   "en": "Please carry out the mission.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 91,
+   "en": "Take down the enemy ships around you!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 92,
+   "en": "Destroy the enemy ships in the area!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 93,
+   "en": "Please destroy the enemy ships in the area.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 94,
+   "en": "Shoot down the enemy ships around you.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 95,
+   "en": "Go knock out all the enemy ships around you!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 96,
+   "en": "Destroy the enemy ships nearby.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 97,
+   "en": "DESTROY ENEMY SHIPS IN AREA.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 98,
+   "en": "Please destroy the enemy ships in the area!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 99,
+   "en": "Destroy the enemy ships in the area, would you?",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 100,
+   "en": "Please destroy the enemy ships in the vicinity.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 101,
+   "en": "Take out the enemies heading for the Ra Cailum first!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 102,
+   "en": "Destroy the enemies heading for the Ra Cailum first!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 103,
+   "en": "Please prioritize enemies approaching the Ra Cailum.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 104,
+   "en": "Focus on the enemies heading for the Ra Cailum.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 105,
+   "en": "Get the ones closing in on the Ra Cailum first!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 106,
+   "en": "Go for the ones heading to the Ra Cailum first, okay?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 107,
+   "en": "DESTROY ENEMIES APPROACHING RA CAILUM.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 108,
+   "en": "Please destroy enemies bound for the Ra Cailum first.",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 109,
+   "en": "Take down the units closing on the Ra Cailum first.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 110,
+   "en": "Please prioritize enemies approaching the Ra Cailum.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 111,
+   "en": "This one's not like the others. Be careful!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 112,
+   "en": "This one's strong!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 113,
+   "en": "Don't underestimate this enemy's capabilities.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 114,
+   "en": "What...? This enemy's strong. Be careful.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 115,
+   "en": "Ugh, no way! This one's strong!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 116,
+   "en": "The enemy is strong. Be careful.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 117,
+   "en": "ALARM MESSAGE: DANGER. EVADE.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 118,
+   "en": "This enemy is strong! Please be careful!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 119,
+   "en": "That enemy's performance is something else. Watch out.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 120,
+   "en": "The target is high-performance. Please stay alert.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 121,
+   "en": "Funnels!?",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 122,
+   "en": "So those are funnels!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 123,
+   "en": "Funnels!",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 124,
+   "en": "So those are funnels.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 125,
+   "en": "Hey, are these those funnel things!?",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 126,
+   "en": "Those are... funnels...!",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 127,
+   "en": "FUNNELS CONFIRMED.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 128,
+   "en": "What's this... funnels!?",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 129,
+   "en": "So those are what they call funnels.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 130,
+   "en": "Funnels confirmed.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 131,
+   "en": "Thank goodness, you're safe.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 132,
+   "en": "You made it. Good work.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 133,
+   "en": "Thank goodness, you're all right.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 134,
+   "en": "Thank goodness, you're safe.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 135,
+   "en": "Waah, thank goodness! You're okay!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 136,
+   "en": "Thank goodness... you're safe.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 137,
+   "en": "CRISIS AVERTED.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 138,
+   "en": "Thank goodness, you're all right.",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 139,
+   "en": "You're safe. I'm glad.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 140,
+   "en": "It appears you are unharmed.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 141,
+   "en": "I'll send the target location data over to you.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 142,
+   "en": "Target location data has been transferred.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 143,
+   "en": "I've sent the target location data to you.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 144,
+   "en": "I've sent you the target location data.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 145,
+   "en": "I sent you where the targets are, so...",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 146,
+   "en": "I've sent you the target location data.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 147,
+   "en": "DISPLAYING TARGET LOCATION DATA.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 148,
+   "en": "I've transferred the target location data to you!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 149,
+   "en": "I sent the target location data your way.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 150,
+   "en": "Transferring target location data to your monitor.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 151,
+   "en": "Take out the enemies heading for the Ra Cailum first!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 152,
+   "en": "Destroy the enemies heading for the Ra Cailum first!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 153,
+   "en": "Please prioritize enemies approaching the Ra Cailum.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 154,
+   "en": "Focus on the enemies heading for the Ra Cailum.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 155,
+   "en": "go get the ones closing in on the Ra Cailum first!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 156,
+   "en": "Go for the ones heading to the Ra Cailum first, okay?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 157,
+   "en": "DESTROY ENEMIES APPROACHING RA CAILUM.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 158,
+   "en": "Please destroy enemies bound for the Ra Cailum first.",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 159,
+   "en": "Take down the units closing on the Ra Cailum first.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 160,
+   "en": "Please prioritize enemies approaching the Ra Cailum.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

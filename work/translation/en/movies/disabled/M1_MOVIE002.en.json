@@ -1,0 +1,649 @@
+{
+ "movie": "M1_MOVIE002",
+ "segments": [
+  {
+   "type": "static",
+   "card": 0,
+   "frames": [
+    183,
+    332
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      377
+     ],
+     "en": "At the time, I was at a UCE base,",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      404
+     ],
+     "en": "helping out the military's medical team.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     379
+    ],
+    [
+     386,
+     406
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 1,
+   "frames": [
+    362,
+    548
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      378
+     ],
+     "en": "It was wartime, and civilians helping the military",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      404
+     ],
+     "en": "wasn't all that unusual.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     380
+    ],
+    [
+     386,
+     406
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 2,
+   "frames": [
+    598,
+    736
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      378
+     ],
+     "en": "I was working at the base",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      404
+     ],
+     "en": "when those alarms began to blare.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     380
+    ],
+    [
+     386,
+     406
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 3,
+   "frames": [
+    779,
+    927
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      377
+     ],
+     "en": "I'll never forget how terrifying it was",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      404
+     ],
+     "en": "to see a battle up close for the first time.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     379
+    ],
+    [
+     386,
+     406
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 4,
+   "frames": [
+    958,
+    1145
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      378
+     ],
+     "en": "After fleeing desperately with everyone else,",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      405
+     ],
+     "en": "the next thing I knew, I was aboard this ship.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     380
+    ],
+    [
+     386,
+     407
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 5,
+   "frames": [
+    1187,
+    1323
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      378
+     ],
+     "en": "The way the military went chasing the enemy",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      405
+     ],
+     "en": "without properly caring for the wounded—",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     380
+    ],
+    [
+     386,
+     407
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 6,
+   "frames": [
+    1346,
+    1399
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      374,
+      390
+     ],
+     "en": "it made me angry.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     372,
+     392
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 7,
+   "frames": [
+    1437,
+    1544
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      377
+     ],
+     "en": "What could be worth chasing that badly?",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      404
+     ],
+     "en": "I wanted to know.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     379
+    ],
+    [
+     386,
+     406
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 8,
+   "frames": [
+    1591,
+    1771
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      377
+     ],
+     "en": "But now, I can't help wishing",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      404
+     ],
+     "en": "I had never found out.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     379
+    ],
+    [
+     386,
+     406
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 9,
+   "frames": [
+    1812,
+    1958
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      377
+     ],
+     "en": "Then maybe we wouldn't have had to do",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      404
+     ],
+     "en": "what we did—",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     379
+    ],
+    [
+     386,
+     406
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 10,
+   "frames": [
+    19,
+    134
+   ],
+   "box": [
+    42,
+    192,
+    470,
+    256
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      202,
+      220
+     ],
+     "en": "— Ra Cailum Medical Crew",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 16,
+     "weight": 700
+    },
+    {
+     "band": [
+      229,
+      247
+     ],
+     "en": "Anna Stephanie —",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 16,
+     "weight": 700
+    }
+   ],
+   "ink_rows": [
+    [
+     200,
+     222
+    ],
+    [
+     227,
+     249
+    ]
+   ],
+   "bg_level": 16.0
+  }
+ ]
+}

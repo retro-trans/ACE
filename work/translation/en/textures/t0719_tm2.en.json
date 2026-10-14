@@ -1,0 +1,57 @@
+{
+ "name": "t0719.tm2",
+ "labels": [
+  {
+   "box": [
+    10,
+    3,
+    116,
+    28
+   ],
+   "en": "Camera Priority",
+   "grow": [
+    8,
+    10
+   ]
+  },
+  {
+   "box": [
+    16,
+    35,
+    112,
+    60
+   ],
+   "en": "Front Priority",
+   "grow": [
+    14,
+    14
+   ]
+  },
+  {
+   "box": [
+    15,
+    67,
+    112,
+    92
+   ],
+   "en": "Distance Priority",
+   "grow": [
+    13,
+    14
+   ]
+  },
+  {
+   "box": [
+    0,
+    98,
+    126,
+    124
+   ],
+   "en": "Damage Priority",
+   "grow": [
+    0,
+    1
+   ]
+  }
+ ]
+}

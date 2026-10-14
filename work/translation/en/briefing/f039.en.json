@@ -1,0 +1,76 @@
+{
+ "table": "039",
+ "dialogue_file": "work/translation/en/dialogue/m039.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Ra Cailum Defense",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "Mothership sunk",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Defeat all enemy units",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "Dead ahead<mk(37.5,-37.5,5,0)><ar(0,5,0,200)><mk(37.5,-75,5,3,50)><ar(0,5,3,200)><mk(75,-37.5,5,3,100)><ar(0,5,3,200)><mk(-50,-87.5,3,1,350)><ar(0,3,1,700)><mk(-75,-25,2,1,400)><ar(0,2,1,700)><mk(-62.5,37.5,1,1,450)><ar(0,1,1,700)><mk(-37.5,62.5,1,1,500)><ar(0,1,1,700)><mk(25,75,0,1,550)><ar(0,0,1,700)><mk(87.5,50,7,1,600)><ar(0,7,1,700)>, we've spotted a <pic(0)><cs(3)>Neo Zeon fleet<ce()>. It seems they've come to block our path.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 101,
+   "en": "We won't be able to shake them off. ...We have no choice but to fight.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 102,
+   "en": "We don't have much time left... but for now, let's focus on the enemy in front of us.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 200,
+   "en": "The situation has reached a critical point.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 201,
+   "en": "We have confirmed that the planetoid Axis has started moving toward the Gate of Zedan.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 202,
+   "en": "At this rate, the two will collide within a few dozen minutes.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 203,
+   "en": "If the fleets in the area get caught up in it, it will be the worst possible outcome.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 204,
+   "en": "Neo Zeon has outmaneuvered us. To think this was their aim from the start...",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 205,
+   "en": "Head for the Gate of Zedan at once.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 300,
+   "en": "To think that Londo Bell, a gathering of the elite, would actually be defeated...",
+   "speaker": "?"
+  }
+ ]
+}

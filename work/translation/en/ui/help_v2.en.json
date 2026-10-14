@@ -1,0 +1,378 @@
+{
+ "group": "help_v2",
+ "font": "f010",
+ "where": [
+  "\\target\\menu\\bnd\\mode_data\\MenuIntro.csc:\\target\\menu\\fmg\\f200.fmg@0x130000"
+ ],
+ "limits": {
+  "lines": 1,
+  "width": 256,
+  "bytes": 26
+ },
+ "rows": [
+  {
+   "id": 1,
+   "en": "Start the mission"
+  },
+  {
+   "id": 2,
+   "en": "Adjust your unit"
+  },
+  {
+   "id": 3,
+   "en": "Look up terms"
+  },
+  {
+   "id": 4,
+   "en": "Save or load data"
+  },
+  {
+   "id": 5,
+   "en": "Change game options"
+  },
+  {
+   "id": 10,
+   "en": "Select a stage"
+  },
+  {
+   "id": 20,
+   "en": "Select and adjust units"
+  },
+  {
+   "id": 30,
+   "en": "Start the mission"
+  },
+  {
+   "id": 31,
+   "en": "Select units to load"
+  },
+  {
+   "id": 32,
+   "en": "Unit"
+  },
+  {
+   "id": 33,
+   "en": "Slot"
+  },
+  {
+   "id": 34,
+   "en": "Save or load data"
+  },
+  {
+   "id": 35,
+   "en": "Change game options"
+  },
+  {
+   "id": 40,
+   "en": "Battle results"
+  },
+  {
+   "id": 41,
+   "en": "Wingman info"
+  },
+  {
+   "id": 42,
+   "en": "Result details"
+  },
+  {
+   "id": 45,
+   "en": "Incomplete"
+  },
+  {
+   "id": 46,
+   "en": "Complete"
+  },
+  {
+   "id": 50,
+   "en": "Complete"
+  },
+  {
+   "id": 51,
+   "en": "Failed"
+  },
+  {
+   "id": 55,
+   "en": "Rookie"
+  },
+  {
+   "id": 56,
+   "en": "Pilot"
+  },
+  {
+   "id": 57,
+   "en": "Leader"
+  },
+  {
+   "id": 58,
+   "en": "Veteran"
+  },
+  {
+   "id": 59,
+   "en": "Ace"
+  },
+  {
+   "id": 60,
+   "en": "Unused"
+  },
+  {
+   "id": 61,
+   "en": "Armor"
+  },
+  {
+   "id": 62,
+   "en": "Speed"
+  },
+  {
+   "id": 63,
+   "en": "Vernier"
+  },
+  {
+   "id": 64,
+   "en": "Output"
+  },
+  {
+   "id": 65,
+   "en": "Mobility"
+  },
+  {
+   "id": 66,
+   "en": "Turning"
+  },
+  {
+   "id": 67,
+   "en": "Attack"
+  },
+  {
+   "id": 68,
+   "en": "Weapons"
+  },
+  {
+   "id": 70,
+   "en": "Worst"
+  },
+  {
+   "id": 71,
+   "en": "Normal"
+  },
+  {
+   "id": 72,
+   "en": "Best"
+  },
+  {
+   "id": 73,
+   "en": "Defense"
+  },
+  {
+   "id": 74,
+   "en": "Energy"
+  },
+  {
+   "id": 75,
+   "en": "Movement"
+  },
+  {
+   "id": 76,
+   "en": "Mobility"
+  },
+  {
+   "id": 77,
+   "en": "Turning"
+  },
+  {
+   "id": 80,
+   "en": "Ra Cailum"
+  },
+  {
+   "id": 85,
+   "en": "Londo Bell"
+  },
+  {
+   "id": 101,
+   "en": "Canyon Zone"
+  },
+  {
+   "id": 102,
+   "en": "UCE 4th Base"
+  },
+  {
+   "id": 103,
+   "en": "Canyon Zone"
+  },
+  {
+   "id": 104,
+   "en": "Megaliths"
+  },
+  {
+   "id": 105,
+   "en": "Sanc Kingdom"
+  },
+  {
+   "id": 106,
+   "en": "Sea Near Japan"
+  },
+  {
+   "id": 107,
+   "en": "Eastern Australia"
+  },
+  {
+   "id": 108,
+   "en": "Antarctic Base"
+  },
+  {
+   "id": 109,
+   "en": "Earth Orbit"
+  },
+  {
+   "id": 110,
+   "en": "Spaceport"
+  },
+  {
+   "id": 112,
+   "en": "Terminal Colony"
+  },
+  {
+   "id": 114,
+   "en": "Over Giganos Lunar Empire"
+  },
+  {
+   "id": 115,
+   "en": "Granada Airspace"
+  },
+  {
+   "id": 116,
+   "en": "Von Braun"
+  },
+  {
+   "id": 117,
+   "en": "13 Bunch"
+  },
+  {
+   "id": 119,
+   "en": "Palata Star"
+  },
+  {
+   "id": 120,
+   "en": "Giganos Space Fortress"
+  },
+  {
+   "id": 121,
+   "en": "Abandoned Colony Outskirts"
+  },
+  {
+   "id": 122,
+   "en": "Battleship Libra"
+  },
+  {
+   "id": 123,
+   "en": "Jaburo"
+  },
+  {
+   "id": 124,
+   "en": "Canyon Zone"
+  },
+  {
+   "id": 125,
+   "en": "Southern Arabian Peninsula"
+  },
+  {
+   "id": 126,
+   "en": "Mogadishu Fortress"
+  },
+  {
+   "id": 127,
+   "en": "Eastern Eurasia"
+  },
+  {
+   "id": 128,
+   "en": "UCE Parliament"
+  },
+  {
+   "id": 129,
+   "en": "La Vie en Rose"
+  },
+  {
+   "id": 130,
+   "en": "UCE Parliament"
+  },
+  {
+   "id": 131,
+   "en": "UCE Fleet"
+  },
+  {
+   "id": 132,
+   "en": "Theart Star"
+  },
+  {
+   "id": 134,
+   "en": "Sea Near Japan"
+  },
+  {
+   "id": 136,
+   "en": "Jaburo"
+  },
+  {
+   "id": 137,
+   "en": "Sweetwater"
+  },
+  {
+   "id": 138,
+   "en": "Gryps 2"
+  },
+  {
+   "id": 139,
+   "en": "Neo Zeon Fleet"
+  },
+  {
+   "id": 140,
+   "en": "Gate of Zedan"
+  },
+  {
+   "id": 141,
+   "en": "Kilimanjaro Base"
+  },
+  {
+   "id": 142,
+   "en": "Sea Near North America"
+  },
+  {
+   "id": 143,
+   "en": "Maritime City of Sveet"
+  },
+  {
+   "id": 144,
+   "en": "Southern Arabian Peninsula"
+  },
+  {
+   "id": 145,
+   "en": "Sea Near Orphan"
+  },
+  {
+   "id": 146,
+   "en": "Space Colony Outskirts"
+  },
+  {
+   "id": 147,
+   "en": "Space Near Earth"
+  },
+  {
+   "id": 148,
+   "en": "Earth Orbit"
+  },
+  {
+   "id": 149,
+   "en": "Inside Amaterasu"
+  },
+  {
+   "id": 150,
+   "en": "Space Near Mars"
+  },
+  {
+   "id": 180,
+   "en": "Southern Arabian Peninsula"
+  },
+  {
+   "id": 181,
+   "en": "Earth Orbit"
+  }
+ ]
+}

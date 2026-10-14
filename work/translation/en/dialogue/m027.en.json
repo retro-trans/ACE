@@ -1,0 +1,560 @@
+{
+ "mission": "027",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "Defeat the Leprechaun",
+   "speaker": "HUD"
+  },
+  {
+   "id": 10,
+   "en": "Drake's aim is revenge for the betrayal.",
+   "speaker": "Ciela Lapana?"
+  },
+  {
+   "id": 11,
+   "en": "We cannot simply stand by and let that happen.",
+   "speaker": "Ciela Lapana?"
+  },
+  {
+   "id": 12,
+   "en": "You must destroy Drake's forces.",
+   "speaker": "Ciela Lapana?"
+  },
+  {
+   "id": 13,
+   "en": "Ngh... Don't think this is the end...!",
+   "speaker": "Drake Luft? (Will Wipps)"
+  },
+  {
+   "id": 14,
+   "en": "The enemy ship is entering your combat area.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 15,
+   "en": "The enemy ship is withdrawing!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 16,
+   "en": "Distress signal from the enemy ship!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 17,
+   "en": "Enemy reinforcements confirmed.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 18,
+   "en": "Damn, send some reinforcements over here!",
+   "speaker": "Drake Army soldier"
+  },
+  {
+   "id": 19,
+   "en": "It's no good! Somebody get over here!",
+   "speaker": "Drake Army soldier"
+  },
+  {
+   "id": 20,
+   "en": "Help me!",
+   "speaker": "Drake Army soldier"
+  },
+  {
+   "id": 21,
+   "en": "I'm sending you reinforcements.",
+   "speaker": "Drake Army leader unit?"
+  },
+  {
+   "id": 22,
+   "en": "Looks like the leader unit is the one calling them in.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 23,
+   "en": "What's this...?",
+   "speaker": "Operator"
+  },
+  {
+   "id": 24,
+   "en": "The UCE is launching a large number of shuttles!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 25,
+   "en": "Nobody told me anything about this!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 26,
+   "en": "The UCE is sending its enhanced machines into space,",
+   "speaker": "Ciela Lapana?"
+  },
+  {
+   "id": 27,
+   "en": "and it must mean to launch an invasion of space.",
+   "speaker": "Ciela Lapana?"
+  },
+  {
+   "id": 28,
+   "en": "Damn... So they made us their accomplices!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 29,
+   "en": "Transmission from UCE Headquarters.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 30,
+   "en": "To all on the Ra Cailum: good work on your mission.",
+   "speaker": "Duke Dermail?"
+  },
+  {
+   "id": 31,
+   "en": "You will await official orders. That is all.",
+   "speaker": "Duke Dermail?"
+  },
+  {
+   "id": 32,
+   "en": "The line has been forcibly cut!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 33,
+   "en": "What on earth are they thinking!?",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 34,
+   "en": "Why would they do something like this...!?",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 35,
+   "en": "As expected... from those with souls bound by gravity,",
+   "speaker": "Quattro Bajeena"
+  },
+  {
+   "id": 36,
+   "en": "no true innovation can be hoped for...",
+   "speaker": "Quattro Bajeena"
+  },
+  {
+   "id": 37,
+   "en": "Multiple heat sources approaching.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 38,
+   "en": "They're identified as Reclaimers!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 39,
+   "en": "They must be from Orphan.",
+   "speaker": "Ciela Lapana?"
+  },
+  {
+   "id": 40,
+   "en": "It cannot be helped. Intercept them.",
+   "speaker": "Ciela Lapana?"
+  },
+  {
+   "id": 41,
+   "en": "A unit is approaching our position!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 42,
+   "en": "That's... the Leprechaun.",
+   "speaker": "Show Zama?"
+  },
+  {
+   "id": 43,
+   "en": "So it's Jeril Coochibi.",
+   "speaker": "Show Zama?"
+  },
+  {
+   "id": 44,
+   "en": "You're gonna pay for your betrayal!",
+   "speaker": "Jeril Coochibi"
+  },
+  {
+   "id": 45,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 46,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 47,
+   "en": "Don't you dare look down on me!!",
+   "speaker": "Jeril Coochibi"
+  },
+  {
+   "id": 48,
+   "en": "Jeril Coochibi's malice is spreading...",
+   "speaker": "?"
+  },
+  {
+   "id": 49,
+   "en": "If the enemy looks small,\nthat means I'm gonna win!",
+   "speaker": "Jeril Coochibi"
+  },
+  {
+   "id": 50,
+   "en": "The enemy's reaction speed is rising!",
+   "speaker": "?"
+  },
+  {
+   "id": 51,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 52,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 53,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 54,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 55,
+   "en": "The Leprechaun looks gigantic!",
+   "speaker": "?"
+  },
+  {
+   "id": 56,
+   "en": "Can Aura Power make even a machine grow giant!?",
+   "speaker": "?"
+  },
+  {
+   "id": 57,
+   "en": "Fast! Way too fast!",
+   "speaker": "?"
+  },
+  {
+   "id": 58,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 59,
+   "en": "Hearts full of hatred, anger and arrogance",
+   "speaker": "?"
+  },
+  {
+   "id": 60,
+   "en": "must be swelling the Aura Power to abnormal levels.",
+   "speaker": "?"
+  },
+  {
+   "id": 61,
+   "en": "It looks like Drake has gone.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 62,
+   "en": "But the enhanced machines have been launched...",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 63,
+   "en": "Is a new battle about to begin in space...!?",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 64,
+   "en": "Trouble! Lieutenant Quattro hasn't come back aboard!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 65,
+   "en": "All we found was the Hyaku Shiki, up in the mountains.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 66,
+   "en": "He's most likely safe. I knew it would come to this...",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 67,
+   "en": "...Recover it. We'll talk later.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 70,
+   "en": "They've called in reinforcements!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 71,
+   "en": "So they've called reinforcements!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 72,
+   "en": "It appears they have called reinforcements.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 73,
+   "en": "They've called for reinforcements, you know.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 74,
+   "en": "They went and called reinforcements!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 75,
+   "en": "Looks like they called in reinforcements.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 76,
+   "en": "HEAT SIGNATURE CONFIRMED.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 77,
+   "en": "It looks like they've called reinforcements!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 78,
+   "en": "Well, they've called in reinforcements.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 79,
+   "en": "The enemy has called reinforcements.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 80,
+   "en": "You did it! That was amazing!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 81,
+   "en": "Splendid piloting.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 82,
+   "en": "Beautifully done. Just what I'd expect.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 83,
+   "en": "Amazing. That's beyond what I expected.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 84,
+   "en": "Eeek! Wait, that was amazing!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 85,
+   "en": "Amazing. Now you're showing what you can really do.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 86,
+   "en": "CRISIS AVERTED.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 87,
+   "en": "What amazing skill! I'm so impressed!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 88,
+   "en": "Well, isn't that impressive. Keep it up.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 89,
+   "en": "Just what I'd expect from an ace pilot.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 90,
+   "en": "There's still more coming!?",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 91,
+   "en": "More are coming!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 92,
+   "en": "More are on the way!",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 93,
+   "en": "They're still coming!?",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 94,
+   "en": "Ugh, they just won't quit!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 95,
+   "en": "More are coming.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 96,
+   "en": "TARGET APPROACHING.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 97,
+   "en": "More of them are coming!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 98,
+   "en": "Here come more of them.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 99,
+   "en": "Targets approaching.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 100,
+   "en": "Take down the leader unit!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 101,
+   "en": "Destroy the leader unit!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 102,
+   "en": "Please make destroying the leader unit your priority.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 103,
+   "en": "You take down the leader unit.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 104,
+   "en": "Take out the leader unit first!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 105,
+   "en": "Take down the leader unit first.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 106,
+   "en": "DESTROY LEADER UNIT AS PRIORITY.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 107,
+   "en": "Please take down the leader unit first!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 108,
+   "en": "Destroy the leader unit first, would you?",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 109,
+   "en": "Please make the leader unit your priority target.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 110,
+   "en": "So this is Aura Power...",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 111,
+   "en": "Is this what they call Aura Power...!?",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 112,
+   "en": "So this is the power of the Aura...",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 113,
+   "en": "The Aura Power is being amplified...!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 114,
+   "en": "What the!? Is this that Aura Power thing!?",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 115,
+   "en": "Amazing... So this is the power of the Aura...",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 116,
+   "en": "HEAT OUTPUT AMPLIFICATION CONFIRMED.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 117,
+   "en": "Amazing, so this is Aura Power...!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 118,
+   "en": "So this is the might of Aura Power...",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 119,
+   "en": "Heat output amplification confirmed.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

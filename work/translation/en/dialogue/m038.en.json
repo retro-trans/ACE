@@ -1,0 +1,480 @@
+{
+ "mission": "038",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Gryps 2 activated",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "Reach the target point",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Gryps 2 activated",
+   "speaker": "HUD"
+  },
+  {
+   "id": 11,
+   "en": "All units, please deploy around the area.",
+   "speaker": "Ruri Hoshino?"
+  },
+  {
+   "id": 12,
+   "en": "I'm counting on you to defend Gryps 2.",
+   "speaker": "Ruri Hoshino?"
+  },
+  {
+   "id": 13,
+   "en": "The Titans mean business.",
+   "speaker": "Sally Po?"
+  },
+  {
+   "id": 14,
+   "en": "We must make this operation succeed, no matter what.",
+   "speaker": "Sally Po?"
+  },
+  {
+   "id": 15,
+   "en": "Multiple heat sources approaching.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 16,
+   "en": "No time before it fires! Clear them out, now!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 17,
+   "en": "Charge level rising!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 18,
+   "en": "The heat is driving up your damage!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 21,
+   "en": "Found you!",
+   "speaker": "Jerid Messa?"
+  },
+  {
+   "id": 22,
+   "en": "I'll kill you with my own hands!",
+   "speaker": "Jerid Messa?"
+  },
+  {
+   "id": 23,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 24,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 25,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 26,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 27,
+   "en": "Damn you... you're my...!",
+   "speaker": "Jerid Messa?"
+  },
+  {
+   "id": 28,
+   "en": "What is this one, some kind of monster!?",
+   "speaker": "Yazan Gable? (Hambrabi team)"
+  },
+  {
+   "id": 31,
+   "en": "Units approaching inside the colony!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 32,
+   "en": "They're identified as Neo Zeon!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 33,
+   "en": "They're holding us up... They came well prepared.",
+   "speaker": "Ruri Hoshino?"
+  },
+  {
+   "id": 34,
+   "en": "Out of my way, all of you!",
+   "speaker": "Quess Paraya"
+  },
+  {
+   "id": 35,
+   "en": "I won't let you get anywhere near Captain Char!",
+   "speaker": "Quess Paraya"
+  },
+  {
+   "id": 36,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 37,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 38,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 39,
+   "en": "Not like this...! You'll pay for this!",
+   "speaker": "Quess Paraya?"
+  },
+  {
+   "id": 40,
+   "en": "All enemy signals in the area are gone.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 51,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 52,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 53,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 54,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 55,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 56,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 57,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 58,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 59,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 60,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 61,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 62,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 71,
+   "en": "Looks like we somehow made it in time.",
+   "speaker": "Ruri Hoshino?"
+  },
+  {
+   "id": 72,
+   "en": "The enemy fleet's been wiped out. The operation's a success!",
+   "speaker": "Sally Po?"
+  },
+  {
+   "id": 73,
+   "en": "You need to get out of there, quick...",
+   "speaker": "Ruri Hoshino?"
+  },
+  {
+   "id": 81,
+   "en": "You're our last line of defense.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 82,
+   "en": "Your position is our final stronghold.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 83,
+   "en": "You are our final defensive stronghold.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 84,
+   "en": "You're the linchpin of the colony's defense.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 85,
+   "en": "You're our last line of defense, you know!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 86,
+   "en": "You'll be our last stronghold.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 87,
+   "en": "FINAL DEFENSE LINE: READY.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 88,
+   "en": "You're going to be our last stronghold!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 89,
+   "en": "That spot is the final line of defense.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 90,
+   "en": "Assigned sector: final line of defense.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 91,
+   "en": "Intercept any enemies that get inside.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 92,
+   "en": "Take down any enemies that make it inside.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 93,
+   "en": "Please intercept any enemies that break in.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 94,
+   "en": "Protect the colony from the enemy. I'm counting on you.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 95,
+   "en": "Take out any enemies that get in, okay!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 96,
+   "en": "Keep the colony safe from the enemy, please.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 97,
+   "en": "ELIMINATE ENEMIES ENTERING INTERIOR.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 98,
+   "en": "Please protect the colony from enemies getting inside!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 99,
+   "en": "Keep the colony safe no matter what, would you?",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 100,
+   "en": "Please protect the colony from the enemy.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 101,
+   "en": "We're out of time, you know!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 102,
+   "en": "There's no time! Hurry it up!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 103,
+   "en": "There isn't much time left.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 104,
+   "en": "You can't afford to take your time here, you know.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 105,
+   "en": "There's no time, I'm telling you! Hurry, hurry!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 106,
+   "en": "There's not much time left. Hurry, okay?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 107,
+   "en": "TIME LIMIT APPROACHING.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 108,
+   "en": "We're out of time! Please hurry!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 109,
+   "en": "We're out of time. Hurry it along, would you?",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 110,
+   "en": "There is no time remaining. Please hurry.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 111,
+   "en": "Hurry, quickly!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 112,
+   "en": "Just hurry, whatever you do!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 113,
+   "en": "We're out of time!",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 114,
+   "en": "Hurry!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 115,
+   "en": "Come on, I said hurry up!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 116,
+   "en": "Hurry, please!",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 117,
+   "en": "TIME LIMIT APPROACHING.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 118,
+   "en": "Please hurry!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 119,
+   "en": "Hurry it up, would you!",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 120,
+   "en": "Please hurry.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 121,
+   "en": "Hurry and get out of there!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 122,
+   "en": "Get out of there, now! Move!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 123,
+   "en": "Please hurry and get outside!",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 124,
+   "en": "You need to hurry and get out of there.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 125,
+   "en": "Quick, get out of there!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 126,
+   "en": "Hurry, get out of there!",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 127,
+   "en": "ESCAPE IMMEDIATELY.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 128,
+   "en": "Please hurry and get out of there!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 129,
+   "en": "Hurry and get yourself out of there, would you?",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 130,
+   "en": "Please exit to the outside immediately.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

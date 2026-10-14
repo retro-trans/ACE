@@ -1,0 +1,131 @@
+{
+ "table": "028",
+ "dialogue_file": "work/translation/en/dialogue/m028.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defend UCE Parliament",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "Escort target destroyed",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Keep Parliament HQ damage to 20 pct",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "The UCE<pt(0,-12.5,0,2)> is holding a <pic(0)>summit in a <cs(3)>city<ce()>, and <mk(0,50,0,1,50)><ar(0,0,1,250)><mk(50,-63,5,1,100)><ar(0,5,1,250)><mk(-50,-63,3,1,150)><ar(0,3,1,250)>the Poseidal Army has appeared there.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 101,
+   "en": "Now that they've lost the E2, it was predictable they'd start acting more aggressively.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 102,
+   "en": "With so many VIPs gathered in one place, they'd be crazy not to strike.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 103,
+   "en": "And not just them. Remnants of Giganos and White Fang are still at large on the surface.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 104,
+   "en": "At this rate, it doesn't look like we'll get any rest for a while...",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 105,
+   "en": "<mk(-75,50,1,0,100)><ar(0,1,0,200)>We will now head there and repel the enemy forces.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 106,
+   "en": "While keeping the VIPs at <pic(1)><cs(3)>Parliament<ce()> safe, do all you can to drive off the enemy.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 200,
+   "en": "You saved us from a dangerous spot. I should expect no less from the Ra Cailum.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 201,
+   "en": "...What I'm about to tell you is top secret. On Earth, only UCE top brass know of it yet.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 202,
+   "en": "Recently, the colonies jointly announced they'll halt resource supplies to Earth.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 203,
+   "en": "It's a backlash at the UCE's recent tightening grip. In effect, it declares independence.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 204,
+   "en": "This summit was held to discuss countermeasures, but the talks broke down.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 205,
+   "en": "OZ is ready to use force. They're clearly starting to run out of control.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 206,
+   "en": "Seek too tight a grip, and there is bound to be turmoil...",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 207,
+   "en": "Someone seems to be guiding the colonies, but most of the people there are civilians.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 208,
+   "en": "If OZ goes ahead and uses force, innocent people will get caught up in it.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 209,
+   "en": "I believe making peace is the best path. To that end, I'd like to ask for your help.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 210,
+   "en": "I don't mean right away... With OZ watching so closely, the timing is bad, too.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 211,
+   "en": "What OZ is trying to do, and what you yourselves think you should do--",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 212,
+   "en": "That is for you all to decide.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 300,
+   "en": "I had heard of your exploits, so I find this outcome truly regrettable.",
+   "speaker": "?"
+  }
+ ]
+}

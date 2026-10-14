@@ -1,0 +1,510 @@
+{
+ "group": "memcard_v3",
+ "font": "f010",
+ "where": [
+  "\\target\\menu\\bnd\\mode_data\\MenuIntro.csc:\\target\\menu\\fmg\\f204.fmg@0x132000"
+ ],
+ "limits": {
+  "lines": 11,
+  "width": 435,
+  "bytes": 289
+ },
+ "rows": [
+  {
+   "id": 1,
+   "en": "Checking the MEMORY CARD (PS2)...\n\nDo not remove the MEMORY CARD (PS2) or controller,\nor reset or switch off the \"PlayStation 2\" console."
+  },
+  {
+   "id": 2,
+   "en": "No MEMORY CARD (PS2) is inserted\nin MEMORY CARD slot 1.\n\nTo create save data,\na MEMORY CARD (PS2) with at least\n%1d KB of free space must be inserted\nin MEMORY CARD slot 1.\n\nContinue playing without saving?"
+  },
+  {
+   "id": 3,
+   "en": "There is no save data.\nNew save data must be created.\nSelect the MEMORY CARD slot holding the\nMEMORY CARD (PS2) to create it on."
+  },
+  {
+   "id": 4,
+   "en": "To save your progress, you need a\nMEMORY CARD (PS2) with at least\n%1d KB of free space.\n\nContinue playing without saving?"
+  },
+  {
+   "id": 5,
+   "en": "Loading from the MEMORY CARD (PS2)\nin MEMORY CARD slot %1d...\n\nDo not remove the MEMORY CARD (PS2) or controller,\nor reset or switch off the \"PlayStation 2\" console."
+  },
+  {
+   "id": 6,
+   "en": "Failed to load the save data."
+  },
+  {
+   "id": 7,
+   "en": "Save data loaded."
+  },
+  {
+   "id": 8,
+   "en": "The MEMORY CARD (PS2) in\nMEMORY CARD slot %1d is not formatted.\n\nFormat it now?"
+  },
+  {
+   "id": 9,
+   "en": "Formatting the MEMORY CARD (PS2)\nin MEMORY CARD slot %1d...\n\nDo not remove the MEMORY CARD (PS2) or controller,\nor reset or switch off the \"PlayStation 2\" console."
+  },
+  {
+   "id": 10,
+   "en": "Format complete."
+  },
+  {
+   "id": 11,
+   "en": "Format failed."
+  },
+  {
+   "id": 12,
+   "en": "The MEMORY CARD (PS2) in MEMORY CARD\nslot %1d does not have enough free space.\n\nTo create save data, at least\n%2d KB of free space is needed.\n\nContinue playing without saving?"
+  },
+  {
+   "id": 13,
+   "en": "The MEMORY CARD (PS2) in MEMORY CARD\nslot %1d already contains save data.\n\nOverwrite the save data?"
+  },
+  {
+   "id": 14,
+   "en": "With AUTO SAVE set to ON, your save data\nwill be overwritten automatically\nfrom now on.\n\nSet AUTO SAVE to ON?"
+  },
+  {
+   "id": 15,
+   "en": "Exiting Save.\n\nContinue playing without\ncreating save data?"
+  },
+  {
+   "id": 16,
+   "en": "Saving to the MEMORY CARD (PS2)\nin MEMORY CARD slot %1d...\n\nDo not remove the MEMORY CARD (PS2) or controller,\nor reset or switch off the \"PlayStation 2\" console."
+  },
+  {
+   "id": 17,
+   "en": "Save complete."
+  },
+  {
+   "id": 18,
+   "en": "Save failed.\n\nContinue playing without\ncreating save data?"
+  },
+  {
+   "id": 19,
+   "en": "The MEMORY CARD (PS2) in\nMEMORY CARD slot %1d has been removed.\n\nContinue playing as is?"
+  },
+  {
+   "id": 20,
+   "en": "AUTO SAVE is set to ON.\n\nSet AUTO SAVE to OFF from now on?"
+  },
+  {
+   "id": 21,
+   "en": "Select the MEMORY CARD slot holding the\nMEMORY CARD (PS2) with the save data\nyou want to load."
+  },
+  {
+   "id": 22,
+   "en": "No save data found.\nInsert a MEMORY CARD (PS2) with save data\ninto MEMORY CARD slot %1d.\n\nTry AUTO SAVE again?"
+  },
+  {
+   "id": 23,
+   "en": "Starting a new CAMPAIGN with the\nCAMPAIGN-cleared save data."
+  },
+  {
+   "id": 24,
+   "en": "Overwriting data on the MEMORY CARD (PS2)\nin MEMORY CARD slot %1d...\n\nDo not remove the MEMORY CARD (PS2) or controller,\nor reset or switch off the \"PlayStation 2\" console."
+  },
+  {
+   "id": 30,
+   "en": "Turn ON the vibration function of the\nanalog controller (DUALSHOCK 2)?"
+  },
+  {
+   "id": 40,
+   "en": "Ready to launch. Proceed?"
+  },
+  {
+   "id": 41,
+   "en": "Upgrading the Hangar requires\n%1d Ace Points.\n\nUpgrade the Hangar?"
+  },
+  {
+   "id": 42,
+   "en": "Upgrading Repair Resources requires\n%1d Ace Points.\n\nUpgrade Repair Resources?"
+  },
+  {
+   "id": 43,
+   "en": "Improving Repair Efficiency requires\n%1d Ace Points.\n\nImprove Repair Efficiency?"
+  },
+  {
+   "id": 44,
+   "en": "Not enough Ace Points.\n%1s cannot be upgraded."
+  },
+  {
+   "id": 45,
+   "en": "No further upgrades are possible."
+  },
+  {
+   "id": 46,
+   "en": "A unit is already assigned here.\nCancel the assignment?"
+  },
+  {
+   "id": 47,
+   "en": "Acquiring\n%1s\nrequires %1d Ace Points.\n\nAcquire this unit?"
+  },
+  {
+   "id": 48,
+   "en": "Not enough Ace Points.\n%1s\ncannot be acquired."
+  },
+  {
+   "id": 49,
+   "en": "There are no free upgrade slots.\nNo more new upgrade slots\ncan be added."
+  },
+  {
+   "id": 50,
+   "en": "It cannot be leveled up any further."
+  },
+  {
+   "id": 51,
+   "en": "No upgrade slots are equipped."
+  },
+  {
+   "id": 52,
+   "en": "Adding a new %1s\nrequires %1d Ace Points.\n\nAdd it?"
+  },
+  {
+   "id": 53,
+   "en": "Removing %1s will lose\nall of its upgrade levels.\n\nRemove the upgrade slot?"
+  },
+  {
+   "id": 54,
+   "en": "Not enough Ace Points.\nA new upgrade slot cannot be added."
+  },
+  {
+   "id": 55,
+   "en": "%1s is already equipped.\n\nUpgrade slots of the same type\ncannot be added twice."
+  },
+  {
+   "id": 56,
+   "en": "%1s is already equipped 3 times.\n\nNo more upgrade slots\nof the same type can be added."
+  },
+  {
+   "id": 57,
+   "en": "Not enough Ace Points.\nThe upgrade slot cannot be leveled up."
+  },
+  {
+   "id": 58,
+   "en": "This will spend %1d Ace Points.\n\nLevel up the upgrade slot?"
+  },
+  {
+   "id": 59,
+   "en": "No upgrade slots have been leveled up.\nFinish leveling up upgrade slots?"
+  },
+  {
+   "id": 60,
+   "en": "%1s's\n%1s is already aboard.\n\nTwo units flown by the same pilot\ncannot both be loaded."
+  },
+  {
+   "id": 61,
+   "en": "There is still room to load more units.\nProceed with the current unit setup?"
+  },
+  {
+   "id": 62,
+   "en": "No units are loaded, so you\ncannot sortie.\n\nLoad the units to use in UNIT."
+  },
+  {
+   "id": 63,
+   "en": "Not enough Ace Points.\n%1s cannot be improved."
+  },
+  {
+   "id": 64,
+   "en": "No units are loaded, so the units'\nupgrade slots cannot be expanded.\n\nLoad units in UNIT."
+  },
+  {
+   "id": 65,
+   "en": "There are no upgrade slots\nthat can be leveled up."
+  },
+  {
+   "id": 70,
+   "en": "Your current game has not been saved.\nLoad save data?"
+  },
+  {
+   "id": 71,
+   "en": "Loading a game.\n\nSelect the MEMORY CARD slot holding\nthe MEMORY CARD (PS2)."
+  },
+  {
+   "id": 72,
+   "en": "No MEMORY CARD (PS2) is inserted\nin MEMORY CARD slot %1d."
+  },
+  {
+   "id": 73,
+   "en": "There is no save data on the\nMEMORY CARD (PS2) in MEMORY CARD slot %1d."
+  },
+  {
+   "id": 74,
+   "en": "The game will be saved.\nIs that OK?"
+  },
+  {
+   "id": 75,
+   "en": "Saving the game.\n\nSelect the MEMORY CARD slot holding\nthe MEMORY CARD (PS2)."
+  },
+  {
+   "id": 76,
+   "en": "No MEMORY CARD (PS2) is inserted\nin MEMORY CARD slot %1d.\n\nTo create save data, MEMORY CARD slot %1d\nneeds a MEMORY CARD (PS2) with at least\n%1d KB of free space."
+  },
+  {
+   "id": 77,
+   "en": "The MEMORY CARD (PS2) in MEMORY CARD\nslot %1d does not have enough free space.\n\nTo create save data, at least\n%2d KB of free space is needed."
+  },
+  {
+   "id": 78,
+   "en": "There is no save data on the\nMEMORY CARD (PS2) in MEMORY CARD slot 1.\n\nTo create save data, at least\n%2d KB of free space is needed.\nCreate save data?"
+  },
+  {
+   "id": 79,
+   "en": "Saving to the MEMORY CARD (PS2)\nin MEMORY CARD slot %1d...\n\nDo not remove the MEMORY CARD (PS2) or controller,\nor reset or switch off the \"PlayStation 2\" console."
+  },
+  {
+   "id": 80,
+   "en": "Save complete."
+  },
+  {
+   "id": 81,
+   "en": "Save failed."
+  },
+  {
+   "id": 82,
+   "en": "The MEMORY CARD (PS2) in\nMEMORY CARD slot %1d has been removed."
+  },
+  {
+   "id": 83,
+   "en": "If you have not saved, all progress\nso far will be lost.\n\nQuit and return to the title screen?"
+  },
+  {
+   "id": 84,
+   "en": "%1s\nis already assigned to the sortie.\nThe same unit cannot be assigned twice."
+  },
+  {
+   "id": 85,
+   "en": "No save data has been created, so\nAUTO SAVE cannot be set to ON.\n\nTo set AUTO SAVE to ON, you must first\ncreate save data with SAVE.\nAfter saving, set AUTO SAVE to ON again."
+  },
+  {
+   "id": 100,
+   "en": "Cancel the sortie and go back?"
+  },
+  {
+   "id": 101,
+   "en": "Clear the units assigned to the sortie?\nIs that OK?"
+  },
+  {
+   "id": 102,
+   "en": "%14s\n%14s\n%14s\n%14s\nUnits that cannot sortie are assigned.\nYou cannot sortie like this.\nPlease reassign your units."
+  },
+  {
+   "id": 103,
+   "en": "Damaged units are assigned.\nRepairing all units requires\n%1d repair resources.\n\nRepair the units?"
+  },
+  {
+   "id": 104,
+   "en": "Not enough repair resources\nto repair all units.\nPlease reassign your sortie units."
+  },
+  {
+   "id": 105,
+   "en": "Damaged units are assigned.\nSortie without repairing them?"
+  },
+  {
+   "id": 106,
+   "en": "Ready to sortie. Proceed?"
+  },
+  {
+   "id": 107,
+   "en": "This unit is under maintenance.\nIt cannot be assigned to the sortie."
+  },
+  {
+   "id": 108,
+   "en": "The unit is damaged.\nA full repair requires\n%1d repair resources.\n\nRepair the unit before assigning it?"
+  },
+  {
+   "id": 109,
+   "en": "Not enough repair resources,\nso the unit cannot be repaired.\nIt will be assigned as it is."
+  },
+  {
+   "id": 110,
+   "en": "The unit is damaged.\nThere are not enough repair resources\nfor a full repair.\nUsing all repair resources will\nrepair it up to %1d.\n\nRepair the unit before assigning it?"
+  },
+  {
+   "id": 111,
+   "en": "Assigning the unit without repairs."
+  },
+  {
+   "id": 112,
+   "en": "No player unit is assigned\nto the sortie.\nPlease assign a player unit."
+  },
+  {
+   "id": 120,
+   "en": "Player %1d\nPlayer %1d\nNo unit has been selected.\nSelect a unit to battle with."
+  },
+  {
+   "id": 121,
+   "en": "Player 1\n\nQuit MULTI-PLAY and\nreturn to the title screen.\nIs that OK?"
+  },
+  {
+   "id": 122,
+   "en": "Player 2\n\nQuit MULTI-PLAY and\nreturn to the title screen.\nIs that OK?"
+  },
+  {
+   "id": 123,
+   "en": "Player %1d\n\nLoad the save data.\nIs that OK?"
+  },
+  {
+   "id": 130,
+   "en": "Quit FREE MISSIONS and\nreturn to the title screen.\nIs that OK?"
+  },
+  {
+   "id": 131,
+   "en": "Ready to sortie. Proceed?"
+  },
+  {
+   "id": 132,
+   "en": "You have already cleared this stage.\nIs that OK?"
+  },
+  {
+   "id": 133,
+   "en": "This unit has already cleared\nthis stage. Is that OK?"
+  },
+  {
+   "id": 134,
+   "en": "There is no CAMPAIGN-cleared save data\non the MEMORY CARD (PS2) in\nMEMORY CARD slot %1d.\n\nTo play FREE MISSIONS, you need\nCAMPAIGN-cleared save data."
+  },
+  {
+   "id": 150,
+   "en": "Check the mission results here.\nPress □ to show detailed mission results,\nand △ to show the status of your wingmen."
+  },
+  {
+   "id": 151,
+   "en": "Prepare for your next sortie here."
+  },
+  {
+   "id": 152,
+   "en": "Assign the units that will sortie\non the mission here."
+  },
+  {
+   "id": 153,
+   "en": "Here you can prepare for the next\nmission: organize units, expand\nupgrade slots, and so on."
+  },
+  {
+   "id": 154,
+   "en": "You have reached a RENDEZVOUS POINT.\n\nAll damaged units have been repaired,\nand repair resources have been restocked."
+  },
+  {
+   "id": 155,
+   "en": "Here you can work on the upgrade slots\nequipped on your units.\nUse \"Add\" to equip upgrade slots, and\n\"Level Up\" to level up equipped slots.\n\nEquip upgrade slots on your units\nat a RENDEZVOUS POINT."
+  },
+  {
+   "id": 156,
+   "en": "Here you can spend Ace Points to\nupgrade the carrier's capabilities."
+  },
+  {
+   "id": 157,
+   "en": "Here you can spend Ace Points to\nacquire new units and choose\nthe units to load on the carrier."
+  },
+  {
+   "id": 158,
+   "en": "Here you can view terms that appear\nin the game, profiles of units you\ncan acquire, and unit control manuals.\n\nEntries are added as missions progress."
+  },
+  {
+   "id": 160,
+   "en": "The MEMORY CARD (PS2) in MEMORY CARD\nslot 1 was removed and reinserted.\n\nAUTO SAVE has been set to OFF\nand AUTO SAVE has been canceled."
+  },
+  {
+   "id": 161,
+   "en": "No MEMORY CARD (PS2) is inserted\nin MEMORY CARD slot 1.\n\nAUTO SAVE has been set to OFF\nand AUTO SAVE has been canceled."
+  },
+  {
+   "id": 162,
+   "en": "There is no save data on the\nMEMORY CARD (PS2) in MEMORY CARD slot 1.\n\nAUTO SAVE has been set to OFF\nand AUTO SAVE has been canceled."
+  },
+  {
+   "id": 163,
+   "en": "The MEMORY CARD (PS2) in MEMORY CARD\nslot 1 already contains save data.\n\nOverwrite the save data?"
+  },
+  {
+   "id": 164,
+   "en": "AUTO SAVE has been set to OFF\nand AUTO SAVE has been canceled."
+  },
+  {
+   "id": 165,
+   "en": "From now on, AUTO SAVE during the game\nwill run without showing the overwrite\nconfirmation message.\n\nHide the overwrite confirmation message?"
+  },
+  {
+   "id": 166,
+   "en": "The MEMORY CARD (PS2) in\nMEMORY CARD slot 1 has been removed.\n\nAUTO SAVE has been set to OFF\nand AUTO SAVE has been canceled."
+  },
+  {
+   "id": 167,
+   "en": "AUTO SAVE in progress...\nOverwriting the save on the MEMORY CARD (PS2)\nin MEMORY CARD slot 1.\n\nDo not remove the MEMORY CARD (PS2) or controller,\nor reset or switch off the \"PlayStation 2\" console."
+  },
+  {
+   "id": 168,
+   "en": "The MEMORY CARD (PS2) in MEMORY CARD\nslot 1 does not have enough free space.\n\nTo create save data, at least\n%2d KB of free space is needed.\n\nAUTO SAVE has been set to OFF\nand AUTO SAVE has been canceled."
+  },
+  {
+   "id": 200,
+   "en": "Hangar"
+  },
+  {
+   "id": 201,
+   "en": "Repair Resources"
+  },
+  {
+   "id": 202,
+   "en": "Repair Efficiency"
+  },
+  {
+   "id": 210,
+   "en": "None"
+  },
+  {
+   "id": 211,
+   "en": "Armor"
+  },
+  {
+   "id": 212,
+   "en": "Speed"
+  },
+  {
+   "id": 213,
+   "en": "Vernier"
+  },
+  {
+   "id": 214,
+   "en": "Output"
+  },
+  {
+   "id": 215,
+   "en": "Mobility"
+  },
+  {
+   "id": 216,
+   "en": "Turning Ability"
+  },
+  {
+   "id": 217,
+   "en": "Weapon Power"
+  },
+  {
+   "id": 218,
+   "en": "Weapon Reload Speed"
+  },
+  {
+   "id": 221,
+   "en": "Show Zama"
+  },
+  {
+   "id": 222,
+   "en": "Daba Myroad"
+  },
+  {
+   "id": 223,
+   "en": "Zechs Merquise"
+  },
+  {
+   "id": 224,
+   "en": "Char Aznable (Quattro Bajeena)"
+  },
+  {
+   "id": 225,
+   "en": "Yuu Isami"
+  }
+ ]
+}

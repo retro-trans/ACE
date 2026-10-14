@@ -1,0 +1,30 @@
+{
+ "mission": "998",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Hoshino Ruri annihilate destroy escort bomb",
+   "speaker": "debug test"
+  },
+  {
+   "id": 2,
+   "en": "Londo Bell rings the bell (2)",
+   "speaker": "debug test"
+  },
+  {
+   "id": 3,
+   "en": "Londo Bell rings the bell (3)",
+   "speaker": "debug test"
+  },
+  {
+   "id": 4,
+   "en": "Londo Bell rings the bell (4)",
+   "speaker": "debug test"
+  },
+  {
+   "id": 5,
+   "en": "Londo Bell rings the bell (5)",
+   "speaker": "debug test"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "table": "000",
+ "dialogue_file": "work/translation/en/dialogue/m000.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": ""
+  },
+  {
+   "id": 2,
+   "en": ""
+  },
+  {
+   "id": 3,
+   "en": ""
+  }
+ ],
+ "excluded": "Digit/symbol table for menu number display; not story text."
+}

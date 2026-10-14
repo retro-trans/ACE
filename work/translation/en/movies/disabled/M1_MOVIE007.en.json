@@ -1,0 +1,333 @@
+{
+ "movie": "M1_MOVIE007",
+ "segments": [
+  {
+   "type": "static",
+   "card": 0,
+   "frames": [
+    19,
+    134
+   ],
+   "box": [
+    42,
+    192,
+    470,
+    256
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      201,
+      220
+     ],
+     "en": "— United Space Force Major",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 16,
+     "weight": 700
+    },
+    {
+     "band": [
+      229,
+      247
+     ],
+     "en": "Ruri Hoshino —",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 16,
+     "weight": 700
+    }
+   ],
+   "ink_rows": [
+    [
+     199,
+     222
+    ],
+    [
+     227,
+     249
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 1,
+   "frames": [
+    183,
+    361
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      378
+     ],
+     "en": "They helped me many times.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      404
+     ],
+     "en": "I'm still grateful to them.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     380
+    ],
+    [
+     386,
+     406
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 2,
+   "frames": [
+    387,
+    530
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      377
+     ],
+     "en": "So when they caused that incident,",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      404
+     ],
+     "en": "I was a little surprised.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     379
+    ],
+    [
+     386,
+     406
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 3,
+   "frames": [
+    572,
+    860
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      378
+     ],
+     "en": "But every event has many causes and reasons",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      405
+     ],
+     "en": "behind it. It was the same with Akito.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     380
+    ],
+    [
+     386,
+     407
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 4,
+   "frames": [
+    899,
+    1001
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      373,
+      390
+     ],
+     "en": "That's why I still believe in them,",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     371,
+     392
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 5,
+   "frames": [
+    1040,
+    1191
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      373,
+      390
+     ],
+     "en": "because they, too, are precious to me...",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     371,
+     392
+    ]
+   ],
+   "bg_level": 16.0
+  }
+ ]
+}

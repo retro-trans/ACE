@@ -1,0 +1,213 @@
+{
+ "movie": "M1_MOVIE005",
+ "cards": [
+  {
+   "id": 0,
+   "frames": [
+    183,
+    315
+   ],
+   "kind": "subtitle",
+   "box": [
+    109,
+    357,
+    402,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 208,
+   "en": "My first impression of them\nwasn't a very good one."
+  },
+  {
+   "id": 1,
+   "frames": [
+    353,
+    507
+   ],
+   "kind": "subtitle",
+   "box": [
+    135,
+    357,
+    378,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 384,
+   "en": "I cannot accept the idea\nof settling everything by force."
+  },
+  {
+   "id": 2,
+   "frames": [
+    550,
+    682
+   ],
+   "kind": "subtitle",
+   "box": [
+    82,
+    357,
+    432,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 597,
+   "en": "Even so, since then,\nI have learned a great deal from them."
+  },
+  {
+   "id": 3,
+   "frames": [
+    728,
+    872
+   ],
+   "kind": "subtitle",
+   "box": [
+    122,
+    357,
+    391,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 747,
+   "en": "Taking action for what you believe in,\nwithout regard for the danger—"
+  },
+  {
+   "id": 4,
+   "frames": [
+    909,
+    1075
+   ],
+   "kind": "subtitle",
+   "box": [
+    101,
+    357,
+    412,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 981,
+   "en": "I realized that without it, a world\nfilled with war will never change."
+  },
+  {
+   "id": 5,
+   "frames": [
+    1138,
+    1323
+   ],
+   "kind": "subtitle",
+   "box": [
+    84,
+    357,
+    429,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 1251,
+   "en": "Still, my failure to stop my brother back then\nis one of my greatest regrets."
+  },
+  {
+   "id": 6,
+   "frames": [
+    1366,
+    1560
+   ],
+   "kind": "subtitle",
+   "box": [
+    94,
+    357,
+    419,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 1380,
+   "en": "I myself was the cause of that incident—\nthat is what I believe."
+  },
+  {
+   "id": 7,
+   "frames": [
+    19,
+    134
+   ],
+   "kind": "title",
+   "box": [
+    114,
+    198,
+    399,
+    250
+   ],
+   "lines": [
+    [
+     198,
+     224
+    ],
+    [
+     225,
+     250
+    ]
+   ],
+   "peak": 76,
+   "en": "— Former UCE Representative\nRelena Peacecraft —"
+  }
+ ]
+}

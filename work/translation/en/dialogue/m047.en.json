@@ -1,0 +1,275 @@
+{
+ "mission": "047",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "Defeat the Alpha Azieru",
+   "speaker": "HUD"
+  },
+  {
+   "id": 11,
+   "en": "The UCE patrol unit has been taken out!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 12,
+   "en": "Is that machine some kind of monster...!?",
+   "speaker": "?"
+  },
+  {
+   "id": 21,
+   "en": "There are still more of you!?",
+   "speaker": "Quess Paraya"
+  },
+  {
+   "id": 22,
+   "en": "I won't let you get anywhere near the Captain!",
+   "speaker": "Quess Paraya"
+  },
+  {
+   "id": 23,
+   "en": "Quess, that's reckless!",
+   "speaker": "Gyunei Guss"
+  },
+  {
+   "id": 24,
+   "en": "I'll take this one myself!",
+   "speaker": "Gyunei Guss"
+  },
+  {
+   "id": 26,
+   "en": "This is the 7th Patrol Unit.",
+   "speaker": "Patrol unit leader"
+  },
+  {
+   "id": 27,
+   "en": "We've picked up unidentified craft.",
+   "speaker": "Patrol unit leader"
+  },
+  {
+   "id": 28,
+   "en": "What on earth is going on...?",
+   "speaker": "Patrol unit leader"
+  },
+  {
+   "id": 30,
+   "en": "They're being shot down one after another!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 31,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 32,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 33,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 34,
+   "en": "This one's tough!",
+   "speaker": "Gyunei Guss"
+  },
+  {
+   "id": 35,
+   "en": "Don't go making trouble for the Captain like that!",
+   "speaker": "Quess Paraya"
+  },
+  {
+   "id": 36,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 37,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 41,
+   "en": "So, that evil presence has come...",
+   "speaker": "Amuro Ray?"
+  },
+  {
+   "id": 42,
+   "en": "I have to kill every last one of the enemy...",
+   "speaker": "Quess Paraya"
+  },
+  {
+   "id": 43,
+   "en": "Our allies are being shot down one after another!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 44,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 45,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 46,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 47,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 48,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 49,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 50,
+   "en": "All enemy signals in the area are gone.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 51,
+   "en": "Captain, there's no time!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 52,
+   "en": "Right, we head straight for Earth!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 54,
+   "en": "Ugh... Gyunei...",
+   "speaker": "Quess Paraya"
+  },
+  {
+   "id": 55,
+   "en": "I know! How is it holding out this long!?",
+   "speaker": "Gyunei Guss"
+  },
+  {
+   "id": 61,
+   "en": "So strong...! What kind of machine is that!?",
+   "speaker": "Operator (slot 1)"
+  },
+  {
+   "id": 62,
+   "en": "It's strong! What a machine!",
+   "speaker": "Operator (slot 2)"
+  },
+  {
+   "id": 63,
+   "en": "So strong...! That machine is dangerous!",
+   "speaker": "Operator (slot 3)"
+  },
+  {
+   "id": 64,
+   "en": "It's strong. What kind of machine is that?",
+   "speaker": "Operator (slot 4)"
+  },
+  {
+   "id": 65,
+   "en": "How can it be this strong!?",
+   "speaker": "Operator (slot 5)"
+  },
+  {
+   "id": 66,
+   "en": "It's strong... What a machine!",
+   "speaker": "Operator (slot 6)"
+  },
+  {
+   "id": 67,
+   "en": "TARGET CAPABILITY: UNMEASURABLE.",
+   "speaker": "Operator (slot 7)"
+  },
+  {
+   "id": 68,
+   "en": "S-so strong...! It has incredible power!",
+   "speaker": "Operator (slot 8)"
+  },
+  {
+   "id": 69,
+   "en": "Such strength...!",
+   "speaker": "Operator (slot 9)"
+  },
+  {
+   "id": 70,
+   "en": "The target's performance cannot be measured.",
+   "speaker": "Operator (slot 10)"
+  },
+  {
+   "id": 71,
+   "en": "Thank goodness, you're safe.",
+   "speaker": "Operator (slot 1)"
+  },
+  {
+   "id": 72,
+   "en": "You made it. Good work.",
+   "speaker": "Operator (slot 2)"
+  },
+  {
+   "id": 73,
+   "en": "Thank goodness, you're all right.",
+   "speaker": "Operator (slot 3)"
+  },
+  {
+   "id": 74,
+   "en": "Thank goodness, you're safe.",
+   "speaker": "Operator (slot 4)"
+  },
+  {
+   "id": 75,
+   "en": "Waah, thank goodness! You're okay!",
+   "speaker": "Operator (slot 5)"
+  },
+  {
+   "id": 76,
+   "en": "Thank goodness... you're safe.",
+   "speaker": "Operator (slot 6)"
+  },
+  {
+   "id": 77,
+   "en": "CRISIS AVERTED.",
+   "speaker": "Operator (slot 7)"
+  },
+  {
+   "id": 78,
+   "en": "Thank goodness, you're all right.",
+   "speaker": "Operator (slot 8)"
+  },
+  {
+   "id": 79,
+   "en": "You're safe. I'm glad.",
+   "speaker": "Operator (slot 9)"
+  },
+  {
+   "id": 80,
+   "en": "It appears you are unharmed.",
+   "speaker": "Operator (slot 10)"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "table": "001",
+ "dialogue_file": "work/translation/en/dialogue/m001.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Combat Training",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Destroy the targets",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Destroy all training units in 1 min",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "---",
+   "speaker": "-"
+  },
+  {
+   "id": 200,
+   "en": "---",
+   "speaker": "-"
+  },
+  {
+   "id": 300,
+   "en": "If you're defeated, it's all for nothing. Approach your operations with more care.",
+   "speaker": "?"
+  }
+ ]
+}

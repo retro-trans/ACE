@@ -1,0 +1,293 @@
+{
+ "group": "speakers",
+ "font": "hud13",
+ "where": [
+  "\\target\\fe\\InGame\\param\\Fe1p.bnd@0x70d00",
+  "\\target\\fe\\InGame\\param\\Fe2p.bnd@0x81c40",
+  "\\target\\fe\\InGame\\param\\Fe1p.bnd@0x70d00",
+  "\\target\\fe\\InGame\\param\\Fe2p.bnd@0x81c40"
+ ],
+ "limits": {
+  "lines": 1,
+  "width": 143,
+  "bytes": 22
+ },
+ "rows": [
+  {
+   "id": 1,
+   "en": "Bright"
+  },
+  {
+   "id": 2,
+   "en": "Sally"
+  },
+  {
+   "id": 3,
+   "en": "Ciela"
+  },
+  {
+   "id": 4,
+   "en": "Ruri"
+  },
+  {
+   "id": 5,
+   "en": "Torres"
+  },
+  {
+   "id": 6,
+   "en": "Noin"
+  },
+  {
+   "id": 7,
+   "en": "Fa"
+  },
+  {
+   "id": 8,
+   "en": "Chan"
+  },
+  {
+   "id": 9,
+   "en": "Linda"
+  },
+  {
+   "id": 10,
+   "en": "Marvel"
+  },
+  {
+   "id": 11,
+   "en": "Amm"
+  },
+  {
+   "id": 12,
+   "en": "Rei"
+  },
+  {
+   "id": 13,
+   "en": "Harry"
+  },
+  {
+   "id": 14,
+   "en": "Irene"
+  },
+  {
+   "id": 15,
+   "en": "Navi System"
+  },
+  {
+   "id": 16,
+   "en": "Original Navi"
+  },
+  {
+   "id": 17,
+   "en": "Relena"
+  },
+  {
+   "id": 18,
+   "en": "Kouichirou Misumaru"
+  },
+  {
+   "id": 19,
+   "en": "Dermail"
+  },
+  {
+   "id": 20,
+   "en": "Kahns"
+  },
+  {
+   "id": 31,
+   "en": "Facility PA"
+  },
+  {
+   "id": 32,
+   "en": "Full Flat"
+  },
+  {
+   "id": 33,
+   "en": "Kamille"
+  },
+  {
+   "id": 34,
+   "en": "Quattro"
+  },
+  {
+   "id": 35,
+   "en": "Amuro"
+  },
+  {
+   "id": 36,
+   "en": "Heero"
+  },
+  {
+   "id": 37,
+   "en": "Ally"
+  },
+  {
+   "id": 38,
+   "en": "Allied Soldier"
+  },
+  {
+   "id": 39,
+   "en": "Computer"
+  },
+  {
+   "id": 40,
+   "en": "Announcement"
+  },
+  {
+   "id": 41,
+   "en": "Show"
+  },
+  {
+   "id": 42,
+   "en": "Daba"
+  },
+  {
+   "id": 43,
+   "en": "Leccee"
+  },
+  {
+   "id": 44,
+   "en": "Kain"
+  },
+  {
+   "id": 45,
+   "en": "Reporter"
+  },
+  {
+   "id": 47,
+   "en": "Eiji"
+  },
+  {
+   "id": 48,
+   "en": "Akito"
+  },
+  {
+   "id": 49,
+   "en": "Ryoko"
+  },
+  {
+   "id": 50,
+   "en": "Tsukiomi"
+  },
+  {
+   "id": 51,
+   "en": "Hime"
+  },
+  {
+   "id": 52,
+   "en": "Yuu"
+  },
+  {
+   "id": 53,
+   "en": "Yazan"
+  },
+  {
+   "id": 54,
+   "en": "Jerid"
+  },
+  {
+   "id": 55,
+   "en": "Four"
+  },
+  {
+   "id": 56,
+   "en": "Quess"
+  },
+  {
+   "id": 57,
+   "en": "Gyunei"
+  },
+  {
+   "id": 58,
+   "en": "Char"
+  },
+  {
+   "id": 59,
+   "en": "Zechs"
+  },
+  {
+   "id": 60,
+   "en": "Jeril"
+  },
+  {
+   "id": 61,
+   "en": "Black Knight"
+  },
+  {
+   "id": 62,
+   "en": "Gavlet"
+  },
+  {
+   "id": 63,
+   "en": "Poseidal"
+  },
+  {
+   "id": 64,
+   "en": "Meio"
+  },
+  {
+   "id": 65,
+   "en": "Gun Jem"
+  },
+  {
+   "id": 66,
+   "en": "Le Cain"
+  },
+  {
+   "id": 67,
+   "en": "Hokushin"
+  },
+  {
+   "id": 68,
+   "en": "Jonathan"
+  },
+  {
+   "id": 69,
+   "en": "Rosamia"
+  },
+  {
+   "id": 70,
+   "en": "Grados Soldier"
+  },
+  {
+   "id": 71,
+   "en": "Giganos Soldier"
+  },
+  {
+   "id": 72,
+   "en": "Drake Soldier"
+  },
+  {
+   "id": 73,
+   "en": "Poseidal Soldier"
+  },
+  {
+   "id": 74,
+   "en": "Reclaimer"
+  },
+  {
+   "id": 75,
+   "en": "White Fang Soldier"
+  },
+  {
+   "id": 76,
+   "en": "Neo Zeon Soldier"
+  },
+  {
+   "id": 77,
+   "en": "OZ Soldier"
+  },
+  {
+   "id": 78,
+   "en": "Titans Soldier"
+  },
+  {
+   "id": 79,
+   "en": "Martian Successors"
+  },
+  {
+   "id": 80,
+   "en": "UCE Soldier"
+  }
+ ]
+}

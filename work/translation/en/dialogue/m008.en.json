@@ -1,0 +1,465 @@
+{
+ "mission": "008",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defeat enemy forces",
+   "speaker": "-"
+  },
+  {
+   "id": 2,
+   "en": "---",
+   "speaker": "-"
+  },
+  {
+   "id": 3,
+   "en": "Destroy the Tallgeese",
+   "speaker": "-"
+  },
+  {
+   "id": 4,
+   "en": "Defeat enemy forces",
+   "speaker": "-"
+  },
+  {
+   "id": 5,
+   "en": "Friendly Aries destroyed",
+   "speaker": "-"
+  },
+  {
+   "id": 10,
+   "en": "Units approaching our position!\nID code: White Fang!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 11,
+   "en": "What!?",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 12,
+   "en": "White Fang... The anti-Earth organization?",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 13,
+   "en": "I apologize for riding on the back of your operation.\nBut the E2 is ours!",
+   "speaker": "Zechs Merquise"
+  },
+  {
+   "id": 14,
+   "en": "That voice... Zechs...!",
+   "speaker": "Lucrezia Noin"
+  },
+  {
+   "id": 15,
+   "en": "OZ's former ace pilot... Why is he here...?",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 16,
+   "en": "Now I am the leader of White Fang.",
+   "speaker": "Zechs Merquise"
+  },
+  {
+   "id": 17,
+   "en": "All units, eliminate the approaching enemy!",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 18,
+   "en": "Message from the UCE main force.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 19,
+   "en": "Hit by White Fang's surprise attack,",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 20,
+   "en": "the encirclement operation appears to have failed.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 21,
+   "en": "No choice...! We'll wipe out the enemy right here!",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 22,
+   "en": "Zechs, please stop this!",
+   "speaker": "Lucrezia Noin"
+  },
+  {
+   "id": 23,
+   "en": "Why are you doing something like this!?",
+   "speaker": "Lucrezia Noin"
+  },
+  {
+   "id": 24,
+   "en": "You haven't changed, Noin.",
+   "speaker": "Zechs Merquise"
+  },
+  {
+   "id": 25,
+   "en": "People must be taught the folly of war.",
+   "speaker": "Zechs Merquise"
+  },
+  {
+   "id": 26,
+   "en": "To achieve an ideal, the use of force is necessary.",
+   "speaker": "Zechs Merquise"
+  },
+  {
+   "id": 27,
+   "en": "With the performance of this mobile suit,",
+   "speaker": "Zechs Merquise"
+  },
+  {
+   "id": 28,
+   "en": "I can defeat any enemy!",
+   "speaker": "Zechs Merquise"
+  },
+  {
+   "id": 29,
+   "en": "Captain, a civilian craft is approaching.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 30,
+   "en": "You must be Captain Bright of the Ra Cailum.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 31,
+   "en": "I am Relena Peacecraft.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 32,
+   "en": "Please, don't concern yourselves with me.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 33,
+   "en": "M-Miss Relena!?",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 34,
+   "en": "They've cut the comm line!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 35,
+   "en": "The head of state of the pacifist Sanc Kingdom...",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 36,
+   "en": "What is she doing here...?",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 37,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 38,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 39,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 40,
+   "en": "Ngh... So this is as far as a flesh-and-blood pilot can go?",
+   "speaker": "Zechs Merquise"
+  },
+  {
+   "id": 41,
+   "en": "Brother, please stop this fighting!",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 42,
+   "en": "Relena... Why are you here...?",
+   "speaker": "Zechs Merquise"
+  },
+  {
+   "id": 43,
+   "en": "I came here to stop you, Brother!",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 44,
+   "en": "You've grown strong, Relena.\nThat's what a daughter of the Peacecraft family should be.",
+   "speaker": "Zechs Merquise"
+  },
+  {
+   "id": 45,
+   "en": "I'm sure you can lead the nation\nthat our father dreamed of.",
+   "speaker": "Zechs Merquise"
+  },
+  {
+   "id": 46,
+   "en": "Brother...!",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 47,
+   "en": "Relena, I'm glad I got to see you.\nForget about your worthless brother.",
+   "speaker": "Zechs Merquise"
+  },
+  {
+   "id": 48,
+   "en": "Wait, Brother!!",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 49,
+   "en": "Multiple units approaching.\nThis is... one of our distress signals!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 50,
+   "en": "This is a UCE intelligence agent.",
+   "speaker": "UCE intelligence agent"
+  },
+  {
+   "id": 51,
+   "en": "We were undercover in White Fang,",
+   "speaker": "UCE intelligence agent"
+  },
+  {
+   "id": 52,
+   "en": "and escaped in the confusion, but we're being pursued.",
+   "speaker": "UCE intelligence agent"
+  },
+  {
+   "id": 53,
+   "en": "We need you to cover us.",
+   "speaker": "UCE intelligence agent"
+  },
+  {
+   "id": 54,
+   "en": "Each of us is carrying the intel we obtained.",
+   "speaker": "UCE intelligence agent"
+  },
+  {
+   "id": 55,
+   "en": "If even one of us survives, that'll be enough.",
+   "speaker": "UCE intelligence agent"
+  },
+  {
+   "id": 56,
+   "en": "You heard them. All units, cover them!",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 57,
+   "en": "Our people are piloting the Aries they stole.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 58,
+   "en": "Their IFF reads as enemy, so be careful.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 59,
+   "en": "I'm on your side! Don't shoot!",
+   "speaker": "UCE intelligence agent"
+  },
+  {
+   "id": 60,
+   "en": "I'm a friendly! Hold your fire!",
+   "speaker": "UCE intelligence agent"
+  },
+  {
+   "id": 61,
+   "en": "This is as far as I go...!",
+   "speaker": "UCE intelligence agent"
+  },
+  {
+   "id": 62,
+   "en": "Friendly unit shot down!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 63,
+   "en": "We've been spotted! Get out of here!",
+   "speaker": "? (enemy recon helicopter crew)"
+  },
+  {
+   "id": 64,
+   "en": "All enemy signals are gone.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 65,
+   "en": "Zechs... What are you planning to do?",
+   "speaker": "Lucrezia Noin"
+  },
+  {
+   "id": 67,
+   "en": "Multiple units approaching.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 68,
+   "en": "This is... one of our distress signals!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 70,
+   "en": "This mobile suit is strong!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 71,
+   "en": "That's Zechs for you... He's strong...!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 72,
+   "en": "Don't underestimate this mobile suit's performance.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 73,
+   "en": "What...? This enemy is strong.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 74,
+   "en": "Ugh, no way! This one's strong!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 75,
+   "en": "The enemy is strong. Be careful.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 76,
+   "en": "ALARM MESSAGE: DAMAGE SPREADING.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 77,
+   "en": "This enemy is strong! Please be careful!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 78,
+   "en": "That enemy's performance is something else. Watch out.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 79,
+   "en": "The enemy's performance is extremely high.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 80,
+   "en": "If it hits you, you won't last a second.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 81,
+   "en": "If he lands a hit on you, you won't get off lightly!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 82,
+   "en": "Please be especially careful of its attacks.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 83,
+   "en": "If it hits you, you won't get off lightly.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 84,
+   "en": "Getting hit would be really bad, so be careful!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 85,
+   "en": "If it hits you, you won't come out of it unharmed.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 87,
+   "en": "If it hits you, you won't get off lightly!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 88,
+   "en": "If it hits you, you won't stand a chance.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 89,
+   "en": "I recommend evasive action.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 90,
+   "en": "Watch how they move and you can tell which is ours.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 91,
+   "en": "You can tell them apart. Watch how they move.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 92,
+   "en": "You can tell which one is ours by the way it moves.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 93,
+   "en": "Watch their movements and you'll tell which is ours.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 94,
+   "en": "Watch how they move and you'll know which one's ours!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 95,
+   "en": "You can tell them apart. Watch how they move for me.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 96,
+   "en": "DESTROY/ESCORT TARGET MOVEMENT DISCREPANCY.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 97,
+   "en": "You can tell them apart. Please watch their movements.",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 98,
+   "en": "Watch the movements closely to tell them apart.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 99,
+   "en": "Friendly units can be identified by their movement.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

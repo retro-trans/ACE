@@ -1,0 +1,450 @@
+{
+ "mission": "036",
+ "rows": [
+  {
+   "id": 1,
+   "en": "VIP car reaches destination",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "VIP vehicle destroyed",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "VIP car lost/Escape failed",
+   "speaker": "HUD"
+  },
+  {
+   "id": 10,
+   "en": "There's fighting going on inside Jaburo.",
+   "speaker": "operator?"
+  },
+  {
+   "id": 11,
+   "en": "The enemy IFF reads Poseidal.",
+   "speaker": "operator?"
+  },
+  {
+   "id": 12,
+   "en": "All units inside, engage the enemy on sight!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 13,
+   "en": "We've found the vehicle carrying Duke Dermail.",
+   "speaker": "operator?"
+  },
+  {
+   "id": 14,
+   "en": "Please hurry and rescue him.",
+   "speaker": "operator?"
+  },
+  {
+   "id": 15,
+   "en": "Any pilots nearby, I need you on the rescue.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 16,
+   "en": "The vehicle's near the underground lake. Hurry!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 17,
+   "en": "Someone's cut into our comm line!",
+   "speaker": "operator?"
+  },
+  {
+   "id": 18,
+   "en": "We are Neo Zeon.",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 19,
+   "en": "To purge the UCE for its endless atrocities,\nwe shall now blow up Jaburo, E2 and all.",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 20,
+   "en": "Those who value their lives had best leave within the time limit.",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 21,
+   "en": "That voice...!",
+   "speaker": "?"
+  },
+  {
+   "id": 22,
+   "en": "If you manage to escape, let us meet again,\ncrew of the Ra Cailum.",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 23,
+   "en": "Lieutenant Quattro...!",
+   "speaker": "?"
+  },
+  {
+   "id": 24,
+   "en": "Why would he...! He's going to destroy the E2!?",
+   "speaker": "?"
+  },
+  {
+   "id": 25,
+   "en": "We'll talk later! Hurry up with the rescue!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 26,
+   "en": "So it's you lot...",
+   "speaker": "Duke Dermail"
+  },
+  {
+   "id": 27,
+   "en": "I'm amazed you had the nerve to come here.",
+   "speaker": "Duke Dermail"
+  },
+  {
+   "id": 28,
+   "en": "We have a great deal to discuss with you.",
+   "speaker": "Relena Peacecraft?"
+  },
+  {
+   "id": 29,
+   "en": "Hmph. For now, I must rely on your help...!",
+   "speaker": "Duke Dermail"
+  },
+  {
+   "id": 30,
+   "en": "See to it that you guard me well.",
+   "speaker": "Duke Dermail"
+  },
+  {
+   "id": 31,
+   "en": "Take out the enemy and secure the vehicle's route.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 32,
+   "en": "What are you doing!? Hurry it up!!",
+   "speaker": "Duke Dermail"
+  },
+  {
+   "id": 33,
+   "en": "Get a move on!",
+   "speaker": "Duke Dermail"
+  },
+  {
+   "id": 34,
+   "en": "The exit is close now. Make haste, if you please.",
+   "speaker": "Duke Dermail"
+  },
+  {
+   "id": 35,
+   "en": "......!",
+   "speaker": "Duke Dermail"
+  },
+  {
+   "id": 36,
+   "en": "That route will get you closer to the exit.",
+   "speaker": "operator?"
+  },
+  {
+   "id": 37,
+   "en": "We're running out of time...!",
+   "speaker": "?"
+  },
+  {
+   "id": 38,
+   "en": "Enemy reinforcements confirmed.",
+   "speaker": "operator"
+  },
+  {
+   "id": 39,
+   "en": "What!?",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 40,
+   "en": "Enemy force confirmed, approaching our position.",
+   "speaker": "operator"
+  },
+  {
+   "id": 41,
+   "en": "Unable to identify... They look like mobile suits.",
+   "speaker": "operator"
+  },
+  {
+   "id": 42,
+   "en": "Char's unit, is it? Engage them!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 43,
+   "en": "Why would Lieutenant Quattro...",
+   "speaker": "?"
+  },
+  {
+   "id": 44,
+   "en": "He's chosen his own path, in his own way.",
+   "speaker": "?"
+  },
+  {
+   "id": 45,
+   "en": "Hangar 2 has been taken!",
+   "speaker": "operator"
+  },
+  {
+   "id": 46,
+   "en": "Damned Spacenoids...",
+   "speaker": "Duke Dermail"
+  },
+  {
+   "id": 47,
+   "en": "I swear I will make them pay for this...!",
+   "speaker": "Duke Dermail"
+  },
+  {
+   "id": 48,
+   "en": "I will not allow that.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 49,
+   "en": "I will persuade the people and stop this, I promise.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 50,
+   "en": "Well done. You have my thanks, for what it's worth.",
+   "speaker": "Duke Dermail"
+  },
+  {
+   "id": 51,
+   "en": "We'll make our own escape from here.",
+   "speaker": "Duke Dermail"
+  },
+  {
+   "id": 52,
+   "en": "Wait!",
+   "speaker": "?"
+  },
+  {
+   "id": 53,
+   "en": "Let him go!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 54,
+   "en": "Forget that, we're out of time! Hurry and get out!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 55,
+   "en": "Ra Cailum, prepare to escape as well!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 60,
+   "en": "You're the closest one!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 61,
+   "en": "You're the closest. I'm leaving it to you.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 62,
+   "en": "You are the closest to the target.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 63,
+   "en": "You're in the closest position.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 64,
+   "en": "You're the closest, y'know!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 65,
+   "en": "Looks like you're the closest one.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 66,
+   "en": "TARGET CONFIRMED IN VICINITY.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 67,
+   "en": "You're closest right where you are!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 68,
+   "en": "You're the closest, it seems.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 69,
+   "en": "You are the closest to the target.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 70,
+   "en": "Escort them to the escape exit.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 71,
+   "en": "Escort them to the escape exit.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 72,
+   "en": "Please escort them to the escape exit.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 73,
+   "en": "You escort them all the way to the exit.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 74,
+   "en": "Escort 'em to the exit, 'kay?",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 75,
+   "en": "Escort them to the exit, okay?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 76,
+   "en": "ESCORT TO EXIT.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 77,
+   "en": "Please escort them to the exit!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 78,
+   "en": "See them safely to the escape exit.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 79,
+   "en": "Please escort them to the escape exit.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 80,
+   "en": "And make sure the vehicle doesn't get destroyed.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 81,
+   "en": "Make sure that vehicle doesn't get destroyed.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 82,
+   "en": "Please be careful that the vehicle is not destroyed.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 83,
+   "en": "Careful the vehicle doesn't get destroyed.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 84,
+   "en": "Do your best so the vehicle doesn't get wrecked!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 85,
+   "en": "Be careful the vehicle doesn't get destroyed, okay?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 86,
+   "en": "PREVENT DESTRUCTION OF ESCORT TARGET.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 87,
+   "en": "Please don't let the vehicle get destroyed!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 88,
+   "en": "Careful the vehicle doesn't get destroyed, now.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 89,
+   "en": "Please take care that the vehicle is not destroyed.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 90,
+   "en": "We're out of time, you know!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 91,
+   "en": "There's no time! Hurry it up!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 92,
+   "en": "There isn't much time left.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 93,
+   "en": "You can't afford to take your time here, you know.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 94,
+   "en": "There's no time, I'm telling you! Hurry, hurry!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 95,
+   "en": "There's not much time left. Hurry, okay?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 96,
+   "en": "TIME LIMIT APPROACHING.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 97,
+   "en": "We're out of time! Please hurry!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 98,
+   "en": "We're out of time. Hurry it along, would you?",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 99,
+   "en": "There is no time remaining. Please hurry.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

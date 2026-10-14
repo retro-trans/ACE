@@ -1,0 +1,101 @@
+{
+ "table": "030",
+ "dialogue_file": "work/translation/en/dialogue/m030.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Occupy UCE Parliament",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Make the speech a success",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "Escort target destroyed",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Reach 100 percent approval",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "Miss Relena wishes to give a speech calling for peace<pt(0,-13,0,2)> to the entire Earth Sphere.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 101,
+   "en": "We will seize the UCE <pic(0)><cs(3)>Parliament building<ce()> by force and back Miss Relena's speech.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 102,
+   "en": "To reach as many people as possible, we plan to broadcast it to the entire Earth Sphere.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 103,
+   "en": "Naturally, though, I doubt Dermail will just sit back and watch.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 104,
+   "en": "We<mk(0,12.5,4,0)><mk(-50,-12.5,6,3,100)><mk(50,-12.5,2,3,50)><mk(0,-37.5,0,3,100)> will deploy <pic(1)><cs(3)>around the city<ce()> and guard the Parliament building.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 105,
+   "en": "Our aim now is to show people the need for peace. I want you to avoid combat if you can.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 200,
+   "en": "Thanks to all of you, I was able to make my will known. I am truly grateful.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 201,
+   "en": "Your presence is a great source of encouragement to me, and it gives me courage.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 202,
+   "en": "And so there is just one more request I would like you to hear.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 203,
+   "en": "I would like you to take me to Jaburo.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 204,
+   "en": "By placing myself in the UCE's hands and negotiating with them directly,",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 205,
+   "en": "I intend to propose that the E2, which threatens peace, be disposed of.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 206,
+   "en": "I know this is dangerous for you, since you have left the UCE, but",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 207,
+   "en": "I do not want the feelings of the people who answered my call to go to waste.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 300,
+   "en": "Will the day ever come when an age of peace arrives...",
+   "speaker": "Relena Peacecraft?"
+  }
+ ]
+}

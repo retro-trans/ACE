@@ -1,0 +1,425 @@
+{
+ "movie": "M1_MOVIE021",
+ "segments": [
+  {
+   "type": "static",
+   "card": 0,
+   "frames": [
+    19,
+    134
+   ],
+   "box": [
+    42,
+    192,
+    470,
+    256
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      201,
+      220
+     ],
+     "en": "— Neo Zeon Supreme Leader",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 16,
+     "weight": 700
+    },
+    {
+     "band": [
+      228,
+      247
+     ],
+     "en": "Char Aznable —",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 16,
+     "weight": 700
+    }
+   ],
+   "ink_rows": [
+    [
+     199,
+     222
+    ],
+    [
+     226,
+     249
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 1,
+   "frames": [
+    183,
+    314
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      377
+     ],
+     "en": "—Earth.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      404
+     ],
+     "en": "A planet whose land is our mother and our cradle.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     379
+    ],
+    [
+     386,
+     406
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 2,
+   "frames": [
+    337,
+    495
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      378
+     ],
+     "en": "Those who gave themselves over to its embrace",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      404
+     ],
+     "en": "had rotted into something hideous.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     380
+    ],
+    [
+     386,
+     406
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 3,
+   "frames": [
+    519,
+    646
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      378
+     ],
+     "en": "Why will they not leap up into the sea",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      404
+     ],
+     "en": "of possibility spread out before them?",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     380
+    ],
+    [
+     386,
+     406
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 4,
+   "frames": [
+    669,
+    778
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      377
+     ],
+     "en": "It fell to me",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      404
+     ],
+     "en": "to awaken them.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     379
+    ],
+    [
+     386,
+     406
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 5,
+   "frames": [
+    802,
+    969
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      377
+     ],
+     "en": "Londo Bell and Relena Peacecraft...",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      404
+     ],
+     "en": "fools who cannot break free of the Earth.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     379
+    ],
+    [
+     386,
+     406
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 6,
+   "frames": [
+    1003,
+    1134
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      378
+     ],
+     "en": "I made them atone for their arrogance",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      404
+     ],
+     "en": "on the very stage they set for themselves.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     380
+    ],
+    [
+     386,
+     406
+    ]
+   ],
+   "bg_level": 16.0
+  }
+ ]
+}

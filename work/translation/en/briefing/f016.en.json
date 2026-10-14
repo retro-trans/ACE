@@ -1,0 +1,106 @@
+{
+ "table": "016",
+ "dialogue_file": "work/translation/en/dialogue/m016.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Liberate Lunar City",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "40 percent of the city damaged",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Win with city damage 3 percent or less",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "We've received an urgent request for support from the United Space Force.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 101,
+   "en": "Right now, in the government district of <pic(0)><cs(3)>Von Braun<ce()>, <mk(0,-37.5,6,1)><mk(25,-12.5,4,1,50)><mk(25,-62.5,0,1,100)><mk(50,-37.5,2,1,150)>Grados forces have holed up.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 102,
+   "en": "They're wearing explosives and demanding the release of the prisoners the city holds.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 103,
+   "en": "The citizens have been evacuated, but the whole city is in danger.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 104,
+   "en": "According to the mayor, a certain amount of damage is unavoidable, but",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 105,
+   "en": "if the damage exceeds acceptable limits, the city will give in to the enemy's demands.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 106,
+   "en": "<mk(-37.5,37.5,1,0,50)><ar(0,1,0,150)>With UCE prestige at stake, we'll take out the enemy while keeping city damage minimal.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 200,
+   "en": "I have already been informed of this matter.",
+   "speaker": "Duke Dermail"
+  },
+  {
+   "id": 201,
+   "en": "The United Space Force is part of the UCE too. I suppose its requests must be heard.",
+   "speaker": "Duke Dermail"
+  },
+  {
+   "id": 202,
+   "en": "But I'd like you to weigh the need for emergency missions from outside my headquarters.",
+   "speaker": "Duke Dermail"
+  },
+  {
+   "id": 203,
+   "en": "Crushing Grados small fry... gains us nothing whatsoever.",
+   "speaker": "Duke Dermail"
+  },
+  {
+   "id": 204,
+   "en": "Had you not worried about the damage around you, you could have finished in less time.",
+   "speaker": "Duke Dermail"
+  },
+  {
+   "id": 205,
+   "en": "There is no need to show any mercy to that lot in space.",
+   "speaker": "Duke Dermail"
+  },
+  {
+   "id": 206,
+   "en": "Lately, every colony has been stepping up its defiance of us.",
+   "speaker": "Duke Dermail"
+  },
+  {
+   "id": 207,
+   "en": "Do not forget that your priority is recovering the E2.",
+   "speaker": "Duke Dermail"
+  },
+  {
+   "id": 300,
+   "en": "So you're just a ragtag unit after all. It seems I was a fool to expect anything of you.",
+   "speaker": "Duke Dermail"
+  }
+ ]
+}

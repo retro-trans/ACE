@@ -1,0 +1,120 @@
+{
+ "mission": "002",
+ "rows": [
+  {
+   "id": 1,
+   "speaker": "System",
+   "en": "Defeat enemy forces"
+  },
+  {
+   "id": 2,
+   "speaker": "System",
+   "en": "---"
+  },
+  {
+   "id": 10,
+   "speaker": "Poseidal raid leader",
+   "en": "Looks like you're too late!\nWe'll be taking the goods!"
+  },
+  {
+   "id": 11,
+   "speaker": "Poseidal raid leader",
+   "en": "I leave the rest to you all.\nShow your loyalty to Lady Poseidal!"
+  },
+  {
+   "id": 12,
+   "speaker": "Noin",
+   "en": "Captain Bright, what's the situation!?"
+  },
+  {
+   "id": 13,
+   "speaker": "Bright",
+   "en": "Lieutenant Noin! I'm glad you made it back."
+  },
+  {
+   "id": 14,
+   "speaker": "Bright",
+   "en": "We were caught by surprise. We're at a disadvantage."
+  },
+  {
+   "id": 15,
+   "speaker": "Noin",
+   "en": "All our units have launched. Give us our orders!"
+  },
+  {
+   "id": 16,
+   "speaker": "Bright",
+   "en": "Right, wipe out the enemy forces around the base!"
+  },
+  {
+   "id": 17,
+   "speaker": "Bright",
+   "en": "Keep the damage to the base to a minimum!"
+  },
+  {
+   "id": 18,
+   "speaker": "?",
+   "en": "Poseidal... a mere band of warmongers..."
+  },
+  {
+   "id": 19,
+   "speaker": "?",
+   "en": "What are they after, making a move now?"
+  },
+  {
+   "id": 20,
+   "speaker": "Ra Cailum operator",
+   "en": "Enemy reinforcements confirmed."
+  },
+  {
+   "id": 21,
+   "speaker": "Ra Cailum operator",
+   "en": "The classified material's been stolen from Hangar 1!"
+  },
+  {
+   "id": 22,
+   "speaker": "Bright",
+   "en": "What!? Go after them, now!"
+  },
+  {
+   "id": 23,
+   "speaker": "Ra Cailum operator",
+   "en": "We've lost contact with the pursuit squad!"
+  },
+  {
+   "id": 24,
+   "speaker": "Ra Cailum operator",
+   "en": "They've probably been wiped out...!"
+  },
+  {
+   "id": 25,
+   "speaker": "Ra Cailum operator",
+   "en": "Looks like everyone in base command got out."
+  },
+  {
+   "id": 26,
+   "speaker": "Ra Cailum operator",
+   "en": "All enemy signals in the area are gone."
+  },
+  {
+   "id": 27,
+   "speaker": "?",
+   "en": "...I'm told the base commander was killed in action."
+  },
+  {
+   "id": 28,
+   "speaker": "?",
+   "en": "Let's wait for word from UCE Headquarters."
+  },
+  {
+   "id": 29,
+   "speaker": "Bright",
+   "en": "Right. The Ra Cailum will hold position for now."
+  },
+  {
+   "id": 30,
+   "speaker": "Bright",
+   "en": "All hands, go help the wounded!"
+  }
+ ]
+}

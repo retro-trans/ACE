@@ -1,0 +1,330 @@
+{
+ "mission": "004",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defeat enemy forces",
+   "speaker": "-"
+  },
+  {
+   "id": 2,
+   "en": "---",
+   "speaker": "-"
+  },
+  {
+   "id": 10,
+   "en": "The enemy has deployed in overwhelming numbers.",
+   "speaker": "?"
+  },
+  {
+   "id": 11,
+   "en": "All right, spread our units out wide as well.",
+   "speaker": "?"
+  },
+  {
+   "id": 12,
+   "en": "We don't know who they belong to. Be careful.",
+   "speaker": "?"
+  },
+  {
+   "id": 13,
+   "en": "Attention, UCE pilot.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 14,
+   "en": "This is the Ra Cailum, also of the UCE.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 15,
+   "en": "We're moving in to support you now.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 16,
+   "en": "My name is Quattro Bajeena.",
+   "speaker": "Quattro Bajeena"
+  },
+  {
+   "id": 17,
+   "en": "I'll gladly accept your offer of support.",
+   "speaker": "Quattro Bajeena"
+  },
+  {
+   "id": 18,
+   "en": "With numbers like these, there's no end to them.",
+   "speaker": "Quattro Bajeena"
+  },
+  {
+   "id": 19,
+   "en": "Enemy reinforcements confirmed.",
+   "speaker": "?"
+  },
+  {
+   "id": 20,
+   "en": "More reinforcements incoming!",
+   "speaker": "?"
+  },
+  {
+   "id": 21,
+   "en": "Lay down a barrage!",
+   "speaker": "?"
+  },
+  {
+   "id": 22,
+   "en": "Multiple heat sources approaching.",
+   "speaker": "?"
+  },
+  {
+   "id": 23,
+   "en": "They're identified as... Titans!",
+   "speaker": "?"
+  },
+  {
+   "id": 24,
+   "en": "What?! Why are the Titans here?!",
+   "speaker": "?"
+  },
+  {
+   "id": 25,
+   "en": "They're UCE, same as us!",
+   "speaker": "?"
+  },
+  {
+   "id": 26,
+   "en": "New forces in development or whatever, I don't care,",
+   "speaker": "Titans officer (?)"
+  },
+  {
+   "id": 27,
+   "en": "the UCE today just does whatever OZ says!",
+   "speaker": "Titans officer (?)"
+  },
+  {
+   "id": 28,
+   "en": "Now that the UCE has become OZ's property,",
+   "speaker": "Titans officer (?)"
+  },
+  {
+   "id": 29,
+   "en": "there's no reason for us Titans to remain in it.",
+   "speaker": "Titans officer (?)"
+  },
+  {
+   "id": 30,
+   "en": "As of today, we have broken away from the UCE!",
+   "speaker": "Titans officer (?)"
+  },
+  {
+   "id": 31,
+   "en": "The Earth needs the Titans!",
+   "speaker": "Titans officer (?)"
+  },
+  {
+   "id": 32,
+   "en": "We have no choice... All units, return fire!",
+   "speaker": "?"
+  },
+  {
+   "id": 33,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 34,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 35,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 36,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 37,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 38,
+   "en": "Thank you. You really saved me there.",
+   "speaker": "Quattro Bajeena"
+  },
+  {
+   "id": 39,
+   "en": "They gave me more trouble than I'd expected.",
+   "speaker": "Quattro Bajeena"
+  },
+  {
+   "id": 40,
+   "en": "Not at all. We only lent a hand.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 41,
+   "en": "Impressive as ever, Captain Quattro.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 42,
+   "en": "I'm a Lieutenant, Captain Bright.",
+   "speaker": "Quattro Bajeena"
+  },
+  {
+   "id": 50,
+   "en": "There are too many of them! Just keep shooting!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 51,
+   "en": "All they've got is numbers. Focus on the attack!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 52,
+   "en": "There seem to be a lot of enemies. Please be careful.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 53,
+   "en": "Look how many there are! Focus on attacking.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 54,
+   "en": "Don't hold back, just blast away!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 55,
+   "en": "Stay calm and keep shooting, and you'll be fine.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 56,
+   "en": "ALARM MESSAGE: MULTIPLE HEAT SOURCES DETECTED.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 57,
+   "en": "There's a lot of them!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 58,
+   "en": "Look at these numbers... They really mean business.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 59,
+   "en": "Multiple heat sources. Please destroy them swiftly.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 60,
+   "en": "Amazing! You wiped them out in no time!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 61,
+   "en": "Man, that's some skill you've got.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 62,
+   "en": "Amazing... Just what I'd expect from you.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 63,
+   "en": "You did it! That was amazing!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 64,
+   "en": "Eeek! You're the best!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 65,
+   "en": "Wow, that was over in no time.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 66,
+   "en": "MULTIPLE TARGETS DESTROYED. CONFIRMED.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 67,
+   "en": "Amazing! You're amazing!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 68,
+   "en": "Impressive. You're good.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 69,
+   "en": "Confirmed: a large number of targets destroyed.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 70,
+   "en": "Let's finish this quickly.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 71,
+   "en": "What's the holdup? Hurry it up.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 72,
+   "en": "Is something wrong? Let's finish this quickly.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 73,
+   "en": "What's the matter? It's not over yet.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 74,
+   "en": "It's almost over! Hang in there!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 75,
+   "en": "Are you all right? Please, hang in there.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 76,
+   "en": "DESTROY THE TARGETS.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 77,
+   "en": "Just a little more! Please hang in there!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 78,
+   "en": "Hurry it up, would you?",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 79,
+   "en": "Please hurry and complete the operation.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "table": "031",
+ "dialogue_file": "work/translation/en/dialogue/m031.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Support Peacemillion",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Achieve 160 sec of Chain",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "<mk(-75,38,2,1,50)><ar(0,2,1,500)><mk(-75,13,2,1,50)><ar(0,2,1,500)><mk(-75,-38,3,1,50)><ar(0,3,1,500)><mk(-75,-75,3,1,50)><ar(0,3,1,500)><mk(-38,-75,3,1,50)><ar(0,3,1,500)><mk(13,-75,4,1,50)><ar(0,4,1,500)><mk(38,-75,4,1,50)><ar(0,4,1,500)><mk(13,50,7,3,50)><ar(0,7,3,500)><mk(13,13,7,3,50)><ar(0,7,3,500)><mk(50,13,7,3,50)><ar(0,7,3,500)>We've confirmed the <pic(0)><cs(3)>Peacemillion<ce()> fighting an unidentified force on this ship's course.",
+   "speaker": "Ra Cailum briefing officer"
+  },
+  {
+   "id": 101,
+   "en": "It seems the Peacemillion has chosen to cooperate with the United Space Force.",
+   "speaker": "Ra Cailum briefing officer"
+  },
+  {
+   "id": 102,
+   "en": "If Commander Misumaru is right, that force is likely the UCE's <pic(1)><cs(3)>Enhanced Corps<ce()>.",
+   "speaker": "Ra Cailum briefing officer"
+  },
+  {
+   "id": 103,
+   "en": "...We've all seen for ourselves what the UCE is trying to do.",
+   "speaker": "Ra Cailum briefing officer"
+  },
+  {
+   "id": 104,
+   "en": "I believe the Ra Cailum must follow the right path.",
+   "speaker": "Ra Cailum briefing officer"
+  },
+  {
+   "id": 105,
+   "en": "Captain Bright agrees with me on this. I'd like all of you to come with us.",
+   "speaker": "Ra Cailum briefing officer"
+  },
+  {
+   "id": 106,
+   "en": "<mk(75,-25,6,0,50)><ar(0,6,0,500)>This ship will now move in to support the Peacemillion.",
+   "speaker": "Ra Cailum briefing officer"
+  },
+  {
+   "id": 200,
+   "en": "I'm truly glad that all of you have chosen the same path as us.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 201,
+   "en": "The Gran Garan, which stayed behind on Earth, has also declared its intention to join us.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 202,
+   "en": "So Londo Bell is reborn, then. I'd love to compose a haiku to mark the occasion, but...",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 203,
+   "en": "We still have work left to do. We must stop Duke Dermail.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 204,
+   "en": "A few radicals or not, an indiscriminate attack on a civilian colony is unforgivable.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 205,
+   "en": "Each UCE group, such as the Earth Federation and the Integrated Armed Forces, has agreed.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 206,
+   "en": "I want you to head to Sweetwater at once. I'm counting on you.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 300,
+   "en": "To think that Londo Bell, a gathering of the elite, would actually be defeated...",
+   "speaker": "Kouichirou Misumaru?"
+  }
+ ]
+}

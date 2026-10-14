@@ -1,0 +1,126 @@
+{
+ "table": "037",
+ "dialogue_file": "work/translation/en/dialogue/m037.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Stop Colony Assault",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "Escort target destroyed",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Defeat the G.Roon",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "The UCE Space Force <mk(0,-75,3,1)><ar(0,3,1,250)><mk(12.5,37.5,1,1,50)><ar(0,1,1,250)><mk(62.5,-81.5,3,1,150)><ar(0,3,1,250)><mk(62.5,50,1,1,250)><ar(0,1,1,250)>has already begun its assault on <pic(0)><cs(3)>Sweetwater<ce()>.",
+   "speaker": "Ra Cailum briefing officer"
+  },
+  {
+   "id": 101,
+   "en": "A total surprise attack, without even an evacuation warning. How can this be allowed...",
+   "speaker": "Ra Cailum briefing officer"
+  },
+  {
+   "id": 102,
+   "en": "Apart from a few radicals, nearly everyone in the colony is just an ordinary civilian.",
+   "speaker": "Ra Cailum briefing officer"
+  },
+  {
+   "id": 103,
+   "en": "This is a massacre disguised as a military operation. We must never allow it.",
+   "speaker": "Ra Cailum briefing officer"
+  },
+  {
+   "id": 104,
+   "en": "We <mk(-75,-75,3,3,1)><ar(0,3,3,300)><mk(-75,50,1,3,150)><ar(0,1,3,300)><mk(-75,-12.5,2,0,300)><ar(0,2,0,300)>will move to stop OZ's attack together with the <pic(1)><cs(3)>Peacemillion and Nadesico<ce()>.",
+   "speaker": "Ra Cailum briefing officer"
+  },
+  {
+   "id": 105,
+   "en": "However, <pt(-12.5,-37.5,1,2,1)><pt(0,0,1,2,50)><pt(50,-37.5,1,2,100)><pt(37.5,-12.5,1,2,1)><pt(62.5,12.5,1,2,1)><pic(2)><cs(3)>civilian shuttles<ce()> fleeing the colony are flying all over the surrounding space.",
+   "speaker": "Ra Cailum briefing officer"
+  },
+  {
+   "id": 106,
+   "en": "Make protecting the civilians your top priority, and save as many people as you can.",
+   "speaker": "Ra Cailum briefing officer"
+  },
+  {
+   "id": 200,
+   "en": "We drove the UCE back, but the space colony was left nearly half destroyed.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 201,
+   "en": "As a result, a great many people have lost their homes and become refugees.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 202,
+   "en": "They refused our aid and appear to have headed for a neutral colony.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 203,
+   "en": "This outcome is regrettable... but it's also true that many lives were saved.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 204,
+   "en": "I want to express my respect for all your efforts.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 205,
+   "en": "The UCE intends to carry on its activities as a hard-line force centered on Duke Dermail.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 206,
+   "en": "We intend to break away as the United Space Force and take a different path from theirs.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 207,
+   "en": "The UCE was born to bring peace and security to Earth through mutual cooperation.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 208,
+   "en": "But this incident has reduced all of that to nothing.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 209,
+   "en": "...We'll likely be glaring at each other for a while. Avoid any pointless fighting.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 210,
+   "en": "I'm sorry, but I want you to return to Earth and await a new mission from us.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 211,
+   "en": "Also, there is someone I'd like you to protect. Someone who holds the key to peace.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 300,
+   "en": "To think that Londo Bell, a gathering of the elite, would actually be defeated...",
+   "speaker": "Kouichirou Misumaru?"
+  }
+ ]
+}

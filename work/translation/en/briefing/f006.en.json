@@ -1,0 +1,131 @@
+{
+ "table": "006",
+ "dialogue_file": "work/translation/en/dialogue/m006.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Collect Classified Cargo",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Find the target",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Obtain an Organic Plate",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "Have any of you heard of an organization called the <cs(1)>Reclaimers<ce()>?",
+   "speaker": "? (Bright Noa or Noin)"
+  },
+  {
+   "id": 101,
+   "en": "The Reclaimers are a group studying an extraterrestrial structure called <pic(0)><cs(1)>Orphan<ce()>.",
+   "speaker": "? (Bright Noa or Noin)"
+  },
+  {
+   "id": 102,
+   "en": "They have a military force of <cs(1)>Organic Machines<ce()>, but the details are unclear.",
+   "speaker": "? (Bright Noa or Noin)"
+  },
+  {
+   "id": 103,
+   "en": "The Reclaimers contacted the Poseidal Army, likely to trade for the classified material.",
+   "speaker": "? (Bright Noa or Noin)"
+  },
+  {
+   "id": 104,
+   "en": "In response, the <pic(1)><cs(3)>Gran Garan<ce()>, out over the Pacific, engaged the Reclaimers early today.",
+   "speaker": "? (Bright Noa or Noin)"
+  },
+  {
+   "id": 105,
+   "en": "The Reclaimers withdrew, but in the battle the <pic(2)><cs(3)>classified material<ce()> sank in the Pacific.",
+   "speaker": "? (Bright Noa or Noin)"
+  },
+  {
+   "id": 106,
+   "en": "Given this, <mk(-55,40,1,3)><ar(0,1,3,150)><mk(-55,-60,3,3,50)><ar(0,3,3,150)><mk(62.5,40,7,0,100)><ar(0,7,0,150)><mk(62.5,-60,5,3,150)><ar(0,5,3,150)>under the Gran Garan's command, we'll help salvage the classified material.",
+   "speaker": "? (Bright Noa or Noin)"
+  },
+  {
+   "id": 107,
+   "en": "We expect the Reclaimers to wait for dawn and then move to recover it as well.",
+   "speaker": "? (Bright Noa or Noin)"
+  },
+  {
+   "id": 108,
+   "en": "Factor in the possibility of underwater combat, and hurry your preparations to sortie.",
+   "speaker": "? (Bright Noa or Noin)"
+  },
+  {
+   "id": 200,
+   "en": "First, let me tell you that the outcome this time is extremely regrettable.",
+   "speaker": "Dermail?"
+  },
+  {
+   "id": 201,
+   "en": "We've kept it hidden until now as classified, but it's time you were told as well.",
+   "speaker": "Dermail?"
+  },
+  {
+   "id": 202,
+   "en": "The classified material is in truth a high-density energy crystal called <cs(1)>E2<ce()>.",
+   "speaker": "Dermail?"
+  },
+  {
+   "id": 203,
+   "en": "It was developed in secret within the UCE, led by OZ, and completed just recently.",
+   "speaker": "Dermail?"
+  },
+  {
+   "id": 204,
+   "en": "E2 synchronizes with any form of energy and boosts its power to an astonishing degree.",
+   "speaker": "Dermail?"
+  },
+  {
+   "id": 205,
+   "en": "By bringing E2 into this war, we intend to hasten the arrival of an era of peace.",
+   "speaker": "Dermail?"
+  },
+  {
+   "id": 206,
+   "en": "The Titans foolishly insisted on using this valuable substance to massacre <cs(1)>Spacenoids<ce()>.",
+   "speaker": "Dermail?"
+  },
+  {
+   "id": 207,
+   "en": "These Reclaimers likely made the deal to use E2 to raise Orphan as well.",
+   "speaker": "Dermail?"
+  },
+  {
+   "id": 208,
+   "en": "If such people misuse it, humanity cannot escape catastrophe. I repeat, this is grave.",
+   "speaker": "Dermail?"
+  },
+  {
+   "id": 209,
+   "en": "We had five E2 in our possession. After this incident, the enemy is down to four.",
+   "speaker": "Dermail?"
+  },
+  {
+   "id": 210,
+   "en": "Bear in mind that no further failures will be tolerated.",
+   "speaker": "Dermail?"
+  },
+  {
+   "id": 300,
+   "en": "What on earth are you doing in a place like this? Think about what your role is.",
+   "speaker": "?"
+  }
+ ]
+}

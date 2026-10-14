@@ -1,0 +1,948 @@
+{
+ "_about": "Locked English spellings for Another Century's Episode. Source priority: akurasu.net ACE pages (work/glossary/akurasu_terms.json), then akurasu-derived SRW MX project glossary (same series), then official/series-standard spellings. Overrides of akurasu are listed in decisions.json.",
+ "organizations": [
+  {
+   "jp": "ＵＣＥ（地球統一機構）",
+   "en": "UCE",
+   "long": "United Community of Earth",
+   "source": "https://superrobotwars.fandom.com/wiki/Another_Century%27s_Episode_Series"
+  },
+  {
+   "jp": "ＯＺ",
+   "en": "OZ",
+   "source": "Gundam Wing"
+  },
+  {
+   "jp": "ロームフェラ財団",
+   "en": "Romefeller Foundation",
+   "source": "Gundam Wing"
+  },
+  {
+   "jp": "連合宇宙軍",
+   "en": "United Space Force",
+   "source": "SRW MX glossary (Nadesico)"
+  },
+  {
+   "jp": "地球連合",
+   "en": "Earth United Nations",
+   "source": "Nadesico (EUN)"
+  },
+  {
+   "jp": "新地球連合政府",
+   "en": "New Earth United Government",
+   "source": "Nadesico: Prince of Darkness"
+  },
+  {
+   "jp": "統合軍",
+   "en": "Integrated Armed Forces",
+   "source": "Nadesico: Prince of Darkness"
+  },
+  {
+   "jp": "サンクキングダム",
+   "en": "Sanc Kingdom",
+   "source": "Gundam Wing"
+  },
+  {
+   "jp": "ピースクラフト",
+   "en": "Peacecraft",
+   "source": "Gundam Wing"
+  },
+  {
+   "jp": "ロンド・ベル",
+   "en": "Londo Bell",
+   "source": "SRW MX glossary"
+  },
+  {
+   "jp": "ラー・カイラム",
+   "en": "Ra Cailum",
+   "source": "SRW MX glossary"
+  },
+  {
+   "jp": "グラン・ガラン",
+   "en": "Gran Garan",
+   "source": "Dunbine"
+  },
+  {
+   "jp": "ナデシコ",
+   "en": "Nadesico",
+   "source": "SRW MX glossary"
+  },
+  {
+   "jp": "ナデシコＢ",
+   "en": "Nadesico B",
+   "source": "SRW MX glossary"
+  },
+  {
+   "jp": "ピースミリオン",
+   "en": "Peacemillion",
+   "source": "Gundam Wing"
+  },
+  {
+   "jp": "ポセイダル軍",
+   "en": "Poseidal Army",
+   "source": "L-Gaim"
+  },
+  {
+   "jp": "オルドナ・ポセイダル",
+   "en": "Oldna Poseidal",
+   "source": "L-Gaim"
+  },
+  {
+   "jp": "ペンタゴナ",
+   "en": "Pentagona",
+   "source": "L-Gaim"
+  },
+  {
+   "jp": "統一帝国ギガノス",
+   "en": "Unified Empire of Giganos",
+   "source": "Dragonar; see decisions.json"
+  },
+  {
+   "jp": "ギガノス帝国",
+   "en": "Giganos Empire",
+   "source": "SRW MX glossary"
+  },
+  {
+   "jp": "ホワイトファング",
+   "en": "White Fang",
+   "source": "Gundam Wing"
+  },
+  {
+   "jp": "火星の後継者",
+   "en": "Martian Successors",
+   "source": "SRW MX glossary"
+  },
+  {
+   "jp": "グラドス軍",
+   "en": "Gradosian Army",
+   "source": "Layzner"
+  },
+  {
+   "jp": "グラドス",
+   "en": "Grados",
+   "source": "Layzner"
+  },
+  {
+   "jp": "ドレイク軍",
+   "en": "Drake Army",
+   "source": "Dunbine"
+  },
+  {
+   "jp": "ドレイク",
+   "en": "Drake",
+   "source": "Dunbine (Drake Luft)"
+  },
+  {
+   "jp": "アの国",
+   "en": "Kingdom of Ah",
+   "source": "Dunbine"
+  },
+  {
+   "jp": "ナの国",
+   "en": "Kingdom of Na",
+   "source": "Dunbine"
+  },
+  {
+   "jp": "ティターンズ",
+   "en": "Titans",
+   "source": "SRW MX glossary"
+  },
+  {
+   "jp": "リクレイマー",
+   "en": "Reclaimers",
+   "source": "Brain Powerd"
+  },
+  {
+   "jp": "ネオ・ジオン",
+   "en": "Neo Zeon",
+   "source": "SRW MX glossary"
+  },
+  {
+   "jp": "ジオン公国",
+   "en": "Principality of Zeon",
+   "source": "Gundam"
+  },
+  {
+   "jp": "一年戦争",
+   "en": "One Year War",
+   "source": "Gundam"
+  },
+  {
+   "jp": "反ＵＣＥ連合",
+   "en": "Anti-UCE Alliance",
+   "source": "ACE original"
+  },
+  {
+   "jp": "地球連邦",
+   "en": "Earth Federation",
+   "source": "SRW MX glossary"
+  },
+  {
+   "jp": "ネルガル重工",
+   "en": "Nergal Heavy Industries",
+   "source": "SRW MX glossary"
+  },
+  {
+   "jp": "アナハイム・エレクトロニクス",
+   "en": "Anaheim Electronics",
+   "source": "SRW MX glossary"
+  },
+  {
+   "jp": "ノヴィス・ノア",
+   "en": "Novis Noah",
+   "source": "Brain Powerd"
+  },
+  {
+   "jp": "地球圏統一連合",
+   "en": "Earth Sphere Alliance",
+   "source": "https://akurasu.net/wiki/New_Mobile_Report_Gundam_Wing"
+  },
+  {
+   "jp": "反ＵＣＥ同盟",
+   "en": "Anti-UCE Alliance",
+   "source": "same group as 反ＵＣＥ連合"
+  },
+  {
+   "jp": "13人衆",
+   "en": "Poseidal's Thirteen",
+   "source": "Heavy Metal L-Gaim; used in the story movie title cards (\"Formerly of Poseidal's Thirteen\")"
+  }
+ ],
+ "concepts": [
+  {
+   "jp": "ボソンジャンプ",
+   "en": "Boson Jump",
+   "source": "SRW MX glossary"
+  },
+  {
+   "jp": "ヒサゴプラン",
+   "en": "Hisago Plan",
+   "source": "SRW MX glossary"
+  },
+  {
+   "jp": "チューリップ",
+   "en": "Chulip",
+   "source": "SRW MX glossary"
+  },
+  {
+   "jp": "ターミナルコロニー",
+   "en": "terminal colony",
+   "source": "Nadesico: Prince of Darkness"
+  },
+  {
+   "jp": "スペースノイド",
+   "en": "Spacenoid",
+   "source": "SRW MX glossary"
+  },
+  {
+   "jp": "オーラエナジー",
+   "en": "Aura Energy",
+   "source": "Dunbine"
+  },
+  {
+   "jp": "オーラ力",
+   "en": "Aura Power",
+   "source": "Dunbine"
+  },
+  {
+   "jp": "バイストン・ウェル",
+   "en": "Byston Well",
+   "source": "Dunbine"
+  },
+  {
+   "jp": "オルファン",
+   "en": "Orphan",
+   "source": "Brain Powerd"
+  },
+  {
+   "jp": "オーガニック・マシン",
+   "en": "Organic Machine",
+   "source": "Brain Powerd"
+  },
+  {
+   "jp": "オーガニック・プレート",
+   "en": "Organic Plate",
+   "source": "Brain Powerd"
+  },
+  {
+   "jp": "ブレンパワード",
+   "en": "Brain Powerd",
+   "source": "Brain Powerd"
+  },
+  {
+   "jp": "グランチャー",
+   "en": "Grancher",
+   "source": "Brain Powerd"
+  },
+  {
+   "jp": "Ｅ２",
+   "en": "E2",
+   "source": "ACE original"
+  },
+  {
+   "jp": "ニュータイプ",
+   "en": "Newtype",
+   "source": "SRW MX glossary"
+  },
+  {
+   "jp": "強化人間",
+   "en": "Enhanced Human",
+   "source": "SRW MX glossary"
+  },
+  {
+   "jp": "サイコミュ",
+   "en": "Psycommu",
+   "source": "SRW MX glossary"
+  },
+  {
+   "jp": "ファンネル",
+   "en": "funnel",
+   "source": "Gundam"
+  },
+  {
+   "jp": "フィン・ファンネル",
+   "en": "Fin Funnel",
+   "source": "Char's Counterattack"
+  },
+  {
+   "jp": "ディストーションフィールド",
+   "en": "Distortion Field",
+   "source": "SRW MX glossary"
+  },
+  {
+   "jp": "グラビティブラスト",
+   "en": "Gravity Blast",
+   "source": "SRW MX glossary"
+  },
+  {
+   "jp": "モビルスーツ",
+   "en": "mobile suit",
+   "source": "Gundam"
+  },
+  {
+   "jp": "モビルアーマー",
+   "en": "mobile armor",
+   "source": "Gundam"
+  },
+  {
+   "jp": "メタルアーマー",
+   "en": "Metal Armor",
+   "source": "SRW MX glossary"
+  },
+  {
+   "jp": "ヘビーメタル",
+   "en": "Heavy Metal",
+   "source": "L-Gaim"
+  },
+  {
+   "jp": "オーラバトラー",
+   "en": "Aura Battler",
+   "source": "Dunbine"
+  },
+  {
+   "jp": "ＳＰＴ",
+   "en": "SPT",
+   "source": "Layzner"
+  },
+  {
+   "jp": "パーソナルトルーパー",
+   "en": "Personal Trooper",
+   "source": "SRW"
+  },
+  {
+   "jp": "エステバリス",
+   "en": "Aestivalis",
+   "source": "SRW MX glossary"
+  },
+  {
+   "jp": "リフター",
+   "en": "Lifter",
+   "source": "Dragonar"
+  },
+  {
+   "jp": "Ｚ計画",
+   "en": "Project Z",
+   "source": "Zeta Gundam"
+  },
+  {
+   "jp": "ガンダニュウム",
+   "en": "Gundanium",
+   "source": "Gundam Wing"
+  },
+  {
+   "jp": "サイコフレーム",
+   "en": "Psycoframe",
+   "source": "Char's Counterattack (official spelling)"
+  },
+  {
+   "jp": "アマテラス",
+   "en": "Amaterasu",
+   "source": "https://akurasu.net/wiki/Another_Century%27s_Episode/Flow_Chart"
+  },
+  {
+   "jp": "ハーラル",
+   "en": "Harald",
+   "source": "https://akurasu.net/wiki/Another_Century%27s_Episode/Flow_Chart"
+  },
+  {
+   "jp": "グノスト",
+   "en": "Gnost",
+   "source": "UNSOURCED romanization - verify"
+  },
+  {
+   "jp": "シアスィ",
+   "en": "Siasi",
+   "source": "UNSOURCED romanization - verify"
+  },
+  {
+   "jp": "アンチボディ",
+   "en": "Antibodies",
+   "source": "https://en.wikipedia.org/wiki/Brain_Powerd (akurasu has no entry)"
+  },
+  {
+   "jp": "聖戦士",
+   "en": "Holy Warrior",
+   "source": "Dunbine (no akurasu entry); locked for consistency"
+  },
+  {
+   "jp": "地上人",
+   "en": "people of the Surface (Surface folk)",
+   "source": "Dunbine term for people from our world; locked for consistency"
+  },
+  {
+   "jp": "ノベンタ砲",
+   "en": "Noventa Cannon",
+   "source": "UNSOURCED; after Marshal Noventa (Gundam Wing)"
+  },
+  {
+   "jp": "電子の妖精",
+   "en": "Electronic Fairy",
+   "source": "Ruri Hoshino epithet; common English rendering (no akurasu entry); locked for consistency"
+  },
+  {
+   "jp": "サイコガンダム",
+   "en": "Psycho Gundam",
+   "source": "akurasu ACE flow chart"
+  },
+  {
+   "jp": "シュティーア",
+   "en": "Stier",
+   "source": "akurasu ACE flow chart, Mission 27"
+  },
+  {
+   "jp": "ゲア・ガリング",
+   "en": "Gea Garing",
+   "source": "see decisions.json"
+  },
+  {
+   "jp": "ウィル・ウィプス",
+   "en": "Will Wipps",
+   "source": "akurasu ACE flow chart"
+  }
+ ],
+ "mechs": "Use work/glossary/akurasu_terms.json (Mech Database). Exceptions in decisions.json.",
+ "characters": [
+  {
+   "jp": "草壁春樹",
+   "en": "Haruki Kusakabe",
+   "gender": "male",
+   "role": "Lieutenant General, leader of the Martian Successors",
+   "source": "Nadesico: Prince of Darkness"
+  },
+  {
+   "jp": "テンカワ・アキト",
+   "en": "Akito Tenkawa",
+   "gender": "male",
+   "role": "pilot of the Black Sarena",
+   "source": "Nadesico"
+  },
+  {
+   "jp": "アキト",
+   "en": "Akito",
+   "gender": "male",
+   "source": "Nadesico"
+  },
+  {
+   "jp": "デルマイユ",
+   "en": "Duke Dermail",
+   "gender": "male",
+   "role": "Romefeller duke",
+   "source": "Gundam Wing"
+  },
+  {
+   "jp": "サリィ・ポォ",
+   "en": "Sally Po",
+   "gender": "female",
+   "role": "UCE officer, captain of Peacemillion here",
+   "source": "Gundam Wing"
+  },
+  {
+   "jp": "ギル・ドレ",
+   "en": "Gil Doren",
+   "gender": "male",
+   "role": "Giganos Marshal",
+   "source": "Dragonar"
+  },
+  {
+   "jp": "グレスコ",
+   "en": "Gresco",
+   "gender": "male",
+   "role": "Admiral of the Grados invasion fleet",
+   "source": "Layzner"
+  },
+  {
+   "jp": "ダバ・マイロード",
+   "en": "Daba Myroad",
+   "gender": "male",
+   "role": "pilot of the L-Gaim",
+   "source": "L-Gaim"
+  },
+  {
+   "jp": "アムロ・レイ",
+   "en": "Amuro Ray",
+   "gender": "male",
+   "source": "Gundam"
+  },
+  {
+   "jp": "シャア・アズナブル",
+   "en": "Char Aznable",
+   "gender": "male",
+   "source": "Gundam"
+  },
+  {
+   "jp": "カミーユ・ビダン",
+   "en": "Kamille Bidan",
+   "gender": "male",
+   "source": "Zeta Gundam"
+  },
+  {
+   "jp": "ネリー・キム",
+   "en": "Nelly Kim",
+   "gender": "female",
+   "source": "Brain Powerd"
+  },
+  {
+   "jp": "ドクターＪ",
+   "en": "Doctor J",
+   "gender": "male",
+   "source": "Gundam Wing"
+  },
+  {
+   "jp": "プロフェッサーＧ",
+   "en": "Professor G",
+   "gender": "male",
+   "source": "Gundam Wing"
+  },
+  {
+   "jp": "ドクトルＳ",
+   "en": "Doktor S",
+   "gender": "male",
+   "source": "Gundam Wing"
+  },
+  {
+   "jp": "Ｈ教授",
+   "en": "Instructor H",
+   "gender": "male",
+   "source": "Gundam Wing"
+  },
+  {
+   "jp": "老師Ｏ",
+   "en": "Master O",
+   "gender": "male",
+   "source": "Gundam Wing"
+  },
+  {
+   "jp": "ナタク",
+   "en": "Nataku",
+   "source": "Gundam Wing"
+  },
+  {
+   "jp": "ショウ・ザマ",
+   "en": "Show Zama",
+   "gender": "male",
+   "role": "pilot of the Dunbine",
+   "source": "https://akurasu.net/wiki/Super_Robot_Wars/Alpha/Pilot_Database"
+  },
+  {
+   "jp": "スバル・リョーコ",
+   "en": "Ryoko Subaru",
+   "gender": "female",
+   "role": "Aestivalis pilot",
+   "source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Pilot_Database"
+  },
+  {
+   "jp": "月臣元一朗",
+   "en": "Genichiro Tsukiomi",
+   "gender": "male",
+   "role": "",
+   "source": "https://akurasu.net/wiki/Super_Robot_Wars/J/Character_List"
+  },
+  {
+   "jp": "アルバトロ・ナル・エイジ・アスカ",
+   "en": "Albatro Nul Eiji Asuka",
+   "gender": "male",
+   "role": "pilot of the Layzner",
+   "source": "https://akurasu.net/wiki/Super_Robot_Wars/J/Character_List"
+  },
+  {
+   "jp": "ル・カイン",
+   "en": "Le Cain",
+   "gender": "male",
+   "role": "pilot of the Zakaal",
+   "source": "https://akurasu.net/wiki/Super_Robot_Wars/J/Character_List"
+  },
+  {
+   "jp": "伊佐未勇",
+   "en": "Yuu Isami",
+   "gender": "male",
+   "role": "pilot of the Yuu Brain",
+   "source": "https://akurasu.net/wiki/Super_Robot_Wars/Alpha_2/Character_List"
+  },
+  {
+   "jp": "宇都宮比瑪",
+   "en": "Hime Utsunomiya",
+   "gender": "female",
+   "role": "pilot of the Hime Brain",
+   "source": "official reading; see decisions.json"
+  },
+  {
+   "jp": "ケーン・ワカバ",
+   "en": "Kain Wakaba",
+   "gender": "male",
+   "role": "Dragonar-1 pilot",
+   "source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Pilot_Database"
+  },
+  {
+   "jp": "タップ・オセアノ",
+   "en": "Tapp Oceano",
+   "gender": "male",
+   "role": "Dragonar-2 pilot",
+   "source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Pilot_Database"
+  },
+  {
+   "jp": "ライト・ニューマン",
+   "en": "Light Newman",
+   "gender": "male",
+   "role": "Dragonar-3 pilot",
+   "source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Pilot_Database"
+  },
+  {
+   "jp": "クワトロ・バジーナ",
+   "en": "Quattro Bajeena",
+   "gender": "male",
+   "role": "pilot of the Hyaku Shiki",
+   "source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Character_List"
+  },
+  {
+   "jp": "ギャブレット・ギャブレー",
+   "en": "Gavlet Gablae",
+   "gender": "male",
+   "role": "pilot of the Ashura Temple",
+   "source": "https://en.wikipedia.org/wiki/List_of_Heavy_Metal_L-Gaim_characters"
+  },
+  {
+   "jp": "ガウ・ハ・レッシィ",
+   "en": "Gaw Ha Leccee",
+   "gender": "female",
+   "role": "",
+   "source": "https://en.wikipedia.org/wiki/List_of_Heavy_Metal_L-Gaim_characters"
+  },
+  {
+   "jp": "ギャブレー",
+   "en": "Gavlet",
+   "gender": "male",
+   "role": "short form of Gavlet Gablae as used in the game text",
+   "source": "L-Gaim"
+  },
+  {
+   "jp": "ルクレツィア・ノイン",
+   "en": "Lucrezia Noin",
+   "gender": "female",
+   "source": "https://akurasu.net/wiki/New_Mobile_Report_Gundam_Wing"
+  },
+  {
+   "jp": "ゼクス・マーキス",
+   "en": "Zechs Merquise",
+   "gender": "male",
+   "source": "https://akurasu.net/wiki/New_Mobile_Report_Gundam_Wing (akurasu W pilot list writes Marquise)"
+  },
+  {
+   "jp": "リリーナ・ピースクラフト",
+   "en": "Relena Peacecraft",
+   "gender": "female",
+   "source": "https://akurasu.net/wiki/New_Mobile_Report_Gundam_Wing"
+  },
+  {
+   "jp": "ギルトール",
+   "en": "Guiltorre",
+   "gender": "male",
+   "role": "Giganos Marshal",
+   "source": "https://akurasu.net/wiki/Metal_Armor_Dragonar"
+  },
+  {
+   "jp": "シーラ・ラパーナ",
+   "en": "Ciela Lapana",
+   "gender": "female",
+   "source": "https://en.wikipedia.org/wiki/Aura_Battler_Dunbine"
+  },
+  {
+   "jp": "ミスマル・コウイチロウ",
+   "en": "Kouichirou Misumaru",
+   "gender": "male",
+   "source": "https://myanimelist.net/character/100665"
+  },
+  {
+   "jp": "ホシノ・ルリ",
+   "en": "Ruri Hoshino",
+   "gender": "female",
+   "source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Pilot_Database"
+  },
+  {
+   "jp": "ブライト・ノア",
+   "en": "Bright Noa",
+   "gender": "male",
+   "role": "captain of the Ra Cailum",
+   "source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Character_List"
+  },
+  {
+   "jp": "ジョナサン・グレーン",
+   "en": "Jonathan Green",
+   "gender": "male",
+   "role": "Reclaimer pilot (Grancher)",
+   "source": "https://akurasu.net/wiki/Super_Robot_Wars/Alpha_2/Character_List"
+  },
+  {
+   "jp": "ゲイル",
+   "en": "Gale",
+   "gender": "male",
+   "role": "Eiji's senior (Grados); full name Ahmos Gale",
+   "source": "https://akurasu.net/wiki/Super_Robot_Wars/J/Pilot_Database"
+  },
+  {
+   "jp": "マイヨ・プラート",
+   "en": "Meio Plato",
+   "gender": "male",
+   "role": "Giganos ace, \"Blue Hawk of Giganos\"",
+   "source": "https://akurasu.net/wiki/Metal_Armor_Dragonar"
+  },
+  {
+   "jp": "ダン",
+   "en": "Dan Krueger",
+   "gender": "male",
+   "role": "Practice Squad (Meio's men)",
+   "source": "https://akurasu.net/wiki/Metal_Armor_Dragonar"
+  },
+  {
+   "jp": "カール",
+   "en": "Karl Geiner",
+   "gender": "male",
+   "role": "Practice Squad",
+   "source": "https://akurasu.net/wiki/Metal_Armor_Dragonar"
+  },
+  {
+   "jp": "ウェルナー",
+   "en": "Welner Fritz",
+   "gender": "male",
+   "role": "Practice Squad",
+   "source": "https://akurasu.net/wiki/Metal_Armor_Dragonar"
+  },
+  {
+   "jp": "ドルチェノフ",
+   "en": "Dorchenov",
+   "gender": "male",
+   "role": "Giganos officer",
+   "source": "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+  },
+  {
+   "jp": "ギガノスの蒼き鷹",
+   "en": "Blue Hawk of Giganos",
+   "gender": "",
+   "role": "epithet of Meio Plato",
+   "source": "see decisions.json"
+  },
+  {
+   "jp": "カーンズ",
+   "en": "Kahns",
+   "gender": "unknown - keep neutral",
+   "role": "leader of the Anti-UCE Alliance (ACE original)",
+   "source": "UNSOURCED romanization (no akurasu/wiki entry found); locked for consistency"
+  },
+  {
+   "jp": "ロザミィ",
+   "en": "Rosamia",
+   "gender": "female",
+   "role": "Enhanced Human (Zeta Gundam), Baund Doc pilot",
+   "source": "https://dic.nicovideo.jp (Rosamia Badam); standard Zeta spelling"
+  },
+  {
+   "jp": "バーン・バニングス",
+   "en": "Bern Bunnings",
+   "gender": "male",
+   "role": "the Black Knight (黒騎士), Zwarth pilot",
+   "source": "https://akurasu.net/wiki/Super_Robot_Wars/Alpha/Character_List"
+  },
+  {
+   "jp": "リンダ・プラート",
+   "en": "Linda Plato",
+   "gender": "female",
+   "role": "Meio Plato's sister",
+   "source": "https://akurasu.net/wiki/Metal_Armor_Dragonar"
+  },
+  {
+   "jp": "ジェリル・クチビ",
+   "en": "Jeril Coochibi",
+   "gender": "female",
+   "role": "Drake Army pilot (Leprechaun)",
+   "source": "https://akurasu.net/wiki/Super_Robot_Wars/Alpha/Character_List"
+  },
+  {
+   "jp": "ドレイク・ルフト",
+   "en": "Drake Luft",
+   "gender": "male",
+   "role": "ruler of Ah, Drake Army",
+   "source": "https://akurasu.net/wiki/Aura_Battler_Dunbine"
+  },
+  {
+   "jp": "フル・フラット",
+   "en": "Full Flat",
+   "gender": "female",
+   "role": "L-Gaim (Pentagona)",
+   "source": "https://akurasu.net/wiki/Heavy_Metal_L-Gaim"
+  },
+  {
+   "jp": "フォウ・ムラサメ",
+   "en": "Four Murasame",
+   "gender": "female",
+   "role": "Enhanced Human, Psycho Gundam pilot",
+   "source": "https://akurasu.net/wiki/Mobile_Suit_Zeta_Gundam"
+  },
+  {
+   "jp": "ジェリド・メサ",
+   "en": "Jerid Messa",
+   "gender": "male",
+   "role": "Titans pilot",
+   "source": "https://akurasu.net/wiki/Super_Robot_Wars/Alpha/Character_List"
+  },
+  {
+   "jp": "ヤザン・ゲーブル",
+   "en": "Yazan Gable",
+   "gender": "male",
+   "role": "Titans, Hambrabi team",
+   "source": "https://akurasu.net/wiki/Super_Robot_Wars/Alpha/Character_List"
+  },
+  {
+   "jp": "クェス・パラヤ",
+   "en": "Quess Paraya",
+   "gender": "female",
+   "role": "Neo Zeon, Jagd Doga pilot",
+   "source": "https://akurasu.net/wiki/Super_Robot_Wars/Alpha/Character_List"
+  },
+  {
+   "jp": "シャア",
+   "en": "Char",
+   "gender": "male",
+   "role": "Neo Zeon Supreme Leader; 大佐 = Captain Char",
+   "source": "https://akurasu.net/wiki/Super_Robot_Wars/Alpha/Character_List"
+  },
+  {
+   "jp": "北辰",
+   "en": "Hokushin",
+   "gender": "male",
+   "role": "Martian Successors assassin (Yatenkou)",
+   "source": "standard romanization; no akurasu entry"
+  },
+  {
+   "jp": "ハーリー・マキビ",
+   "en": "Harry Makibi",
+   "gender": "male",
+   "role": "Nadesico crew",
+   "source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Pilot_Database"
+  },
+  {
+   "jp": "ジャミトフ・ハイマン",
+   "en": "Jamitov Hymem",
+   "gender": "male",
+   "role": "Titans leader",
+   "source": "official Zeta Gundam English; see decisions.json"
+  },
+  {
+   "jp": "アンナ・ステファニー",
+   "en": "Anna Stephanie",
+   "gender": "female",
+   "role": "Ra Cailum medical crew (story movie narrator)",
+   "source": "ACE original; no official English, romanized"
+  }
+ ],
+ "controls": [
+  {
+   "jp": "○ボタン",
+   "en": "Circle button",
+   "note": "keep the game's button glyphs (○□△×, ①②, ㊤㊦㊧㊨) when the source uses them"
+  },
+  {
+   "jp": "ロックオン",
+   "en": "lock-on"
+  },
+  {
+   "jp": "マルチロック",
+   "en": "Multi-Lock"
+  },
+  {
+   "jp": "チェイン",
+   "en": "Chain"
+  },
+  {
+   "jp": "よろけ",
+   "en": "Stagger"
+  },
+  {
+   "jp": "ダッシュターン",
+   "en": "Dash Turn"
+  },
+  {
+   "jp": "溜め射撃",
+   "en": "Charged Shot"
+  }
+ ],
+ "stat_block": {
+  "format": "blank line, then indented lines \"  Pilot: X\", \"  Height: 6.9 met  Weight: 4.4 lufton\", \"  Series: <akurasu series name>\"; unknown values -> \"--\"",
+  "labels": {
+   "パイロット": "Pilot",
+   "全高": "Height",
+   "重量": "Weight",
+   "原作": "Series"
+  }
+ },
+ "ranks": [
+  {
+   "jp": "大尉",
+   "en": "Lieutenant",
+   "note": "Gundam English convention (Quattro, Amuro); used for Federation/UCE army ranks"
+  },
+  {
+   "jp": "大佐",
+   "en": "Captain",
+   "note": "Bright Noa (naval command); Char-era jokes keep the same word"
+  },
+  {
+   "jp": "一級特尉",
+   "en": "Special Lieutenant First Class",
+   "note": "Noin (OZ rank)"
+  },
+  {
+   "jp": "少佐",
+   "en": "Major",
+   "note": "army/UCE officers (Sally Po); Ruri as ship captain may be addressed by role"
+  },
+  {
+   "jp": "総帥",
+   "en": "Supreme Leader (Char / Neo Zeon); Supreme Commander (Giganos: Guiltorre); leader (Zechs / White Fang)",
+   "note": "per-faction convention settled in m008, m014, m039"
+  }
+ ],
+ "dialogue_conventions": [
+  "Selectable operator rows 50-79 repeat ten operator slots (50-59, 60-69, 70-79); keep each slot's voice consistent across missions.",
+  "Operator slot 7 (rows 56, 66, 76) is a machine voice written in katakana: render in ALL CAPS, clipped.",
+  "Timing-only rows (tokens, no visible text) keep en empty."
+ ]
+}

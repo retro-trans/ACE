@@ -1,0 +1,573 @@
+{
+ "movie": "M1_MOVIE013",
+ "segments": [
+  {
+   "type": "static",
+   "card": 0,
+   "frames": [
+    19,
+    134
+   ],
+   "box": [
+    42,
+    188,
+    470,
+    349
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      201,
+      220
+     ],
+     "en": "— Former UCE Representative",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 16,
+     "weight": 700
+    },
+    {
+     "band": [
+      228,
+      247
+     ],
+     "en": "Relena Peacecraft —",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 16,
+     "weight": 700
+    }
+   ],
+   "ink_rows": [
+    [
+     199,
+     222
+    ],
+    [
+     226,
+     249
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 1,
+   "frames": [
+    183,
+    397
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      377
+     ],
+     "en": "Back then, I was uncertain.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      405
+     ],
+     "en": "Uncertain about taking a step forward.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     379
+    ],
+    [
+     386,
+     407
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 2,
+   "frames": [
+    448,
+    624
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      378
+     ],
+     "en": "In space, a great many refugees had appeared,",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      405
+     ],
+     "en": "wandering with nowhere to go.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     380
+    ],
+    [
+     386,
+     407
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 3,
+   "frames": [
+    684,
+    779
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      373,
+      390
+     ],
+     "en": "Was there nothing I could do to help them?",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     371,
+     392
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 4,
+   "frames": [
+    801,
+    966
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      378
+     ],
+     "en": "I kept asking myself that, but—",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      404
+     ],
+     "en": "I did not know what I should do.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     380
+    ],
+    [
+     386,
+     406
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 5,
+   "frames": [
+    1009,
+    1182
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      377
+     ],
+     "en": "But when I met them again that day,",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      404
+     ],
+     "en": "they made me realize something.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     379
+    ],
+    [
+     386,
+     406
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 6,
+   "frames": [
+    1221,
+    1331
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      373,
+      390
+     ],
+     "en": "I will never condone settling things by force.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     371,
+     392
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 7,
+   "frames": [
+    1359,
+    1554
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      378
+     ],
+     "en": "But that one must act on one's convictions—",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      404
+     ],
+     "en": "that much I came to understand.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     380
+    ],
+    [
+     386,
+     406
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 8,
+   "frames": [
+    1587,
+    1704
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      377
+     ],
+     "en": "That is surely why I made",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      404
+     ],
+     "en": "such a request of them.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     379
+    ],
+    [
+     386,
+     406
+    ]
+   ],
+   "bg_level": 16.0
+  },
+  {
+   "type": "static",
+   "card": 9,
+   "frames": [
+    1758,
+    1961
+   ],
+   "box": [
+    42,
+    351,
+    470,
+    414
+   ],
+   "refs": [
+    "black"
+   ],
+   "combine": "min",
+   "colour": [
+    200,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      361,
+      377
+     ],
+     "en": "Even at the risk of my own safety, I resolved",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    },
+    {
+     "band": [
+      388,
+      404
+     ],
+     "en": "to bring my message to the people myself.",
+     "align": "center",
+     "x": 256,
+     "width": 420,
+     "size": 15,
+     "weight": 600
+    }
+   ],
+   "ink_rows": [
+    [
+     359,
+     379
+    ],
+    [
+     386,
+     406
+    ]
+   ],
+   "bg_level": 16.0
+  }
+ ]
+}

@@ -1,0 +1,196 @@
+{
+ "group": "units",
+ "font": "f005",
+ "where": [
+  "\\target\\menu\\fmg\\f201.fmg@0x0",
+  "\\target\\menu\\fmg\\f251.fmg@0x0",
+  "\\target\\menu\\bnd\\mode_data\\MenuCampaign.csc:\\target\\menu\\fmg\\f201.fmg@0x65f800",
+  "\\target\\menu\\bnd\\mode_data\\MenuCampaign.csc:\\target\\menu\\fmg\\f251.fmg@0x670000",
+  "\\target\\menu\\bnd\\mode_data\\MenuFree.csc:\\target\\menu\\fmg\\f201.fmg@0x5fc000",
+  "\\target\\menu\\bnd\\mode_data\\MenuFree.csc:\\target\\menu\\fmg\\f251.fmg@0x60c800",
+  "\\target\\menu\\bnd\\mode_data\\MenuMulti.csc:\\target\\menu\\fmg\\f251.fmg@0x453000"
+ ],
+ "limits": {
+  "lines": 1,
+  "width": 181,
+  "bytes": 27
+ },
+ "rows": [
+  {
+   "id": 1,
+   "en": "MP Gespenst Mk-II"
+  },
+  {
+   "id": 2,
+   "en": "Cloudbreaker MP Type"
+  },
+  {
+   "id": 3,
+   "en": "Dunbine"
+  },
+  {
+   "id": 4,
+   "en": "Billbine"
+  },
+  {
+   "id": 5,
+   "en": "Zwarth"
+  },
+  {
+   "id": 6,
+   "en": "Billbine (Camouflage Color)"
+  },
+  {
+   "id": 7,
+   "en": "Black Sarena"
+  },
+  {
+   "id": 8,
+   "en": "Aestivalis Custom"
+  },
+  {
+   "id": 9,
+   "en": "Alstroemeria"
+  },
+  {
+   "id": 10,
+   "en": "Layzner"
+  },
+  {
+   "id": 11,
+   "en": "Zakaal"
+  },
+  {
+   "id": 12,
+   "en": "Yuu Brain"
+  },
+  {
+   "id": 13,
+   "en": "Hime Brain"
+  },
+  {
+   "id": 14,
+   "en": "Nelly Brain"
+  },
+  {
+   "id": 15,
+   "en": "Baronz"
+  },
+  {
+   "id": 16,
+   "en": "Wing Gundam"
+  },
+  {
+   "id": 17,
+   "en": "Gundam Deathscythe"
+  },
+  {
+   "id": 18,
+   "en": "Gundam Heavyarms"
+  },
+  {
+   "id": 19,
+   "en": "Gundam Sandrock"
+  },
+  {
+   "id": 20,
+   "en": "Shenlong Gundam"
+  },
+  {
+   "id": 21,
+   "en": "Tallgeese"
+  },
+  {
+   "id": 22,
+   "en": "Gundam Epyon"
+  },
+  {
+   "id": 23,
+   "en": "Dragonar-1 Earth"
+  },
+  {
+   "id": 24,
+   "en": "Dragonar-1 Space"
+  },
+  {
+   "id": 25,
+   "en": "Dragonar-2 Earth"
+  },
+  {
+   "id": 26,
+   "en": "Dragonar-2 Space"
+  },
+  {
+   "id": 27,
+   "en": "Dragonar-3 Earth"
+  },
+  {
+   "id": 28,
+   "en": "Dragonar-3 Space"
+  },
+  {
+   "id": 29,
+   "en": "Gilgazamune"
+  },
+  {
+   "id": 30,
+   "en": "Z Gundam"
+  },
+  {
+   "id": 31,
+   "en": "Hyaku Shiki"
+  },
+  {
+   "id": 32,
+   "en": "Baund Doc"
+  },
+  {
+   "id": 33,
+   "en": "Quebeley"
+  },
+  {
+   "id": 34,
+   "en": "L-Gaim"
+  },
+  {
+   "id": 35,
+   "en": "L-Gaim Mk-II"
+  },
+  {
+   "id": 36,
+   "en": "Aug"
+  },
+  {
+   "id": 37,
+   "en": "Ashura Temple"
+  },
+  {
+   "id": 38,
+   "en": "Novel D.Sserd"
+  },
+  {
+   "id": 39,
+   "en": "Amon Duule \"Stack\""
+  },
+  {
+   "id": 40,
+   "en": "Nu Gundam"
+  },
+  {
+   "id": 41,
+   "en": "Sazabi"
+  },
+  {
+   "id": 42,
+   "en": "Dragonar-1"
+  },
+  {
+   "id": 43,
+   "en": "Dragonar-2"
+  },
+  {
+   "id": 44,
+   "en": "Dragonar-3"
+  }
+ ]
+}

@@ -1,0 +1,395 @@
+{
+ "mission": "032",
+ "rows": [
+  {
+   "id": 1,
+   "speaker": "HUD",
+   "en": "Destroy fake turrets & foes"
+  },
+  {
+   "id": 2,
+   "speaker": "HUD",
+   "en": "---"
+  },
+  {
+   "id": 3,
+   "speaker": "HUD",
+   "en": "Defeat enemy forces"
+  },
+  {
+   "id": 11,
+   "speaker": "Operator",
+   "en": "All units are in position."
+  },
+  {
+   "id": 12,
+   "speaker": "Bright Noa?",
+   "en": "Sweep the enemies around here and protect Theart Star!"
+  },
+  {
+   "id": 15,
+   "speaker": "Operator",
+   "en": "Camouflaged turrets have been set up to intercept us."
+  },
+  {
+   "id": 16,
+   "speaker": "Bright Noa?",
+   "en": "Destroy every one of them!"
+  },
+  {
+   "id": 18,
+   "speaker": "Bright Noa?",
+   "en": "It's a trap with jamming capability. Watch out!"
+  },
+  {
+   "id": 21,
+   "speaker": "Operator",
+   "en": "Enemy reinforcements confirmed."
+  },
+  {
+   "id": 31,
+   "speaker": "Operator",
+   "en": "Transmission from the Poseidal Army."
+  },
+  {
+   "id": 32,
+   "speaker": "Operator",
+   "en": "\"Our objective is to take Full Flat into custody,"
+  },
+  {
+   "id": 33,
+   "speaker": "Operator",
+   "en": "and we have no intention of fighting the UCE.\""
+  },
+  {
+   "id": 34,
+   "speaker": "Operator",
+   "en": "They're telling us to withdraw immediately."
+  },
+  {
+   "id": 35,
+   "speaker": "Bright Noa?",
+   "en": "What are they saying? This is neutral territory!"
+  },
+  {
+   "id": 36,
+   "speaker": "Bright Noa?",
+   "en": "Never mind them. Return fire!"
+  },
+  {
+   "id": 37,
+   "speaker": "Operator",
+   "en": "A heat source is approaching us!"
+  },
+  {
+   "id": 38,
+   "speaker": "Operator",
+   "en": "It's a Heavy Metal of unknown type."
+  },
+  {
+   "id": 41,
+   "speaker": "Operator",
+   "en": "A unit is approaching our position!"
+  },
+  {
+   "id": 42,
+   "speaker": "Bright Noa?",
+   "en": "Reinforcements!? Prepare to intercept..."
+  },
+  {
+   "id": 43,
+   "speaker": "Gavlet Gablae?",
+   "en": "No need to be so hasty, all of you."
+  },
+  {
+   "id": 44,
+   "speaker": "Gavlet Gablae?",
+   "en": "As I am now, I am not your enemy."
+  },
+  {
+   "id": 45,
+   "speaker": "Gavlet Gablae?",
+   "en": "I shall show you the proof of that soon enough."
+  },
+  {
+   "id": 47,
+   "speaker": "Operator",
+   "en": "The Ashura Temple is providing cover for us."
+  },
+  {
+   "id": 48,
+   "speaker": "Bright Noa?",
+   "en": "What on earth is going on...?"
+  },
+  {
+   "id": 51,
+   "speaker": "Operator",
+   "en": "Heat signature confirmed on radar."
+  },
+  {
+   "id": 52,
+   "speaker": "Operator",
+   "en": "It's identified as Grados!"
+  },
+  {
+   "id": 53,
+   "speaker": "Bright Noa?",
+   "en": "They're using this chance to attack. Intercept them!"
+  },
+  {
+   "id": 61,
+   "speaker": "Operator",
+   "en": "The surrounding area has been secured."
+  },
+  {
+   "id": 62,
+   "speaker": "Operator",
+   "en": "Transmission from Theart Star. Opening the channel."
+  },
+  {
+   "id": 63,
+   "speaker": "Full Flat",
+   "en": "I am truly grateful for what you have done here."
+  },
+  {
+   "id": 64,
+   "speaker": "Full Flat",
+   "en": "For now, as thanks, let me share some information."
+  },
+  {
+   "id": 65,
+   "speaker": "Full Flat",
+   "en": "The Titans have sent out a fleet."
+  },
+  {
+   "id": 66,
+   "speaker": "Full Flat",
+   "en": "They plan to cut in on the UCE's battle with Neo Zeon."
+  },
+  {
+   "id": 67,
+   "speaker": "Bright Noa?",
+   "en": "So the Titans are on the move too..."
+  },
+  {
+   "id": 68,
+   "speaker": "Bright Noa?",
+   "en": "Thank you for the valuable information."
+  },
+  {
+   "id": 69,
+   "speaker": "Full Flat",
+   "en": "There is one more thing I wish to tell you all."
+  },
+  {
+   "id": 70,
+   "speaker": "Full Flat",
+   "en": "It concerns the one who stands behind Lady Poseidal."
+  },
+  {
+   "id": 71,
+   "speaker": "Gavlet Gablae?",
+   "en": "Yes, that is exactly what I wish to know."
+  },
+  {
+   "id": 74,
+   "speaker": "Operator",
+   "en": "We've destroyed most of the Poseidal forces nearby."
+  },
+  {
+   "id": 81,
+   "speaker": "Operator (slot 1)",
+   "en": "Don't just attack at random!"
+  },
+  {
+   "id": 82,
+   "speaker": "Operator (slot 2)",
+   "en": "Don't go attacking blindly."
+  },
+  {
+   "id": 83,
+   "speaker": "Operator (slot 3)",
+   "en": "It's dangerous to fire indiscriminately."
+  },
+  {
+   "id": 84,
+   "speaker": "Operator (slot 4)",
+   "en": "Just shooting isn't the answer."
+  },
+  {
+   "id": 85,
+   "speaker": "Operator (slot 5)",
+   "en": "No attacking at random, okay!?"
+  },
+  {
+   "id": 86,
+   "speaker": "Operator (slot 6)",
+   "en": "Shooting at random is dangerous."
+  },
+  {
+   "id": 87,
+   "speaker": "Operator (slot 7)",
+   "en": "IDENTIFY TARGET."
+  },
+  {
+   "id": 88,
+   "speaker": "Operator (slot 8)",
+   "en": "Attacking at random is dangerous!"
+  },
+  {
+   "id": 89,
+   "speaker": "Operator (slot 9)",
+   "en": "Shooting isn't everything, you know."
+  },
+  {
+   "id": 90,
+   "speaker": "Operator (slot 10)",
+   "en": "Indiscriminate attacks are dangerous."
+  },
+  {
+   "id": 91,
+   "speaker": "Operator (slot 1)",
+   "en": "Look carefully and tell them apart."
+  },
+  {
+   "id": 92,
+   "speaker": "Operator (slot 2)",
+   "en": "Identify your targets."
+  },
+  {
+   "id": 93,
+   "speaker": "Operator (slot 3)",
+   "en": "Please identify your targets before attacking."
+  },
+  {
+   "id": 94,
+   "speaker": "Operator (slot 4)",
+   "en": "Make sure what you're shooting at before you attack."
+  },
+  {
+   "id": 95,
+   "speaker": "Operator (slot 5)",
+   "en": "Tell them apart properly!"
+  },
+  {
+   "id": 96,
+   "speaker": "Operator (slot 6)",
+   "en": "Tell them apart carefully before you attack, okay?"
+  },
+  {
+   "id": 98,
+   "speaker": "Operator (slot 8)",
+   "en": "Please tell your targets apart before attacking!"
+  },
+  {
+   "id": 99,
+   "speaker": "Operator (slot 9)",
+   "en": "Tell them apart carefully, then attack."
+  },
+  {
+   "id": 100,
+   "speaker": "Operator (slot 10)",
+   "en": "Please confirm targets visually before attacking."
+  },
+  {
+   "id": 101,
+   "speaker": "Operator (slot 1)",
+   "en": "This one's not like the others. Be careful!"
+  },
+  {
+   "id": 102,
+   "speaker": "Operator (slot 2)",
+   "en": "This one's strong!"
+  },
+  {
+   "id": 103,
+   "speaker": "Operator (slot 3)",
+   "en": "Don't underestimate this enemy's capabilities."
+  },
+  {
+   "id": 104,
+   "speaker": "Operator (slot 4)",
+   "en": "What...? This enemy's strong. Be careful."
+  },
+  {
+   "id": 105,
+   "speaker": "Operator (slot 5)",
+   "en": "Ugh, no way! This one's strong!"
+  },
+  {
+   "id": 106,
+   "speaker": "Operator (slot 6)",
+   "en": "The enemy is strong. Be careful."
+  },
+  {
+   "id": 107,
+   "speaker": "Operator (slot 7)",
+   "en": "ALARM MESSAGE: DANGER. EVADE."
+  },
+  {
+   "id": 108,
+   "speaker": "Operator (slot 8)",
+   "en": "This enemy is strong! Please be careful!"
+  },
+  {
+   "id": 109,
+   "speaker": "Operator (slot 9)",
+   "en": "That enemy's performance is something else. Watch out."
+  },
+  {
+   "id": 110,
+   "speaker": "Operator (slot 10)",
+   "en": "The target is high-performance. Please stay alert."
+  },
+  {
+   "id": 111,
+   "speaker": "Operator (slot 1)",
+   "en": "Come on, stop dawdling!"
+  },
+  {
+   "id": 112,
+   "speaker": "Operator (slot 2)",
+   "en": "Clear them out quickly, would you?"
+  },
+  {
+   "id": 113,
+   "speaker": "Operator (slot 3)",
+   "en": "There are still enemies remaining."
+  },
+  {
+   "id": 114,
+   "speaker": "Operator (slot 4)",
+   "en": "There are still enemies out there. Take them down."
+  },
+  {
+   "id": 115,
+   "speaker": "Operator (slot 5)",
+   "en": "What's wrong? Let's hurry up and beat them!"
+  },
+  {
+   "id": 116,
+   "speaker": "Operator (slot 6)",
+   "en": "Let's get this over with quickly."
+  },
+  {
+   "id": 117,
+   "speaker": "Operator (slot 7)",
+   "en": "TARGET CONFIRMED. DESTROY."
+  },
+  {
+   "id": 118,
+   "speaker": "Operator (slot 8)",
+   "en": "There are still enemies left. Please destroy them!"
+  },
+  {
+   "id": 119,
+   "speaker": "Operator (slot 9)",
+   "en": "There are still enemies left, you know."
+  },
+  {
+   "id": 120,
+   "speaker": "Operator (slot 10)",
+   "en": "Enemy units still remain."
+  }
+ ]
+}

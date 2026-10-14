@@ -1,0 +1,360 @@
+{
+ "mission": "049",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Reach the deepest section",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Detonator triggered",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "Reach the deepest section",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Detonator triggered",
+   "speaker": "HUD"
+  },
+  {
+   "id": 10,
+   "en": "All units, do you read me!?",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 11,
+   "en": "Our infiltration team is trapped inside!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 12,
+   "en": "Amaterasu's demolition code has been activated!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 13,
+   "en": "The whole facility will collapse in a few minutes.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 14,
+   "en": "All personnel, please evacuate.",
+   "speaker": "Facility PA"
+  },
+  {
+   "id": 15,
+   "en": "So it was a trap from the start!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 16,
+   "en": "We don't know where the disarm system is located.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 17,
+   "en": "With our people still inside, we can't just run.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 18,
+   "en": "Search every inch! Anyone who hasn't sortied, launch!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 19,
+   "en": "We have to stop Amaterasu from blowing up!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 20,
+   "en": "Amaterasu will now self-destruct.",
+   "speaker": "Facility PA"
+  },
+  {
+   "id": 21,
+   "en": "Section secured. Unlocking the bulkheads.",
+   "speaker": "Facility PA"
+  },
+  {
+   "id": 22,
+   "en": "Security trap activated!",
+   "speaker": "? (operator or commander)"
+  },
+  {
+   "id": 23,
+   "en": "Wipe out the enemy and secure this section.",
+   "speaker": "? (operator or commander)"
+  },
+  {
+   "id": 24,
+   "en": "Section secured. Unlocking the bulkheads.",
+   "speaker": "Facility PA"
+  },
+  {
+   "id": 25,
+   "en": "The bulkhead is locked.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 26,
+   "en": "I'll analyze it, so could you hold on a moment?",
+   "speaker": "? (code breaker)"
+  },
+  {
+   "id": 27,
+   "en": "Umm, let's see... hmm...",
+   "speaker": "? (code breaker)"
+  },
+  {
+   "id": 28,
+   "en": "Sorry, please wait just a little longer!",
+   "speaker": "? (code breaker)"
+  },
+  {
+   "id": 29,
+   "en": "...The password is... SNOW...",
+   "speaker": "? (code breaker)"
+  },
+  {
+   "id": 30,
+   "en": "It's \"SNOW WHITE\"!",
+   "speaker": "? (code breaker)"
+  },
+  {
+   "id": 31,
+   "en": "Password accepted. Lock released.",
+   "speaker": "Facility PA"
+  },
+  {
+   "id": 32,
+   "en": "Disengaging detonation mode.",
+   "speaker": "Facility PA?"
+  },
+  {
+   "id": 33,
+   "en": "It stopped...?",
+   "speaker": "?"
+  },
+  {
+   "id": 34,
+   "en": "So you have come, my nemesis.",
+   "speaker": "Hokushin"
+  },
+  {
+   "id": 35,
+   "en": "You're... Hokushin!\nWhy are you here!?",
+   "speaker": "Akito Tenkawa?"
+  },
+  {
+   "id": 36,
+   "en": "A shadow can only ever live as a shadow, nothing more.",
+   "speaker": "Hokushin"
+  },
+  {
+   "id": 37,
+   "en": "There is no place for my end but here.",
+   "speaker": "Hokushin"
+  },
+  {
+   "id": 38,
+   "en": "Come. I too have become an avenger. Let us settle this.",
+   "speaker": "Hokushin"
+  },
+  {
+   "id": 39,
+   "en": "When Amaterasu fell,",
+   "speaker": "Hokushin"
+  },
+  {
+   "id": 40,
+   "en": "our odds of victory were down to fifty-fifty.",
+   "speaker": "Hokushin"
+  },
+  {
+   "id": 41,
+   "en": "Once we knew Earth had a living A-class Jumper,",
+   "speaker": "Hokushin"
+  },
+  {
+   "id": 42,
+   "en": "our victory was gone.",
+   "speaker": "Hokushin"
+  },
+  {
+   "id": 43,
+   "en": "You did well to make it this far.",
+   "speaker": "Hokushin"
+  },
+  {
+   "id": 44,
+   "en": "You have shown me the depths of human obsession.",
+   "speaker": "Hokushin"
+  },
+  {
+   "id": 45,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 46,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 47,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 48,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 49,
+   "en": "You must be afraid. You must be bitter.",
+   "speaker": "Hokushin"
+  },
+  {
+   "id": 50,
+   "en": "Even if you clad yourself in armor,",
+   "speaker": "Hokushin"
+  },
+  {
+   "id": 51,
+   "en": "it cannot protect the weakness of your heart.",
+   "speaker": "Hokushin"
+  },
+  {
+   "id": 52,
+   "en": "Splendid...",
+   "speaker": "Hokushin"
+  },
+  {
+   "id": 53,
+   "en": "This is an end worthy of me.",
+   "speaker": "Hokushin"
+  },
+  {
+   "id": 54,
+   "en": "You must settle your own score as well.\nEverything... lies on Mars...",
+   "speaker": "Hokushin"
+  },
+  {
+   "id": 55,
+   "en": "Mars... You mean that's where Char went?",
+   "speaker": "? (Akito or commander)"
+  },
+  {
+   "id": 56,
+   "en": "Let's settle this...!",
+   "speaker": "Akito Tenkawa?"
+  },
+  {
+   "id": 60,
+   "en": "There's no time! Just head deeper inside!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 61,
+   "en": "There's no time! Just get deeper in there!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 62,
+   "en": "We're out of time. Please head further inside.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 63,
+   "en": "There's no time, you know. For now, just head inside.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 64,
+   "en": "We're out of time! Just go on in there!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 65,
+   "en": "There's no time. Just keep moving deeper in.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 66,
+   "en": "TIME LIMIT APPROACHING. TAKE ACTION.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 67,
+   "en": "We're out of time! For now, please head further in!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 68,
+   "en": "There's no time. Just keep pushing deeper, would you?",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 69,
+   "en": "There is no time. Please proceed further inside.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 70,
+   "en": "We're out of time, you know!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 71,
+   "en": "There's no time! Hurry it up!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 72,
+   "en": "There isn't much time left.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 73,
+   "en": "You can't afford to take your time here, you know.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 74,
+   "en": "There's no time, I'm telling you! Hurry, hurry!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 75,
+   "en": "There's not much time left. Hurry, okay?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 76,
+   "en": "TIME LIMIT APPROACHING.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 77,
+   "en": "We're out of time! Please hurry!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 78,
+   "en": "We're out of time. Hurry it along, would you?",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 79,
+   "en": "There is no time remaining. Please hurry.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

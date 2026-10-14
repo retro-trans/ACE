@@ -1,0 +1,455 @@
+{
+ "mission": "010",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defend shuttle for set time",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Shuttle destroyed",
+   "speaker": "HUD"
+  },
+  {
+   "id": 10,
+   "en": "Enemies approaching! It's a raiding party!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 11,
+   "en": "If we miss this chance, the launch will be difficult.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 12,
+   "en": "We have no choice but to force it through.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 13,
+   "en": "Everyone, give it all you have.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 14,
+   "en": "Enemy reinforcements confirmed.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 15,
+   "en": "There are too many of them!",
+   "speaker": "?"
+  },
+  {
+   "id": 16,
+   "en": "Confirmed: a radar's been destroyed!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 17,
+   "en": "If they wreck them all, the base is left wide open!",
+   "speaker": "?"
+  },
+  {
+   "id": 18,
+   "en": "The shuttle's taking damage! It's in danger!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 19,
+   "en": "All the radars have been destroyed!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 20,
+   "en": "We can't fully hold off attacks from the air...!",
+   "speaker": "?"
+  },
+  {
+   "id": 21,
+   "en": "The AA guns are ready to intercept as well.",
+   "speaker": "Noin?"
+  },
+  {
+   "id": 22,
+   "en": "While the radars hold, the AA guns will handle them.",
+   "speaker": "Noin?"
+  },
+  {
+   "id": 23,
+   "en": "Part of the defense net has been breached!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 24,
+   "en": "There are too many of them...!",
+   "speaker": "?"
+  },
+  {
+   "id": 25,
+   "en": "We can't let you lot go up into space!",
+   "speaker": "Gavlet's soldier"
+  },
+  {
+   "id": 26,
+   "en": "We won't let you get in Lord Gavlet's way!",
+   "speaker": "Gavlet's soldier"
+  },
+  {
+   "id": 27,
+   "en": "The enemy are Gavlet's people.",
+   "speaker": "Noin?"
+  },
+  {
+   "id": 28,
+   "en": "If this attack is meant to hold us up,",
+   "speaker": "Noin?"
+  },
+  {
+   "id": 29,
+   "en": "he must have gone up into space already.",
+   "speaker": "Noin?"
+  },
+  {
+   "id": 30,
+   "en": "Isn't the shuttle ready to launch yet?",
+   "speaker": "?"
+  },
+  {
+   "id": 31,
+   "en": "New enemy signals!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 32,
+   "en": "ID code... it's the Reclaimers!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 33,
+   "en": "The plate's signal is coming from around here.",
+   "speaker": "Reclaimer pilot"
+  },
+  {
+   "id": 34,
+   "en": "Start the search! Eliminate anyone in our way!",
+   "speaker": "Reclaimer pilot"
+  },
+  {
+   "id": 35,
+   "en": "It looks like the Reclaimers are after",
+   "speaker": "Operator"
+  },
+  {
+   "id": 36,
+   "en": "the plates that Orphan produces.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 37,
+   "en": "Organic Plates...",
+   "speaker": "Noin?"
+  },
+  {
+   "id": 38,
+   "en": "So they're the source that births the Antibodies.",
+   "speaker": "Noin?"
+  },
+  {
+   "id": 39,
+   "en": "We don't have the luxury of dealing with them now.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 40,
+   "en": "Eliminate only those who get in your way.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 41,
+   "en": "Launch preparations complete.",
+   "speaker": "Launch control"
+  },
+  {
+   "id": 42,
+   "en": "Sixty seconds to launch!",
+   "speaker": "Launch control"
+  },
+  {
+   "id": 43,
+   "en": "Ten seconds to launch,",
+   "speaker": "Launch control"
+  },
+  {
+   "id": 44,
+   "en": "9, 8, 7, 6, 5, 4, 3, 2... Liftoff!",
+   "speaker": "Launch control"
+  },
+  {
+   "id": 45,
+   "en": "Confirmed: the shuttle has left the atmosphere!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 46,
+   "en": "The enemy is withdrawing.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 47,
+   "en": "You've done very well.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 48,
+   "en": "The Gran Garan will remain on the ground and continue its pursuit mission.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 49,
+   "en": "We look forward to great things from you in space.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 50,
+   "en": "Thank you, Queen Ciela Lapana.",
+   "speaker": "Noin?"
+  },
+  {
+   "id": 51,
+   "en": "We're heading up into space as well!",
+   "speaker": "Noin?"
+  },
+  {
+   "id": 52,
+   "en": "The shuttle has been destroyed...!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 53,
+   "en": "The operation is now entering its final phase.",
+   "speaker": "?"
+  },
+  {
+   "id": 54,
+   "en": "Heat signature confirmed on radar.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 55,
+   "en": "They're identified as Giganos forces!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 56,
+   "en": "What!?",
+   "speaker": "?"
+  },
+  {
+   "id": 57,
+   "en": "Get into intercept positions!",
+   "speaker": "?"
+  },
+  {
+   "id": 60,
+   "en": "You're going to be our last line of defense.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 61,
+   "en": "Your position is the final line of defense.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 62,
+   "en": "Please take charge of the final line of defense.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 63,
+   "en": "You're the linchpin of our defense line.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 64,
+   "en": "You're our last line of defense, you know!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 65,
+   "en": "You'll be our last stronghold.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 66,
+   "en": "FINAL DEFENSE LINE: READY.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 67,
+   "en": "You'll be the final line of defense!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 68,
+   "en": "Your post is the final line of defense.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 69,
+   "en": "Your assigned sector is the final line of defense.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 70,
+   "en": "Protect the shuttle from enemies that break through.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 71,
+   "en": "Protect the shuttle from the enemy, whatever it takes.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 72,
+   "en": "Please protect the shuttle from enemy attacks.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 73,
+   "en": "Protect the shuttle. I'm counting on you.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 74,
+   "en": "You can at least keep one shuttle safe from the enemy, right?",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 75,
+   "en": "Keep the shuttle safe from the enemy, please.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 76,
+   "en": "PREVENT DESTRUCTION OF SHUTTLE.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 77,
+   "en": "Please protect the shuttle from the enemy!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 78,
+   "en": "Keep that shuttle safe no matter what, would you?",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 79,
+   "en": "Please protect the shuttle from the enemy.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 80,
+   "en": "The shuttle's in danger! Don't let them get close!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 81,
+   "en": "The shuttle's been hit!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 82,
+   "en": "The shuttle is in danger. Please defeat the enemy.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 83,
+   "en": "They're attacking the shuttle!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 84,
+   "en": "At this rate, the shuttle's gonna get wrecked!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 85,
+   "en": "The shuttle's taking fire. Watch out.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 86,
+   "en": "ALARM MESSAGE: SHUTTLE DAMAGE SPREADING.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 87,
+   "en": "Shuttle damage spreading! It's in danger at this rate!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 88,
+   "en": "The shuttle's in danger. Don't you let them near it!",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 89,
+   "en": "Damage to the shuttle is spreading.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 90,
+   "en": "Try not to let the radars get destroyed, OK?",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 91,
+   "en": "Protect the radars as best you can.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 92,
+   "en": "Please protect the radars as much as you can.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 93,
+   "en": "Try not to let the radars get wrecked, OK?",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 94,
+   "en": "You can't let too many radars get destroyed, OK!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 95,
+   "en": "Try not to let the radars get destroyed, all right?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 96,
+   "en": "DEFEND RADARS TO EXTENT POSSIBLE.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 97,
+   "en": "Please protect the radars as much as possible!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 98,
+   "en": "Do try not to let the radars get destroyed.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 99,
+   "en": "Please defend the radars to the best of your ability.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

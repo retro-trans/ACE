@@ -1,0 +1,355 @@
+{
+ "mission": "025",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defeat enemy forces",
+   "speaker": "objective label"
+  },
+  {
+   "id": 2,
+   "en": "---",
+   "speaker": "objective label"
+  },
+  {
+   "id": 10,
+   "en": "Spread out and search the area for the facility.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 11,
+   "en": "H-heat signature from under the sand!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 12,
+   "en": "It looks like defensive traps have been set up.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 13,
+   "en": "Heat signature from under the sand!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 14,
+   "en": "Heat source under the sand!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 15,
+   "en": "Here comes another one!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 16,
+   "en": "Heat signature from under the sand!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 17,
+   "en": "So you came after all, you UCE traitors...",
+   "speaker": "? (Drake Army commander)"
+  },
+  {
+   "id": 18,
+   "en": "Traitors? What are you talking about!?",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 19,
+   "en": "The UCE betrayed us once the experiment succeeded,",
+   "speaker": "? (Drake Army commander)"
+  },
+  {
+   "id": 20,
+   "en": "and kept the E2 technology all to themselves!",
+   "speaker": "? (Drake Army commander)"
+  },
+  {
+   "id": 21,
+   "en": "And we will have our revenge for it!",
+   "speaker": "? (Drake Army commander)"
+  },
+  {
+   "id": 22,
+   "en": "What!? No, that can't be...!",
+   "speaker": "?"
+  },
+  {
+   "id": 23,
+   "en": "...Whether it's true or not doesn't matter right now.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 24,
+   "en": "All we know for certain right now",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 25,
+   "en": "is that the Drake Army is a dangerous force.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 26,
+   "en": "All units, destroy the Drake Army!",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 27,
+   "en": "Tch, that's enough for today!",
+   "speaker": "? (Drake Army commander)"
+  },
+  {
+   "id": 28,
+   "en": "Battleship-class heat signature confirmed.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 29,
+   "en": "What!?",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 30,
+   "en": "Recon team, where were you looking!?",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 31,
+   "en": "We have a report that the enemy base has been found.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 32,
+   "en": "Right, commence the attack.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 33,
+   "en": "Wait! Enemy units launching from the base!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 34,
+   "en": "What!?",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 35,
+   "en": "They're closing in fast!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 36,
+   "en": "So it IS a new Drake model after all!?",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 37,
+   "en": "The Gran Garan has arrived to support us!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 38,
+   "en": "Drake is our enemy.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 39,
+   "en": "People of the Ra Cailum, we shall aid you.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 40,
+   "en": "Thank you, Queen Ciela Lapana.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 41,
+   "en": "We would be grateful for your help.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 42,
+   "en": "Enemy facility destroyed.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 43,
+   "en": "The Drake Army appears to have withdrawn.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 44,
+   "en": "So the UCE was in league with the enemy...",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 45,
+   "en": "There is something I wish to tell you about that.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 46,
+   "en": "You won't get away from me!",
+   "speaker": "? (Drake Army pilot)"
+  },
+  {
+   "id": 47,
+   "en": "Organic Plate obtained.",
+   "speaker": "system"
+  },
+  {
+   "id": 50,
+   "en": "If they pop up, destroy them fast and deal with it!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 51,
+   "en": "Once they launch, take them out right away.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 52,
+   "en": "Once launched, please destroy them immediately.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 53,
+   "en": "When they come out, you destroy them right away.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 54,
+   "en": "If they pop out, just smash 'em fast, 'kay?",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 55,
+   "en": "If they get launched, break them right away, okay?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 56,
+   "en": "DESTROY IMMEDIATELY AFTER LAUNCH.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 57,
+   "en": "When they come out, please destroy them right away!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 58,
+   "en": "Once they're launched, destroy them quickly, okay?",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 59,
+   "en": "Please intercept them immediately after launch.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 60,
+   "en": "Destroy it, quick!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 61,
+   "en": "Take it out, now!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 62,
+   "en": "Please destroy it, quickly!",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 63,
+   "en": "Hurry up and destroy it!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 64,
+   "en": "Smash it, quick!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 65,
+   "en": "Hurry, destroy it!",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 66,
+   "en": "DESTROY IMMEDIATELY.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 67,
+   "en": "Please destroy it!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 68,
+   "en": "Hurry and destroy it!",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 69,
+   "en": "Please destroy it.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 70,
+   "en": "This one's not like the others. Be careful!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 71,
+   "en": "This one's strong!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 72,
+   "en": "Don't underestimate this enemy's capabilities.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 73,
+   "en": "What...? This enemy's strong. Be careful.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 74,
+   "en": "Ugh, no way! This one's strong!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 75,
+   "en": "The enemy is strong. Be careful.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 76,
+   "en": "ALARM MESSAGE: DANGER. EVADE.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 77,
+   "en": "This enemy is strong! Please be careful!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 78,
+   "en": "That enemy's performance is something else. Watch out.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 79,
+   "en": "The target is high-performance. Please stay alert.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

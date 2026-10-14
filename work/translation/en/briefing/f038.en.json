@@ -1,0 +1,81 @@
+{
+ "table": "038",
+ "dialogue_file": "work/translation/en/dialogue/m038.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Gryps 2 Defense",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "Time limit exceeded",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Defeat Baund Doc in 100 seconds",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "The Titans <mk(-75,-75,3,1)><ar(0,3,1,400)><mk(-75,-37.5,3,1,50)><ar(0,3,1,400)><mk(-75,0,3,1,150)><ar(0,3,1,400)><mk(-37.5,-75,3,1,300)><ar(0,3,1,400)><mk(0,-75,3,1,300)><ar(0,3,1,400)>fleet is larger than expected. Their target must be the Gate of Zedan.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 101,
+   "en": "To make up for a lack of forces, the United Space Force chose a sweep using <pic(0)><cs(3)>Gryps 2<ce()>.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 102,
+   "en": "However, enemy interference is expected, so the surrounding space must be secured.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 103,
+   "en": "Accordingly, <mk(0,37.5,7,3)><ar(0,7,3,150)><mk(37.5,0,7,0,50)><ar(0,7,0,150)>we will eliminate the enemy forces in the area.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 104,
+   "en": "By its very nature, the firing time of the <pic(1)><cs(3)>colony laser<ce()> cannot be delayed.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 105,
+   "en": "When the time comes, it will prepare to fire. Make sure the area is secure by then.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 106,
+   "en": "It will be a race against time, but I believe all of you can handle it.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 200,
+   "en": "The UCE and Neo Zeon have begun fighting at the Gate of Zedan. Were we too late...?",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 201,
+   "en": "We managed to stop the Titans... but it means nothing if we don't make it in time.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 202,
+   "en": "In any case, hurry.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 300,
+   "en": "I acknowledge your efforts, but you must also accept that effort alone changes nothing.",
+   "speaker": "? (briefing officer)"
+  }
+ ]
+}

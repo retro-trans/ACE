@@ -1,0 +1,157 @@
+{
+ "movie": "M1_MOVIE004",
+ "cards": [
+  {
+   "id": 0,
+   "frames": [
+    19,
+    134
+   ],
+   "kind": "title",
+   "box": [
+    114,
+    198,
+    398,
+    250
+   ],
+   "lines": [
+    [
+     198,
+     224
+    ],
+    [
+     225,
+     250
+    ]
+   ],
+   "peak": 37,
+   "en": "— Ra Cailum Medical Crew\nAnna Stephanie —"
+  },
+  {
+   "id": 1,
+   "frames": [
+    182,
+    402
+   ],
+   "kind": "subtitle",
+   "box": [
+    95,
+    357,
+    418,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     382
+    ],
+    [
+     382,
+     408
+    ]
+   ],
+   "peak": 279,
+   "en": "There was an explosion so loud it hurt my ears.\nI'll never forget that blinding flash and the shaking."
+  },
+  {
+   "id": 2,
+   "frames": [
+    441,
+    564
+   ],
+   "kind": "subtitle",
+   "box": [
+    100,
+    357,
+    414,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     382
+    ],
+    [
+     382,
+     408
+    ]
+   ],
+   "peak": 480,
+   "en": "It was a shock to learn that our own military\nhad built something like that, but—"
+  },
+  {
+   "id": 3,
+   "frames": [
+    588,
+    784
+   ],
+   "kind": "subtitle",
+   "box": [
+    83,
+    357,
+    431,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     382
+    ],
+    [
+     382,
+     408
+    ]
+   ],
+   "peak": 623,
+   "en": "what scared me even more was that something\nso terrible existed at all."
+  },
+  {
+   "id": 4,
+   "frames": [
+    822,
+    951
+   ],
+   "kind": "subtitle",
+   "box": [
+    127,
+    357,
+    383,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     382
+    ],
+    [
+     382,
+     408
+    ]
+   ],
+   "peak": 905,
+   "en": "What might happen if it were used\nwith malicious intent—"
+  },
+  {
+   "id": 5,
+   "frames": [
+    995,
+    1112
+   ],
+   "kind": "subtitle",
+   "box": [
+    102,
+    357,
+    409,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 1022,
+   "en": "back then, I couldn't even begin to imagine."
+  }
+ ]
+}

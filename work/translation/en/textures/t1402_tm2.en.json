@@ -1,0 +1,45 @@
+{
+ "name": "t1402.tm2",
+ "labels": [
+  {
+   "box": [
+    2,
+    3,
+    127,
+    23
+   ],
+   "en": "Select the number",
+   "align": "left",
+   "height": 18,
+   "grow": [
+    1,
+    0
+   ],
+   "color": [
+    190,
+    190,
+    190
+   ]
+  },
+  {
+   "box": [
+    1,
+    27,
+    103,
+    46
+   ],
+   "en": "of units to battle.",
+   "align": "left",
+   "grow": [
+    0,
+    24
+   ],
+   "height": 18,
+   "color": [
+    190,
+    190,
+    190
+   ]
+  }
+ ]
+}

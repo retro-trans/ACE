@@ -1,0 +1,440 @@
+{
+ "mission": "043",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "Defeat the Aug",
+   "speaker": "HUD"
+  },
+  {
+   "id": 10,
+   "en": "All units are in position, I take it.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 11,
+   "en": "Begin securing the surrounding area.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 12,
+   "en": "Once this battle is over, the war will be over.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 13,
+   "en": "Everyone, I need you to make it out alive.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 14,
+   "en": "",
+   "speaker": ""
+  },
+  {
+   "id": 15,
+   "en": "",
+   "speaker": ""
+  },
+  {
+   "id": 16,
+   "en": "",
+   "speaker": ""
+  },
+  {
+   "id": 17,
+   "en": "",
+   "speaker": ""
+  },
+  {
+   "id": 18,
+   "en": "",
+   "speaker": ""
+  },
+  {
+   "id": 19,
+   "en": "",
+   "speaker": ""
+  },
+  {
+   "id": 20,
+   "en": "",
+   "speaker": ""
+  },
+  {
+   "id": 21,
+   "en": "",
+   "speaker": ""
+  },
+  {
+   "id": 22,
+   "en": "",
+   "speaker": ""
+  },
+  {
+   "id": 23,
+   "en": "Our allies have broken into the heart of Sveet!",
+   "speaker": "operator"
+  },
+  {
+   "id": 24,
+   "en": "Took you long enough, all of you!",
+   "speaker": "Gavlet Gablae?"
+  },
+  {
+   "id": 25,
+   "en": "I've taken Poseidal... no, Mian into custody!",
+   "speaker": "Gavlet Gablae?"
+  },
+  {
+   "id": 26,
+   "en": "You...!",
+   "speaker": "Daba Myroad?"
+  },
+  {
+   "id": 27,
+   "en": "The true Poseidal is aboard the Aug.",
+   "speaker": "Gavlet Gablae?"
+  },
+  {
+   "id": 29,
+   "en": "I leave the rest to you all!",
+   "speaker": "Gavlet Gablae?"
+  },
+  {
+   "id": 30,
+   "en": "For now, I'll thank you for your cooperation.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 31,
+   "en": "It's about time I settled this.",
+   "speaker": "Amandra Kamandra (true Poseidal)"
+  },
+  {
+   "id": 32,
+   "en": "What can those who exist only to be controlled hope to do?",
+   "speaker": "Amandra Kamandra (true Poseidal)"
+  },
+  {
+   "id": 33,
+   "en": "I'll teach you the true terror of Poseidal!",
+   "speaker": "Amandra Kamandra (true Poseidal)"
+  },
+  {
+   "id": 34,
+   "en": "With Sveet as its source of power,",
+   "speaker": "Amandra Kamandra (true Poseidal)"
+  },
+  {
+   "id": 35,
+   "en": "there is no way you can break through this Aug.",
+   "speaker": "Amandra Kamandra (true Poseidal)"
+  },
+  {
+   "id": 36,
+   "en": "This is what Bio Relation means.",
+   "speaker": "Amandra Kamandra (true Poseidal)"
+  },
+  {
+   "id": 37,
+   "en": "It draws its power from human life energy...",
+   "speaker": "Amandra Kamandra (true Poseidal)"
+  },
+  {
+   "id": 38,
+   "en": "you can't win against my Bio Relation!",
+   "speaker": "Amandra Kamandra (true Poseidal)"
+  },
+  {
+   "id": 39,
+   "en": "Analysis! The enemy's armor is regenerating!",
+   "speaker": "operator"
+  },
+  {
+   "id": 40,
+   "en": "Death to all who defy Poseidal!",
+   "speaker": "Amandra Kamandra (true Poseidal)"
+  },
+  {
+   "id": 41,
+   "en": "Before me, all are powerless.",
+   "speaker": "Amandra Kamandra (true Poseidal)"
+  },
+  {
+   "id": 42,
+   "en": "If only you hadn't gone beyond what I planned for you,",
+   "speaker": "Amandra Kamandra (true Poseidal)"
+  },
+  {
+   "id": 43,
+   "en": "you could have lived a good life!",
+   "speaker": "Amandra Kamandra (true Poseidal)"
+  },
+  {
+   "id": 44,
+   "en": "I'll never forgive you, you brat!",
+   "speaker": "Amandra Kamandra (true Poseidal)"
+  },
+  {
+   "id": 45,
+   "en": "Transmission from the allied infiltration team.",
+   "speaker": "operator"
+  },
+  {
+   "id": 46,
+   "en": "They say they've shut down part of the system.",
+   "speaker": "operator"
+  },
+  {
+   "id": 47,
+   "en": "They pulled it off!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 48,
+   "en": "What!? My Bio Relation...!",
+   "speaker": "Amandra Kamandra (true Poseidal)"
+  },
+  {
+   "id": 49,
+   "en": "Were you really that rotten, Poseidal?",
+   "speaker": "Daba Myroad?"
+  },
+  {
+   "id": 50,
+   "en": "I won't let you get away!",
+   "speaker": "Daba Myroad?"
+  },
+  {
+   "id": 51,
+   "en": "My dream... my world...!",
+   "speaker": "Amandra Kamandra (true Poseidal)"
+  },
+  {
+   "id": 52,
+   "en": "You young whelp!",
+   "speaker": "Amandra Kamandra (true Poseidal)"
+  },
+  {
+   "id": 53,
+   "en": "Poseidal is dead.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 54,
+   "en": "Taking Sveet is only a matter of time now.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 55,
+   "en": "It is finally over... I thank you all.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 60,
+   "en": "This one's not like the others. Be careful!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 61,
+   "en": "This one's strong!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 62,
+   "en": "Don't underestimate this enemy's capabilities.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 63,
+   "en": "What...? This enemy's strong. Be careful.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 64,
+   "en": "Ugh, no way! This one's strong!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 65,
+   "en": "The enemy is strong. Be careful.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 66,
+   "en": "ALARM MESSAGE: DANGER. EVADE.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 67,
+   "en": "This enemy is strong! Please be careful!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 68,
+   "en": "That enemy's performance is something else. Watch out.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 69,
+   "en": "The target is high-performance. Please stay alert.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 70,
+   "en": "How are we supposed to beat an enemy like that!?",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 71,
+   "en": "What are we supposed to do against a foe like that!?",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 72,
+   "en": "There is no effective way to defeat the enemy.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 73,
+   "en": "How are we supposed to beat it!?",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 74,
+   "en": "Hey, how are we supposed to beat that thing!?",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 75,
+   "en": "How are we supposed to defeat an enemy like that!?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 76,
+   "en": "DESTROY TARGET.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 77,
+   "en": "I can't find any effective way to defeat the enemy!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 78,
+   "en": "How on earth are we meant to beat an enemy like that!?",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 79,
+   "en": "There is no effective means of defeating the enemy.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 80,
+   "en": "Well, all we can do is attack, I guess.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 81,
+   "en": "Damn, is attacking all we can do right now!?",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 82,
+   "en": "For now, all we can do is attack...!",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 83,
+   "en": "Whatever happens, keep attacking!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 84,
+   "en": "You're telling me all we can do is attack!?",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 85,
+   "en": "Please, just keep attacking!",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 87,
+   "en": "Just keep attacking, please!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 88,
+   "en": "For now... it looks like all we can do is keep attacking.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 89,
+   "en": "Please continue the attack.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 90,
+   "en": "Watch out for attacks from all around!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 91,
+   "en": "Look out for attacks from all around you!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 92,
+   "en": "Please watch out for attacks from all around!",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 93,
+   "en": "Watch for attacks from your surroundings!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 94,
+   "en": "Look out for attacks from all around!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 95,
+   "en": "Be careful of attacks from all around, okay?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 96,
+   "en": "CAUTION: ATTACKS FROM SURROUNDING AREA.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 97,
+   "en": "Please watch out for attacks from all around!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 98,
+   "en": "Keep an eye out for attacks from all around you, now.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 99,
+   "en": "Please beware of attacks from all around.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

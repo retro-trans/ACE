@@ -1,0 +1,157 @@
+{
+ "movie": "M1_MOVIE003",
+ "cards": [
+  {
+   "id": 0,
+   "frames": [
+    19,
+    134
+   ],
+   "kind": "title",
+   "box": [
+    114,
+    198,
+    399,
+    250
+   ],
+   "lines": [
+    [
+     198,
+     224
+    ],
+    [
+     225,
+     250
+    ]
+   ],
+   "peak": 31,
+   "en": "— Formerly of Poseidal's Thirteen\nGavlet Gablae —"
+  },
+  {
+   "id": 1,
+   "frames": [
+    183,
+    348
+   ],
+   "kind": "subtitle",
+   "box": [
+    137,
+    357,
+    376,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     382
+    ],
+    [
+     382,
+     408
+    ]
+   ],
+   "peak": 273,
+   "en": "The seizure operation, you say?\nNow there's a story from long ago."
+  },
+  {
+   "id": 2,
+   "frames": [
+    382,
+    517
+   ],
+   "kind": "subtitle",
+   "box": [
+    122,
+    357,
+    391,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     382
+    ],
+    [
+     382,
+     408
+    ]
+   ],
+   "peak": 393,
+   "en": "The Ra Cailum...\nThey appeared before me time and again."
+  },
+  {
+   "id": 3,
+   "frames": [
+    544,
+    645
+   ],
+   "kind": "subtitle",
+   "box": [
+    116,
+    357,
+    396,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 573,
+   "en": "And they were a constant thorn in my side."
+  },
+  {
+   "id": 4,
+   "frames": [
+    675,
+    849
+   ],
+   "kind": "subtitle",
+   "box": [
+    113,
+    357,
+    401,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     382
+    ],
+    [
+     382,
+     408
+    ]
+   ],
+   "peak": 714,
+   "en": "Their aims and methods were nothing like mine,\nbut I did respect them, you know."
+  },
+  {
+   "id": 5,
+   "frames": [
+    874,
+    1022
+   ],
+   "kind": "subtitle",
+   "box": [
+    150,
+    357,
+    362,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     382
+    ],
+    [
+     382,
+     408
+    ]
+   ],
+   "peak": 909,
+   "en": "I even thought of them as rivals.\n...Until I saw that incident."
+  }
+ ]
+}

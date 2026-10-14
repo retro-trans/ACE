@@ -1,0 +1,96 @@
+{
+ "table": "043",
+ "dialogue_file": "work/translation/en/dialogue/m043.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Conquer Sveet",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Destroy Poseidal statue & all turrets",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "This will be our final operation.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 101,
+   "en": "<mk(-75,-75,4,1)><mk(-37.5,-56.25,4,1,50)><mk(0,-37.5,4,1,100)><mk(0,-75,4,1,150)><mk(37.5,-56.25,4,1,200)><mk(75,-75,4,1,250)>The final operation is in the maritime city of <pic(0)><cs(3)>Sveet<ce()>, the Poseidal Army's home base.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 102,
+   "en": "Poseidal keeps feeding the world the sparks of war, bent on keeping the fighting going.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 103,
+   "en": "Unless we strike here, we will never end this long war that has dragged on and on.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 104,
+   "en": "Manipulating others to keep a war going must never be allowed to pass.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 105,
+   "en": "<mk(-75,50,0,3)><ar(0,0,3,300)><mk(-37.5,37.5,0,3,50)><ar(0,0,3,300)><mk(0,25,0,0,100)><ar(0,0,0,300)><mk(37.5,37.5,0,3,150)><ar(0,0,3,300)><mk(75,50,0,3,200)><ar(0,0,3,300)>As the second wave of the assault force, we will take Sveet's <pic(1)><cs(3)>urban area<ce()>.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 106,
+   "en": "The enemy's strength may be down, but don't forget this is their home base. Stay alert.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 107,
+   "en": "This time, let us win a true peace for good.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 200,
+   "en": "The true Oldna Poseidal is dead, and the Poseidal Army has agreed to surrender.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 201,
+   "en": "With Poseidal, who drove the war, now dead, the fighting is dying down everywhere.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 202,
+   "en": "Thanks to all of your efforts, the road to ending the war has been laid.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 203,
+   "en": "The time for our fight to be rewarded, an age of peace, has finally come.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 204,
+   "en": "I want to hand the foundations of the next era to the young, Miss Relena among them.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 300,
+   "en": "Peace now rests on all of you. Do not forget that as you fight.",
+   "speaker": "? (briefing officer)"
+  }
+ ]
+}

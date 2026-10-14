@@ -1,0 +1,9 @@
+{
+ "movie": "MOVIE002",
+ "spec": "e1f072729deee1dd747e0853d862a99e396acf45",
+ "frames_checked": 1920,
+ "source_stroke_pixels_checked": 3026017,
+ "worst_surviving_share": 0.0,
+ "n_failing": 0,
+ "failing_frames": []
+}

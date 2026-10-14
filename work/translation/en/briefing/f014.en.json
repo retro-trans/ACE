@@ -1,0 +1,91 @@
+{
+ "table": "014",
+ "dialogue_file": "work/translation/en/dialogue/m014.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Subdue Giganos Empire",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Mass driver halts as time passes",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "Intel says a Giganos transport unit has returned to the <pic(0)><cs(3)>Giganos Lunar Empire<ce()>.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 101,
+   "en": "It's almost certain that the E2 has passed into Giganos hands.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 102,
+   "en": "If it's used in their trump card, the <pic(1)><cs(3)>mass driver<ce()>, Earth's survival will be at stake.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 103,
+   "en": "<mk(37.5,-37.5,5,3)><ar(0,5,3,200)><mk(37.5,-75,5,3,50)><ar(0,5,3,200)><mk(75,-37.5,5,3,100)><ar(0,5,3,200)>In response, the UCE Space Force will now move to subdue the Giganos Lunar Empire.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 104,
+   "en": "<mk(-62.5,-62.5,4,0)><ar(0,4,0,150)><mk(-25,-62.5,4,3,50)><ar(0,4,3,150)>To lay a foothold for the allied invasion, we'll <mk(-75,50,0,1,200)><ar(0,0,1,400)><mk(-43.75,50,0,1,250)><ar(0,0,1,400)><mk(-12.5,50,0,1,300)><ar(0,0,1,400)>draw off the escorts deployed nearby.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 105,
+   "en": "To prevent the worst from happening, this operation must succeed, no matter what.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 200,
+   "en": "With this operation's success, the Giganos Lunar Empire is now occupied by our UCE.",
+   "speaker": "Duke Dermail"
+  },
+  {
+   "id": 201,
+   "en": "However, the E2 had already been carried off by the forces that fled.",
+   "speaker": "Duke Dermail"
+  },
+  {
+   "id": 202,
+   "en": "They're likely headed to the Giganos Space Fortress... We're doing all we can to find it.",
+   "speaker": "Duke Dermail"
+  },
+  {
+   "id": 203,
+   "en": "I promise to inform you the moment any information comes in.",
+   "speaker": "Duke Dermail"
+  },
+  {
+   "id": 204,
+   "en": "Three of the E2 are still in enemy hands. Stay sharp and continue your pursuit mission.",
+   "speaker": "Duke Dermail"
+  },
+  {
+   "id": 300,
+   "en": "Just what do you think you are doing? Is that all the strength you have?",
+   "speaker": "Duke Dermail"
+  },
+  {
+   "id": 301,
+   "en": "You carry the future of Earth. This simply will not do. Pull yourselves together.",
+   "speaker": "Duke Dermail"
+  }
+ ]
+}

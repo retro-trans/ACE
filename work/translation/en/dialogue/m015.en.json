@@ -1,0 +1,470 @@
+{
+ "mission": "015",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defeat enemy forces",
+   "speaker": "-"
+  },
+  {
+   "id": 2,
+   "en": "---",
+   "speaker": "-"
+  },
+  {
+   "id": 3,
+   "en": "Defeat enemy forces",
+   "speaker": "-"
+  },
+  {
+   "id": 4,
+   "en": "High Mega Launcher fired",
+   "speaker": "-"
+  },
+  {
+   "id": 5,
+   "en": "---",
+   "speaker": "-"
+  },
+  {
+   "id": 10,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 11,
+   "en": "Shuttle out there, do you read me? Get out of this area, now!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 12,
+   "en": "Civilians?",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 13,
+   "en": "Yes. At this rate, they'll get caught up in the battle.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 21,
+   "en": "The enemy's already out here!",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 22,
+   "en": "Hurry and get that shuttle to safety!",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 23,
+   "en": "We're receiving a transmission.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 24,
+   "en": "I cannot accept your help.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 25,
+   "en": "Miss Relena...!",
+   "speaker": "Lucrezia Noin"
+  },
+  {
+   "id": 26,
+   "en": "I came here to preach peace.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 27,
+   "en": "I will never accept settling this through battle.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 28,
+   "en": "Miss Relena, I understand how you feel, but",
+   "speaker": "Lucrezia Noin"
+  },
+  {
+   "id": 29,
+   "en": "please leave this to us.",
+   "speaker": "Lucrezia Noin"
+  },
+  {
+   "id": 30,
+   "en": "Otherwise, I'll never be able to face Zechs.",
+   "speaker": "Lucrezia Noin"
+  },
+  {
+   "id": 31,
+   "en": "......",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 32,
+   "en": "Miss Relena!",
+   "speaker": "Lucrezia Noin"
+  },
+  {
+   "id": 33,
+   "en": "...Very well. I'll leave this to you.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 35,
+   "en": "The shuttle's departure is confirmed.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 36,
+   "en": "I see. Thank goodness...",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 37,
+   "en": "Many heat sources... Looks like the enemy main force.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 41,
+   "en": "The enemy ship has launched a Mega Bazooka Launcher into the surrounding area!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 42,
+   "en": "So their target is the Ra Cailum!",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 44,
+   "en": "The enemy has a lock on us!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 51,
+   "en": "All enemy signals in the area are gone.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 52,
+   "en": "Enemy reinforcements confirmed!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 53,
+   "en": "So these are the ones who beat our guys?",
+   "speaker": "Titans pilot (Hambrabi team)"
+  },
+  {
+   "id": 54,
+   "en": "Just because they built E2 or whatever,",
+   "speaker": "Titans pilot (Hambrabi team)"
+  },
+  {
+   "id": 55,
+   "en": "like hell we'll let OZ get cocky!",
+   "speaker": "Titans pilot (Hambrabi team)"
+  },
+  {
+   "id": 61,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 62,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 63,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 64,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 65,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 71,
+   "en": "All enemy signals in the area are gone.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 72,
+   "en": "Granada's fall is only a matter of time now.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 73,
+   "en": "Thank you for helping us.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 74,
+   "en": "I have no intention of becoming friendly with you, but",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 75,
+   "en": "for now, please allow me to thank you.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 81,
+   "en": "Amazing! You wiped them out in no time!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 82,
+   "en": "Man, that's some skill you've got.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 83,
+   "en": "Amazing... Just what I'd expect from you.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 84,
+   "en": "You did it! That was amazing!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 85,
+   "en": "Eeek! You're the best!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 86,
+   "en": "Wow, that was over in no time.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 87,
+   "en": "MULTIPLE TARGETS DESTROYED. CONFIRMED.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 88,
+   "en": "Amazing! You're amazing!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 89,
+   "en": "Impressive. You're good.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 90,
+   "en": "Confirmed: a large number of targets destroyed.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 91,
+   "en": "Hurry and stop them, or they'll fire it at us!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 92,
+   "en": "Stop them fast or they'll fire on us!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 93,
+   "en": "If they aren't stopped, they will fire the launcher.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 94,
+   "en": "We have to keep that launcher from firing!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 95,
+   "en": "Take them out before they reach the launcher!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 96,
+   "en": "If you don't stop them, the launcher will fire.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 97,
+   "en": "DESTROY TARGETS BEFORE LAUNCHER CONTACT,",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 98,
+   "en": "Please stop the enemy before they reach the launcher.",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 99,
+   "en": "Better stop them fast, or they'll fire it at us.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 100,
+   "en": "Unless they are stopped, they will fire the launcher.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 101,
+   "en": "Take out the enemy before they reach the launcher!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 102,
+   "en": "Take them down before they get to the launcher!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 103,
+   "en": "Please defeat the enemy before they reach the launcher.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 104,
+   "en": "Take them out before they get to it.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 105,
+   "en": "Hurry, or they're gonna fire it at us!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 106,
+   "en": "Take them out before they reach it. Please.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 107,
+   "en": "AND PREVENT LAUNCHER FIRING.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 108,
+   "en": "If you don't hurry, they'll fire it at us!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 109,
+   "en": "Take out the enemy before they reach the launcher for me.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 110,
+   "en": "Please destroy the enemy before launcher contact.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 111,
+   "en": "What... is this feeling? Something's coming.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 112,
+   "en": "Is it over...? No, not yet!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 113,
+   "en": "This is... Something is heading our way...!",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 114,
+   "en": "Looks like it isn't over yet.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 115,
+   "en": "What!? You're saying something else is coming!?",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 116,
+   "en": "Looks like something else is coming.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 117,
+   "en": "ALARM MESSAGE: HEAT SOURCE DETECTED.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 118,
+   "en": "It looks like it isn't over yet.",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 119,
+   "en": "Over...? Doesn't look like it.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 120,
+   "en": "A unit is approaching our position.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 121,
+   "en": "Thank goodness, you're safe.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 122,
+   "en": "You made it. Good work.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 123,
+   "en": "Thank goodness, you're all right.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 124,
+   "en": "Thank goodness, you're safe.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 125,
+   "en": "Waah, thank goodness! You're okay!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 126,
+   "en": "Thank goodness... you're safe.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 127,
+   "en": "CRISIS AVERTED.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 128,
+   "en": "Thank goodness, you're all right.",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 129,
+   "en": "You're safe. I'm glad.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 130,
+   "en": "It appears you are unharmed.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

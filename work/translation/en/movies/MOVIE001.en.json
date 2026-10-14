@@ -1,0 +1,421 @@
+{
+ "movie": "MOVIE001",
+ "segments": [
+  {
+   "frames": [
+    2512,
+    3990
+   ],
+   "plate": [
+    2550,
+    3600
+   ],
+   "level": [
+    470,
+    120,
+    508,
+    440
+   ],
+   "speed": 0.6925,
+   "origin": 2500,
+   "fade": [
+    44,
+    118,
+    320,
+    408
+   ],
+   "colour": [
+    185,
+    127,
+    129
+   ],
+   "size": 15,
+   "weight": 600,
+   "lines": [
+    {
+     "band": [
+      390,
+      410
+     ],
+     "align": "center",
+     "x": 256,
+     "en": "— Unified Earth Calendar 045, January —"
+    },
+    {
+     "band": [
+      465,
+      485
+     ],
+     "align": "center",
+     "x": 256,
+     "en": "Official Statement on the Refugee Ship Attack"
+    },
+    {
+     "band": [
+      539,
+      559
+     ],
+     "align": "left",
+     "x": 72,
+     "en": "The space refugee resettlement plan carried out"
+    },
+    {
+     "band": [
+      564,
+      584
+     ],
+     "align": "left",
+     "x": 72,
+     "en": "by Relena Peacecraft, UCE Representative until"
+    },
+    {
+     "band": [
+      589,
+      609
+     ],
+     "align": "left",
+     "x": 72,
+     "en": "yesterday, has ended in catastrophe, with an"
+    },
+    {
+     "band": [
+      614,
+      633
+     ],
+     "align": "left",
+     "x": 72,
+     "en": "estimated 900,000 dead."
+    },
+    {
+     "band": [
+      663,
+      684
+     ],
+     "align": "left",
+     "x": 72,
+     "en": "The refugee ships were attacked by the Ra Cailum,"
+    },
+    {
+     "band": [
+      689,
+      708
+     ],
+     "align": "left",
+     "x": 72,
+     "en": "a unit of the UCE. Opposed to admitting the"
+    },
+    {
+     "band": [
+      713,
+      733
+     ],
+     "align": "left",
+     "x": 72,
+     "en": "refugees, its crew broke from UCE command on"
+    },
+    {
+     "band": [
+      738,
+      758
+     ],
+     "align": "left",
+     "x": 72,
+     "en": "their own authority and used an unknown weapon"
+    },
+    {
+     "band": [
+      763,
+      783
+     ],
+     "align": "left",
+     "x": 72,
+     "en": "to bring about this incident."
+    },
+    {
+     "band": [
+      813,
+      832
+     ],
+     "align": "left",
+     "x": 72,
+     "en": "The Ra Cailum is currently at large. The UCE is"
+    },
+    {
+     "band": [
+      837,
+      857
+     ],
+     "align": "left",
+     "x": 72,
+     "en": "devoting all of its forces to the pursuit."
+    },
+    {
+     "band": [
+      887,
+      907
+     ],
+     "align": "left",
+     "x": 72,
+     "en": "We will never let these criminals, who severed the"
+    },
+    {
+     "band": [
+      912,
+      932
+     ],
+     "align": "left",
+     "x": 72,
+     "en": "new history of space and Earth, escape justice."
+    },
+    {
+     "band": [
+      988,
+      1006
+     ],
+     "align": "left",
+     "x": 79,
+     "keep": true
+    },
+    {
+     "band": [
+      1011,
+      1031
+     ],
+     "align": "left",
+     "x": 79,
+     "en": "(Earth Unification Organization)"
+    },
+    {
+     "band": [
+      1036,
+      1056
+     ],
+     "align": "right",
+     "x": 453,
+     "en": "Refugee Ship Incident Investigation Committee"
+    }
+   ],
+   "width": 380
+  },
+  {
+   "type": "caption",
+   "frames": [
+    0,
+    184
+   ],
+   "fade": 6,
+   "outline": 2,
+   "lines": [
+    {
+     "band": [
+      400,
+      422
+     ],
+     "en": "It has been one week since Representative Peacecraft, Earth's",
+     "align": "center",
+     "x": 256,
+     "width": 470,
+     "size": 15,
+     "weight": 650
+    },
+    {
+     "band": [
+      422,
+      444
+     ],
+     "en": "new leader, announced that space refugees would be accepted.",
+     "align": "center",
+     "x": 256,
+     "width": 470,
+     "size": 15,
+     "weight": 650
+    }
+   ]
+  },
+  {
+   "type": "caption",
+   "frames": [
+    207,
+    384
+   ],
+   "fade": 6,
+   "outline": 2,
+   "lines": [
+    {
+     "band": [
+      400,
+      422
+     ],
+     "en": "A transport carrying refugees who have wandered",
+     "align": "center",
+     "x": 256,
+     "width": 470,
+     "size": 15,
+     "weight": 650
+    },
+    {
+     "band": [
+      422,
+      444
+     ],
+     "en": "through space is now about to enter the atmosphere.",
+     "align": "center",
+     "x": 256,
+     "width": 470,
+     "size": 15,
+     "weight": 650
+    }
+   ]
+  },
+  {
+   "type": "caption",
+   "frames": [
+    417,
+    597
+   ],
+   "fade": 6,
+   "outline": 2,
+   "lines": [
+    {
+     "band": [
+      400,
+      422
+     ],
+     "en": "After a long war, Earth and space are joining",
+     "align": "center",
+     "x": 256,
+     "width": 470,
+     "size": 15,
+     "weight": 650
+    },
+    {
+     "band": [
+      422,
+      444
+     ],
+     "en": "hands once more, and a new era is about to begin.",
+     "align": "center",
+     "x": 256,
+     "width": 470,
+     "size": 15,
+     "weight": 650
+    }
+   ]
+  },
+  {
+   "type": "caption",
+   "frames": [
+    694,
+    771
+   ],
+   "fade": 6,
+   "outline": 2,
+   "lines": [
+    {
+     "band": [
+      422,
+      444
+     ],
+     "en": "Someone is attacking the shuttles!",
+     "align": "center",
+     "x": 256,
+     "width": 470,
+     "size": 15,
+     "weight": 650
+    }
+   ]
+  },
+  {
+   "type": "caption",
+   "frames": [
+    845,
+    939
+   ],
+   "fade": 6,
+   "outline": 2,
+   "lines": [
+    {
+     "band": [
+      422,
+      444
+     ],
+     "en": "This appears to be a UCE warship!",
+     "align": "center",
+     "x": 256,
+     "width": 470,
+     "size": 15,
+     "weight": 650
+    }
+   ]
+  },
+  {
+   "type": "caption",
+   "frames": [
+    931,
+    1074
+   ],
+   "fade": 6,
+   "outline": 2,
+   "lines": [
+    {
+     "band": [
+      422,
+      444
+     ],
+     "en": "The shuttles carrying the refugees are under attack!",
+     "align": "center",
+     "x": 256,
+     "width": 470,
+     "size": 15,
+     "weight": 650
+    }
+   ]
+  },
+  {
+   "type": "caption",
+   "frames": [
+    1134,
+    1222
+   ],
+   "fade": 6,
+   "outline": 2,
+   "lines": [
+    {
+     "band": [
+      422,
+      444
+     ],
+     "en": "UCE forces have attacked a refugee ship again!",
+     "align": "center",
+     "x": 256,
+     "width": 470,
+     "size": 15,
+     "weight": 650
+    }
+   ]
+  },
+  {
+   "type": "caption",
+   "frames": [
+    1362,
+    1391
+   ],
+   "fade": 6,
+   "outline": 2,
+   "lines": [
+    {
+     "band": [
+      422,
+      444
+     ],
+     "en": "An explosion...!",
+     "align": "center",
+     "x": 256,
+     "width": 470,
+     "size": 15,
+     "weight": 650
+    }
+   ]
+  }
+ ]
+}

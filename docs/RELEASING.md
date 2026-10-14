@@ -1,0 +1,23 @@
+# Release packaging
+
+Repository: https://github.com/retro-trans/ACE. Publish with the project lead’s explicit authorization. Use the ACE-3 README/release structure and the [Retro Trans release standard](https://github.com/retro-trans/retro-trans-tools/blob/main/docs/RELEASE_STANDARD.md).
+
+Stable identity: game `ace`, platform `PS2`, edition `English`, language `en`. The initial public version is `0.1.17`; its only supported source is the original Japanese SLPS-25394 ISO. Published patch bytes and output identities are immutable.
+
+## Prepare and verify
+
+1. Complete the build and game-specific checks described in [HANDOFF.md](HANDOFF.md). Record actual playtesting separately from automated checks.
+2. Run `python tools/strip_jp.py`, audit the staged files, and commit the reviewed English-only sources. Keep private lyrics, Japanese scripts, source assets and disc images out of Git.
+3. Check out Retro Trans Tools at `dde06f13fdabd7d9fa03af861f50e72fcf196faa` under ignored `work/source/retro-trans-tools`. This is the upstream revision reviewed for 0.1.17.
+4. With Python 3.11 or later, preview `py -3.11 tools/package_release.py --source-commit <full-commit>`, then repeat with `--write`. The script uses upstream’s bundled verified xdelta engine and release builder. It hashes both images, creates the patch, decodes it and verifies the entire output, checks that inputs did not change, and adds SHA-1 identifiers for supported DVD CHD identification.
+5. The final package is `work/output/release-0.1.17/`. It must contain exactly the listed patch, `BUILD-MANIFEST.json`, `VALIDATION.json` and `SHA256SUMS.txt`. Canonical metadata is copied to `docs/releases/0.1.17/`. A private local configuration stays under `work/source/`.
+
+The source commit identifies the translation and packaging sources. A later commit may add the resulting release metadata and publication evidence without changing game bytes.
+
+## Publish
+
+Stage a draft GitHub release at `v0.1.17`, upload the patch, validation report and checksums, then upload the manifest last. Compare every uploaded size and SHA-256 with the local asset. Publish a regular release (the Automatic catalog excludes GitHub prereleases), while clearly describing the work-in-progress playtesting status in its notes.
+
+Dispatch the Retro Trans Tools **Refresh patch catalog** workflow with `repository=retro-trans/ACE`. Confirm successful validation and public catalog discovery. Check that the original-disc route reaches 0.1.17, the current image needs no patch, and an unknown image is not recognized. Keep the workflow and route evidence in the release record.
+
+Never upload a complete game image, extracted movie/audio or private build configuration. Do not replace assets with different bytes after publication; use a new version for a changed build.

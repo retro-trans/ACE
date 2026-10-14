@@ -1,0 +1,96 @@
+{
+ "table": "023",
+ "dialogue_file": "work/translation/en/dialogue/m023.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Recapture Jaburo",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Defeat the enemy command vehicle",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "As we return to Earth, HQ has handed down official orders.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 101,
+   "en": "We<pt(0,-18.75,0,2)> will join a UCE-led operation to retake <pic(0)><cs(3)>Jaburo<ce()>, a military base in South America.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 102,
+   "en": "<mk(-25,0,5,1,50)><mk(-25,-37.5,7,1,100)><mk(25,0,3,1,150)><mk(25,-37.5,1,1,200)>Jaburo was the UCE military HQ, but the Titans have held it since they broke away.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 103,
+   "en": "No surprise. It was used by the Titans, once the core of the <cs(1)>Earth Federation Forces<ce()>.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 104,
+   "en": "We will drop in directly and <mk(-62.5,37.5,1,0,50)><ar(0,1,0,500)><mk(-75,-18.75,2,3,100)><ar(0,2,3,500)><mk(0,50,0,3,150)><ar(0,0,3,500)><mk(-62.5,-75,3,3,200)><ar(0,3,3,500)><mk(62.5,37.5,7,3,250)><ar(0,7,3,500)><mk(0,-87.5,4,3,300)><ar(0,4,3,500)><mk(87.5,-18.75,6,3,350)><ar(0,6,3,500)><mk(62.5,-75,5,3,400)><ar(0,5,3,500)>launch an assault, then secure <pic(1)><cs(3)>the base interior<ce()>.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 105,
+   "en": "The fires of war have not yet gone out on the surface. Do not let your guard down.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 200,
+   "en": "The recapture operation succeeded, and Jaburo once again belongs to our UCE.",
+   "speaker": "UCE official?"
+  },
+  {
+   "id": 201,
+   "en": "Jaburo will now be fully refitted and used as a UCE military stronghold.",
+   "speaker": "UCE official?"
+  },
+  {
+   "id": 202,
+   "en": "The E2 you brought back will also be stored here.",
+   "speaker": "UCE official?"
+  },
+  {
+   "id": 203,
+   "en": "The victory of our UCE is beyond doubt. But enemies still remain on the surface.",
+   "speaker": "UCE official?"
+  },
+  {
+   "id": 204,
+   "en": "From now on, you will serve as a strike force on the surface.",
+   "speaker": "UCE official?"
+  },
+  {
+   "id": 205,
+   "en": "I expect you to sweep away the evil on Earth and help establish order.",
+   "speaker": "UCE official?"
+  },
+  {
+   "id": 300,
+   "en": "Just what do you think you are doing? Is that all the strength you have?",
+   "speaker": "UCE official?"
+  },
+  {
+   "id": 301,
+   "en": "The future of Earth rests on your shoulders. This will not do. Pull yourselves together.",
+   "speaker": "UCE official?"
+  }
+ ]
+}

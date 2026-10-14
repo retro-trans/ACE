@@ -1,0 +1,500 @@
+{
+ "mission": "037",
+ "rows": [
+  {
+   "id": 1,
+   "en": "All shuttles leave the area",
+   "speaker": "HUD objective"
+  },
+  {
+   "id": 2,
+   "en": "Shuttle destroyed",
+   "speaker": "HUD objective"
+  },
+  {
+   "id": 3,
+   "en": "Defeat the Stier",
+   "speaker": "HUD objective"
+  },
+  {
+   "id": 4,
+   "en": "---",
+   "speaker": "HUD objective"
+  },
+  {
+   "id": 11,
+   "en": "Shuttles carrying civilians are evacuating.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 12,
+   "en": "A battle in a place like this...!",
+   "speaker": "?"
+  },
+  {
+   "id": 13,
+   "en": "Each shuttle has hundreds of civilians aboard.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 14,
+   "en": "Get every last one of them out of this sector!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 17,
+   "en": "There are chaff grenades out there to cover you.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 18,
+   "en": "Destroy one and it'll jam the enemy's lock-on.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 19,
+   "en": "Make good use of them.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 21,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 22,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 23,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 25,
+   "en": "A shuttle has been destroyed!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 31,
+   "en": "Transmission from the UCE Space Force.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 32,
+   "en": "So they've come after all. Open a channel.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 33,
+   "en": "Attention, UCE vessel Ra Cailum.",
+   "speaker": "UCE Space Force officer"
+  },
+  {
+   "id": 34,
+   "en": "Your actions are an open act of treason.",
+   "speaker": "UCE Space Force officer"
+  },
+  {
+   "id": 35,
+   "en": "Obstruct this operation any further,",
+   "speaker": "UCE Space Force officer"
+  },
+  {
+   "id": 36,
+   "en": "and you will face the appropriate punishment.",
+   "speaker": "UCE Space Force officer"
+  },
+  {
+   "id": 37,
+   "en": "Whatever your reasons may be,",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 38,
+   "en": "you have no right to attack civilians as well!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 39,
+   "en": "You have had your final warning.",
+   "speaker": "UCE Space Force officer"
+  },
+  {
+   "id": 40,
+   "en": "Remember: what happens next depends on your actions.",
+   "speaker": "UCE Space Force officer"
+  },
+  {
+   "id": 41,
+   "en": "Such tyranny... So this is the UCE's true nature.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 42,
+   "en": "Let's be grateful we no longer need to hesitate.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 44,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 45,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 47,
+   "en": "Enemy reinforcements confirmed.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 49,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 51,
+   "en": "Open broadcast from a civilian craft.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 52,
+   "en": "To all UCE forces.",
+   "speaker": "? (colonist broadcast)"
+  },
+  {
+   "id": 53,
+   "en": "The UCE's atrocities are now known throughout space.",
+   "speaker": "? (colonist broadcast)"
+  },
+  {
+   "id": 54,
+   "en": "The time has come for all of us in space to unite",
+   "speaker": "? (colonist broadcast)"
+  },
+  {
+   "id": 55,
+   "en": "and stand up against your tyranny!",
+   "speaker": "? (colonist broadcast)"
+  },
+  {
+   "id": 56,
+   "en": "My God, this is the worst possible outcome...",
+   "speaker": "?"
+  },
+  {
+   "id": 57,
+   "en": "Save it for later! The shuttles' escape comes first!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 59,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 60,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 61,
+   "en": "A unit is approaching our position!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 62,
+   "en": "What? What is that...?",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 63,
+   "en": "Looks like some enhanced units were still left over.",
+   "speaker": "Ruri Hoshino?"
+  },
+  {
+   "id": 64,
+   "en": "...And it seems I can't hack them.",
+   "speaker": "Ruri Hoshino?"
+  },
+  {
+   "id": 71,
+   "en": "All shuttles confirmed clear of the area.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 72,
+   "en": "So now we've parted ways with the UCE...",
+   "speaker": "Sally Po?"
+  },
+  {
+   "id": 73,
+   "en": "We're going to be busy from here on.",
+   "speaker": "Sally Po?"
+  },
+  {
+   "id": 74,
+   "en": "Even so, we have to fight...",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 75,
+   "en": "if only to make sure this never happens again.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 81,
+   "en": "Fight carefully, and don't bump into the shuttles.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 82,
+   "en": "I'll warn you if you get near a shuttle.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 83,
+   "en": "I will issue a warning when you approach a shuttle.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 84,
+   "en": "You fight without touching the shuttles, got it?",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 85,
+   "en": "I'll warn you if you get near a shuttle!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 86,
+   "en": "Careful not to touch the shuttles, okay?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 87,
+   "en": "WARNING WILL BE DISPLAYED ON SHUTTLE APPROACH.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 88,
+   "en": "Please be careful not to bump into the shuttles!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 89,
+   "en": "I'll warn you when you get near a shuttle.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 90,
+   "en": "A warning will be issued when you approach a shuttle.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 91,
+   "en": "If you get too close, I'll warn you.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 92,
+   "en": "Fight carefully so you don't hit one.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 93,
+   "en": "Please be careful not to make contact.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 94,
+   "en": "If you get close, I'll warn you from this end.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 95,
+   "en": "So fight careful and don't bump into 'em!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 96,
+   "en": "I'll warn you when you get close.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 97,
+   "en": "AVOID CONTACT WITH SHUTTLES.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 98,
+   "en": "I'll send you a warning if you get close!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 99,
+   "en": "So fight carefully and don't touch them, would you?",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 100,
+   "en": "Please take care to avoid contact.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 101,
+   "en": "You're too close to the shuttle!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 102,
+   "en": "You're getting too close to the shuttle!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 103,
+   "en": "You are too close to the shuttle!",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 104,
+   "en": "You're way too close to the shuttle!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 105,
+   "en": "Hey, you're too close to the shuttle!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 106,
+   "en": "You're getting too close to the shuttle!",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 107,
+   "en": "CLOSING ON SHUTTLE. EVADE.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 108,
+   "en": "You're too close to the shuttle!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 109,
+   "en": "You're much too close to the shuttle!",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 110,
+   "en": "You are approaching too close to the shuttle.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 111,
+   "en": "This one's not like the others. Be careful!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 112,
+   "en": "This one's strong!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 113,
+   "en": "Don't underestimate this enemy's capabilities.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 114,
+   "en": "What...? This enemy's strong. Be careful.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 115,
+   "en": "Ugh, no way! This one's strong!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 116,
+   "en": "The enemy is strong. Be careful.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 117,
+   "en": "ALARM MESSAGE: DANGER. EVADE.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 118,
+   "en": "This enemy is strong! Please be careful!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 119,
+   "en": "That enemy's performance is something else. Watch out.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 120,
+   "en": "The target is high-performance. Please stay alert.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 121,
+   "en": "Come on, stop dawdling!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 122,
+   "en": "Hurry up and finish them off.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 123,
+   "en": "There are still enemies remaining.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 124,
+   "en": "There are still enemies out there. Take them down.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 125,
+   "en": "What's the holdup? Let's hurry and beat 'em!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 126,
+   "en": "Let's hurry and get this over with.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 127,
+   "en": "EXPEDITE DESTRUCTION OF TARGETS.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 128,
+   "en": "There are still enemies left. Please take them out!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 129,
+   "en": "There are still enemies left, you know.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 130,
+   "en": "Enemy units are still remaining.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

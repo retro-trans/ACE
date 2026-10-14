@@ -1,0 +1,65 @@
+{
+ "name": "t0802.tm2",
+ "labels": [
+  {
+   "box": [
+    23,
+    7,
+    57,
+    24
+   ],
+   "en": "Resources",
+   "align": "left",
+   "grow": [
+    0,
+    50
+   ],
+   "height": 18
+  },
+  {
+   "box": [
+    162,
+    7,
+    197,
+    24
+   ],
+   "en": "Armor",
+   "align": "left",
+   "grow": [
+    0,
+    40
+   ],
+   "height": 18
+  },
+  {
+   "box": [
+    22,
+    59,
+    90,
+    76
+   ],
+   "en": "Repair Eff.",
+   "align": "left",
+   "grow": [
+    0,
+    30
+   ],
+   "height": 18
+  },
+  {
+   "box": [
+    162,
+    58,
+    231,
+    76
+   ],
+   "en": "Repair Res.",
+   "align": "left",
+   "grow": [
+    0,
+    20
+   ],
+   "height": 18
+  }
+ ]
+}

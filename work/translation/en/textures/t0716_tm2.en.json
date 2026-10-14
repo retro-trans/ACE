@@ -1,0 +1,55 @@
+{
+ "name": "t0716.tm2",
+ "labels": [
+  {
+   "box": [
+    163,
+    67,
+    164,
+    69
+   ],
+   "en": " ",
+   "vertical": true
+  },
+  {
+   "box": [
+    163,
+    107,
+    164,
+    109
+   ],
+   "en": " ",
+   "vertical": true
+  },
+  {
+   "box": [
+    57,
+    20,
+    163,
+    39
+   ],
+   "en": "Controller",
+   "align": "right"
+  },
+  {
+   "box": [
+    25,
+    59,
+    163,
+    79
+   ],
+   "en": "Vibration",
+   "align": "right"
+  },
+  {
+   "box": [
+    38,
+    100,
+    163,
+    119
+   ],
+   "en": "Quick Turn",
+   "align": "right"
+  }
+ ]
+}

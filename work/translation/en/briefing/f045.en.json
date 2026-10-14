@@ -1,0 +1,81 @@
+{
+ "table": "045",
+ "dialogue_file": "work/translation/en/dialogue/m045.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Stop Orphan Surfacing",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Nadesico C defeats 15 enemy units",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "We have intel that the Reclaimers are putting their plan to raise <pic(0)><cs(3)>Orphan<ce()> into action.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 101,
+   "en": "They say that if Orphan surfaces, it'll absorb Earth's bio-energy and drain the land dry.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 102,
+   "en": "If that is true, we must stop it at all costs.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 103,
+   "en": "<mk(-75,0,4,1,0)><ar(0,4,1,200)><mk(-50,-12.5,3,1,50)><ar(0,3,1,200)><mk(-25,-25,3,1,100)><ar(0,3,1,200)><mk(-12.5,-50,3,1,150)><ar(0,3,1,200)><mk(0,-75,2,1,200)><ar(0,2,1,200)><pic(1)><cs(3)>Around Orphan<ce()>, <mk(17,54.5,7,3,300)><ar(0,7,3,400)><mk(42,42,7,3,350)><ar(0,7,3,400)><mk(54.5,17,7,3,400)><ar(0,7,3,400)><pic(2)><cs(3)>the Nadesico C<ce()> and the Reclaimers have already begun fighting.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 104,
+   "en": "We are also <mk(75,-31,6,0)><ar(0,6,0,150)><mk(83,-56,6,3,50)><ar(0,6,3,150)>setting course for Orphan, and will join the fight immediately.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 200,
+   "en": "We have confirmed that the Reclaimers' main force has been destroyed.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 201,
+   "en": "With their fighting strength gone, the Reclaimers have agreed to accept our protection.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 202,
+   "en": "And now that the surfacing plan has been stopped, Orphan has quietly ceased moving too.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 203,
+   "en": "From here, a team of researchers will take over and work out new countermeasures.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 204,
+   "en": "This era is surely heading toward peace. Our role, too, will soon be over.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 300,
+   "en": "We can't stand still if we want peace. Don't let your guard down, even for an instant.",
+   "speaker": "briefing commander (unnamed)"
+  }
+ ]
+}

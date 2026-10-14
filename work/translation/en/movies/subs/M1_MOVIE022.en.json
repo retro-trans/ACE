@@ -1,0 +1,235 @@
+{
+ "movie": "M1_MOVIE022",
+ "cards": [
+  {
+   "id": 0,
+   "frames": [
+    19,
+    134
+   ],
+   "kind": "title",
+   "box": [
+    114,
+    121,
+    398,
+    315
+   ],
+   "lines": [
+    [
+     121,
+     315
+    ]
+   ],
+   "peak": 37,
+   "en": "— Ra Cailum Medical Crew\nAnna Stephanie —"
+  },
+  {
+   "id": 1,
+   "frames": [
+    182,
+    345
+   ],
+   "kind": "subtitle",
+   "box": [
+    104,
+    357,
+    409,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     382
+    ],
+    [
+     383,
+     408
+    ]
+   ],
+   "peak": 300,
+   "en": "Even before we heard Miss Relena's message,\nour minds were already made up."
+  },
+  {
+   "id": 2,
+   "frames": [
+    371,
+    538
+   ],
+   "kind": "subtitle",
+   "box": [
+    115,
+    357,
+    395,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     382
+    ],
+    [
+     383,
+     408
+    ]
+   ],
+   "peak": 417,
+   "en": "Even so, the words Miss Relena spoke to us\ncame as quite a shock."
+  },
+  {
+   "id": 3,
+   "frames": [
+    574,
+    762
+   ],
+   "kind": "subtitle",
+   "box": [
+    124,
+    357,
+    389,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     382
+    ],
+    [
+     383,
+     408
+    ]
+   ],
+   "peak": 624,
+   "en": "We would be branded criminals, and might lose\neven the chance to clear our names."
+  },
+  {
+   "id": 4,
+   "frames": [
+    792,
+    981
+   ],
+   "kind": "subtitle",
+   "box": [
+    117,
+    357,
+    396,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     382
+    ],
+    [
+     383,
+     408
+    ]
+   ],
+   "peak": 800,
+   "en": "I'd be lying if I said I didn't hesitate.\nBut my doubts soon faded away."
+  },
+  {
+   "id": 5,
+   "frames": [
+    1013,
+    1128
+   ],
+   "kind": "subtitle",
+   "box": [
+    140,
+    357,
+    373,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     382
+    ],
+    [
+     383,
+     408
+    ]
+   ],
+   "peak": 1051,
+   "en": "We were the only ones\nwho could go after Char."
+  },
+  {
+   "id": 6,
+   "frames": [
+    1159,
+    1348
+   ],
+   "kind": "subtitle",
+   "box": [
+    120,
+    357,
+    390,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     382
+    ],
+    [
+     383,
+     408
+    ]
+   ],
+   "peak": 1174,
+   "en": "The age of peace Miss Relena strove for...\nto make it real, we would do anything."
+  },
+  {
+   "id": 7,
+   "frames": [
+    1373,
+    1443
+   ],
+   "kind": "subtitle",
+   "box": [
+    153,
+    357,
+    360,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     382
+    ],
+    [
+     383,
+     408
+    ]
+   ],
+   "peak": 1405,
+   "en": "On that,\nwe were all agreed."
+  },
+  {
+   "id": 8,
+   "frames": [
+    1485,
+    1776
+   ],
+   "kind": "subtitle",
+   "box": [
+    104,
+    357,
+    410,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     382
+    ],
+    [
+     383,
+     408
+    ]
+   ],
+   "peak": 1759,
+   "en": "And so we turned our backs on Earth\nto settle things with E2 once and for all."
+  }
+ ]
+}

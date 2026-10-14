@@ -1,0 +1,239 @@
+{
+ "movie": "M1_MOVIE020",
+ "cards": [
+  {
+   "id": 0,
+   "frames": [
+    19,
+    134
+   ],
+   "kind": "title",
+   "box": [
+    114,
+    198,
+    398,
+    250
+   ],
+   "lines": [
+    [
+     198,
+     224
+    ],
+    [
+     226,
+     250
+    ]
+   ],
+   "peak": 37,
+   "en": "— Ra Cailum Medical Crew\nAnna Stephanie —"
+  },
+  {
+   "id": 1,
+   "frames": [
+    182,
+    363
+   ],
+   "kind": "subtitle",
+   "box": [
+    119,
+    357,
+    394,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 300,
+   "en": "It was the moment the joy we felt at the war's end\ncame crashing down."
+  },
+  {
+   "id": 2,
+   "frames": [
+    391,
+    478
+   ],
+   "kind": "subtitle",
+   "box": [
+    128,
+    357,
+    385,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 423,
+   "en": "People who should have been bound for Earth\nwere right there."
+  },
+  {
+   "id": 3,
+   "frames": [
+    504,
+    652
+   ],
+   "kind": "subtitle",
+   "box": [
+    144,
+    357,
+    371,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 595,
+   "en": "The plan they told us of\nwas utterly horrifying."
+  },
+  {
+   "id": 4,
+   "frames": [
+    695,
+    883
+   ],
+   "kind": "subtitle",
+   "box": [
+    136,
+    357,
+    377,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 831,
+   "en": "Drop E2 onto the Earth.\nIt was a plan to destroy the planet."
+  },
+  {
+   "id": 5,
+   "frames": [
+    910,
+    1085
+   ],
+   "kind": "subtitle",
+   "box": [
+    110,
+    357,
+    400,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 924,
+   "en": "The man leading it... was Char Aznable.\nHe was alive."
+  },
+  {
+   "id": 6,
+   "frames": [
+    1114,
+    1327
+   ],
+   "kind": "subtitle",
+   "box": [
+    125,
+    357,
+    388,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 1161,
+   "en": "E2, Char, and the refugee ship.\nWe were the ones who had led them all here..."
+  },
+  {
+   "id": 7,
+   "frames": [
+    1370,
+    1565
+   ],
+   "kind": "subtitle",
+   "box": [
+    97,
+    357,
+    417,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 1473,
+   "en": "Radio interference cut off our contact with Earth,\nand we could not warn anyone of the danger."
+  },
+  {
+   "id": 8,
+   "frames": [
+    1588,
+    1718
+   ],
+   "kind": "subtitle",
+   "box": [
+    127,
+    357,
+    388,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 1707,
+   "en": "This plan had to be stopped,\nno matter what it took..."
+  }
+ ]
+}

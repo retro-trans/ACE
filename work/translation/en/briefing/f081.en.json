@@ -1,0 +1,26 @@
+{
+ "table": "081",
+ "dialogue_file": "work/translation/en/dialogue/m081.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Extra Mission 2",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "---",
+   "speaker": "HUD"
+  }
+ ]
+}

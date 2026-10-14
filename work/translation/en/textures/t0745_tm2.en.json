@@ -1,0 +1,133 @@
+{
+ "name": "t0745.tm2",
+ "labels": [
+  {
+   "box": [
+    11,
+    137,
+    84,
+    156
+   ],
+   "en": "Text",
+   "align": "right",
+   "height": 19
+  },
+  {
+   "box": [
+    30,
+    176,
+    82,
+    196
+   ],
+   "en": "Brightness",
+   "align": "right",
+   "grow": [
+    20,
+    0
+   ],
+   "height": 19
+  },
+  {
+   "box": [
+    103,
+    6,
+    127,
+    42
+   ],
+   "en": "Demo",
+   "vertical": true,
+   "height": 18,
+   "upward": true
+  },
+  {
+   "box": [
+    149,
+    143,
+    167,
+    159
+   ],
+   "en": " ",
+   "vertical": true
+  },
+  {
+   "box": [
+    146,
+    6,
+    167,
+    143
+   ],
+   "en": "Lock-on Sight Gauge",
+   "vertical": true,
+   "height": 18,
+   "upward": true
+  },
+  {
+   "box": [
+    184,
+    6,
+    208,
+    92
+   ],
+   "en": "Target",
+   "vertical": true,
+   "height": 18,
+   "upward": true
+  },
+  {
+   "box": [
+    252,
+    170,
+    253,
+    251
+   ],
+   "en": " ",
+   "vertical": true
+  },
+  {
+   "box": [
+    251,
+    178,
+    252,
+    250
+   ],
+   "en": " ",
+   "vertical": true
+  },
+  {
+   "box": [
+    233,
+    170,
+    251,
+    248
+   ],
+   "en": " "
+  },
+  {
+   "box": [
+    235,
+    248,
+    251,
+    250
+   ],
+   "en": " ",
+   "vertical": true
+  },
+  {
+   "box": [
+    235,
+    171,
+    252,
+    250
+   ],
+   "en": "Contrast",
+   "vertical": true,
+   "height": 18,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "upward": true
+  }
+ ]
+}

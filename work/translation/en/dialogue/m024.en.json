@@ -1,0 +1,370 @@
+{
+ "mission": "024",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "Defeat the Majin",
+   "speaker": "HUD"
+  },
+  {
+   "id": 10,
+   "en": "Reclaimers confirmed in the vicinity.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 11,
+   "en": "Are they after the Plates...? This is bad timing.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 12,
+   "en": "If they come at us, return fire.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 13,
+   "en": "Try to get in our way all you like, it's too late!",
+   "speaker": "Reclaimer pilot (?)"
+  },
+  {
+   "id": 14,
+   "en": "Orphan will guide us!",
+   "speaker": "Reclaimer pilot (?)"
+  },
+  {
+   "id": 15,
+   "en": "Friendly units are being shot down one after another!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 16,
+   "en": "It far exceeds anything in our existing data!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 17,
+   "en": "What the hell is that power...!",
+   "speaker": "?"
+  },
+  {
+   "id": 18,
+   "en": "Damn, that's all for today! We're pulling out!",
+   "speaker": "Reclaimer pilot (?)"
+  },
+  {
+   "id": 19,
+   "en": "The Reclaimers have withdrawn.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 20,
+   "en": "Boson particle readings rising!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 21,
+   "en": "Here it comes! Get into intercept positions!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 22,
+   "en": "Target is getting ready to fire a Gravity Blast!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 23,
+   "en": "Boson particle readings rising!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 24,
+   "en": "Enemy reinforcements confirmed.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 25,
+   "en": "There's no end to the enemy reinforcements!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 26,
+   "en": "Take out the target, fast! I'm counting on you!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 27,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 28,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 29,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 30,
+   "en": "Multiple heat sources approaching our position!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 31,
+   "en": "They're identified as the Drake Army!",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 32,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 33,
+   "en": "It's running even wilder than we expected.",
+   "speaker": "Drake Army officer (?)"
+  },
+  {
+   "id": 34,
+   "en": "We need to collect the experiment data, fast!",
+   "speaker": "Drake Army officer (?)"
+  },
+  {
+   "id": 35,
+   "en": "They've caught up with us! No choice, we fight!",
+   "speaker": "Drake Army officer (?)"
+  },
+  {
+   "id": 36,
+   "en": "The Drake Army has withdrawn from the area.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 37,
+   "en": "There's no need to pursue them.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 38,
+   "en": "Prioritize clearing out enemies in the area.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 39,
+   "en": "Target destroyed! The enemy is withdrawing.",
+   "speaker": "Ra Cailum operator"
+  },
+  {
+   "id": 40,
+   "en": "That pilot's screaming... It bothers me...",
+   "speaker": "?"
+  },
+  {
+   "id": 50,
+   "en": "It's headed our way!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 51,
+   "en": "It's coming this way!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 52,
+   "en": "It is heading toward us.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 53,
+   "en": "It's coming this way.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 54,
+   "en": "It's coming right at us!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 55,
+   "en": "It's coming toward us.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 56,
+   "en": "TARGET APPROACH CONFIRMED.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 57,
+   "en": "It's heading this way.",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 58,
+   "en": "Well, it's come our way.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 59,
+   "en": "It is approaching our position.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 60,
+   "en": "A direct hit would finish you off in an instant.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 61,
+   "en": "Take a direct hit and you're done for!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 62,
+   "en": "If you take a direct hit, it's over.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 63,
+   "en": "If you take a direct hit, you won't stand a chance.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 64,
+   "en": "Take a direct hit and you'll be toast, you know!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 65,
+   "en": "If you take a direct hit, it'll be the end of you.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 66,
+   "en": "TAKE COVER BEHIND OBSTACLES. AVOID DIRECT HIT.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 67,
+   "en": "If you take a direct hit, you won't stand a chance!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 68,
+   "en": "A direct hit, and you're finished.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 69,
+   "en": "If you take a direct hit, it is over.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 70,
+   "en": "Hide somewhere!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 71,
+   "en": "Get somewhere you can avoid a direct hit!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 72,
+   "en": "Please take cover behind an obstacle.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 73,
+   "en": "Hide somewhere and wait it out.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 74,
+   "en": "Hide somewhere!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 75,
+   "en": "Find somewhere to hide.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 77,
+   "en": "Please hide somewhere!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 78,
+   "en": "Hide somewhere safe, would you?",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 79,
+   "en": "Please withdraw to a point where you can avoid a direct hit.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 80,
+   "en": "Here it comes!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 81,
+   "en": "Here it comes!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 82,
+   "en": "It's coming!",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 83,
+   "en": "Here it comes!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 84,
+   "en": "Here it comes!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 85,
+   "en": "It's coming!",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 86,
+   "en": "HEAT SOURCE DETECTED.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 87,
+   "en": "It's coming!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 88,
+   "en": "Here it comes!",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 89,
+   "en": "It is incoming!",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

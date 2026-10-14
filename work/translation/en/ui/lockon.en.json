@@ -1,0 +1,702 @@
+{
+ "group": "lockon",
+ "font": "hud13",
+ "where": [
+  "\\target\\fe\\InGame\\bnd\\InGame001.bnd@0x110",
+  "\\target\\fe\\InGame\\bnd\\InGame001.bnd@0x150",
+  "\\target\\fe\\InGame\\bnd\\InGame001.bnd@0x190",
+  "\\target\\fe\\InGame\\bnd\\InGame001.bnd@0x1d0",
+  "\\target\\fe\\InGame\\bnd\\InGame001.bnd@0x210",
+  "\\target\\fe\\InGame\\bnd\\InGame001.bnd@0x90",
+  "\\target\\fe\\InGame\\bnd\\InGame001.bnd@0xd0",
+  "\\target\\fe\\InGame\\bnd\\InGame002.bnd@0x130",
+  "\\target\\fe\\InGame\\bnd\\InGame002.bnd@0x170",
+  "\\target\\fe\\InGame\\bnd\\InGame002.bnd@0x70",
+  "\\target\\fe\\InGame\\bnd\\InGame002.bnd@0xb0",
+  "\\target\\fe\\InGame\\bnd\\InGame002.bnd@0xf0",
+  "\\target\\fe\\InGame\\bnd\\InGame003.bnd@0x100",
+  "\\target\\fe\\InGame\\bnd\\InGame003.bnd@0x140",
+  "\\target\\fe\\InGame\\bnd\\InGame003.bnd@0x180",
+  "\\target\\fe\\InGame\\bnd\\InGame003.bnd@0x80",
+  "\\target\\fe\\InGame\\bnd\\InGame003.bnd@0xc0",
+  "\\target\\fe\\InGame\\bnd\\InGame004.bnd@0x170",
+  "\\target\\fe\\InGame\\bnd\\InGame004.bnd@0x70",
+  "\\target\\fe\\InGame\\bnd\\InGame005.bnd@0x60",
+  "\\target\\fe\\InGame\\bnd\\InGame005.bnd@0xa0",
+  "\\target\\fe\\InGame\\bnd\\InGame006.bnd@0x60",
+  "\\target\\fe\\InGame\\bnd\\InGame006.bnd@0xa0",
+  "\\target\\fe\\InGame\\bnd\\InGame007.bnd@0x190",
+  "\\target\\fe\\InGame\\bnd\\InGame007.bnd@0x90",
+  "\\target\\fe\\InGame\\bnd\\InGame007.bnd@0xd0",
+  "\\target\\fe\\InGame\\bnd\\InGame008.bnd@0x110",
+  "\\target\\fe\\InGame\\bnd\\InGame008.bnd@0x150",
+  "\\target\\fe\\InGame\\bnd\\InGame008.bnd@0x90",
+  "\\target\\fe\\InGame\\bnd\\InGame008.bnd@0xd0",
+  "\\target\\fe\\InGame\\bnd\\InGame009.bnd@0x110",
+  "\\target\\fe\\InGame\\bnd\\InGame009.bnd@0x150",
+  "\\target\\fe\\InGame\\bnd\\InGame009.bnd@0x190",
+  "\\target\\fe\\InGame\\bnd\\InGame009.bnd@0x1d0",
+  "\\target\\fe\\InGame\\bnd\\InGame009.bnd@0x90",
+  "\\target\\fe\\InGame\\bnd\\InGame009.bnd@0xd0",
+  "\\target\\fe\\InGame\\bnd\\InGame010.bnd@0x130",
+  "\\target\\fe\\InGame\\bnd\\InGame010.bnd@0x170",
+  "\\target\\fe\\InGame\\bnd\\InGame010.bnd@0x1b0",
+  "\\target\\fe\\InGame\\bnd\\InGame010.bnd@0x230",
+  "\\target\\fe\\InGame\\bnd\\InGame010.bnd@0xb0",
+  "\\target\\fe\\InGame\\bnd\\InGame010.bnd@0xf0",
+  "\\target\\fe\\InGame\\bnd\\InGame012.bnd@0x40",
+  "\\target\\fe\\InGame\\bnd\\InGame012.bnd@0x80",
+  "\\target\\fe\\InGame\\bnd\\InGame014.bnd@0x110",
+  "\\target\\fe\\InGame\\bnd\\InGame014.bnd@0x150",
+  "\\target\\fe\\InGame\\bnd\\InGame014.bnd@0x190",
+  "\\target\\fe\\InGame\\bnd\\InGame014.bnd@0x1d0",
+  "\\target\\fe\\InGame\\bnd\\InGame014.bnd@0x90",
+  "\\target\\fe\\InGame\\bnd\\InGame014.bnd@0xd0",
+  "\\target\\fe\\InGame\\bnd\\InGame015.bnd@0x100",
+  "\\target\\fe\\InGame\\bnd\\InGame015.bnd@0x140",
+  "\\target\\fe\\InGame\\bnd\\InGame015.bnd@0x80",
+  "\\target\\fe\\InGame\\bnd\\InGame015.bnd@0xc0",
+  "\\target\\fe\\InGame\\bnd\\InGame016.bnd@0x50",
+  "\\target\\fe\\InGame\\bnd\\InGame016.bnd@0x90",
+  "\\target\\fe\\InGame\\bnd\\InGame017.bnd@0x130",
+  "\\target\\fe\\InGame\\bnd\\InGame017.bnd@0x170",
+  "\\target\\fe\\InGame\\bnd\\InGame017.bnd@0x70",
+  "\\target\\fe\\InGame\\bnd\\InGame017.bnd@0xb0",
+  "\\target\\fe\\InGame\\bnd\\InGame017.bnd@0xf0",
+  "\\target\\fe\\InGame\\bnd\\InGame019.bnd@0x130",
+  "\\target\\fe\\InGame\\bnd\\InGame019.bnd@0x170",
+  "\\target\\fe\\InGame\\bnd\\InGame019.bnd@0x70",
+  "\\target\\fe\\InGame\\bnd\\InGame019.bnd@0xb0",
+  "\\target\\fe\\InGame\\bnd\\InGame019.bnd@0xf0",
+  "\\target\\fe\\InGame\\bnd\\InGame020.bnd@0x120",
+  "\\target\\fe\\InGame\\bnd\\InGame020.bnd@0x160",
+  "\\target\\fe\\InGame\\bnd\\InGame020.bnd@0x1a0",
+  "\\target\\fe\\InGame\\bnd\\InGame020.bnd@0xa0",
+  "\\target\\fe\\InGame\\bnd\\InGame020.bnd@0xe0",
+  "\\target\\fe\\InGame\\bnd\\InGame021.bnd@0x70",
+  "\\target\\fe\\InGame\\bnd\\InGame021.bnd@0xb0",
+  "\\target\\fe\\InGame\\bnd\\InGame021.bnd@0xf0",
+  "\\target\\fe\\InGame\\bnd\\InGame022.bnd@0x120",
+  "\\target\\fe\\InGame\\bnd\\InGame022.bnd@0x60",
+  "\\target\\fe\\InGame\\bnd\\InGame022.bnd@0xa0",
+  "\\target\\fe\\InGame\\bnd\\InGame022.bnd@0xe0",
+  "\\target\\fe\\InGame\\bnd\\InGame023.bnd@0x60",
+  "\\target\\fe\\InGame\\bnd\\InGame023.bnd@0xa0",
+  "\\target\\fe\\InGame\\bnd\\InGame023.bnd@0xe0",
+  "\\target\\fe\\InGame\\bnd\\InGame024.bnd@0x100",
+  "\\target\\fe\\InGame\\bnd\\InGame024.bnd@0x140",
+  "\\target\\fe\\InGame\\bnd\\InGame024.bnd@0x180",
+  "\\target\\fe\\InGame\\bnd\\InGame024.bnd@0x80",
+  "\\target\\fe\\InGame\\bnd\\InGame024.bnd@0xc0",
+  "\\target\\fe\\InGame\\bnd\\InGame025.bnd@0x130",
+  "\\target\\fe\\InGame\\bnd\\InGame025.bnd@0x170",
+  "\\target\\fe\\InGame\\bnd\\InGame025.bnd@0x1b0",
+  "\\target\\fe\\InGame\\bnd\\InGame025.bnd@0x1f0",
+  "\\target\\fe\\InGame\\bnd\\InGame025.bnd@0x230",
+  "\\target\\fe\\InGame\\bnd\\InGame025.bnd@0xb0",
+  "\\target\\fe\\InGame\\bnd\\InGame025.bnd@0xf0",
+  "\\target\\fe\\InGame\\bnd\\InGame026.bnd@0x100",
+  "\\target\\fe\\InGame\\bnd\\InGame026.bnd@0x140",
+  "\\target\\fe\\InGame\\bnd\\InGame026.bnd@0x180",
+  "\\target\\fe\\InGame\\bnd\\InGame026.bnd@0x1c0",
+  "\\target\\fe\\InGame\\bnd\\InGame026.bnd@0x200",
+  "\\target\\fe\\InGame\\bnd\\InGame026.bnd@0x240",
+  "\\target\\fe\\InGame\\bnd\\InGame026.bnd@0xc0",
+  "\\target\\fe\\InGame\\bnd\\InGame027.bnd@0x100",
+  "\\target\\fe\\InGame\\bnd\\InGame027.bnd@0x140",
+  "\\target\\fe\\InGame\\bnd\\InGame027.bnd@0x180",
+  "\\target\\fe\\InGame\\bnd\\InGame027.bnd@0x1c0",
+  "\\target\\fe\\InGame\\bnd\\InGame027.bnd@0x200",
+  "\\target\\fe\\InGame\\bnd\\InGame027.bnd@0x240",
+  "\\target\\fe\\InGame\\bnd\\InGame027.bnd@0x280",
+  "\\target\\fe\\InGame\\bnd\\InGame027.bnd@0x2c0",
+  "\\target\\fe\\InGame\\bnd\\InGame027.bnd@0xc0",
+  "\\target\\fe\\InGame\\bnd\\InGame028.bnd@0x110",
+  "\\target\\fe\\InGame\\bnd\\InGame028.bnd@0x80",
+  "\\target\\fe\\InGame\\bnd\\InGame028.bnd@0xd0",
+  "\\target\\fe\\InGame\\bnd\\InGame029.bnd@0x100",
+  "\\target\\fe\\InGame\\bnd\\InGame029.bnd@0x140",
+  "\\target\\fe\\InGame\\bnd\\InGame029.bnd@0x180",
+  "\\target\\fe\\InGame\\bnd\\InGame029.bnd@0x1c0",
+  "\\target\\fe\\InGame\\bnd\\InGame029.bnd@0x200",
+  "\\target\\fe\\InGame\\bnd\\InGame029.bnd@0x240",
+  "\\target\\fe\\InGame\\bnd\\InGame029.bnd@0x280",
+  "\\target\\fe\\InGame\\bnd\\InGame029.bnd@0xc0",
+  "\\target\\fe\\InGame\\bnd\\InGame030.bnd@0x100",
+  "\\target\\fe\\InGame\\bnd\\InGame030.bnd@0x80",
+  "\\target\\fe\\InGame\\bnd\\InGame030.bnd@0xc0",
+  "\\target\\fe\\InGame\\bnd\\InGame031.bnd@0x110",
+  "\\target\\fe\\InGame\\bnd\\InGame031.bnd@0x150",
+  "\\target\\fe\\InGame\\bnd\\InGame031.bnd@0x190",
+  "\\target\\fe\\InGame\\bnd\\InGame031.bnd@0x90",
+  "\\target\\fe\\InGame\\bnd\\InGame031.bnd@0xd0",
+  "\\target\\fe\\InGame\\bnd\\InGame032.bnd@0x110",
+  "\\target\\fe\\InGame\\bnd\\InGame032.bnd@0x150",
+  "\\target\\fe\\InGame\\bnd\\InGame032.bnd@0x90",
+  "\\target\\fe\\InGame\\bnd\\InGame032.bnd@0xd0",
+  "\\target\\fe\\InGame\\bnd\\InGame034.bnd@0x100",
+  "\\target\\fe\\InGame\\bnd\\InGame034.bnd@0x140",
+  "\\target\\fe\\InGame\\bnd\\InGame034.bnd@0x180",
+  "\\target\\fe\\InGame\\bnd\\InGame034.bnd@0x1c0",
+  "\\target\\fe\\InGame\\bnd\\InGame034.bnd@0xc0",
+  "\\target\\fe\\InGame\\bnd\\InGame036.bnd@0x130",
+  "\\target\\fe\\InGame\\bnd\\InGame036.bnd@0x170",
+  "\\target\\fe\\InGame\\bnd\\InGame036.bnd@0x70",
+  "\\target\\fe\\InGame\\bnd\\InGame036.bnd@0xb0",
+  "\\target\\fe\\InGame\\bnd\\InGame036.bnd@0xf0",
+  "\\target\\fe\\InGame\\bnd\\InGame037.bnd@0x120",
+  "\\target\\fe\\InGame\\bnd\\InGame037.bnd@0x160",
+  "\\target\\fe\\InGame\\bnd\\InGame037.bnd@0x1a0",
+  "\\target\\fe\\InGame\\bnd\\InGame037.bnd@0x1e0",
+  "\\target\\fe\\InGame\\bnd\\InGame037.bnd@0x240",
+  "\\target\\fe\\InGame\\bnd\\InGame037.bnd@0x280",
+  "\\target\\fe\\InGame\\bnd\\InGame037.bnd@0x2c0",
+  "\\target\\fe\\InGame\\bnd\\InGame037.bnd@0x300",
+  "\\target\\fe\\InGame\\bnd\\InGame037.bnd@0x340",
+  "\\target\\fe\\InGame\\bnd\\InGame037.bnd@0x380",
+  "\\target\\fe\\InGame\\bnd\\InGame037.bnd@0xe0",
+  "\\target\\fe\\InGame\\bnd\\InGame038.bnd@0x130",
+  "\\target\\fe\\InGame\\bnd\\InGame038.bnd@0x170",
+  "\\target\\fe\\InGame\\bnd\\InGame038.bnd@0x1b0",
+  "\\target\\fe\\InGame\\bnd\\InGame038.bnd@0x1f0",
+  "\\target\\fe\\InGame\\bnd\\InGame038.bnd@0x230",
+  "\\target\\fe\\InGame\\bnd\\InGame038.bnd@0x270",
+  "\\target\\fe\\InGame\\bnd\\InGame038.bnd@0xb0",
+  "\\target\\fe\\InGame\\bnd\\InGame038.bnd@0xf0",
+  "\\target\\fe\\InGame\\bnd\\InGame039.bnd@0x100",
+  "\\target\\fe\\InGame\\bnd\\InGame039.bnd@0x140",
+  "\\target\\fe\\InGame\\bnd\\InGame039.bnd@0x180",
+  "\\target\\fe\\InGame\\bnd\\InGame039.bnd@0x1c0",
+  "\\target\\fe\\InGame\\bnd\\InGame039.bnd@0x200",
+  "\\target\\fe\\InGame\\bnd\\InGame039.bnd@0x240",
+  "\\target\\fe\\InGame\\bnd\\InGame039.bnd@0x280",
+  "\\target\\fe\\InGame\\bnd\\InGame039.bnd@0x2c0",
+  "\\target\\fe\\InGame\\bnd\\InGame039.bnd@0x300",
+  "\\target\\fe\\InGame\\bnd\\InGame039.bnd@0xc0",
+  "\\target\\fe\\InGame\\bnd\\InGame040.bnd@0x110",
+  "\\target\\fe\\InGame\\bnd\\InGame040.bnd@0x150",
+  "\\target\\fe\\InGame\\bnd\\InGame040.bnd@0x190",
+  "\\target\\fe\\InGame\\bnd\\InGame040.bnd@0x90",
+  "\\target\\fe\\InGame\\bnd\\InGame040.bnd@0xd0",
+  "\\target\\fe\\InGame\\bnd\\InGame041.bnd@0x130",
+  "\\target\\fe\\InGame\\bnd\\InGame041.bnd@0x170",
+  "\\target\\fe\\InGame\\bnd\\InGame041.bnd@0x70",
+  "\\target\\fe\\InGame\\bnd\\InGame041.bnd@0xb0",
+  "\\target\\fe\\InGame\\bnd\\InGame041.bnd@0xf0",
+  "\\target\\fe\\InGame\\bnd\\InGame042.bnd@0x100",
+  "\\target\\fe\\InGame\\bnd\\InGame042.bnd@0x140",
+  "\\target\\fe\\InGame\\bnd\\InGame042.bnd@0x180",
+  "\\target\\fe\\InGame\\bnd\\InGame042.bnd@0x1c0",
+  "\\target\\fe\\InGame\\bnd\\InGame042.bnd@0x200",
+  "\\target\\fe\\InGame\\bnd\\InGame042.bnd@0x240",
+  "\\target\\fe\\InGame\\bnd\\InGame042.bnd@0x280",
+  "\\target\\fe\\InGame\\bnd\\InGame042.bnd@0x2c0",
+  "\\target\\fe\\InGame\\bnd\\InGame042.bnd@0x300",
+  "\\target\\fe\\InGame\\bnd\\InGame042.bnd@0x340",
+  "\\target\\fe\\InGame\\bnd\\InGame042.bnd@0x380",
+  "\\target\\fe\\InGame\\bnd\\InGame042.bnd@0x3c0",
+  "\\target\\fe\\InGame\\bnd\\InGame043.bnd@0x130",
+  "\\target\\fe\\InGame\\bnd\\InGame043.bnd@0x170",
+  "\\target\\fe\\InGame\\bnd\\InGame043.bnd@0x1b0",
+  "\\target\\fe\\InGame\\bnd\\InGame043.bnd@0x1f0",
+  "\\target\\fe\\InGame\\bnd\\InGame043.bnd@0x230",
+  "\\target\\fe\\InGame\\bnd\\InGame043.bnd@0x270",
+  "\\target\\fe\\InGame\\bnd\\InGame043.bnd@0x2b0",
+  "\\target\\fe\\InGame\\bnd\\InGame043.bnd@0xb0",
+  "\\target\\fe\\InGame\\bnd\\InGame043.bnd@0xf0",
+  "\\target\\fe\\InGame\\bnd\\InGame044.bnd@0x100",
+  "\\target\\fe\\InGame\\bnd\\InGame044.bnd@0x140",
+  "\\target\\fe\\InGame\\bnd\\InGame044.bnd@0x180",
+  "\\target\\fe\\InGame\\bnd\\InGame044.bnd@0x200",
+  "\\target\\fe\\InGame\\bnd\\InGame044.bnd@0x240",
+  "\\target\\fe\\InGame\\bnd\\InGame044.bnd@0xc0",
+  "\\target\\fe\\InGame\\bnd\\InGame045.bnd@0x110",
+  "\\target\\fe\\InGame\\bnd\\InGame045.bnd@0x90",
+  "\\target\\fe\\InGame\\bnd\\InGame045.bnd@0xd0",
+  "\\target\\fe\\InGame\\bnd\\InGame046.bnd@0x50",
+  "\\target\\fe\\InGame\\bnd\\InGame046.bnd@0x90",
+  "\\target\\fe\\InGame\\bnd\\InGame046.bnd@0xd0",
+  "\\target\\fe\\InGame\\bnd\\InGame047.bnd@0x100",
+  "\\target\\fe\\InGame\\bnd\\InGame047.bnd@0x140",
+  "\\target\\fe\\InGame\\bnd\\InGame047.bnd@0x180",
+  "\\target\\fe\\InGame\\bnd\\InGame047.bnd@0x1c0",
+  "\\target\\fe\\InGame\\bnd\\InGame047.bnd@0x80",
+  "\\target\\fe\\InGame\\bnd\\InGame047.bnd@0xc0",
+  "\\target\\fe\\InGame\\bnd\\InGame048.bnd@0x60",
+  "\\target\\fe\\InGame\\bnd\\InGame048.bnd@0xa0",
+  "\\target\\fe\\InGame\\bnd\\InGame048.bnd@0xe0",
+  "\\target\\fe\\InGame\\bnd\\InGame049.bnd@0x60",
+  "\\target\\fe\\InGame\\bnd\\InGame049.bnd@0xa0",
+  "\\target\\fe\\InGame\\bnd\\InGame049.bnd@0xe0",
+  "\\target\\fe\\InGame\\bnd\\InGame050.bnd@0x130",
+  "\\target\\fe\\InGame\\bnd\\InGame050.bnd@0x70",
+  "\\target\\fe\\InGame\\bnd\\InGame050.bnd@0xb0",
+  "\\target\\fe\\InGame\\bnd\\InGame050.bnd@0xf0",
+  "\\target\\fe\\InGame\\bnd\\InGame080.bnd@0x100",
+  "\\target\\fe\\InGame\\bnd\\InGame080.bnd@0x140",
+  "\\target\\fe\\InGame\\bnd\\InGame080.bnd@0x180",
+  "\\target\\fe\\InGame\\bnd\\InGame080.bnd@0x1c0",
+  "\\target\\fe\\InGame\\bnd\\InGame080.bnd@0x200",
+  "\\target\\fe\\InGame\\bnd\\InGame080.bnd@0x240",
+  "\\target\\fe\\InGame\\bnd\\InGame080.bnd@0x280",
+  "\\target\\fe\\InGame\\bnd\\InGame080.bnd@0x2c0",
+  "\\target\\fe\\InGame\\bnd\\InGame080.bnd@0x300",
+  "\\target\\fe\\InGame\\bnd\\InGame080.bnd@0x340",
+  "\\target\\fe\\InGame\\bnd\\InGame080.bnd@0x380",
+  "\\target\\fe\\InGame\\bnd\\InGame080.bnd@0x3c0",
+  "\\target\\fe\\InGame\\bnd\\InGame080.bnd@0x400",
+  "\\target\\fe\\InGame\\bnd\\InGame080.bnd@0x440",
+  "\\target\\fe\\InGame\\bnd\\InGame081.bnd@0x180",
+  "\\target\\fe\\InGame\\bnd\\InGame081.bnd@0x1c0",
+  "\\target\\fe\\InGame\\bnd\\InGame081.bnd@0x200",
+  "\\target\\fe\\InGame\\bnd\\InGame081.bnd@0x240",
+  "\\target\\fe\\InGame\\bnd\\InGame081.bnd@0x280",
+  "\\target\\fe\\InGame\\bnd\\InGame081.bnd@0x2c0",
+  "\\target\\fe\\InGame\\bnd\\InGame081.bnd@0x300",
+  "\\target\\fe\\InGame\\bnd\\InGame081.bnd@0x340",
+  "\\target\\fe\\InGame\\bnd\\InGame081.bnd@0x380",
+  "\\target\\fe\\InGame\\bnd\\InGame081.bnd@0x3c0",
+  "\\target\\fe\\InGame\\bnd\\InGame081.bnd@0x400",
+  "\\target\\fe\\InGame\\bnd\\InGame081.bnd@0x440",
+  "\\target\\fe\\InGame\\bnd\\InGame081.bnd@0x480",
+  "\\target\\fe\\InGame\\bnd\\InGame081.bnd@0x4c0",
+  "\\target\\fe\\InGame\\bnd\\InGame081.bnd@0x520",
+  "\\target\\fe\\InGame\\bnd\\InGame081.bnd@0x570",
+  "\\target\\fe\\InGame\\bnd\\InGame081.bnd@0x5b0",
+  "\\target\\fe\\InGame\\bnd\\InGame081.bnd@0x5f0",
+  "\\target\\fe\\InGame\\bnd\\InGame081.bnd@0x630",
+  "\\target\\fe\\InGame\\bnd\\InGame081.bnd@0x670",
+  "\\target\\fe\\InGame\\bnd\\InGame081.bnd@0x6b0",
+  "\\target\\fe\\InGame\\bnd\\InGame081.bnd@0x6f0",
+  "\\target\\fe\\InGame\\bnd\\InGame970.bnd@0x50",
+  "\\target\\fe\\InGame\\bnd\\InGame970.bnd@0x90",
+  "\\target\\fe\\InGame\\bnd\\InGame970.bnd@0xd0",
+  "\\target\\fe\\InGame\\bnd\\InGame971.bnd@0x70",
+  "\\target\\fe\\InGame\\bnd\\InGame971.bnd@0xb0",
+  "\\target\\fe\\InGame\\bnd\\InGame998.bnd@0x40",
+  "\\target\\fe\\InGame\\bnd\\InGame998.bnd@0x80"
+ ],
+ "limits": {
+  "lines": 1,
+  "width": 156,
+  "bytes": 24
+ },
+ "rows": [
+  {
+   "id": 1,
+   "en": "Alpha Azieru"
+  },
+  {
+   "id": 2,
+   "en": "Ashura Temple"
+  },
+  {
+   "id": 3,
+   "en": "A-Taul"
+  },
+  {
+   "id": 4,
+   "en": "Amazon"
+  },
+  {
+   "id": 5,
+   "en": "Ito Ganbatte Test"
+  },
+  {
+   "id": 6,
+   "en": "Will Wipps"
+  },
+  {
+   "id": 7,
+   "en": "Aries"
+  },
+  {
+   "id": 8,
+   "en": "Aug"
+  },
+  {
+   "id": 9,
+   "en": "Auge"
+  },
+  {
+   "id": 10,
+   "en": "Calvary Temple"
+  },
+  {
+   "id": 11,
+   "en": "Galava"
+  },
+  {
+   "id": 12,
+   "en": "Garuda"
+  },
+  {
+   "id": 13,
+   "en": "Gundam Epyon"
+  },
+  {
+   "id": 14,
+   "en": "Cancer"
+  },
+  {
+   "id": 15,
+   "en": "Mine"
+  },
+  {
+   "id": 16,
+   "en": "Gilappy"
+  },
+  {
+   "id": 17,
+   "en": "Geara Doga"
+  },
+  {
+   "id": 18,
+   "en": "Gilgazamune"
+  },
+  {
+   "id": 19,
+   "en": "Crave"
+  },
+  {
+   "id": 20,
+   "en": "Gnost"
+  },
+  {
+   "id": 21,
+   "en": "Graia"
+  },
+  {
+   "id": 22,
+   "en": "Grimkaiser"
+  },
+  {
+   "id": 23,
+   "en": "Grancher"
+  },
+  {
+   "id": 24,
+   "en": "Gran Garan"
+  },
+  {
+   "id": 25,
+   "en": "G.Roon"
+  },
+  {
+   "id": 26,
+   "en": "Gea Garing"
+  },
+  {
+   "id": 27,
+   "en": "Getter"
+  },
+  {
+   "id": 28,
+   "en": "Gewai"
+  },
+  {
+   "id": 29,
+   "en": "Gelf"
+  },
+  {
+   "id": 30,
+   "en": "Psycho Gundam"
+  },
+  {
+   "id": 31,
+   "en": "Psycho Gundam Mk-II"
+  },
+  {
+   "id": 32,
+   "en": "Sazabi"
+  },
+  {
+   "id": 33,
+   "en": "Sub-Cannon 01"
+  },
+  {
+   "id": 34,
+   "en": "Sub-Cannon 02"
+  },
+  {
+   "id": 35,
+   "en": "Sub-Cannon 03"
+  },
+  {
+   "id": 36,
+   "en": "Sub-Cannon 04"
+  },
+  {
+   "id": 37,
+   "en": "Sub-Cannon 05"
+  },
+  {
+   "id": 38,
+   "en": "Zakaal"
+  },
+  {
+   "id": 39,
+   "en": "Siasi"
+  },
+  {
+   "id": 40,
+   "en": "Shishiki"
+  },
+  {
+   "id": 41,
+   "en": "Stier"
+  },
+  {
+   "id": 42,
+   "en": "Jonathan's Grancher"
+  },
+  {
+   "id": 43,
+   "en": "The O"
+  },
+  {
+   "id": 44,
+   "en": "Skull Gunner"
+  },
+  {
+   "id": 45,
+   "en": "Skoll"
+  },
+  {
+   "id": 46,
+   "en": "Space Graia"
+  },
+  {
+   "id": 47,
+   "en": "Zwarth"
+  },
+  {
+   "id": 48,
+   "en": "Zwai"
+  },
+  {
+   "id": 49,
+   "en": "Saberfish"
+  },
+  {
+   "id": 50,
+   "en": "Solomco"
+  },
+  {
+   "id": 51,
+   "en": "AA Gun"
+  },
+  {
+   "id": 52,
+   "en": "Tungy"
+  },
+  {
+   "id": 53,
+   "en": "Tantor"
+  },
+  {
+   "id": 54,
+   "en": "Dein"
+  },
+  {
+   "id": 55,
+   "en": "Dauzehn"
+  },
+  {
+   "id": 56,
+   "en": "Dummy Leader"
+  },
+  {
+   "id": 57,
+   "en": "Desks Custom"
+  },
+  {
+   "id": 58,
+   "en": "Dimarge"
+  },
+  {
+   "id": 59,
+   "en": "Transport"
+  },
+  {
+   "id": 60,
+   "en": "Tallgeese"
+  },
+  {
+   "id": 61,
+   "en": "Dodai Kai"
+  },
+  {
+   "id": 62,
+   "en": "Drumlo"
+  },
+  {
+   "id": 63,
+   "en": "Doro"
+  },
+  {
+   "id": 64,
+   "en": "Nadesico B"
+  },
+  {
+   "id": 65,
+   "en": "Nadesico C"
+  },
+  {
+   "id": 66,
+   "en": "Hizack"
+  },
+  {
+   "id": 67,
+   "en": "Hambrabi"
+  },
+  {
+   "id": 68,
+   "en": "Harald"
+  },
+  {
+   "id": 69,
+   "en": "Baund Doc"
+  },
+  {
+   "id": 70,
+   "en": "Bat-Shu"
+  },
+  {
+   "id": 71,
+   "en": "Batta"
+  },
+  {
+   "id": 72,
+   "en": "Baronz"
+  },
+  {
+   "id": 73,
+   "en": "Vierres"
+  },
+  {
+   "id": 74,
+   "en": "Virunvee"
+  },
+  {
+   "id": 75,
+   "en": "Virgo"
+  },
+  {
+   "id": 76,
+   "en": "Falguen"
+  },
+  {
+   "id": 77,
+   "en": "Funnel"
+  },
+  {
+   "id": 78,
+   "en": "Bloodykaiser"
+  },
+  {
+   "id": 79,
+   "en": "Braver"
+  },
+  {
+   "id": 80,
+   "en": "Turret"
+  },
+  {
+   "id": 81,
+   "en": "Poseidal Statue"
+  },
+  {
+   "id": 82,
+   "en": "Majin"
+  },
+  {
+   "id": 83,
+   "en": "Marasai"
+  },
+  {
+   "id": 84,
+   "en": "Missile"
+  },
+  {
+   "id": 85,
+   "en": "Mindanao"
+  },
+  {
+   "id": 86,
+   "en": "Musaka"
+  },
+  {
+   "id": 87,
+   "en": "Muzura"
+  },
+  {
+   "id": 88,
+   "en": "Jagd Gelf"
+  },
+  {
+   "id": 89,
+   "en": "Jagd Doga"
+  },
+  {
+   "id": 90,
+   "en": "Yatenko"
+  },
+  {
+   "id": 91,
+   "en": "Wryneck"
+  },
+  {
+   "id": 92,
+   "en": "Rista"
+  },
+  {
+   "id": 93,
+   "en": "Risnir"
+  },
+  {
+   "id": 94,
+   "en": "Reflector Bit"
+  },
+  {
+   "id": 95,
+   "en": "Leo"
+  },
+  {
+   "id": 96,
+   "en": "Libra"
+  },
+  {
+   "id": 97,
+   "en": "Rewloola"
+  },
+  {
+   "id": 98,
+   "en": "Reb Gelf"
+  },
+  {
+   "id": 99,
+   "en": "Leprechaun"
+  },
+  {
+   "id": 100,
+   "en": "Loewe"
+  },
+  {
+   "id": 101,
+   "en": "Waage"
+  },
+  {
+   "id": 102,
+   "en": "Container"
+  },
+  {
+   "id": 103,
+   "en": "Chaff Grenade"
+  },
+  {
+   "id": 104,
+   "en": "Control Panel"
+  }
+ ]
+}

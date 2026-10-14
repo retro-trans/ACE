@@ -1,0 +1,40 @@
+# Disc images and extracted game data
+*.iso
+*.ISO
+*.bin
+*.BIN
+text_audit/source/
+work/source/
+work/output/
+*.partial
+
+# Translation working files contain Japanese script; commit only *.en.json (tools/strip_jp.py)
+work/translation/**/*.json
+!work/translation/**/*.en.json
+text_audit/unique_japanese_*
+text_audit/fmg_tables.json
+
+__pycache__/
+
+.venv-whisper/
+work/translation/en/movies/lyrics/
+
+# Private references, extracted resources, cached upstream material and screenshots
+incoming/
+work/local/
+work/glossary/akurasu/
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.wav
+*.pss
+*.PSS
+*.m2v
+*.bnd
+*.csc
+*.tm2
+*.ttf
+*.otf
+text_audit/*.json
+text_audit/*.txt

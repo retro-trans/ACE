@@ -1,0 +1,101 @@
+{
+ "table": "005",
+ "dialogue_file": "work/translation/en/dialogue/m005.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Sanc Kingdom Defense",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "All allied units destroyed",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "All defense units survive",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "We've received a mission request from Commander Misumaru.",
+   "speaker": "Ra Cailum briefing officer"
+  },
+  {
+   "id": 101,
+   "en": "Right now, <mk(-50,-75,4,3)><ar(0,4,3,50)><mk(50,-75,4,3,50)><ar(0,4,3,50)><pic(0)>the pacifist nation of the <cs(1)>Sanc Kingdom<ce()> is under attack by <mk(-75,50,0,1)><ar(0,0,1,200)><mk(-25,50,0,1,50)><ar(0,0,1,200)><mk(25,50,0,1,150)><ar(0,0,1,200)><mk(75,50,0,1,200)><ar(0,0,1,200)>OZ.",
+   "speaker": "Ra Cailum briefing officer"
+  },
+  {
+   "id": 102,
+   "en": "This nation's head of state is Relena Peacecraft, a key figure in Earth's peace faction.",
+   "speaker": "Ra Cailum briefing officer"
+  },
+  {
+   "id": 103,
+   "en": "It seems OZ intends to kill her to strengthen its position on Earth.",
+   "speaker": "Ra Cailum briefing officer"
+  },
+  {
+   "id": 104,
+   "en": "If the peace faction grows strong around her, a popular figure, Earth could tip to peace.",
+   "speaker": "Ra Cailum briefing officer"
+  },
+  {
+   "id": 105,
+   "en": "So this is why Commander Misumaru asked us to protect her...",
+   "speaker": "Ra Cailum briefing officer"
+  },
+  {
+   "id": 106,
+   "en": "She has the qualities to lead the next era. We will guard her with all our strength.",
+   "speaker": "Ra Cailum briefing officer"
+  },
+  {
+   "id": 107,
+   "en": "All pilots, <mk(0,-50,4,0)><ar(0,4,0)>support the <pic(1)><cs(3)>units in combat<ce()> and stop the enemy from entering the city.",
+   "speaker": "Ra Cailum briefing officer"
+  },
+  {
+   "id": 200,
+   "en": "I regret that it had to be settled this way, but I thank you all for what you have done.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 201,
+   "en": "An era where peace is at the mercy of force... It seems it's time I steeled my resolve.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 202,
+   "en": "I hate to ask when you've only just saved me, but I have a request for all of you.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 203,
+   "en": "Would you be willing to take me to the UCE Parliament?",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 204,
+   "en": "There, I intend to make an appeal to the people of the world.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 205,
+   "en": "I have a duty to do what only I can do.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 300,
+   "en": "Will the day ever come when an age of peace arrives...",
+   "speaker": "Relena Peacecraft?"
+  }
+ ]
+}

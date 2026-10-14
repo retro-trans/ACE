@@ -1,0 +1,111 @@
+{
+ "table": "007",
+ "dialogue_file": "work/translation/en/dialogue/m007.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Intercept E2 Launch",
+   "speaker": "-"
+  },
+  {
+   "id": 2,
+   "en": "Escort the friendly warship",
+   "speaker": "-"
+  },
+  {
+   "id": 3,
+   "en": "Friendly warship sunk",
+   "speaker": "-"
+  },
+  {
+   "id": 4,
+   "en": "Destroy the recon helicopter",
+   "speaker": "-"
+  },
+  {
+   "id": 100,
+   "en": "Intelligence has learned the Poseidal Army contacted the <cs(1)>Unified Empire of Giganos<ce()>.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 101,
+   "en": "We can be almost certain that an E2 has fallen into Giganos hands as well.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 102,
+   "en": "The Giganos <pt(0,-80,0,1)><mk(-37.5,-75,4,1,50)><mk(0,-50,4,1,100)><mk(37.5,-75,4,1,150)>forces have stopped moving near the <pic(0)><cs(3)>launch base<ce()> that they occupy.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 103,
+   "en": "Most likely, they are preparing to transfer the E2 into space.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 104,
+   "en": "Giganos, a Moon-based anti-Earth power, clearly intends to use the E2 militarily.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 105,
+   "en": "We must stop them, whatever it takes.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 106,
+   "en": "Right now, <mk(12.5,30,0,3)><ar(0,0,3)>the <pic(1)><cs(3)>Nadesico B<ce()> is heading for the launch base ahead of us.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 107,
+   "en": "Now <mk(-12.5,50,0,0)><ar(0,0,0)>we'll join up with the Nadesico B and help secure the <pic(2)><cs(3)>area around the base<ce()>.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 200,
+   "en": "Military satellites have confirmed a Giganos transport shuttle has left the atmosphere.",
+   "speaker": "UCE superior?"
+  },
+  {
+   "id": 201,
+   "en": "At almost the same time, a Poseidal Army spaceship was also confirmed to have launched.",
+   "speaker": "UCE superior?"
+  },
+  {
+   "id": 202,
+   "en": "This means the E2s have spread into space. The situation is now even more serious.",
+   "speaker": "UCE superior?"
+  },
+  {
+   "id": 203,
+   "en": "In light of this, you will also go up into space and continue the pursuit mission.",
+   "speaker": "UCE superior?"
+  },
+  {
+   "id": 204,
+   "en": "I want the Nadesico B to head toward Amaterasu to track the Poseidal Army,",
+   "speaker": "UCE superior?"
+  },
+  {
+   "id": 205,
+   "en": "and the Ra Cailum to head for the Moon to keep the E2 out of the Giganos Lunar Empire.",
+   "speaker": "UCE superior?"
+  },
+  {
+   "id": 206,
+   "en": "To make up for your failures so far, I demand even greater effort from all of you.",
+   "speaker": "UCE superior?"
+  },
+  {
+   "id": 300,
+   "en": "Just what do you think you are doing? Is that all the strength you have?",
+   "speaker": "UCE superior?"
+  },
+  {
+   "id": 301,
+   "en": "You carry the future of Earth. This will not do. Pull yourselves together.",
+   "speaker": "UCE superior?"
+  }
+ ]
+}

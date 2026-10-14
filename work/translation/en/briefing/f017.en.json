@@ -1,0 +1,106 @@
+{
+ "table": "017",
+ "dialogue_file": "work/translation/en/dialogue/m017.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Suppress Enemy Raiders",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Defeat all Crave units in 2 minutes",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "We're still on our way back, but HQ has sent us a new mission.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 101,
+   "en": "Since Granada fell, the Titans have raided civilian colonies again and again.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 102,
+   "en": "This time, we'll lure them into <mk(-25,-25,7,1)><ar(0,7,1)>traps set <pic(0)><cs(3)>in a civilian colony<ce()> and <mk(50,-45,6,3,50)><ar(0,6,3,200)><mk(37.5,37.5,7,3,150)><ar(0,7,3,200)><mk(-45,50,0,0,200)><ar(0,0,0,200)>wipe out the Titans.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 103,
+   "en": "HQ is running this operation. Civilians are evacuated and the <pic(1)><cs(3)>interception traps<ce()> set.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 104,
+   "en": "We're told not to worry about damage to the surroundings... but I can't agree with that.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 105,
+   "en": "Since our orders say to fight inside the colony, we have no choice but to obey, but",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 106,
+   "en": "I want you to do all you can to avoid causing damage. All units, prepare to sortie.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 200,
+   "en": "The operation was a success. That's only what they deserve for rebelling against the UCE.",
+   "speaker": "UCE official?"
+  },
+  {
+   "id": 201,
+   "en": "Space is a precious source of resources. We won't let them do as they please.",
+   "speaker": "UCE official?"
+  },
+  {
+   "id": 202,
+   "en": "With the next operation, we should finally start to see the end of them.",
+   "speaker": "UCE official?"
+  },
+  {
+   "id": 203,
+   "en": "What worries me more is the colonies. Lately, many of their people have turned defiant.",
+   "speaker": "UCE official?"
+  },
+  {
+   "id": 204,
+   "en": "This operation was also meant to keep people like that in check.",
+   "speaker": "UCE official?"
+  },
+  {
+   "id": 205,
+   "en": "If we don't show our strength here, they'll only grow more and more arrogant.",
+   "speaker": "UCE official?"
+  },
+  {
+   "id": 206,
+   "en": "I want you to understand that it is all for the sake of order in the Earth Sphere.",
+   "speaker": "UCE official?"
+  },
+  {
+   "id": 207,
+   "en": "Anyone who opposes our UCE will be brought to their knees.",
+   "speaker": "UCE official?"
+  },
+  {
+   "id": 300,
+   "en": "So you're just a ragtag unit after all. I was a fool to expect anything of you.",
+   "speaker": "UCE official?"
+  }
+ ]
+}

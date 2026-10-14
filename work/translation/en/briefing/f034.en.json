@@ -1,0 +1,86 @@
+{
+ "table": "034",
+ "dialogue_file": "work/translation/en/dialogue/m034.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Support Allied Warships",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Obtain an Organic Plate",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "Right now, <mk(-37.5,37.5,0,3)><ar(0,0,3,150)><mk(25,37.5,0,3,50)><ar(0,0,3,150)><mk(-37.5,-62.5,4,1,1,250)><ar(0,4,1,400)><mk(25,-62.5,4,1,300)><ar(0,4,1,400)>at <pic(0)><cs(3)>JP Point<ce()>, the <pic(1)><cs(3)>Gran Garan<ce()> is in combat with the Drake Army.",
+   "speaker": "Ra Cailum briefing officer"
+  },
+  {
+   "id": 101,
+   "en": "The Drake Army has recently been seen abducting people of the Surface in many places.",
+   "speaker": "Ra Cailum briefing officer"
+  },
+  {
+   "id": 102,
+   "en": "With the joint E2 project come to nothing, they seem to have turned against the UCE.",
+   "speaker": "Ra Cailum briefing officer"
+  },
+  {
+   "id": 103,
+   "en": "It's no exaggeration to say they have begun a full-scale invasion of the surface.",
+   "speaker": "Ra Cailum briefing officer"
+  },
+  {
+   "id": 104,
+   "en": "We <mk(81.5,37.5,7,0,1)><ar(0,7,0,100)>will now change course and move to support the Gran Garan.",
+   "speaker": "Ra Cailum briefing officer"
+  },
+  {
+   "id": 105,
+   "en": "We may be forced to fight underwater. Prepare to sortie with that in mind.",
+   "speaker": "Ra Cailum briefing officer"
+  },
+  {
+   "id": 200,
+   "en": "Drake's plan to seize people of the Surface failed, and the captives were safely freed.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 201,
+   "en": "I'd say we have, for now, stopped their scheme to use people of the Surface in war.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 202,
+   "en": "It is regrettable that Drake escaped, but we must not be hasty for results now.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 203,
+   "en": "I must, without fail, send Drake back to Byston Well.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 204,
+   "en": "To that end, we too intend to spare no effort in cooperating with you.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 300,
+   "en": "With weak strength, you cannot fight to the end. You must hone yourselves further.",
+   "speaker": "Ciela Lapana?"
+  }
+ ]
+}

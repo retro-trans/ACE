@@ -1,0 +1,515 @@
+{
+ "mission": "048",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Destroy the E2 carrier",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "E2 carrier enters atmosphere",
+   "speaker": "HUD"
+  },
+  {
+   "id": 10,
+   "en": "Test: the Earth has been destroyed.",
+   "speaker": "- (debug)"
+  },
+  {
+   "id": 11,
+   "en": "Every unit that can sortie, get out there! We're out of time!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 12,
+   "en": "Hurry and pinpoint the shuttle carrying the E2!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 13,
+   "en": "There are too many of them, and with the jamming, it'll take time to pinpoint it!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 14,
+   "en": "We have confirmed they're unmanned, though!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 15,
+   "en": "There's no time left to stop them any other way.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 16,
+   "en": "All units, destroy those shuttles, every last one!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 17,
+   "en": "Enemy force confirmed, approaching our position.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 18,
+   "en": "They're identified as Neo Zeon!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 21,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 22,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 23,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 24,
+   "en": "Destroy them! Destroy every last one!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 25,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 26,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 27,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 28,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 29,
+   "en": "You still haven't pinpointed its location!?",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 30,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 31,
+   "en": "Out of time... They're about to enter the atmosphere!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 32,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 33,
+   "en": "The jamming's cut off all communication with Earth!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 41,
+   "en": "This plan can no longer be stopped!",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 42,
+   "en": "Char...!",
+   "speaker": "? (player-side pilot)"
+  },
+  {
+   "id": 43,
+   "en": "Why would you do something like this...!?",
+   "speaker": "? (player-side pilot)"
+  },
+  {
+   "id": 44,
+   "en": "Those who live on Earth think only of themselves.",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 45,
+   "en": "That's why I declared that I would wipe them out!",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 46,
+   "en": "I won't allow that!",
+   "speaker": "? (player-side pilot)"
+  },
+  {
+   "id": 47,
+   "en": "The time has come when the Earth can no longer endure!",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 51,
+   "en": "Why are you dropping something like this on Earth?",
+   "speaker": "Amuro Ray"
+  },
+  {
+   "id": 52,
+   "en": "This will make Earth too cold for people to live on!",
+   "speaker": "Amuro Ray"
+  },
+  {
+   "id": 53,
+   "en": "It'll bring on a nuclear winter!",
+   "speaker": "Amuro Ray"
+  },
+  {
+   "id": 56,
+   "en": "Who are you to pass judgment on other people!?",
+   "speaker": "Amuro Ray"
+  },
+  {
+   "id": 57,
+   "en": "Which is why I, Char Aznable, will purge them myself,",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 58,
+   "en": "Amuro!",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 59,
+   "en": "That's nothing but your ego!",
+   "speaker": "Amuro Ray"
+  },
+  {
+   "id": 61,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 62,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 70,
+   "en": "We've found the shuttle carrying the E2!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 71,
+   "en": "I'm sending you the target's position!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 72,
+   "en": "I won't let you go any further!",
+   "speaker": "Char Aznable?"
+  },
+  {
+   "id": 73,
+   "en": "No explosion! A dummy!?",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 74,
+   "en": "Damn! There's another signal!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 75,
+   "en": "Give up!",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 76,
+   "en": "No one can stop it anymore!",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 90,
+   "en": "E2 expansion reaction detected!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 91,
+   "en": "All units, emergency withdrawal!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 100,
+   "en": "This is as far as we can go.",
+   "speaker": "Neo Zeon officer?"
+  },
+  {
+   "id": 101,
+   "en": "Captain Char, let's fall back for now.",
+   "speaker": "Neo Zeon officer?"
+  },
+  {
+   "id": 102,
+   "en": "We still have one last E2.",
+   "speaker": "Neo Zeon officer?"
+  },
+  {
+   "id": 103,
+   "en": "The purge will go on... Mark my words.",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 104,
+   "en": "All units, pull out! Get them moving!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 105,
+   "en": "It's no use! Comms are down!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 106,
+   "en": "Don't tell me it's no use! Just do it!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 107,
+   "en": "Can you hear me!? All units, emergency withdrawal! Stay clear of the blast!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 108,
+   "en": "Looks like we made it, somehow...",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 109,
+   "en": "Captain, a transmission from Head of State Peacecraft!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 110,
+   "en": "But there's no telling when it'll cut out.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 111,
+   "en": "Understood. Open the channel right away.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 112,
+   "en": "It's broken past the point of no return!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 121,
+   "en": "We don't have time to bother with the enemy!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 122,
+   "en": "Destroy the shuttles!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 123,
+   "en": "Don't bother with the enemy now!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 124,
+   "en": "Destroy the shuttles!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 125,
+   "en": "There's no time to deal with the enemy!",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 126,
+   "en": "Please make destroying the shuttles your priority!",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 127,
+   "en": "We don't have time for taking down enemies!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 128,
+   "en": "Right now, you destroy the shuttles!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 129,
+   "en": "Beating the enemy can wait till later!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 130,
+   "en": "Hurry up and blow up those shuttles!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 131,
+   "en": "We can't afford to fight the enemy.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 132,
+   "en": "Destroy the shuttles for now!",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 133,
+   "en": "PRIORITIZE SHUTTLE DESTRUCTION.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 134,
+   "en": "PRIORITIZE SHUTTLE DESTRUCTION.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 135,
+   "en": "We don't have time to bother with the enemy!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 136,
+   "en": "Please destroy the shuttles!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 137,
+   "en": "We haven't got time to waste on the enemy, you know.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 138,
+   "en": "Destroy the shuttles for me, would you!",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 139,
+   "en": "Very little time remains.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 140,
+   "en": "Please prioritize destroying the shuttles.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 141,
+   "en": "It's near you! Destroy it right away!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 142,
+   "en": "It's headed your way! Destroy it, no matter what!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 143,
+   "en": "It's near you! Destroy it! Please!",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 144,
+   "en": "It's by you! Make sure you destroy it!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 145,
+   "en": "It's over by you! Smash it, no matter what! Hurry!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 146,
+   "en": "It's near you! Destroy it, quickly!",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 147,
+   "en": "TARGET APPROACHING. DESTROY.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 148,
+   "en": "It's coming your way! Please destroy it, quickly!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 149,
+   "en": "It's coming your way. Destroy it!",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 150,
+   "en": "Target approaching. Please destroy it.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 151,
+   "en": "Hurry, quickly!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 152,
+   "en": "Just hurry, will you!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 153,
+   "en": "There's no time!",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 154,
+   "en": "Hurry!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 155,
+   "en": "Come on, hurry up already!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 156,
+   "en": "Hurry, please!",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 157,
+   "en": "EXPEDITE TARGET DESTRUCTION.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 158,
+   "en": "Please hurry!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 159,
+   "en": "Hurry it up, would you!",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 160,
+   "en": "Please hurry.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

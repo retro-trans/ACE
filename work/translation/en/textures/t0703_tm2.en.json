@@ -1,0 +1,319 @@
+{
+ "name": "t0703.tm2",
+ "labels": [
+  {
+   "box": [
+    50,
+    7,
+    86,
+    25
+   ],
+   "en": "Armor",
+   "align": "right",
+   "grow": [
+    28,
+    0
+   ],
+   "height": 18
+  },
+  {
+   "box": [
+    50,
+    34,
+    86,
+    54
+   ],
+   "en": "Speed",
+   "align": "right",
+   "grow": [
+    28,
+    0
+   ],
+   "height": 18
+  },
+  {
+   "box": [
+    15,
+    64,
+    86,
+    81
+   ],
+   "en": " "
+  },
+  {
+   "box": [
+    20,
+    63,
+    86,
+    81
+   ],
+   "en": "Vernier",
+   "align": "right",
+   "height": 18,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "box": [
+    50,
+    91,
+    86,
+    110
+   ],
+   "en": "Output",
+   "align": "right",
+   "grow": [
+    28,
+    0
+   ],
+   "height": 18
+  },
+  {
+   "box": [
+    33,
+    118,
+    86,
+    138
+   ],
+   "en": "Mobility",
+   "align": "right",
+   "grow": [
+    12,
+    0
+   ],
+   "height": 18
+  },
+  {
+   "box": [
+    15,
+    148,
+    86,
+    166
+   ],
+   "en": " "
+  },
+  {
+   "box": [
+    17,
+    146,
+    86,
+    166
+   ],
+   "en": "Turning",
+   "align": "right",
+   "height": 18,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "box": [
+    15,
+    176,
+    86,
+    194
+   ],
+   "en": " "
+  },
+  {
+   "box": [
+    18,
+    174,
+    86,
+    194
+   ],
+   "en": "Wpn Power",
+   "align": "right",
+   "height": 18,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "box": [
+    15,
+    204,
+    86,
+    222
+   ],
+   "en": " "
+  },
+  {
+   "box": [
+    18,
+    202,
+    86,
+    222
+   ],
+   "en": "Wpn Reload",
+   "align": "right",
+   "height": 18,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "box": [
+    134,
+    6,
+    169,
+    25
+   ],
+   "en": "Add",
+   "align": "center",
+   "grow": [
+    5,
+    5
+   ],
+   "height": 18
+  },
+  {
+   "box": [
+    134,
+    33,
+    169,
+    53
+   ],
+   "en": "Upgrade",
+   "align": "center",
+   "grow": [
+    5,
+    5
+   ],
+   "height": 18
+  },
+  {
+   "box": [
+    134,
+    60,
+    169,
+    81
+   ],
+   "en": "Remove",
+   "align": "center",
+   "grow": [
+    5,
+    5
+   ],
+   "height": 18
+  },
+  {
+   "box": [
+    249,
+    51,
+    250,
+    178
+   ],
+   "en": " ",
+   "vertical": true
+  },
+  {
+   "box": [
+    229,
+    51,
+    249,
+    174
+   ],
+   "en": " "
+  },
+  {
+   "box": [
+    231,
+    174,
+    249,
+    177
+   ],
+   "en": " "
+  },
+  {
+   "box": [
+    231,
+    177,
+    249,
+    179
+   ],
+   "en": " ",
+   "vertical": true
+  },
+  {
+   "box": [
+    229,
+    51,
+    250,
+    174
+   ],
+   "en": "Ace Point Cost",
+   "vertical": true,
+   "height": 18,
+   "color": [
+    230,
+    235,
+    235
+   ],
+   "upward": true
+  },
+  {
+   "box": [
+    120,
+    152,
+    200,
+    169
+   ],
+   "en": "Weapon Name",
+   "align": "left",
+   "grow": [
+    0,
+    6
+   ]
+  },
+  {
+   "box": [
+    120,
+    173,
+    200,
+    190
+   ],
+   "en": "Slot Name",
+   "align": "left"
+  },
+  {
+   "box": [
+    120,
+    193,
+    232,
+    210
+   ],
+   "en": "Ace Points",
+   "align": "left"
+  },
+  {
+   "box": [
+    120,
+    214,
+    248,
+    231
+   ],
+   "en": "Unit Slot",
+   "align": "left"
+  },
+  {
+   "box": [
+    120,
+    234,
+    248,
+    251
+   ],
+   "en": "Weapon Slot",
+   "align": "left"
+  }
+ ]
+}

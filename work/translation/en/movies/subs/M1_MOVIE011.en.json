@@ -1,0 +1,163 @@
+{
+ "movie": "M1_MOVIE011",
+ "cards": [
+  {
+   "id": 0,
+   "frames": [
+    19,
+    134
+   ],
+   "kind": "title",
+   "box": [
+    114,
+    198,
+    398,
+    250
+   ],
+   "lines": [
+    [
+     198,
+     224
+    ],
+    [
+     226,
+     250
+    ]
+   ],
+   "peak": 37,
+   "en": "— Ra Cailum Medical Crew\nAnna Stephanie —"
+  },
+  {
+   "id": 1,
+   "frames": [
+    182,
+    300
+   ],
+   "kind": "subtitle",
+   "box": [
+    123,
+    357,
+    391,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 214,
+   "en": "What had we been fighting\nso desperately for?"
+  },
+  {
+   "id": 2,
+   "frames": [
+    333,
+    425
+   ],
+   "kind": "subtitle",
+   "box": [
+    164,
+    357,
+    350,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 354,
+   "en": "No one could give me\nan answer to that question."
+  },
+  {
+   "id": 3,
+   "frames": [
+    465,
+    577
+   ],
+   "kind": "subtitle",
+   "box": [
+    148,
+    357,
+    365,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 501,
+   "en": "When Ms. Noin and Captain Bright\nsaid, \"Let's go to space\"—"
+  },
+  {
+   "id": 4,
+   "frames": [
+    604,
+    686
+   ],
+   "kind": "subtitle",
+   "box": [
+    117,
+    357,
+    396,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 621,
+   "en": "not a single person objected."
+  },
+  {
+   "id": 5,
+   "frames": [
+    720,
+    871
+   ],
+   "kind": "subtitle",
+   "box": [
+    105,
+    357,
+    409,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 735,
+   "en": "I hadn't decided what I would do.\nBut I just couldn't stay behind."
+  },
+  {
+   "id": 6,
+   "frames": [
+    896,
+    1024
+   ],
+   "kind": "subtitle",
+   "box": [
+    110,
+    357,
+    402,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 924,
+   "en": "Even now, I don't believe\nthat decision was wrong."
+  }
+ ]
+}

@@ -1,0 +1,187 @@
+{
+ "movie": "M1_MOVIE014",
+ "cards": [
+  {
+   "id": 0,
+   "frames": [
+    19,
+    134
+   ],
+   "kind": "title",
+   "box": [
+    114,
+    206,
+    399,
+    244
+   ],
+   "lines": [
+    [
+     206,
+     223
+    ],
+    [
+     226,
+     244
+    ]
+   ],
+   "peak": 40,
+   "en": "— Neo Zeon Supreme Leader\nChar Aznable —"
+  },
+  {
+   "id": 1,
+   "frames": [
+    183,
+    339
+   ],
+   "kind": "subtitle",
+   "box": [
+    111,
+    357,
+    402,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 294,
+   "en": "Those whose souls are bound by Earth's gravity\nhave a long history of aggression."
+  },
+  {
+   "id": 2,
+   "frames": [
+    373,
+    494
+   ],
+   "kind": "subtitle",
+   "box": [
+    108,
+    357,
+    406,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 381,
+   "en": "I will not deny that it was the UCE\nthat shielded Earth from its enemies' onslaught."
+  },
+  {
+   "id": 3,
+   "frames": [
+    517,
+    710
+   ],
+   "kind": "subtitle",
+   "box": [
+    114,
+    357,
+    398,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 537,
+   "en": "But as a result, the UCE grew arrogant,\nand some, like OZ, came to seek dictatorship."
+  },
+  {
+   "id": 4,
+   "frames": [
+    742,
+    935
+   ],
+   "kind": "subtitle",
+   "box": [
+    96,
+    357,
+    418,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 768,
+   "en": "Feeding on the corrupt UCE, they wage endless war,\nand space now overflows with refugees."
+  },
+  {
+   "id": 5,
+   "frames": [
+    959,
+    1138
+   ],
+   "kind": "subtitle",
+   "box": [
+    107,
+    357,
+    404,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 981,
+   "en": "I became convinced that mankind\nmust never again repeat its wars."
+  },
+  {
+   "id": 6,
+   "frames": [
+    1162,
+    1353
+   ],
+   "kind": "subtitle",
+   "box": [
+    114,
+    357,
+    398,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 1320,
+   "en": "To that end, I resolved to purge those\nwho are the source of war in the Earth Sphere."
+  }
+ ]
+}

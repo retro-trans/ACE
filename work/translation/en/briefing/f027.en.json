@@ -1,0 +1,96 @@
+{
+ "table": "027",
+ "dialogue_file": "work/translation/en/dialogue/m027.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Support Friendly Forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Force the Will Wipps to retreat",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "In the <pic(0)><cs(3)>mountains near the UCE spaceport<ce()>, <mk(-17,-42.5,3,1)><ar(0,3,1,150)><mk(8,-67,3,1,1,50)><ar(0,3,1,150)><mk(50,25,7,3,250)><ar(0,7,3,350)><mk(75,0,7,3,250)><ar(0,7,3,350)>the Drake Army is reportedly fighting the UCE.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 101,
+   "en": "Together with the <pic(1)><cs(3)>Gran Garan<ce()>, we will now <mk(-62.5,-12.5,2,0)><ar(0,2,0,100)><mk(-62.5,25,2,3,50)><ar(0,2,3,100)>head there and support our allies.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 102,
+   "en": "...Everything we have been doing since we returned to Earth was just setting the stage.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 103,
+   "en": "We were made to play along with their experiments on new E2-powered machines.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 104,
+   "en": "Once this operation is over, you will be explaining yourself... Duke Dermail.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 200,
+   "en": "Attention, all UCE forces.",
+   "speaker": "Duke Dermail?"
+  },
+  {
+   "id": 201,
+   "en": "Today, our UCE succeeded in launching the <cs(1)>new units<ce()> it has been secretly developing.",
+   "speaker": "Duke Dermail?"
+  },
+  {
+   "id": 202,
+   "en": "As of today, the UCE Space Force on standby near Earth begins a full invasion of space.",
+   "speaker": "Duke Dermail?"
+  },
+  {
+   "id": 203,
+   "en": "Our first target is the civilian colony Sweetwater.",
+   "speaker": "Duke Dermail?"
+  },
+  {
+   "id": 204,
+   "en": "This colony recently declared independence from Earth and a monopoly on its resources.",
+   "speaker": "Duke Dermail?"
+  },
+  {
+   "id": 205,
+   "en": "Such tyranny will not be tolerated. Those who disturb order must face judgment.",
+   "speaker": "Duke Dermail?"
+  },
+  {
+   "id": 206,
+   "en": "If this invasion succeeds, order across the Earth Sphere will not be far off.",
+   "speaker": "Duke Dermail?"
+  },
+  {
+   "id": 207,
+   "en": "All forces, I expect the best possible results from you. That is all.",
+   "speaker": "Duke Dermail?"
+  },
+  {
+   "id": 300,
+   "en": "What on earth are you doing in a place like this? Think about what your role is.",
+   "speaker": "?"
+  }
+ ]
+}

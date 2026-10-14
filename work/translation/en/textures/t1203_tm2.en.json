@@ -1,0 +1,83 @@
+{
+ "name": "t1203.tm2",
+ "labels": [
+  {
+   "box": [
+    27,
+    5,
+    130,
+    22
+   ],
+   "en": "Friendly 01",
+   "align": "left"
+  },
+  {
+   "box": [
+    30,
+    57,
+    84,
+    77
+   ],
+   "en": "Damage Rate",
+   "align": "center",
+   "height": 16,
+   "grow": [
+    16,
+    0
+   ]
+  },
+  {
+   "box": [
+    151,
+    57,
+    206,
+    77
+   ],
+   "en": "Kills",
+   "align": "center",
+   "height": 16
+  },
+  {
+   "box": [
+    6,
+    89,
+    111,
+    106
+   ],
+   "en": "Friendly 02",
+   "align": "left"
+  },
+  {
+   "box": [
+    127,
+    89,
+    231,
+    106
+   ],
+   "en": "Friendly 03",
+   "align": "left"
+  },
+  {
+   "box": [
+    5,
+    117,
+    152,
+    137
+   ],
+   "en": "Ace Point Details",
+   "align": "left",
+   "height": 18
+  },
+  {
+   "box": [
+    7,
+    148,
+    136,
+    168
+   ],
+   "en": "Friendly Details",
+   "align": "left",
+   "height": 18
+  }
+ ]
+}

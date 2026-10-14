@@ -1,0 +1,213 @@
+{
+ "movie": "M1_MOVIE015",
+ "cards": [
+  {
+   "id": 0,
+   "frames": [
+    19,
+    134
+   ],
+   "kind": "title",
+   "box": [
+    114,
+    70,
+    398,
+    253
+   ],
+   "lines": [
+    [
+     70,
+     229
+    ],
+    [
+     223,
+     253
+    ]
+   ],
+   "peak": 37,
+   "en": "— Ruler of Theart Star\nFull Flat —"
+  },
+  {
+   "id": 1,
+   "frames": [
+    183,
+    372
+   ],
+   "kind": "subtitle",
+   "box": [
+    114,
+    357,
+    399,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 303,
+   "en": "I had heard of them for some time.\nSeeing them in person, I was certain."
+  },
+  {
+   "id": 2,
+   "frames": [
+    404,
+    562
+   ],
+   "kind": "subtitle",
+   "box": [
+    127,
+    357,
+    387,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 474,
+   "en": "Young people like them must not\nbe manipulated by Poseidal—"
+  },
+  {
+   "id": 3,
+   "frames": [
+    587,
+    779
+   ],
+   "kind": "subtitle",
+   "box": [
+    104,
+    357,
+    410,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 606,
+   "en": "not by someone who uses talented youths\nto rule the world from the shadows."
+  },
+  {
+   "id": 4,
+   "frames": [
+    837,
+    1001
+   ],
+   "kind": "subtitle",
+   "box": [
+    109,
+    357,
+    405,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 858,
+   "en": "Poseidal deftly played the other powers\nto make the war go on forever."
+  },
+  {
+   "id": 5,
+   "frames": [
+    1039,
+    1243
+   ],
+   "kind": "subtitle",
+   "box": [
+    133,
+    357,
+    381,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 1183,
+   "en": "That wrong must be set right.\nOtherwise, the war will never end."
+  },
+  {
+   "id": 6,
+   "frames": [
+    1278,
+    1401
+   ],
+   "kind": "subtitle",
+   "box": [
+    123,
+    357,
+    389,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 1294,
+   "en": "Even that fool Gavlet must have\nrealized it after hearing me out."
+  },
+  {
+   "id": 7,
+   "frames": [
+    1431,
+    1610
+   ],
+   "kind": "subtitle",
+   "box": [
+    113,
+    357,
+    387,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 1480,
+   "en": "Earth and space are both full of rotten sorts,\nbut I've taken a bit of a liking to that lot."
+  }
+ ]
+}

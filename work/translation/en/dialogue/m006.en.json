@@ -1,0 +1,430 @@
+{
+ "mission": "006",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Find the classified material",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Classified cargo destroyed",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 5,
+   "en": "Defeat Jonathan's Grancher",
+   "speaker": "HUD"
+  },
+  {
+   "id": 10,
+   "en": "Cooperating with the UCE in our pursuit of Drake,",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 11,
+   "en": "I am Ciela Lapana of the Gran Garan.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 12,
+   "en": "While we draw the Reclaimers away,",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 13,
+   "en": "I ask that you recover the target.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 14,
+   "en": "You can find the target's location by its sonar pings.",
+   "speaker": "? (commander)"
+  },
+  {
+   "id": 15,
+   "en": "The closer you get, the faster the pings become.",
+   "speaker": "? (commander)"
+  },
+  {
+   "id": 16,
+   "en": "Once you find it, get close and attach a transmitter.",
+   "speaker": "? (commander)"
+  },
+  {
+   "id": 17,
+   "en": "We'll send a recovery boat out for the rest.",
+   "speaker": "? (commander)"
+  },
+  {
+   "id": 18,
+   "en": "We weren't told details, but it's key military cargo.",
+   "speaker": "? (commander)"
+  },
+  {
+   "id": 19,
+   "en": "Handle it with extreme care.",
+   "speaker": "? (commander)"
+  },
+  {
+   "id": 20,
+   "en": "Have you still not found it?",
+   "speaker": "Ciela Lapana?"
+  },
+  {
+   "id": 21,
+   "en": "The enemy is jamming our sonar. Take them down!",
+   "speaker": "? (commander)"
+  },
+  {
+   "id": 22,
+   "en": "Jonathan, even if we fight each other,",
+   "speaker": "Yuu Isami"
+  },
+  {
+   "id": 23,
+   "en": "it won't get us anywhere!",
+   "speaker": "Yuu Isami"
+  },
+  {
+   "id": 24,
+   "en": "Anyone who gets in the way of Orphan's plans,",
+   "speaker": "Jonathan Green"
+  },
+  {
+   "id": 25,
+   "en": "I'll wipe out every last one of them!",
+   "speaker": "Jonathan Green"
+  },
+  {
+   "id": 26,
+   "en": "That was supposed to be your mission too!",
+   "speaker": "Jonathan Green"
+  },
+  {
+   "id": 27,
+   "en": "Not anymore. The Granchers' mission,",
+   "speaker": "Yuu Isami"
+  },
+  {
+   "id": 28,
+   "en": "and even Orphan's goals, they're all wrong!",
+   "speaker": "Yuu Isami"
+  },
+  {
+   "id": 29,
+   "en": "It's because you don't have the resolve",
+   "speaker": "Jonathan Green"
+  },
+  {
+   "id": 30,
+   "en": "that you go trying to run away from Orphan!",
+   "speaker": "Jonathan Green"
+  },
+  {
+   "id": 31,
+   "en": "You gutless coward! You're no kind of man!!",
+   "speaker": "Jonathan Green"
+  },
+  {
+   "id": 32,
+   "en": "You went and said it... Jonathan Green!",
+   "speaker": "Yuu Isami"
+  },
+  {
+   "id": 33,
+   "en": "Transmitter attachment confirmed.",
+   "speaker": "Gran Garan operator?"
+  },
+  {
+   "id": 34,
+   "en": "We're sending out the recovery boat.",
+   "speaker": "Gran Garan operator?"
+  },
+  {
+   "id": 35,
+   "en": "You have done well.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 36,
+   "en": "Even joining hands with the likes of Poseidal...",
+   "speaker": "Yuu Isami"
+  },
+  {
+   "id": 37,
+   "en": "I'm sick of a job helping with that kind of thing!",
+   "speaker": "Yuu Isami"
+  },
+  {
+   "id": 38,
+   "en": "Orphan's eternity is humanity's eternity.",
+   "speaker": "Jonathan Green"
+  },
+  {
+   "id": 39,
+   "en": "Can't you understand that?",
+   "speaker": "Jonathan Green"
+  },
+  {
+   "id": 40,
+   "en": "Or that we need that thing to make it happen!",
+   "speaker": "Jonathan Green"
+  },
+  {
+   "id": 41,
+   "en": "Where are you going, Jonathan Green!?",
+   "speaker": "Yuu Isami"
+  },
+  {
+   "id": 42,
+   "en": "Granchers closing in!",
+   "speaker": "Gran Garan operator?"
+  },
+  {
+   "id": 43,
+   "en": "Do not lose your composure.",
+   "speaker": "Ciela Lapana?"
+  },
+  {
+   "id": 44,
+   "en": "Read your enemy, and show me you can scatter them.",
+   "speaker": "Ciela Lapana?"
+  },
+  {
+   "id": 45,
+   "en": "So you mean to get in my way!?",
+   "speaker": "Jonathan Green"
+  },
+  {
+   "id": 46,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 47,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 48,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 49,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 50,
+   "en": "Damn it... That belongs to Orphan!",
+   "speaker": "Jonathan Green?"
+  },
+  {
+   "id": 51,
+   "en": "Captain, enemy signal near the recovery boat!",
+   "speaker": "? (operator)"
+  },
+  {
+   "id": 52,
+   "en": "What!?",
+   "speaker": "? (captain)"
+  },
+  {
+   "id": 53,
+   "en": "The recovery boat has taken a direct hit!",
+   "speaker": "? (operator)"
+  },
+  {
+   "id": 54,
+   "en": "This is... a high energy reading!",
+   "speaker": "? (operator)"
+  },
+  {
+   "id": 55,
+   "en": "It's dangerous! Evacuate!",
+   "speaker": "? (operator)"
+  },
+  {
+   "id": 56,
+   "en": "All units, pull out at once!",
+   "speaker": "? (captain)"
+  },
+  {
+   "id": 57,
+   "en": "This glow...! Why would something like this be here...",
+   "speaker": "?"
+  },
+  {
+   "id": 58,
+   "en": "Just what is it that we have been chasing...",
+   "speaker": "?"
+  },
+  {
+   "id": 59,
+   "en": "Organic Plate obtained.",
+   "speaker": "System"
+  },
+  {
+   "id": 60,
+   "en": "Your machine slows underwater, so be careful, okay?",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 61,
+   "en": "Your machine's speed drops underwater. Watch it.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 62,
+   "en": "Your machine will be slower underwater. Be careful.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 63,
+   "en": "Machines slow down underwater. Watch yourself.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 64,
+   "en": "Underwater, your machine gets all slow, you know!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 65,
+   "en": "Your machine slows down underwater, so do be careful.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 66,
+   "en": "ALARM MESSAGE: SPEED LOSS UNDERWATER CONFIRMED.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 67,
+   "en": "Your machine slows down underwater! Please be careful!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 68,
+   "en": "You lose speed underwater. Be careful.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 69,
+   "en": "Confirmed: reduced machine speed underwater.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 70,
+   "en": "The target's in the direction the pings get faster!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 71,
+   "en": "The target's where the pings speed up.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 72,
+   "en": "The target is in the direction the pings get faster.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 73,
+   "en": "The target's wherever the pings get faster.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 74,
+   "en": "The target's where the beeps get faster, you know!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 75,
+   "en": "The target lies where the pings grow faster.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 76,
+   "en": "TARGET CONFIRMED IN DIRECTION OF RISING PING RATE.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 77,
+   "en": "The target is where the pings get faster!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 78,
+   "en": "You'll find the target where the pings get faster.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 79,
+   "en": "Target confirmed in the direction of the faster pings.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 80,
+   "en": "An unexploded bomb!? Be careful!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 81,
+   "en": "Unexploded ordnance. Watch out!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 82,
+   "en": "It's an unexploded bomb. Are you all right?",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 83,
+   "en": "An unexploded bomb. Are you okay?",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 84,
+   "en": "An unexploded bomb!? Hey, are you okay!?",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 85,
+   "en": "It's an unexploded bomb. Do be careful.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 86,
+   "en": "ALARM MESSAGE: UNEXPLODED ORDNANCE CONFIRMED.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 87,
+   "en": "It's an unexploded bomb! Please be careful!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 88,
+   "en": "Unexploded ordnance. Mind yourself, would you?",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 89,
+   "en": "Unexploded ordnance confirmed.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

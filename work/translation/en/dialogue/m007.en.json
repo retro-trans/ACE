@@ -1,0 +1,335 @@
+{
+ "mission": "007",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Nadesico B reaches its goal",
+   "speaker": "System"
+  },
+  {
+   "id": 2,
+   "en": "Nadesico B sunk",
+   "speaker": "System"
+  },
+  {
+   "id": 10,
+   "en": "Hello, everyone on the Ra Cailum.",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 11,
+   "en": "I'm Ruri Hoshino, captain of the Nadesico B,\non assignment from the United Space Force.",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 12,
+   "en": "This is Bright Noa, captain of the Ra Cailum.\nWe'll leave command of the operation to you.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 13,
+   "en": "Likewise. I'll be counting on your help.",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 14,
+   "en": "Our advance team is already storming the base,\nso I can't fire the Gravity Blast recklessly.",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 15,
+   "en": "Everyone not heading to take the base,\nplease escort this ship.",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 16,
+   "en": "We're in a pretty tight spot and short on time,\nso I'm counting on you.",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 17,
+   "en": "Enemy reinforcements confirmed.",
+   "speaker": "Nadesico B bridge?"
+  },
+  {
+   "id": 18,
+   "en": "Go ahead and intercept them, please.",
+   "speaker": "Ruri Hoshino?"
+  },
+  {
+   "id": 19,
+   "en": "The Nadesico can't handle this alone.",
+   "speaker": "Ruri Hoshino?"
+  },
+  {
+   "id": 20,
+   "en": "Please give us some support.",
+   "speaker": "Ruri Hoshino?"
+  },
+  {
+   "id": 21,
+   "en": "Damage to the Nadesico B is spreading.",
+   "speaker": "Nadesico B bridge?"
+  },
+  {
+   "id": 22,
+   "en": "Engine damage is spreading. It's getting dangerous...",
+   "speaker": "Ruri Hoshino?"
+  },
+  {
+   "id": 23,
+   "en": "The Nadesico's damage has gone critical.",
+   "speaker": "Nadesico B bridge?"
+  },
+  {
+   "id": 24,
+   "en": "We've broken through the enemy lines.",
+   "speaker": "Ruri Hoshino?"
+  },
+  {
+   "id": 25,
+   "en": "Shuttle launch confirmed!",
+   "speaker": "?"
+  },
+  {
+   "id": 26,
+   "en": "Looks like we didn't make it in time.",
+   "speaker": "Ruri Hoshino?"
+  },
+  {
+   "id": 27,
+   "en": "To think it didn't just fall into Giganos hands,\nbut made it into space too...!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 28,
+   "en": "It's a shame, but it can't be helped.",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 29,
+   "en": "All units, let's begin our withdrawal.",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 30,
+   "en": "The Nadesico B's been hit.",
+   "speaker": "Nadesico B bridge?"
+  },
+  {
+   "id": 31,
+   "en": "Enemies incoming. Prepare to intercept.",
+   "speaker": "Nadesico B bridge?"
+  },
+  {
+   "id": 32,
+   "en": "We're almost through the enemy lines.",
+   "speaker": "Nadesico B bridge?"
+  },
+  {
+   "id": 33,
+   "en": "Take them out, fast! I'm counting on you!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 40,
+   "en": "Most of our forces went to take the base.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 41,
+   "en": "Our forces are tied up taking the base.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 42,
+   "en": "Most of our forces are heading to take the base.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 43,
+   "en": "Most of our allies went to take the base.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 44,
+   "en": "Pretty much everyone went off to take the base.",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 45,
+   "en": "Most of our allies are busy with the base assault.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 46,
+   "en": "80 PERCENT OF FORCES ENGAGED IN BASE SEIZURE.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 47,
+   "en": "Most of our forces are busy with the base assault.",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 48,
+   "en": "The bulk of our forces went to take the base.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 49,
+   "en": "Base seizure operation currently in progress.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 50,
+   "en": "So you protect the Nadesico B.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 51,
+   "en": "I'm leaving the Nadesico B's escort to you.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 52,
+   "en": "Please take up escort of the Nadesico B.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 53,
+   "en": "You're the one who has to protect the Nadesico B.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 54,
+   "en": "So you protect the Nadesico B, 'kay?",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 55,
+   "en": "So please protect the Nadesico B for me, okay?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 56,
+   "en": "ESCORT NADESICO B.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 57,
+   "en": "Please escort the Nadesico B!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 58,
+   "en": "You protect the Nadesico B for me, would you?",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 59,
+   "en": "Please provide escort for the Nadesico B.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 60,
+   "en": "There are enemies far off, too!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 61,
+   "en": "Enemies are deployed at long range as well.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 62,
+   "en": "We're being targeted from long range!",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 63,
+   "en": "There are enemies far off too, you know.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 64,
+   "en": "Looks like there are enemies way out there too.",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 65,
+   "en": "We're being targeted from long range, too.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 66,
+   "en": "TARGETS CONFIRMED AT LONG RANGE.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 67,
+   "en": "Enemies are deployed at long range too!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 68,
+   "en": "The enemy's taking aim from long range too.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 69,
+   "en": "We're also taking fire from long range.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 70,
+   "en": "Sticking to the Nadesico all the time won't cut it.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 71,
+   "en": "Leave them be and they'll pick us off.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 72,
+   "en": "Please destroy as many as you can.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 73,
+   "en": "Don't focus only on what's close by.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 74,
+   "en": "At this rate, we're gonna get taken out!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 75,
+   "en": "Deal with the far-off enemies too, okay?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 76,
+   "en": "DESTROY IMMEDIATELY WHERE POSSIBLE.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 77,
+   "en": "Please take out those enemies too!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 78,
+   "en": "Beating only the nearby ones won't do.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 79,
+   "en": "Please deal with that threat as well.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

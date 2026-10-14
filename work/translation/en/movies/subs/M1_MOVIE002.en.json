@@ -1,0 +1,287 @@
+{
+ "movie": "M1_MOVIE002",
+ "cards": [
+  {
+   "id": 0,
+   "frames": [
+    183,
+    332
+   ],
+   "kind": "subtitle",
+   "box": [
+    110,
+    357,
+    401,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 300,
+   "en": "At the time, I was at a UCE base,\nhelping out the military's medical team."
+  },
+  {
+   "id": 1,
+   "frames": [
+    362,
+    548
+   ],
+   "kind": "subtitle",
+   "box": [
+    90,
+    357,
+    423,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 525,
+   "en": "It was wartime, and civilians helping the military\nwasn't all that unusual."
+  },
+  {
+   "id": 2,
+   "frames": [
+    598,
+    736
+   ],
+   "kind": "subtitle",
+   "box": [
+    106,
+    357,
+    406,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 624,
+   "en": "I was working at the base\nwhen those alarms began to blare."
+  },
+  {
+   "id": 3,
+   "frames": [
+    779,
+    927
+   ],
+   "kind": "subtitle",
+   "box": [
+    118,
+    357,
+    396,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 814,
+   "en": "I'll never forget how terrifying it was\nto see a battle up close for the first time."
+  },
+  {
+   "id": 4,
+   "frames": [
+    958,
+    1145
+   ],
+   "kind": "subtitle",
+   "box": [
+    114,
+    357,
+    400,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 972,
+   "en": "After fleeing desperately with everyone else,\nthe next thing I knew, I was aboard this ship."
+  },
+  {
+   "id": 5,
+   "frames": [
+    1187,
+    1323
+   ],
+   "kind": "subtitle",
+   "box": [
+    121,
+    357,
+    393,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 1266,
+   "en": "The way the military went chasing the enemy\nwithout properly caring for the wounded—"
+  },
+  {
+   "id": 6,
+   "frames": [
+    1346,
+    1399
+   ],
+   "kind": "subtitle",
+   "box": [
+    173,
+    357,
+    342,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 1374,
+   "en": "it made me angry."
+  },
+  {
+   "id": 7,
+   "frames": [
+    1437,
+    1544
+   ],
+   "kind": "subtitle",
+   "box": [
+    130,
+    357,
+    385,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 1455,
+   "en": "What could be worth chasing that badly?\nI wanted to know."
+  },
+  {
+   "id": 8,
+   "frames": [
+    1591,
+    1771
+   ],
+   "kind": "subtitle",
+   "box": [
+    125,
+    357,
+    388,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 1611,
+   "en": "But now, I can't help wishing\nI had never found out."
+  },
+  {
+   "id": 9,
+   "frames": [
+    1812,
+    1958
+   ],
+   "kind": "subtitle",
+   "box": [
+    129,
+    357,
+    390,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 1824,
+   "en": "Then maybe we wouldn't have had to do\nwhat we did—"
+  },
+  {
+   "id": 10,
+   "frames": [
+    19,
+    134
+   ],
+   "kind": "title",
+   "box": [
+    114,
+    198,
+    399,
+    250
+   ],
+   "lines": [
+    [
+     198,
+     224
+    ],
+    [
+     225,
+     250
+    ]
+   ],
+   "peak": 76,
+   "en": "— Ra Cailum Medical Crew\nAnna Stephanie —"
+  }
+ ]
+}

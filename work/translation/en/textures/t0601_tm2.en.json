@@ -1,0 +1,65 @@
+{
+ "name": "t0601.tm2",
+ "labels": [
+  {
+   "box": [
+    0,
+    56,
+    1,
+    68
+   ],
+   "en": " ",
+   "vertical": true
+  },
+  {
+   "box": [
+    71,
+    80,
+    72,
+    96
+   ],
+   "en": " ",
+   "vertical": true
+  },
+  {
+   "box": [
+    71,
+    106,
+    72,
+    122
+   ],
+   "en": " ",
+   "vertical": true
+  },
+  {
+   "box": [
+    1,
+    53,
+    71,
+    73
+   ],
+   "en": "Mission",
+   "height": 18
+  },
+  {
+   "box": [
+    1,
+    79,
+    71,
+    99
+   ],
+   "en": "Victory Cond.",
+   "height": 18
+  },
+  {
+   "box": [
+    1,
+    105,
+    71,
+    125
+   ],
+   "en": "Defeat Cond.",
+   "height": 18
+  }
+ ]
+}

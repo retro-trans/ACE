@@ -1,0 +1,136 @@
+{
+ "name": "t0403.tm2",
+ "labels": [
+  {
+   "box": [
+    21,
+    4,
+    94,
+    24
+   ],
+   "en": "Carrier Info",
+   "align": "left",
+   "grow": [
+    0,
+    20
+   ]
+  },
+  {
+   "box": [
+    133,
+    22,
+    205,
+    41
+   ],
+   "en": "Hangar"
+  },
+  {
+   "box": [
+    14,
+    36,
+    63,
+    56
+   ],
+   "en": "Carrier Name",
+   "align": "left",
+   "grow": [
+    0,
+    42
+   ]
+  },
+  {
+   "box": [
+    14,
+    60,
+    63,
+    79
+   ],
+   "en": "Squad Name",
+   "align": "left",
+   "grow": [
+    0,
+    42
+   ]
+  },
+  {
+   "box": [
+    169,
+    62,
+    206,
+    81
+   ],
+   "en": "Repair Res.",
+   "align": "right",
+   "grow": [
+    36,
+    0
+   ]
+  },
+  {
+   "box": [
+    13,
+    85,
+    78,
+    103
+   ],
+   "en": "Units",
+   "align": "left",
+   "grow": [
+    0,
+    27
+   ]
+  },
+  {
+   "box": [
+    133,
+    103,
+    206,
+    122
+   ],
+   "en": "Repair Eff.",
+   "align": "center"
+  },
+  {
+   "box": [
+    14,
+    109,
+    81,
+    128
+   ],
+   "en": "Repair Res.",
+   "align": "left",
+   "grow": [
+    0,
+    24
+   ]
+  },
+  {
+   "box": [
+    140,
+    130,
+    177,
+    148
+   ],
+   "en": "Carrier",
+   "align": "left",
+   "grow": [
+    0,
+    30
+   ]
+  },
+  {
+   "box": [
+    14,
+    132,
+    81,
+    152
+   ],
+   "en": "Repair Eff.",
+   "align": "left",
+   "grow": [
+    0,
+    24
+   ]
+  }
+ ]
+}

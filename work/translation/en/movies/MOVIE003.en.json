@@ -1,0 +1,2350 @@
+{
+ "movie": "MOVIE003",
+ "segments": [
+  {
+   "type": "karaoke",
+   "frames": [
+    1263,
+    1396
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 0,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 416,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     1263,
+     0.0
+    ],
+    [
+     1276,
+     0.0
+    ],
+    [
+     1307,
+     0.19832109129066108
+    ],
+    [
+     1319,
+     0.28226652675760755
+    ],
+    [
+     1344,
+     0.5498426023084995
+    ],
+    [
+     1376,
+     0.7166841552990556
+    ],
+    [
+     1392,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    1396,
+    1477
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 1,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 416,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     1396,
+     0.0
+    ],
+    [
+     1400,
+     0.0
+    ],
+    [
+     1431,
+     0.6254826254826255
+    ],
+    [
+     1453,
+     0.8204633204633205
+    ],
+    [
+     1473,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    1477,
+    1570
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 2,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 416,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     1477,
+     0.0
+    ],
+    [
+     1481,
+     0.0
+    ],
+    [
+     1510,
+     0.3722149410222805
+    ],
+    [
+     1522,
+     0.5229357798165137
+    ],
+    [
+     1553,
+     0.745740498034076
+    ],
+    [
+     1566,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    1570,
+    1693
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 3,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 416,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     1570,
+     0.0
+    ],
+    [
+     1574,
+     0.0
+    ],
+    [
+     1609,
+     0.3194774346793349
+    ],
+    [
+     1633,
+     0.5332541567695962
+    ],
+    [
+     1688,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    1693,
+    1816
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 4,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 416,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     1693,
+     0.0
+    ],
+    [
+     1696,
+     0.0
+    ],
+    [
+     1758,
+     0.4367816091954023
+    ],
+    [
+     1768,
+     0.5287356321839081
+    ],
+    [
+     1812,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    1816,
+    1913
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 5,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 416,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     1816,
+     0.0
+    ],
+    [
+     1819,
+     0.0
+    ],
+    [
+     1866,
+     0.6377358490566037
+    ],
+    [
+     1902,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    1913,
+    2025
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 6,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 397,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     1913,
+     0.0
+    ],
+    [
+     1917,
+     0.0
+    ],
+    [
+     1953,
+     0.2677777777777778
+    ],
+    [
+     1972,
+     0.49444444444444446
+    ],
+    [
+     1985,
+     0.6566666666666666
+    ],
+    [
+     2007,
+     0.7688888888888888
+    ],
+    [
+     2019,
+     0.8888888888888888
+    ],
+    [
+     2021,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    2025,
+    2114
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 7,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 397,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     2025,
+     0.0
+    ],
+    [
+     2028,
+     0.0
+    ],
+    [
+     2057,
+     0.4743150684931507
+    ],
+    [
+     2104,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    2115,
+    2290
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 8,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 416,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     2115,
+     0.0
+    ],
+    [
+     2128,
+     0.0
+    ],
+    [
+     2143,
+     0.24538545059717698
+    ],
+    [
+     2178,
+     0.44733984799131377
+    ],
+    [
+     2243,
+     0.8143322475570033
+    ],
+    [
+     2279,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    2301,
+    2466
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 9,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 416,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     2301,
+     0.0
+    ],
+    [
+     2315,
+     0.0
+    ],
+    [
+     2372,
+     0.2979635584137192
+    ],
+    [
+     2378,
+     0.4212218649517685
+    ],
+    [
+     2456,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    2492,
+    2631
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 10,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 416,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     2492,
+     0.0
+    ],
+    [
+     2505,
+     0.0
+    ],
+    [
+     2542,
+     0.2632978723404255
+    ],
+    [
+     2555,
+     0.3484042553191489
+    ],
+    [
+     2581,
+     0.5833333333333334
+    ],
+    [
+     2611,
+     0.7721631205673759
+    ],
+    [
+     2620,
+     0.8617021276595744
+    ],
+    [
+     2627,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    2631,
+    2755
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 11,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 416,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     2631,
+     0.0
+    ],
+    [
+     2634,
+     0.0
+    ],
+    [
+     2657,
+     0.2551662174303684
+    ],
+    [
+     2673,
+     0.34591194968553457
+    ],
+    [
+     2693,
+     0.531895777178796
+    ],
+    [
+     2710,
+     0.6199460916442049
+    ],
+    [
+     2751,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    2755,
+    2847
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 12,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 416,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     2755,
+     0.0
+    ],
+    [
+     2758,
+     0.0
+    ],
+    [
+     2783,
+     0.41105527638190953
+    ],
+    [
+     2811,
+     0.6653266331658292
+    ],
+    [
+     2843,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    2847,
+    2947
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 13,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 416,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     2847,
+     0.0
+    ],
+    [
+     2850,
+     0.0
+    ],
+    [
+     2878,
+     0.3002832861189802
+    ],
+    [
+     2918,
+     0.5552407932011332
+    ],
+    [
+     2943,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    2947,
+    3045
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 14,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 416,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     2947,
+     0.0
+    ],
+    [
+     2950,
+     0.0
+    ],
+    [
+     2991,
+     0.2645161290322581
+    ],
+    [
+     3004,
+     0.39483870967741935
+    ],
+    [
+     3009,
+     0.6270967741935484
+    ],
+    [
+     3021,
+     0.7574193548387097
+    ],
+    [
+     3035,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    3277,
+    3390
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 15,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 397,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     3277,
+     0.0
+    ],
+    [
+     3291,
+     0.0
+    ],
+    [
+     3303,
+     0.19183285849952517
+    ],
+    [
+     3312,
+     0.3010446343779677
+    ],
+    [
+     3337,
+     0.5356125356125356
+    ],
+    [
+     3363,
+     0.7340930674264008
+    ],
+    [
+     3376,
+     0.842355175688509
+    ],
+    [
+     3386,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    3390,
+    3476
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 16,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 397,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     3390,
+     0.0
+    ],
+    [
+     3393,
+     0.0
+    ],
+    [
+     3424,
+     0.4716981132075472
+    ],
+    [
+     3438,
+     0.6834381551362684
+    ],
+    [
+     3472,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    3476,
+    3601
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 17,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 416,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     3476,
+     0.0
+    ],
+    [
+     3480,
+     0.0
+    ],
+    [
+     3502,
+     0.18703703703703703
+    ],
+    [
+     3529,
+     0.2935185185185185
+    ],
+    [
+     3548,
+     0.5166666666666667
+    ],
+    [
+     3578,
+     0.7759259259259259
+    ],
+    [
+     3588,
+     0.8814814814814815
+    ],
+    [
+     3597,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    3601,
+    3680
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 18,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 416,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     3601,
+     0.0
+    ],
+    [
+     3604,
+     0.0
+    ],
+    [
+     3637,
+     0.5416666666666666
+    ],
+    [
+     3651,
+     0.7420634920634921
+    ],
+    [
+     3669,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    3680,
+    3854
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 19,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 416,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     3680,
+     0.0
+    ],
+    [
+     3689,
+     0.0
+    ],
+    [
+     3720,
+     0.2010204081632653
+    ],
+    [
+     3753,
+     0.40714285714285714
+    ],
+    [
+     3771,
+     0.5071428571428571
+    ],
+    [
+     3809,
+     0.8010204081632653
+    ],
+    [
+     3844,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    3905,
+    4043
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 20,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 416,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     3905,
+     0.0
+    ],
+    [
+     3918,
+     0.0
+    ],
+    [
+     3950,
+     0.389937106918239
+    ],
+    [
+     3957,
+     0.510482180293501
+    ],
+    [
+     4032,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    4065,
+    4213
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 21,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 416,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     4065,
+     0.0
+    ],
+    [
+     4078,
+     0.0
+    ],
+    [
+     4116,
+     0.2456575682382134
+    ],
+    [
+     4130,
+     0.3250620347394541
+    ],
+    [
+     4151,
+     0.5086848635235732
+    ],
+    [
+     4163,
+     0.5748552522746071
+    ],
+    [
+     4189,
+     0.7783291976840364
+    ],
+    [
+     4200,
+     0.9181141439205955
+    ],
+    [
+     4209,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    4213,
+    4335
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 22,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 416,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     4213,
+     0.0
+    ],
+    [
+     4217,
+     0.0
+    ],
+    [
+     4232,
+     0.27734375
+    ],
+    [
+     4248,
+     0.3759765625
+    ],
+    [
+     4267,
+     0.578125
+    ],
+    [
+     4277,
+     0.65625
+    ],
+    [
+     4325,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    4335,
+    4424
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 23,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 416,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     4335,
+     0.0
+    ],
+    [
+     4340,
+     0.0
+    ],
+    [
+     4351,
+     0.39323467230443976
+    ],
+    [
+     4373,
+     0.5898520084566596
+    ],
+    [
+     4393,
+     0.7875264270613108
+    ],
+    [
+     4414,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    4424,
+    4546
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 24,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 416,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     4424,
+     0.0
+    ],
+    [
+     4430,
+     0.0
+    ],
+    [
+     4442,
+     0.20766773162939298
+    ],
+    [
+     4467,
+     0.329073482428115
+    ],
+    [
+     4480,
+     0.5197018104366348
+    ],
+    [
+     4495,
+     0.650692225772098
+    ],
+    [
+     4542,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    4546,
+    4602
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 25,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 416,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     4546,
+     0.0
+    ],
+    [
+     4549,
+     0.0
+    ],
+    [
+     4572,
+     0.43045387994143486
+    ],
+    [
+     4598,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    4602,
+    4739
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 33,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 416,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     4602,
+     0.0
+    ],
+    [
+     4606,
+     0.0
+    ],
+    [
+     4641,
+     0.2632978723404255
+    ],
+    [
+     4656,
+     0.3484042553191489
+    ],
+    [
+     4680,
+     0.5833333333333334
+    ],
+    [
+     4711,
+     0.7721631205673759
+    ],
+    [
+     4721,
+     0.8617021276595744
+    ],
+    [
+     4735,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    4739,
+    4853
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 34,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 416,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     4739,
+     0.0
+    ],
+    [
+     4742,
+     0.0
+    ],
+    [
+     4757,
+     0.2551662174303684
+    ],
+    [
+     4772,
+     0.34591194968553457
+    ],
+    [
+     4792,
+     0.531895777178796
+    ],
+    [
+     4810,
+     0.6199460916442049
+    ],
+    [
+     4849,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    4853,
+    4948
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 35,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 416,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     4853,
+     0.0
+    ],
+    [
+     4856,
+     0.0
+    ],
+    [
+     4884,
+     0.41105527638190953
+    ],
+    [
+     4900,
+     0.6653266331658292
+    ],
+    [
+     4944,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    4948,
+    5075
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 36,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 416,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     4948,
+     0.0
+    ],
+    [
+     4952,
+     0.0
+    ],
+    [
+     4968,
+     0.3002832861189802
+    ],
+    [
+     5010,
+     0.5552407932011332
+    ],
+    [
+     5051,
+     0.8781869688385269
+    ],
+    [
+     5065,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    5075,
+    5159
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 37,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 17,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "romaji_bottom": 416,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     5075,
+     0.0
+    ],
+    [
+     5087,
+     0.0
+    ],
+    [
+     5091,
+     0.2645161290322581
+    ],
+    [
+     5104,
+     0.39483870967741935
+    ],
+    [
+     5109,
+     0.6270967741935484
+    ],
+    [
+     5121,
+     0.7574193548387097
+    ],
+    [
+     5135,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ]
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    1263,
+    1477
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 0,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 441,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    1477,
+    1693
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 2,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 441,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    1693,
+    1913
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 4,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 441,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    1913,
+    2114
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 6,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 441,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    2115,
+    2290
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 8,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 441,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    2301,
+    2466
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 9,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 441,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    2492,
+    2631
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 10,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 441,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    2631,
+    2755
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 11,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 441,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    2755,
+    2847
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 12,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 441,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    2847,
+    2947
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 13,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 441,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    2947,
+    3045
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 14,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 441,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    3277,
+    3476
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 15,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 441,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    3476,
+    3680
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 17,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 441,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    3680,
+    3854
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 19,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 441,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    3905,
+    4043
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 20,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 441,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    4065,
+    4213
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 21,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 441,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    4213,
+    4335
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 22,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 441,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    4335,
+    4424
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 23,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 441,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    4424,
+    4546
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 24,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 441,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    4546,
+    4602
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 25,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 441,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    4602,
+    4739
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 33,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 441,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    4739,
+    4853
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 34,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 441,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    4853,
+    4948
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 35,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 441,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    4948,
+    5075
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 36,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 441,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    5075,
+    5159
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE003.txt",
+   "index": 37,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 14,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 441,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  }
+ ],
+ "karaoke_review": {
+  "layout": "bottom",
+  "timed_rows": 31,
+  "omitted_rows": [
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32
+  ],
+  "lyrics_sha256": "15dadddeb6ef17705b43b2f760a71b0b6b1696db1dffc91c1bb22debc092a04b"
+ }
+}

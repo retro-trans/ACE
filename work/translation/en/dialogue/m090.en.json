@@ -1,0 +1,200 @@
+{
+ "mission": "090",
+ "rows": [
+  {
+   "id": 11,
+   "en": "It's equipped with lock-on jamming...",
+   "speaker": "Operator"
+  },
+  {
+   "id": 12,
+   "en": "It appears to be a camouflaged asteroid.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 14,
+   "en": "Enemy reinforcements confirmed.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 16,
+   "en": "Transmission from the Poseidal Army.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 17,
+   "en": "Their message: \"Our objective is to take Full Flat into custody,",
+   "speaker": "Operator"
+  },
+  {
+   "id": 18,
+   "en": "and we have no intention of fighting the UCE.\"",
+   "speaker": "Operator"
+  },
+  {
+   "id": 19,
+   "en": "They're telling us to withdraw immediately.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 20,
+   "en": "Theart Star is a neutral zone.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 21,
+   "en": "Tell them it's Poseidal who should withdraw!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 24,
+   "en": "A heat source is approaching us!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 25,
+   "en": "It's a Poseidal Army Heavy Metal.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 26,
+   "en": "That'll be their main force.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 27,
+   "en": "Destroy it at once!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 30,
+   "en": "Craft confirmed closing in on us at high speed.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 31,
+   "en": "It's identified as... Grados!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 32,
+   "en": "So they're using this opening to make Theart Star",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 33,
+   "en": "their own. That must be their game.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 34,
+   "en": "Don't let your guard down. Intercept them!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 36,
+   "en": "Enemy signals have vanished.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 37,
+   "en": "The Poseidal Army is withdrawing.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 39,
+   "en": "Theart Star seems to be safe.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 40,
+   "en": "Transmission from Theart Star. Opening the channel.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 41,
+   "en": "I am Full Flat, ruler of Theart Star.",
+   "speaker": "Full Flat"
+  },
+  {
+   "id": 42,
+   "en": "I am truly grateful for what you have done here.",
+   "speaker": "Full Flat"
+  },
+  {
+   "id": 43,
+   "en": "And there is something I wish to tell you all.",
+   "speaker": "Full Flat"
+  },
+  {
+   "id": 44,
+   "en": "About the war that goes on without end,",
+   "speaker": "Full Flat"
+  },
+  {
+   "id": 45,
+   "en": "and about the one who stands behind Lady Poseidal.",
+   "speaker": "Full Flat"
+  },
+  {
+   "id": 51,
+   "en": "All units are in position.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 52,
+   "en": "Wipe out the enemies deployed around here",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 53,
+   "en": "and protect Theart Star!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 56,
+   "en": "Something attacks anything that gets close...",
+   "speaker": "Operator"
+  },
+  {
+   "id": 57,
+   "en": "Camouflaged turrets have been set up here!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 58,
+   "en": "A trap to intercept us, is it?",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 59,
+   "en": "Destroy them carefully as you advance.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 61,
+   "en": "We're taking fire from an asteroid!",
+   "speaker": "Operator?"
+  },
+  {
+   "id": 62,
+   "en": "Wh-what is this...!?",
+   "speaker": "?"
+  },
+  {
+   "id": 63,
+   "en": "You can tell which asteroids are camouflaged.",
+   "speaker": "Operator?"
+  },
+  {
+   "id": 64,
+   "en": "Make sure what you are shooting at before you attack.",
+   "speaker": "Operator?"
+  },
+  {
+   "id": 65,
+   "en": "Be careful! This machine is strong!",
+   "speaker": "Operator?"
+  }
+ ]
+}

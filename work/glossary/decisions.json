@@ -1,0 +1,102 @@
+[
+ {
+  "jp": "アモンデュール・スタック",
+  "en": "Amon Duule \"Stack\"",
+  "decision": "akurasu's Mech Database heading pairs this English name with the Japanese アシュラテンプル (a copy error on the wiki); the English name is used for アモンデュール・スタック."
+ },
+ {
+  "jp": "ＵＣＥ（地球統一機構）",
+  "en": "UCE",
+  "decision": "Expansion 'United Community of Earth' per SRW Wiki/pixiv; akurasu has no entry. The title stays 'UCE' to fit the 27-byte title budget; the description spells it out."
+ },
+ {
+  "jp": "統一帝国ギガノス",
+  "en": "Unified Empire of Giganos",
+  "decision": "akurasu ACE pages have no entry. SRW MX used 'United Lunar Empire Giganos', which adds 'Lunar' not present in the Japanese; literal 'Unified Empire' kept. Revisit if the user prefers cross-project consistency."
+ },
+ {
+  "jp": "ν Gundam",
+  "en": "ν Gundam",
+  "decision": "akurasu spelling; the menu font already contains the ν glyph (CP932 0x83CB)."
+ },
+ {
+  "jp": "宇都宮比瑪",
+  "en": "Hime Utsunomiya",
+  "decision": "akurasu SRW Alpha 2 Character List writes \"Hime Utsumiya\", a misreading of 宇都宮 (Utsunomiya, the official reading)."
+ },
+ {
+  "jp": "ショウ・ザマ",
+  "en": "Show Zama",
+  "decision": "akurasu spelling kept (official dub uses \"Sho\"); listed because it differs from the dub."
+ },
+ {
+  "jp": "ル・カイン",
+  "en": "Le Cain",
+  "decision": "akurasu SRW J Character List spells Le Cain; \"Ru Kain\" appears only in akurasu Layzner episode-title translations. Standardized on Le Cain."
+ },
+ {
+  "jp": "クワトロ大尉",
+  "en": "Lieutenant Quattro",
+  "decision": "大尉 rendered \"Lieutenant\" per Zeta Gundam English convention (m004 rows 41-42, briefing 204)."
+ },
+ {
+  "jp": "ジョナサン・グレーン",
+  "en": "Jonathan Green",
+  "decision": "akurasu (SRW Alpha 2 Character List) spelling; replaces \"Jonathan Glenn\" used in the first encyclopedia pass."
+ },
+ {
+  "jp": "ギガノスの蒼き鷹",
+  "en": "Blue Hawk of Giganos",
+  "decision": "鷹 is hawk; matches the SRW MX project glossary. akurasu Dragonar episode titles use \"Blue Eagle\"."
+ },
+ {
+  "jp": "ゲア・ガリング",
+  "en": "Gea Garing",
+  "decision": "akurasu Dunbine episode list writes \"Gea Gring\", which drops the ガ syllable; katakana-faithful spelling used."
+ },
+ {
+  "jp": "ジャミトフ・ハイマン",
+  "en": "Jamitov Hymem",
+  "decision": "Official Zeta Gundam English spelling; akurasu writes \"Hymen\", which reads as an unintended English word."
+ },
+ {
+  "jp": "敵襲撃部隊制圧",
+  "en": "Suppress Enemy Raiders",
+  "decision": "Mission-name field holds 200 units / 27 bytes; akurasu \"Supress Enemy Assault Force\" does not fit (or is misspelled). Full akurasu name kept in mission_order.json."
+ },
+ {
+  "jp": "残党勢力鎮圧",
+  "en": "Quell Enemy Remnants",
+  "decision": "Mission-name field holds 200 units / 27 bytes; akurasu \"Eliminate Enemy Remnants\" does not fit (or is misspelled). Full akurasu name kept in mission_order.json."
+ },
+ {
+  "jp": "敵遊撃部隊撃破",
+  "en": "Beat Enemy Strike Force",
+  "decision": "Mission-name field holds 200 units / 27 bytes; akurasu \"Defeat Enemy Strike Force\" does not fit (or is misspelled). Full akurasu name kept in mission_order.json."
+ },
+ {
+  "jp": "ギガノス帝国制圧",
+  "en": "Subdue Giganos Empire",
+  "decision": "Mission-name field holds 200 units / 27 bytes; akurasu \"Suppress Giganos Empire\" does not fit (or is misspelled). Full akurasu name kept in mission_order.json."
+ },
+ {
+  "jp": "所属不明機撃破",
+  "en": "Defeat Unknown Craft",
+  "decision": "Mission-name field holds 200 units / 27 bytes; akurasu \"Defeat Unknown Assilants\" does not fit (or is misspelled). Full akurasu name kept in mission_order.json."
+ },
+ {
+  "jp": "統一地球暦",
+  "en": "Unified Earth Calendar",
+  "decision": "Calendar era in the opening and ending movies. No akurasu or official English; literal rendering."
+ },
+ {
+  "jp": "地球統一機構",
+  "en": "Earth Unification Organization",
+  "decision": "Only in the opening movie, in brackets under the movie's own English 'UCE -United Community of the Earth-'; a literal rendering avoids repeating that line."
+ },
+ {
+  "jp": "Staff names (movie credits)",
+  "en": "Hepburn romanization",
+  "decision": "Known English spellings used where sourced (Wikipedia, voice cast); other readings unverified and marked with a note in work/translation/en/movies/MOVIE002.json."
+ }
+]

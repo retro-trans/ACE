@@ -1,0 +1,86 @@
+{
+ "table": "004",
+ "dialogue_file": "work/translation/en/dialogue/m004.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Support Friendly Craft",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Reach a 60-second Chain",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "We've received word that a friendly craft <mk(25,-25,5,3)><mk(-17.5,17.5,1,1,50)><ar(0,1,1,200)><mk(-17.5,-67.5,3,1,100)><ar(0,3,1,200)><mk(67.5,17.5,7,1,150)><ar(0,7,1,200)><mk(67.5,-67.5,5,1,200)><ar(0,5,1,200)>is engaging enemy forces alone.",
+   "speaker": "? (Bright Noa or Noin)"
+  },
+  {
+   "id": 101,
+   "en": "It's on our course: <pic(0)><cs(3)>northern Great Britain<ce()>. <mk(-62.5,62.5,1,0)><ar(0,1,0)>We'll now move to support the friendly craft.",
+   "speaker": "? (Bright Noa or Noin)"
+  },
+  {
+   "id": 102,
+   "en": "An identity check with Headquarters has confirmed that the pilot belongs to the UCE.",
+   "speaker": "? (Bright Noa or Noin)"
+  },
+  {
+   "id": 103,
+   "en": "Since the pilot's acting alone, they may have information on the classified material.",
+   "speaker": "? (Bright Noa or Noin)"
+  },
+  {
+   "id": 104,
+   "en": "I expect you to deal with this swiftly so it doesn't hinder our pursuit mission.",
+   "speaker": "? (Bright Noa or Noin)"
+  },
+  {
+   "id": 200,
+   "en": "Rumors of the <cs(1)>Titans<ce()> breaking away go back to when <cs(1)>OZ<ce()> began gaining power in the UCE.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 201,
+   "en": "The ones who defected this time are a group of radicals within the Titans.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 202,
+   "en": "Next to the UCE and its major groups, they're small and won't sway the big picture, but",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 203,
+   "en": "frankly, there's no telling what that lot will do. We'll need to stay on guard.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 204,
+   "en": "Also, it's been decided that Lieutenant Quattro will be operating with us.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 205,
+   "en": "I can vouch for his skills. I want you all to work together from here on.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 300,
+   "en": "If you're defeated, it's all for nothing. Approach your operations with more care.",
+   "speaker": "?"
+  }
+ ]
+}

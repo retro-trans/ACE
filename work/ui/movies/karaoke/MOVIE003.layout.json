@@ -1,0 +1,483 @@
+{
+ "movie": "MOVIE003",
+ "spec": "610d508e55596b17d1d6d753363577595c3040b7",
+ "sung_rows": 31,
+ "translation_captions": 25,
+ "omitted_rows": [
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32
+ ],
+ "checks": "coverage, non-overlap, full highlight, frame bounds and selected layout checks passed",
+ "rows": [
+  {
+   "row": 0,
+   "frames": [
+    1263,
+    1396
+   ],
+   "bounds": [
+    95,
+    395,
+    415,
+    442
+   ],
+   "romaji_lines": 1,
+   "english_lines": 1
+  },
+  {
+   "row": 1,
+   "frames": [
+    1396,
+    1477
+   ],
+   "bounds": [
+    95,
+    395,
+    415,
+    442
+   ],
+   "romaji_lines": 1,
+   "english_lines": 1
+  },
+  {
+   "row": 2,
+   "frames": [
+    1477,
+    1570
+   ],
+   "bounds": [
+    117,
+    395,
+    396,
+    442
+   ],
+   "romaji_lines": 1,
+   "english_lines": 1
+  },
+  {
+   "row": 3,
+   "frames": [
+    1570,
+    1693
+   ],
+   "bounds": [
+    117,
+    395,
+    396,
+    442
+   ],
+   "romaji_lines": 1,
+   "english_lines": 1
+  },
+  {
+   "row": 4,
+   "frames": [
+    1693,
+    1816
+   ],
+   "bounds": [
+    117,
+    395,
+    395,
+    442
+   ],
+   "romaji_lines": 1,
+   "english_lines": 1
+  },
+  {
+   "row": 5,
+   "frames": [
+    1816,
+    1913
+   ],
+   "bounds": [
+    117,
+    395,
+    395,
+    442
+   ],
+   "romaji_lines": 1,
+   "english_lines": 1
+  },
+  {
+   "row": 6,
+   "frames": [
+    1913,
+    2025
+   ],
+   "bounds": [
+    36,
+    377,
+    476,
+    442
+   ],
+   "romaji_lines": 1,
+   "english_lines": 2
+  },
+  {
+   "row": 7,
+   "frames": [
+    2025,
+    2114
+   ],
+   "bounds": [
+    36,
+    377,
+    476,
+    442
+   ],
+   "romaji_lines": 1,
+   "english_lines": 2
+  },
+  {
+   "row": 8,
+   "frames": [
+    2115,
+    2290
+   ],
+   "bounds": [
+    99,
+    395,
+    414,
+    442
+   ],
+   "romaji_lines": 1,
+   "english_lines": 1
+  },
+  {
+   "row": 9,
+   "frames": [
+    2301,
+    2466
+   ],
+   "bounds": [
+    138,
+    395,
+    374,
+    442
+   ],
+   "romaji_lines": 1,
+   "english_lines": 1
+  },
+  {
+   "row": 10,
+   "frames": [
+    2492,
+    2631
+   ],
+   "bounds": [
+    113,
+    395,
+    398,
+    442
+   ],
+   "romaji_lines": 1,
+   "english_lines": 1
+  },
+  {
+   "row": 11,
+   "frames": [
+    2631,
+    2755
+   ],
+   "bounds": [
+    115,
+    395,
+    396,
+    442
+   ],
+   "romaji_lines": 1,
+   "english_lines": 1
+  },
+  {
+   "row": 12,
+   "frames": [
+    2755,
+    2847
+   ],
+   "bounds": [
+    131,
+    395,
+    382,
+    442
+   ],
+   "romaji_lines": 1,
+   "english_lines": 1
+  },
+  {
+   "row": 13,
+   "frames": [
+    2847,
+    2947
+   ],
+   "bounds": [
+    166,
+    395,
+    346,
+    442
+   ],
+   "romaji_lines": 1,
+   "english_lines": 1
+  },
+  {
+   "row": 14,
+   "frames": [
+    2947,
+    3045
+   ],
+   "bounds": [
+    158,
+    395,
+    353,
+    442
+   ],
+   "romaji_lines": 1,
+   "english_lines": 1
+  },
+  {
+   "row": 15,
+   "frames": [
+    3277,
+    3390
+   ],
+   "bounds": [
+    36,
+    377,
+    475,
+    439
+   ],
+   "romaji_lines": 1,
+   "english_lines": 2
+  },
+  {
+   "row": 16,
+   "frames": [
+    3390,
+    3476
+   ],
+   "bounds": [
+    36,
+    377,
+    475,
+    439
+   ],
+   "romaji_lines": 1,
+   "english_lines": 2
+  },
+  {
+   "row": 17,
+   "frames": [
+    3476,
+    3601
+   ],
+   "bounds": [
+    119,
+    395,
+    392,
+    442
+   ],
+   "romaji_lines": 1,
+   "english_lines": 1
+  },
+  {
+   "row": 18,
+   "frames": [
+    3601,
+    3680
+   ],
+   "bounds": [
+    121,
+    395,
+    392,
+    442
+   ],
+   "romaji_lines": 1,
+   "english_lines": 1
+  },
+  {
+   "row": 19,
+   "frames": [
+    3680,
+    3854
+   ],
+   "bounds": [
+    132,
+    395,
+    381,
+    442
+   ],
+   "romaji_lines": 1,
+   "english_lines": 1
+  },
+  {
+   "row": 20,
+   "frames": [
+    3905,
+    4043
+   ],
+   "bounds": [
+    136,
+    395,
+    377,
+    439
+   ],
+   "romaji_lines": 1,
+   "english_lines": 1
+  },
+  {
+   "row": 21,
+   "frames": [
+    4065,
+    4213
+   ],
+   "bounds": [
+    65,
+    395,
+    447,
+    442
+   ],
+   "romaji_lines": 1,
+   "english_lines": 1
+  },
+  {
+   "row": 22,
+   "frames": [
+    4213,
+    4335
+   ],
+   "bounds": [
+    126,
+    395,
+    385,
+    442
+   ],
+   "romaji_lines": 1,
+   "english_lines": 1
+  },
+  {
+   "row": 23,
+   "frames": [
+    4335,
+    4424
+   ],
+   "bounds": [
+    136,
+    395,
+    375,
+    442
+   ],
+   "romaji_lines": 1,
+   "english_lines": 1
+  },
+  {
+   "row": 24,
+   "frames": [
+    4424,
+    4546
+   ],
+   "bounds": [
+    137,
+    395,
+    374,
+    442
+   ],
+   "romaji_lines": 1,
+   "english_lines": 1
+  },
+  {
+   "row": 25,
+   "frames": [
+    4546,
+    4602
+   ],
+   "bounds": [
+    170,
+    395,
+    342,
+    442
+   ],
+   "romaji_lines": 1,
+   "english_lines": 1
+  },
+  {
+   "row": 33,
+   "frames": [
+    4602,
+    4739
+   ],
+   "bounds": [
+    113,
+    395,
+    398,
+    442
+   ],
+   "romaji_lines": 1,
+   "english_lines": 1
+  },
+  {
+   "row": 34,
+   "frames": [
+    4739,
+    4853
+   ],
+   "bounds": [
+    115,
+    395,
+    396,
+    442
+   ],
+   "romaji_lines": 1,
+   "english_lines": 1
+  },
+  {
+   "row": 35,
+   "frames": [
+    4853,
+    4948
+   ],
+   "bounds": [
+    131,
+    395,
+    382,
+    442
+   ],
+   "romaji_lines": 1,
+   "english_lines": 1
+  },
+  {
+   "row": 36,
+   "frames": [
+    4948,
+    5075
+   ],
+   "bounds": [
+    166,
+    395,
+    346,
+    442
+   ],
+   "romaji_lines": 1,
+   "english_lines": 1
+  },
+  {
+   "row": 37,
+   "frames": [
+    5075,
+    5159
+   ],
+   "bounds": [
+    158,
+    395,
+    353,
+    442
+   ],
+   "romaji_lines": 1,
+   "english_lines": 1
+  }
+ ]
+}

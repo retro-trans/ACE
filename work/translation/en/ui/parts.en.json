@@ -1,0 +1,93 @@
+{
+ "group": "parts",
+ "font": "f005",
+ "where": [
+  "\\target\\menu\\fmg\\f250.fmg@0x0",
+  "\\target\\menu\\bnd\\mode_data\\MenuCampaign.csc:\\target\\menu\\fmg\\f250.fmg@0x66f800",
+  "\\target\\menu\\bnd\\mode_data\\MenuFree.csc:\\target\\menu\\fmg\\f250.fmg@0x60c000",
+  "\\target\\menu\\bnd\\mode_data\\MenuMulti.csc:\\target\\menu\\fmg\\f250.fmg@0x452800"
+ ],
+ "limits": {
+  "lines": 1,
+  "width": 91,
+  "bytes": 14
+ },
+ "rows": [
+  {
+   "id": 60,
+   "en": "Unused"
+  },
+  {
+   "id": 61,
+   "en": "Armor"
+  },
+  {
+   "id": 62,
+   "en": "Speed"
+  },
+  {
+   "id": 63,
+   "en": "Vernier"
+  },
+  {
+   "id": 64,
+   "en": "Output"
+  },
+  {
+   "id": 65,
+   "en": "Mobility"
+  },
+  {
+   "id": 66,
+   "en": "Turning"
+  },
+  {
+   "id": 67,
+   "en": "Wpn Power"
+  },
+  {
+   "id": 68,
+   "en": "Wpn Reload"
+  },
+  {
+   "id": 70,
+   "en": "Bad Mood"
+  },
+  {
+   "id": 71,
+   "en": "Normal"
+  },
+  {
+   "id": 72,
+   "en": "Good Mood"
+  },
+  {
+   "id": 73,
+   "en": "Defense"
+  },
+  {
+   "id": 74,
+   "en": "Energy"
+  },
+  {
+   "id": 75,
+   "en": "Movement"
+  },
+  {
+   "id": 76,
+   "en": "Mobility"
+  },
+  {
+   "id": 77,
+   "en": "Turning"
+  },
+  {
+   "id": 80,
+   "en": "Ra Cailum"
+  },
+  {
+   "id": 85,
+   "en": "Londo Bell"
+  }
+ ]
+}

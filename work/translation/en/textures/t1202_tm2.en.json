@@ -1,0 +1,59 @@
+{
+ "name": "t1202.tm2",
+ "labels": [
+  {
+   "box": [
+    6,
+    224,
+    72,
+    250
+   ],
+   "en": "Completion",
+   "height": 16
+  },
+  {
+   "box": [
+    74,
+    224,
+    160,
+    250
+   ],
+   "en": "Piloting",
+   "height": 16
+  },
+  {
+   "box": [
+    163,
+    224,
+    249,
+    250
+   ],
+   "en": "Attack Acc.",
+   "height": 16
+  },
+  {
+   "box": [
+    222,
+    65,
+    249,
+    130
+   ],
+   "en": "Escort Rate",
+   "vertical": true,
+   "height": 16,
+   "upward": true
+  },
+  {
+   "box": [
+    222,
+    133,
+    249,
+    218
+   ],
+   "en": "Defense Acc.",
+   "vertical": true,
+   "height": 16,
+   "upward": true
+  }
+ ]
+}

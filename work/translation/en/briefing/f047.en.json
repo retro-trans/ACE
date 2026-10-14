@@ -1,0 +1,81 @@
+{
+ "table": "047",
+ "dialogue_file": "work/translation/en/dialogue/m047.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defeat Unknown Craft",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Defeat the Geara Doga",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "Directly in our ship's<mk(-62.5,-62.5,3,0)><ar(0,3,0,100)><mk(-37.5,37.5,1,3,200)><ar(0,1,3,350)><mk(-12.5,62.5,1,3,250)><ar(0,1,3,350)><mk(37.5,-37.5,5,1,450)><ar(0,5,1,600)><mk(62.5,-12.5,5,1,500)><ar(0,5,1,600)> path, allied forces are engaging an unidentified unit.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 101,
+   "en": "Connected to this affair... they must be Neo Zeon forces.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 102,
+   "en": "The allies seem to be the refugee ships' escort. The enemy has spread out to attack it.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 103,
+   "en": "We will proceed straight to the <pic(0)><cs(3)>combat zone<ce()> and destroy the unidentified unit.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 104,
+   "en": "Our objective is to destroy the refugee fleet and stop Char's plan.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 105,
+   "en": "We can't afford to waste time here. We will attempt to break through.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 200,
+   "en": "We still can't get through to Earth. We have no choice but to stop the plan ourselves.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 201,
+   "en": "From here on, we will be acting on our own judgment.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 202,
+   "en": "Whatever that may lead to, we must not let it come to the worst.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 203,
+   "en": "We must settle everything, once and for all.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 300,
+   "en": "Does this mean we are still not strong enough to bring about peace...?",
+   "speaker": "Bright Noa?"
+  }
+ ]
+}

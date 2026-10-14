@@ -1,0 +1,395 @@
+{
+ "mission": "050",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "Defeat the Sazabi",
+   "speaker": "HUD"
+  },
+  {
+   "id": 11,
+   "en": "Mission objective: destroy the ship carrying the E2!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 12,
+   "en": "All units, give it everything you've got.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 13,
+   "en": "Good luck out there.",
+   "speaker": "? (player-side commander)"
+  },
+  {
+   "id": 14,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 15,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 21,
+   "en": "I'm the one you'll be fighting!",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 22,
+   "en": "You have all that power, and yet...",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 23,
+   "en": "the humans who stayed behind on Earth",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 24,
+   "en": "are mere fleas on the ground! Why can't you see that!?",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 25,
+   "en": "I believe in the evolution of spacefaring mankind.",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 26,
+   "en": "But to turn all of humanity into Newtypes,",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 27,
+   "en": "someone has to shoulder the karma of mankind.",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 29,
+   "en": "Mankind must judge itself with its own hands",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 30,
+   "en": "and, to nature, to the Earth itself,",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 31,
+   "en": "make atonement!",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 32,
+   "en": "Why can't you understand that!?",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 33,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 34,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 35,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 36,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 37,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 38,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 41,
+   "en": "That agony you felt when Lalah died...",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 42,
+   "en": "Remember it to your heart's content!",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 43,
+   "en": "You're pathetic.",
+   "speaker": "Amuro Ray?"
+  },
+  {
+   "id": 44,
+   "en": "The world can't swallow all of humanity's ego!",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 45,
+   "en": "Human wisdom",
+   "speaker": "Amuro Ray"
+  },
+  {
+   "id": 46,
+   "en": "can overcome even something like that!",
+   "speaker": "Amuro Ray"
+  },
+  {
+   "id": 51,
+   "en": "Losing power, you say!?",
+   "speaker": "Char Aznable?"
+  },
+  {
+   "id": 52,
+   "en": "What!?",
+   "speaker": "?"
+  },
+  {
+   "id": 53,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 54,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 55,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 56,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 57,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 58,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 59,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 61,
+   "en": "This is the final battle.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 62,
+   "en": "This is the final battle.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 63,
+   "en": "This is the final battle, isn't it.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 64,
+   "en": "So this is the final battle.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 65,
+   "en": "This is the last battle!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 66,
+   "en": "This is the final battle, isn't it?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 67,
+   "en": "READY.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 68,
+   "en": "This is the final battle!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 69,
+   "en": "This is the final battle, you know.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 70,
+   "en": "This is the final battle.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 71,
+   "en": "Promise me you'll come back alive, okay?",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 72,
+   "en": "Come back alive... You make sure you come back alive!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 73,
+   "en": "Please, be sure to come back.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 74,
+   "en": "You come back alive, no matter what.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 75,
+   "en": "You'd better come back, okay!? No matter what!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 76,
+   "en": "Be sure to come back here, okay?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 78,
+   "en": "Whatever happens, please come back alive, okay?",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 79,
+   "en": "You make sure you come back here, understood?",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 80,
+   "en": "Please be careful.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 81,
+   "en": "So strong... So this is the Red Comet...!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 82,
+   "en": "So this is the power of the Red Comet...!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 83,
+   "en": "Just what you'd expect of Char Aznable...!",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 84,
+   "en": "So this... is the Red Comet!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 85,
+   "en": "They don't call him the Red Comet for nothing...!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 86,
+   "en": "So this is the Red Comet... He's so strong!",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 87,
+   "en": "TARGET PERFORMANCE: UNPREDICTABLE.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 88,
+   "en": "So this is the power of the Red Comet...!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 89,
+   "en": "Such strength... So this is the Red Comet...",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 90,
+   "en": "The target's performance cannot be predicted.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 91,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 92,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 93,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 94,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 95,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 96,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 97,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 98,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 99,
+   "en": "",
+   "speaker": "-"
+  }
+ ]
+}

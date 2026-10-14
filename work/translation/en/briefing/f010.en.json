@@ -1,0 +1,81 @@
+{
+ "table": "010",
+ "dialogue_file": "work/translation/en/dialogue/m010.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Shuttle Launch",
+   "speaker": "-"
+  },
+  {
+   "id": 2,
+   "en": "Escort the target",
+   "speaker": "-"
+  },
+  {
+   "id": 3,
+   "en": "Escort target destroyed",
+   "speaker": "-"
+  },
+  {
+   "id": 4,
+   "en": "Defend all radar facilities",
+   "speaker": "-"
+  },
+  {
+   "id": 100,
+   "en": "We will now go up into space and continue the pursuit mission.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 101,
+   "en": "To keep things safe in orbit, <pt(0,-25,0,0)>we'll first launch an advance team by <pic(0)><cs(3)>shuttle<ce()>.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 102,
+   "en": "The launch is meant to be secret, but given the enemy forces' recent movements,",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 103,
+   "en": "we had better assume an attack is quite likely.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 104,
+   "en": "So, with the cooperation of the <mk(-50,12.5,5,3,50)><ar(0,5,3,50)><mk(-50,-50,7,3,50)><ar(0,7,3,50)><mk(45,12.5,3,0,50)><ar(0,3,0,50)><mk(45,-50,1,3,50)><ar(0,1,3,50)><pic(1)><cs(3)>Gran Garan<ce()>, we'll guard the <pic(2)><cs(3)>area around the launch base<ce()>.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 105,
+   "en": "In an emergency, coordinate with the Gran Garan and protect the shuttle.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 200,
+   "en": "Good work on the mission. We will now set course for the Moon.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 201,
+   "en": "But spurred by events on the ground, every faction in space has grown more active too.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 202,
+   "en": "White Fang and Giganos, who both obtained E2s, are sure to make their move as well.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 203,
+   "en": "So urgent missions are likely to come up. I want you to stay sharp.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 300,
+   "en": "You are the UCE's last hope. I want you to understand that and act accordingly.",
+   "speaker": "?"
+  }
+ ]
+}

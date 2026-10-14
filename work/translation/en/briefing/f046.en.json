@@ -1,0 +1,86 @@
+{
+ "table": "046",
+ "dialogue_file": "work/translation/en/dialogue/m046.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Mine Removal",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Destroy the target",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Remove all mines and defeat the Virgo",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "Today, you will continue with your mine-clearing duty.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 101,
+   "en": "<mk(-50,50,1,0)><ar(0,1,0)>Your assigned area this time is <pic(0)><cs(3)>around the District 51 colony<ce()>.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 102,
+   "en": "After a major <pt(-25,-44,1,2)><pt(0,-0,1,2,50)><pt(44,25,1,2,100)><pt(-25,-87.5,1,2,150)><pt(19,-50,1,2,200)><pt(50,-19,1,2,250)><pt(87.5,25,1,2,300)><pt(12.5,-87.5,1,2,350)><pt(87.5,-12.5,1,2,400)>battle the area was sealed off, and countless <pic(1)><cs(3)>space mines<ce()> remain there.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 103,
+   "en": "With the war ending, there are plans to repair the colony and put it back into use.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 104,
+   "en": "Earth begins taking in the refugees today, but rebuilding space matters too.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 105,
+   "en": "To build new homes in space, I want you to put your skills to good use again today.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 200,
+   "en": "The shuttle has been refilled with air. As they wished, we will leave the shuttle behind.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 201,
+   "en": "Ever since the decision to take in the refugees, they have been holding out in that spot.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 202,
+   "en": "They have something they believe in. We are in no position to deny it now.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 203,
+   "en": "We have no time either. We are setting course for Earth at once.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 204,
+   "en": "We must stop it, whatever it takes. This plan, of all things...",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 300,
+   "en": "Does this mean we are still not strong enough to bring about peace...?",
+   "speaker": "Bright Noa?"
+  }
+ ]
+}

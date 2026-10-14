@@ -1,0 +1,440 @@
+{
+ "mission": "020",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Destroy the Gilgazamune",
+   "speaker": "System"
+  },
+  {
+   "id": 2,
+   "en": "Missile fired/Ally ship sunk",
+   "speaker": "System"
+  },
+  {
+   "id": 11,
+   "en": "Get blown to bits by my missile!",
+   "speaker": "Dorchenov"
+  },
+  {
+   "id": 12,
+   "en": "The enemy appears to be carrying a large missile.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 13,
+   "en": "So its target is the power satellite...",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 14,
+   "en": "If the power sat falls, we can't take the fortress.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 15,
+   "en": "Stop that missile launch, whatever it takes!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 16,
+   "en": "The Gilgazamune is preparing to launch its missile!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 19,
+   "en": "This'll finish everything!",
+   "speaker": "Dorchenov"
+  },
+  {
+   "id": 20,
+   "en": "Brace yourselves, you bastards!",
+   "speaker": "Dorchenov"
+  },
+  {
+   "id": 25,
+   "en": "Enemy reinforcements incoming!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 26,
+   "en": "Damn, they're going after the Mindanao!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 27,
+   "en": "Protect the Mindanao! Dr. Plato is aboard!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 28,
+   "en": "We're under enemy attack. We need support, now!",
+   "speaker": "Mindanao bridge"
+  },
+  {
+   "id": 29,
+   "en": "We'll sink at this rate! Do something!",
+   "speaker": "Mindanao bridge"
+  },
+  {
+   "id": 32,
+   "en": "So this is the end...!",
+   "speaker": "?"
+  },
+  {
+   "id": 33,
+   "en": "Friendly warship sunk!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 34,
+   "en": "Defend the Mindanao, no matter what.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 35,
+   "en": "Full barrage from the Giganos Fortress!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 36,
+   "en": "The fleet's starting to fall apart...",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 53,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 54,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 55,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 56,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 57,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 58,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 59,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 60,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 61,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 71,
+   "en": "Ugh, here it goes again!",
+   "speaker": "Dorchenov?"
+  },
+  {
+   "id": 72,
+   "en": "I won't die!",
+   "speaker": "Dorchenov"
+  },
+  {
+   "id": 73,
+   "en": "I won't die till I've killed all you bastards!",
+   "speaker": "Dorchenov"
+  },
+  {
+   "id": 74,
+   "en": "Uwaaaaaagh!",
+   "speaker": "Dorchenov"
+  },
+  {
+   "id": 91,
+   "en": "The advance unit is attacking the fortress.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 92,
+   "en": "The rest of you, escort the fleet.\nDon't let a single ship go down!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 93,
+   "en": "Massive machine signature confirmed from the fortress's direction!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 94,
+   "en": "Gwahahahaha! You bastards!",
+   "speaker": "Dorchenov"
+  },
+  {
+   "id": 95,
+   "en": "Power satellite or whatever, who cares!\nI'll turn it into space dust with this Gilgazamune!",
+   "speaker": "Dorchenov"
+  },
+  {
+   "id": 97,
+   "en": "So this is the end...!",
+   "speaker": "?"
+  },
+  {
+   "id": 101,
+   "en": "That's impossible!",
+   "speaker": "Dorchenov?"
+  },
+  {
+   "id": 102,
+   "en": "Electron beam system activating.\nCommencing beam fire on the target.",
+   "speaker": "Power satellite crew"
+  },
+  {
+   "id": 103,
+   "en": "Space condenser charge at 98 percent.\nImage-forming sensor, auto-lock.",
+   "speaker": "Power satellite crew"
+  },
+  {
+   "id": 104,
+   "en": "Target: mobile space fortress.",
+   "speaker": "Power satellite crew"
+  },
+  {
+   "id": 105,
+   "en": "Firing in 10 seconds... 8, 7, 6, 5, 4, 3, 2, 1",
+   "speaker": "Power satellite crew"
+  },
+  {
+   "id": 106,
+   "en": "Thought control system down.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 107,
+   "en": "Giganos Fortress silenced.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 108,
+   "en": "Looks like they're moving on to the suppression operation now.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 109,
+   "en": "The operation is a success.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 121,
+   "en": "Even the enemy's defenseless while readying to fire!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 122,
+   "en": "It's defenseless while it prepares to fire.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 123,
+   "en": "The enemy is defenseless while preparing to fire.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 124,
+   "en": "It's defenseless while it's getting ready to fire.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 125,
+   "en": "It's totally defenseless while it gets ready to fire!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 126,
+   "en": "The enemy's defenseless while it prepares to fire.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 127,
+   "en": "ATTACK TO PREVENT MISSILE LAUNCH.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 128,
+   "en": "The enemy's defenseless too while preparing to fire!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 129,
+   "en": "The enemy's prepping to fire. It's wide open.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 130,
+   "en": "The enemy is defenseless while preparing to fire.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 131,
+   "en": "Just attack it and stop the launch!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 132,
+   "en": "Attack it and stop the launch!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 133,
+   "en": "Please attack it and prevent the launch.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 134,
+   "en": "Attack it and stop the launch.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 135,
+   "en": "Just hit it and stop it from firing!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 136,
+   "en": "Attack it and keep it from firing.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 138,
+   "en": "Please attack it and prevent the launch!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 139,
+   "en": "Attack it and stop that launch for me.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 140,
+   "en": "Please carry out an attack to prevent the launch.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 141,
+   "en": "Hurry, or it's going to fire!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 142,
+   "en": "It's going to fire! Hurry!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 143,
+   "en": "At this rate, it will fire.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 144,
+   "en": "Hurry, it's going to fire!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 145,
+   "en": "It's gonna fire! Hurry up!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 146,
+   "en": "It's going to fire. Hurry, please!",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 147,
+   "en": "PREVENT LAUNCH IMMEDIATELY.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 148,
+   "en": "Please hurry, it's going to fire!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 149,
+   "en": "It's going to fire, you know. Hurry.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 150,
+   "en": "Please hurry and prevent the launch.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 151,
+   "en": "What's wrong? Get it together!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 152,
+   "en": "What are you doing? Do it right!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 153,
+   "en": "What's the matter? Please pull yourself together.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 154,
+   "en": "What are you doing? Get a grip!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 155,
+   "en": "Hey, come on, get it together!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 156,
+   "en": "Hey now, pull yourself together.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 157,
+   "en": "SIGNIFICANT TIME LOSS CONFIRMED.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 158,
+   "en": "Are you all right? Please pull yourself together!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 159,
+   "en": "Honestly, get a hold of yourself!",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 160,
+   "en": "Please pull yourself together.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

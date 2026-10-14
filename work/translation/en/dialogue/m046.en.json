@@ -1,0 +1,395 @@
+{
+ "mission": "046",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Clear mines around shuttle",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Shuttle lost/Air runs out",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Shuttle out of air",
+   "speaker": "HUD"
+  },
+  {
+   "id": 11,
+   "en": "Captain, we've found a civilian shuttle.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 12,
+   "en": "It looks like it's caught in the minefield.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 13,
+   "en": "Nearest unit, go and rescue it!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 14,
+   "en": "Destroy the mines and secure a route for it.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 15,
+   "en": "These mines home in on anything that moves.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 16,
+   "en": "Attack them recklessly and you'll risk chain blasts!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 17,
+   "en": "The shuttle has been damaged by the mines,",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 18,
+   "en": "and it seems to be leaking air.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 19,
+   "en": "Hurry and bring it in!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 20,
+   "en": "I'm sending you the shuttle's remaining air.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 21,
+   "en": "The shuttle's route has been secured.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 22,
+   "en": "Good, hurry and bring it in!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 23,
+   "en": "Wait! Enemy units approaching!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 24,
+   "en": "They're identified as Neo Zeon!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 25,
+   "en": "What!?",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 26,
+   "en": "The war is already over!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 27,
+   "en": "What on earth is going on...!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 28,
+   "en": "The shuttle's air seems to have run out.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 29,
+   "en": "I'm sorry, but it's too late...",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 30,
+   "en": "The shuttle has been destroyed!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 31,
+   "en": "Multiple heat sources approaching.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 32,
+   "en": "Mobile Doll leftovers. Take them out!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 34,
+   "en": "Destroy the mines and secure a route for it.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 41,
+   "en": "Transmission from the shuttle.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 42,
+   "en": "To think I'd end up being rescued by you again.",
+   "speaker": "Kahns"
+  },
+  {
+   "id": 43,
+   "en": "Who knows what twists of fate this world has in store.",
+   "speaker": "Kahns"
+  },
+  {
+   "id": 44,
+   "en": "You... Kahns!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 45,
+   "en": "I'm honored that you remember me.",
+   "speaker": "Kahns"
+  },
+  {
+   "id": 46,
+   "en": "You people should be on your way to Earth right now.",
+   "speaker": "?"
+  },
+  {
+   "id": 47,
+   "en": "We owe you for saving us. I suppose I can tell you the truth.",
+   "speaker": "Kahns"
+  },
+  {
+   "id": 48,
+   "en": "Soon an unmanned refugee fleet carrying E2 in our place will plunge into Earth.",
+   "speaker": "Kahns"
+  },
+  {
+   "id": 49,
+   "en": "What...! But the E2 was...",
+   "speaker": "?"
+  },
+  {
+   "id": 50,
+   "en": "Destroyed at Jaburo, you mean?",
+   "speaker": "Kahns"
+  },
+  {
+   "id": 51,
+   "en": "Do you really think he would just throw away a thing like that?",
+   "speaker": "Kahns"
+  },
+  {
+   "id": 52,
+   "en": "Char Aznable, of all people?",
+   "speaker": "Kahns"
+  },
+  {
+   "id": 53,
+   "en": "Char Aznable...!",
+   "speaker": "?"
+  },
+  {
+   "id": 54,
+   "en": "There were three left... I thought they had all exploded.",
+   "speaker": "?"
+  },
+  {
+   "id": 55,
+   "en": "So he recovered two of them...?",
+   "speaker": "?"
+  },
+  {
+   "id": 56,
+   "en": "Exactly as you suspect.",
+   "speaker": "Kahns"
+  },
+  {
+   "id": 57,
+   "en": "Earth, which has oppressed the Spacenoids for so long, at last faces its ruin.",
+   "speaker": "Kahns"
+  },
+  {
+   "id": 58,
+   "en": "",
+   "speaker": "Kahns"
+  },
+  {
+   "id": 59,
+   "en": "Char and the Spacenoids' plan to purge the Earth can no longer be stopped!",
+   "speaker": "Kahns"
+  },
+  {
+   "id": 60,
+   "en": "",
+   "speaker": "Kahns"
+  },
+  {
+   "id": 61,
+   "en": "How could you do such a thing...!",
+   "speaker": "?"
+  },
+  {
+   "id": 62,
+   "en": "Now watch it all come to the finest of endings.",
+   "speaker": "Kahns"
+  },
+  {
+   "id": 71,
+   "en": "Lure them clear of chain blasts, then destroy them.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 72,
+   "en": "Lure them clear of chain blasts and destroy them!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 73,
+   "en": "Please lure them clear of chain blasts, then destroy.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 74,
+   "en": "Draw them away from chain blasts, then destroy them.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 75,
+   "en": "Draw them away from chain blasts, then destroy them.",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 76,
+   "en": "Draw them away from chain blasts, then destroy them.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 77,
+   "en": "DESTROY IN AREA WITH NO RISK OF CHAIN DETONATION.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 78,
+   "en": "Please lure them clear of chain blasts, then destroy.",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 79,
+   "en": "Draw them away from chain blasts, then destroy them.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 80,
+   "en": "Please lure them clear of chain blasts, then destroy.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 81,
+   "en": "You mustn't shoot carelessly.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 82,
+   "en": "Avoid destroying them carelessly.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 83,
+   "en": "Destroying them carelessly would be dangerous.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 84,
+   "en": "Don't go destroying them carelessly.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 85,
+   "en": "Shooting them carelessly is dangerous!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 86,
+   "en": "Destroying them carelessly would be dangerous.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 88,
+   "en": "Shooting carelessly is dangerous!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 89,
+   "en": "Destroying them carelessly is dangerous, you know.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 90,
+   "en": "Careless destruction is dangerous.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 91,
+   "en": "Let's get this over with quickly.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 92,
+   "en": "What's the holdup? Hurry it up!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 93,
+   "en": "Is something wrong? Let's finish this quickly.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 94,
+   "en": "What's wrong? It's not over yet.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 95,
+   "en": "It's almost done. Hang in there!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 96,
+   "en": "Are you okay? Please, hang in there.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 97,
+   "en": "DESTROY TARGETS.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 98,
+   "en": "Just a little more! Please hang in there!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 99,
+   "en": "Hurry it up, would you?",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 100,
+   "en": "Please expedite the mission.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "table": "041",
+ "dialogue_file": "work/translation/en/dialogue/m041.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Capture Kilimanjaro",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Defeat all foes, batteries included",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "The fighting still rages on Earth.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 101,
+   "en": "Poseidal, scheming to prolong the war, and several forces preying on Earth's chaos.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 102,
+   "en": "Unless we wipe them all out, an era of peace will never come.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 103,
+   "en": "We will join a mop-up operation against enemy forces led by the United Space Force.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 104,
+   "en": "<mk(12.5,-43.75,6,1,50)><mk(43.75,-12.5,4,1,50)><mk(43.75,-43.75,5,1,50)><mk(12.5,-75,6,1,50)><mk(75,-12.5,4,1,50)><mk(43.75,-75,6,1,50)><mk(75,-43.75,4,1,50)><mk(75,-75,5,1,50)>This time, we launch the operation to take <pic(0)><cs(3)>Kilimanjaro<ce()>, the Titans' base.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 105,
+   "en": "<mk(-50,12.5,1,3,50)><ar(0,1,3,1000)><mk(-50,50,1,3,50)><ar(0,1,3,1000)><mk(-12.5,50,1,3,50)><ar(0,1,3,1000)><mk(-50,-37.5,2,0,50)><ar(0,2,0,1000)><mk(37.5,50,0,3,50)><ar(0,0,3,1000)><mk(-50,-75,2,3,50)><ar(0,2,3,1000)><mk(75,50,0,3,50)><ar(0,0,3,1000)>After reentry, we'll cover our allies while moving to secure <pic(1)><cs(3)>the area around the base<ce()>.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 200,
+   "en": "Kilimanjaro Base is gone, and the ringleader, Jamitov Hymem, is dead.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 201,
+   "en": "With this, the Titans have collapsed.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 202,
+   "en": "From here on, we face a continuing all-out war with the enemy forces left on Earth.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 203,
+   "en": "It will be one hard battle after another, but hold on until the situation stabilizes.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 204,
+   "en": "Once the war is over, we intend to back Relena Peacecraft",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 205,
+   "en": "as head of the new government, and support the path to peace between Earth and space.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 206,
+   "en": "She is the one who can build the era we are striving for.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 207,
+   "en": "To make that a reality, please lend us your strength a little longer.",
+   "speaker": "briefing commander (unnamed)"
+  },
+  {
+   "id": 300,
+   "en": "Peace now rests on all of you. Do not forget that as you fight.",
+   "speaker": "briefing commander (unnamed)"
+  }
+ ]
+}

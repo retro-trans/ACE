@@ -1,0 +1,230 @@
+{
+ "mission": "017",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defeat foes with mine blasts",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "Defeat the Baund Doc",
+   "speaker": "HUD"
+  },
+  {
+   "id": 10,
+   "en": "Enemy intrusion into the colony confirmed.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 11,
+   "en": "The encirclement is airtight. Move in and intercept.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 12,
+   "en": "The enemy seems to be a type with jamming capability.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 13,
+   "en": "They'll knock out your lock-on!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 14,
+   "en": "Make good use of the mines set in the operation area.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 15,
+   "en": "Mine placement data input complete.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 16,
+   "en": "We're sending mines your way. Make good use of them.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 17,
+   "en": "Transmission from outside the colony.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 18,
+   "en": "As ever, you treat the colonies like dirt, I see.",
+   "speaker": "Kahns"
+  },
+  {
+   "id": 19,
+   "en": "I am Kahns.",
+   "speaker": "Kahns"
+  },
+  {
+   "id": 20,
+   "en": "I currently serve as leader of the Anti-UCE Alliance.",
+   "speaker": "Kahns"
+  },
+  {
+   "id": 21,
+   "en": "As long as the UCE keeps up its tyranny over space,",
+   "speaker": "Kahns"
+  },
+  {
+   "id": 22,
+   "en": "we stand ready to unite and oppose it.",
+   "speaker": "Kahns"
+  },
+  {
+   "id": 23,
+   "en": "I suggest you take that to heart.",
+   "speaker": "Kahns"
+  },
+  {
+   "id": 24,
+   "en": "Just what are they scheming...?",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 25,
+   "en": "Captain, part of the encirclement has been broken!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 26,
+   "en": "What!?",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 27,
+   "en": "Big Brother! Where's my Big Brother?",
+   "speaker": "Rosamia Badam"
+  },
+  {
+   "id": 28,
+   "en": "What's with this pilot... Is she searching for her brother...?",
+   "speaker": "?"
+  },
+  {
+   "id": 29,
+   "en": "She's a Titans Enhanced Human...",
+   "speaker": "Kamille Bidan?"
+  },
+  {
+   "id": 30,
+   "en": "Where are you? Big Brother! Give me back my Big Brother!",
+   "speaker": "Rosamia Badam"
+  },
+  {
+   "id": 31,
+   "en": "Rosamia, why!?",
+   "speaker": "Kamille Bidan?"
+  },
+  {
+   "id": 32,
+   "en": "Captain, can't we stop the attack!?",
+   "speaker": "Kamille Bidan?"
+  },
+  {
+   "id": 33,
+   "en": "There's no bringing her back...",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 34,
+   "en": "I'm sorry, but this is war.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 35,
+   "en": "I found you! Big Brother...!",
+   "speaker": "Rosamia Badam"
+  },
+  {
+   "id": 36,
+   "en": "Rosamia... How did it come to this...",
+   "speaker": "Kamille Bidan?"
+  },
+  {
+   "id": 37,
+   "en": "All enemy signals in the area are gone.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 38,
+   "en": "What's the damage!?",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 39,
+   "en": "The colony took heavy damage in the fighting.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 40,
+   "en": "Can't they see that something like this",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 41,
+   "en": "will only turn the Spacenoids against us...!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 50,
+   "en": "Set off the mines and catch the enemy in the blast!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 51,
+   "en": "Catch the enemy in the mine blasts!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 52,
+   "en": "Please detonate the mines and catch the enemy in them.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 53,
+   "en": "Detonate the mines and catch the enemy in the blast!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 54,
+   "en": "Blow up the mines and take the enemy down with 'em!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 55,
+   "en": "Catch the enemy in the mine blasts, okay?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 56,
+   "en": "CATCH TARGETS IN MINE DETONATION.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 57,
+   "en": "Please set off the mines and catch the enemy in them!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 58,
+   "en": "You need to catch the enemy in the mine blasts.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 59,
+   "en": "Please catch the targets in the mine explosions.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

@@ -1,0 +1,878 @@
+{
+ "source": "work/source/movies/MOVIE003.wav",
+ "lyrics_sha256": "15dadddeb6ef17705b43b2f760a71b0b6b1696db1dffc91c1bb22debc092a04b",
+ "rows": [
+  {
+   "row": 0,
+   "start": 42.58,
+   "end": 46.8,
+   "words": [
+    [
+     0,
+     42.58
+    ],
+    [
+     5,
+     43.62
+    ],
+    [
+     8,
+     44.02
+    ],
+    [
+     16,
+     44.84
+    ],
+    [
+     21,
+     45.923
+    ],
+    [
+     26,
+     46.509
+    ]
+   ],
+   "matched": 17,
+   "letters": 23,
+   "alignment_source": "MOVIE003.full_alignment.json"
+  },
+  {
+   "row": 1,
+   "start": 46.7,
+   "end": 49.343,
+   "words": [
+    [
+     0,
+     46.7
+    ],
+    [
+     9,
+     47.74
+    ],
+    [
+     12,
+     48.48
+    ]
+   ],
+   "matched": 12,
+   "letters": 12,
+   "alignment_source": "MOVIE003.full_alignment.json"
+  },
+  {
+   "row": 2,
+   "start": 49.4,
+   "end": 52.66,
+   "words": [
+    [
+     0,
+     49.4
+    ],
+    [
+     8,
+     50.4
+    ],
+    [
+     11,
+     50.793
+    ],
+    [
+     16,
+     51.82
+    ]
+   ],
+   "matched": 15,
+   "letters": 17,
+   "alignment_source": "MOVIE003.full_alignment.json"
+  },
+  {
+   "row": 3,
+   "start": 52.52,
+   "end": 56.33,
+   "words": [
+    [
+     0,
+     52.52
+    ],
+    [
+     7,
+     53.695
+    ],
+    [
+     13,
+     54.485
+    ]
+   ],
+   "matched": 15,
+   "letters": 19,
+   "alignment_source": "MOVIE003.full_alignment.json"
+  },
+  {
+   "row": 4,
+   "start": 56.6,
+   "end": 60.82,
+   "words": [
+    [
+     0,
+     56.6
+    ],
+    [
+     11,
+     58.66
+    ],
+    [
+     14,
+     58.98
+    ]
+   ],
+   "matched": 17,
+   "letters": 22,
+   "alignment_source": "MOVIE003.full_alignment.json"
+  },
+  {
+   "row": 5,
+   "start": 60.7,
+   "end": 63.47,
+   "words": [
+    [
+     0,
+     60.7
+    ],
+    [
+     9,
+     62.26
+    ]
+   ],
+   "matched": 10,
+   "letters": 12,
+   "alignment_source": "MOVIE003.full_alignment.json"
+  },
+  {
+   "row": 6,
+   "start": 63.98,
+   "end": 67.63,
+   "words": [
+    [
+     0,
+     63.98
+    ],
+    [
+     7,
+     65.18
+    ],
+    [
+     13,
+     65.8
+    ],
+    [
+     18,
+     66.22
+    ],
+    [
+     21,
+     66.96
+    ],
+    [
+     25,
+     67.38
+    ]
+   ],
+   "matched": 19,
+   "letters": 21,
+   "alignment_source": "MOVIE003.full_alignment.json"
+  },
+  {
+   "row": 7,
+   "start": 67.68,
+   "end": 70.19,
+   "words": [
+    [
+     0,
+     67.68
+    ],
+    [
+     7,
+     68.62
+    ]
+   ],
+   "matched": 13,
+   "letters": 13,
+   "alignment_source": "MOVIE003.full_alignment.json"
+  },
+  {
+   "row": 8,
+   "start": 71.02,
+   "end": 76.057,
+   "words": [
+    [
+     0,
+     71.02
+    ],
+    [
+     6,
+     71.507
+    ],
+    [
+     11,
+     72.676
+    ],
+    [
+     20,
+     74.851
+    ]
+   ],
+   "matched": 11,
+   "letters": 21,
+   "alignment_source": "MOVIE003.full_alignment.json"
+  },
+  {
+   "row": 9,
+   "start": 77.23,
+   "end": 81.938,
+   "words": [
+    [
+     0,
+     77.23
+    ],
+    [
+     9,
+     79.14
+    ],
+    [
+     12,
+     79.343
+    ]
+   ],
+   "matched": 14,
+   "letters": 21,
+   "alignment_source": "MOVIE003.full_alignment.json"
+  },
+  {
+   "row": 10,
+   "start": 83.6,
+   "end": 88.03,
+   "words": [
+    [
+     0,
+     83.6
+    ],
+    [
+     9,
+     84.82
+    ],
+    [
+     12,
+     85.26
+    ],
+    [
+     20,
+     86.103
+    ],
+    [
+     26,
+     87.12
+    ],
+    [
+     29,
+     87.42
+    ]
+   ],
+   "matched": 23,
+   "letters": 28,
+   "alignment_source": "MOVIE003.full_alignment.json"
+  },
+  {
+   "row": 11,
+   "start": 87.9,
+   "end": 91.803,
+   "words": [
+    [
+     0,
+     87.9
+    ],
+    [
+     8,
+     88.64
+    ],
+    [
+     11,
+     89.18
+    ],
+    [
+     16,
+     89.84
+    ],
+    [
+     19,
+     90.433
+    ]
+   ],
+   "matched": 23,
+   "letters": 26,
+   "alignment_source": "MOVIE003.full_alignment.json"
+  },
+  {
+   "row": 12,
+   "start": 92.03,
+   "end": 95.057,
+   "words": [
+    [
+     0,
+     92.03
+    ],
+    [
+     12,
+     92.86
+    ],
+    [
+     19,
+     93.8
+    ]
+   ],
+   "matched": 21,
+   "letters": 26,
+   "alignment_source": "MOVIE003.full_alignment.json"
+  },
+  {
+   "row": 13,
+   "start": 95.1,
+   "end": 98.64,
+   "words": [
+    [
+     0,
+     95.1
+    ],
+    [
+     6,
+     96.032
+    ],
+    [
+     11,
+     97.353
+    ],
+    [
+     18,
+     98.39
+    ]
+   ],
+   "matched": 12,
+   "letters": 17,
+   "alignment_source": "MOVIE003.full_alignment.json"
+  },
+  {
+   "row": 14,
+   "start": 98.44,
+   "end": 101.26,
+   "words": [
+    [
+     0,
+     98.44
+    ],
+    [
+     6,
+     99.8
+    ],
+    [
+     9,
+     100.232
+    ],
+    [
+     15,
+     100.4
+    ],
+    [
+     18,
+     100.8
+    ]
+   ],
+   "matched": 14,
+   "letters": 18,
+   "alignment_source": "MOVIE003.full_alignment.json"
+  },
+  {
+   "row": 15,
+   "start": 109.8,
+   "end": 113.32,
+   "words": [
+    [
+     0,
+     109.8
+    ],
+    [
+     5,
+     110.22
+    ],
+    [
+     8,
+     110.52
+    ],
+    [
+     15,
+     111.34
+    ],
+    [
+     21,
+     112.198
+    ],
+    [
+     24,
+     112.653
+    ]
+   ],
+   "matched": 17,
+   "letters": 22,
+   "alignment_source": "MOVIE003.lyrics_timing.json"
+  },
+  {
+   "row": 16,
+   "start": 113.22,
+   "end": 115.93,
+   "words": [
+    [
+     0,
+     113.22
+    ],
+    [
+     6,
+     114.26
+    ],
+    [
+     9,
+     114.7
+    ]
+   ],
+   "matched": 9,
+   "letters": 10,
+   "alignment_source": "MOVIE003.lyrics_timing.json"
+  },
+  {
+   "row": 17,
+   "start": 116.1,
+   "end": 120.277,
+   "words": [
+    [
+     0,
+     116.1
+    ],
+    [
+     5,
+     116.86
+    ],
+    [
+     8,
+     117.74
+    ],
+    [
+     15,
+     118.4
+    ],
+    [
+     23,
+     119.395
+    ],
+    [
+     26,
+     119.72
+    ]
+   ],
+   "matched": 20,
+   "letters": 23,
+   "alignment_source": "MOVIE003.lyrics_timing.json"
+  },
+  {
+   "row": 18,
+   "start": 120.26,
+   "end": 122.43,
+   "words": [
+    [
+     0,
+     120.26
+    ],
+    [
+     7,
+     121.34
+    ],
+    [
+     10,
+     121.82
+    ]
+   ],
+   "matched": 11,
+   "letters": 11,
+   "alignment_source": "MOVIE003.lyrics_timing.json"
+  },
+  {
+   "row": 19,
+   "start": 123.1,
+   "end": 128.26,
+   "words": [
+    [
+     0,
+     123.1
+    ],
+    [
+     6,
+     124.12
+    ],
+    [
+     12,
+     125.22
+    ],
+    [
+     15,
+     125.82
+    ],
+    [
+     23,
+     127.08
+    ]
+   ],
+   "matched": 21,
+   "letters": 24,
+   "alignment_source": "MOVIE003.lyrics_timing.json"
+  },
+  {
+   "row": 20,
+   "start": 130.74,
+   "end": 134.542,
+   "words": [
+    [
+     0,
+     130.74
+    ],
+    [
+     10,
+     131.8
+    ],
+    [
+     13,
+     132.03
+    ]
+   ],
+   "matched": 15,
+   "letters": 21,
+   "alignment_source": "MOVIE003.lyrics_timing.json"
+  },
+  {
+   "row": 21,
+   "start": 136.08,
+   "end": 140.56,
+   "words": [
+    [
+     0,
+     136.08
+    ],
+    [
+     9,
+     137.34
+    ],
+    [
+     12,
+     137.809
+    ],
+    [
+     19,
+     138.5
+    ],
+    [
+     22,
+     138.9
+    ],
+    [
+     28,
+     139.78
+    ],
+    [
+     33,
+     140.135
+    ]
+   ],
+   "matched": 17,
+   "letters": 28,
+   "alignment_source": "MOVIE003.lyrics_timing.json"
+  },
+  {
+   "row": 22,
+   "start": 140.7,
+   "end": 144.31,
+   "words": [
+    [
+     0,
+     140.7
+    ],
+    [
+     8,
+     141.2
+    ],
+    [
+     11,
+     141.74
+    ],
+    [
+     16,
+     142.38
+    ],
+    [
+     19,
+     142.72
+    ]
+   ],
+   "matched": 25,
+   "letters": 25,
+   "alignment_source": "MOVIE003.lyrics_timing.json"
+  },
+  {
+   "row": 23,
+   "start": 144.82,
+   "end": 147.27,
+   "words": [
+    [
+     0,
+     144.82
+    ],
+    [
+     10,
+     145.173
+    ],
+    [
+     16,
+     145.92
+    ],
+    [
+     21,
+     146.593
+    ]
+   ],
+   "matched": 15,
+   "letters": 22,
+   "alignment_source": "MOVIE003.lyrics_timing.json"
+  },
+  {
+   "row": 24,
+   "start": 147.804,
+   "end": 151.6,
+   "words": [
+    [
+     0,
+     147.804
+    ],
+    [
+     6,
+     148.207
+    ],
+    [
+     9,
+     149.04
+    ],
+    [
+     14,
+     149.48
+    ],
+    [
+     17,
+     149.997
+    ]
+   ],
+   "matched": 11,
+   "letters": 20,
+   "alignment_source": "MOVIE003.lyrics_timing.json"
+  },
+  {
+   "row": 25,
+   "start": 151.79,
+   "end": 153.81,
+   "words": [
+    [
+     0,
+     151.79
+    ],
+    [
+     9,
+     152.54
+    ]
+   ],
+   "matched": 15,
+   "letters": 18,
+   "alignment_source": "MOVIE003.align_b.json"
+  },
+  {
+   "row": 26,
+   "reason": "omitted in the movie arrangement"
+  },
+  {
+   "row": 27,
+   "reason": "omitted in the movie arrangement"
+  },
+  {
+   "row": 28,
+   "reason": "omitted in the movie arrangement"
+  },
+  {
+   "row": 29,
+   "reason": "omitted in the movie arrangement"
+  },
+  {
+   "row": 30,
+   "reason": "omitted in the movie arrangement"
+  },
+  {
+   "row": 31,
+   "reason": "omitted in the movie arrangement"
+  },
+  {
+   "row": 32,
+   "reason": "omitted in the movie arrangement"
+  },
+  {
+   "row": 33,
+   "start": 153.68,
+   "end": 158.115,
+   "words": [
+    [
+     0,
+     153.68
+    ],
+    [
+     9,
+     154.86
+    ],
+    [
+     12,
+     155.34
+    ],
+    [
+     20,
+     156.167
+    ],
+    [
+     26,
+     157.18
+    ],
+    [
+     29,
+     157.52
+    ]
+   ],
+   "matched": 23,
+   "letters": 28,
+   "alignment_source": "MOVIE003.full_alignment.json"
+  },
+  {
+   "row": 34,
+   "start": 158.24,
+   "end": 161.857,
+   "words": [
+    [
+     0,
+     158.24
+    ],
+    [
+     8,
+     158.72
+    ],
+    [
+     11,
+     159.24
+    ],
+    [
+     16,
+     159.88
+    ],
+    [
+     19,
+     160.5
+    ]
+   ],
+   "matched": 23,
+   "letters": 26,
+   "alignment_source": "MOVIE003.full_alignment.json"
+  },
+  {
+   "row": 35,
+   "start": 162.04,
+   "end": 165.11,
+   "words": [
+    [
+     0,
+     162.04
+    ],
+    [
+     12,
+     162.974
+    ],
+    [
+     19,
+     163.5
+    ]
+   ],
+   "matched": 17,
+   "letters": 26,
+   "alignment_source": "MOVIE003.full_alignment.json"
+  },
+  {
+   "row": 36,
+   "start": 165.22,
+   "end": 169.0,
+   "words": [
+    [
+     0,
+     165.22
+    ],
+    [
+     6,
+     165.78
+    ],
+    [
+     11,
+     167.16
+    ],
+    [
+     18,
+     168.54
+    ]
+   ],
+   "matched": 13,
+   "letters": 17,
+   "alignment_source": "MOVIE003.full_alignment.json"
+  },
+  {
+   "row": 37,
+   "start": 169.727,
+   "end": 171.34,
+   "words": [
+    [
+     0,
+     169.727
+    ],
+    [
+     6,
+     169.86
+    ],
+    [
+     9,
+     170.312
+    ],
+    [
+     15,
+     170.48
+    ],
+    [
+     18,
+     170.88
+    ]
+   ],
+   "matched": 12,
+   "letters": 18,
+   "alignment_source": "MOVIE003.full_alignment.json"
+  }
+ ],
+ "alignment_windows": [
+  "MOVIE003.full_alignment.json",
+  "MOVIE003.lyrics_timing.json",
+  "MOVIE003.align_b.json"
+ ],
+ "review": "Numerical alignment and phrase coverage checked; final listening review remains.",
+ "sung_range": [
+  42.58,
+  171.34
+ ]
+}

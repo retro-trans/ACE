@@ -1,0 +1,101 @@
+{
+ "table": "022",
+ "dialogue_file": "work/translation/en/dialogue/m022.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Stop Battleship Libra",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Destroy the targets",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "Time limit exceeded",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Destroy Libra's main cannon",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "We've confirmed that White Fang's <mk(-50,-62.5,1,1)><mk(-12.5,-25,1,1,50)><mk(25,12.5,1,1,100)><mk(62.5,50,1,1,150)>large battleship, <pic(0)><cs(3)>Libra<ce()>, is heading for Earth.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 101,
+   "en": "The E2 is surely on board. He... means to drop that thing onto Earth.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 102,
+   "en": "Add an E2 blast to a battleship crashing down, and the surface will be scorched earth.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 103,
+   "en": "Once we <mk(37.5,-75,5,3)><ar(0,5,3,150)><mk(75,-37.5,5,3,50)><ar(0,5,3,150)><mk(75,-75,5,0,100)><ar(0,5,0,150)>join up with the <pic(1)><cs(3)>Peacemillion<ce()>, we'll carry out the operation to destroy Libra.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 104,
+   "en": "This is the final mission... Let's do our very best to avoid the worst.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 200,
+   "en": "The worst has been averted.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 201,
+   "en": "With Zechs Merquise's self-destruction, White Fang has effectively collapsed.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 202,
+   "en": "I'll overlook our failure to get the E2 back this time. Given the circumstances...",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 203,
+   "en": "There are no E2s left in enemy hands. We'll have to call that good enough.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 204,
+   "en": "Remnants are still being sighted in various places, but leave those to the UCE forces.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 205,
+   "en": "Next, I'd like you to carry on and transport the recovered E2s to Earth.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 206,
+   "en": "That should conclude the pursuit mission. Fine work throughout this series of operations.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 207,
+   "en": "I look forward to your return.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 300,
+   "en": "Just what do you think you are doing? Is that all the strength you have?",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 301,
+   "en": "The future of Earth rests on your shoulders. This won't do. Pull yourselves together.",
+   "speaker": "Commanding officer?"
+  }
+ ]
+}

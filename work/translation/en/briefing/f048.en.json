@@ -1,0 +1,96 @@
+{
+ "table": "048",
+ "dialogue_file": "work/translation/en/dialogue/m048.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Intercept Refugee Fleet",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Destroy the target",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "Time limit exceeded",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Defeat all Geara Doga units",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "<pt(-87.5,12.5,1,2)><pt(-62.5,37.5,1,2,50)><pt(-62.5,-25,1,2,100)><pt(-37.5,12.5,1,2,150)><pt(-12.5,25,1,2,200)><pt(-12.5,-25,1,2,250)><pt(25,-12.5,1,2,300)><pt(0,-62.5,1,2,350)><pt(37.5,-50,1,2,400)><pt(75,-12.5,1,2,450)><pt(50,-87.5,1,2,500)><pt(75,-75,1,2,550)><pic(0)><cs(3)>The refugee fleet<ce()> will soon enter the atmosphere. We have little time left.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 101,
+   "en": "We have not yet identified the refugee ship carrying the E2.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 102,
+   "en": "However, information from Kahns has confirmed that the refugee fleet is unmanned.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 103,
+   "en": "Destroy every ship in the <mk(-62.5,-75,3,0)><ar(0,3,0,50)>refugee fleet before it plunges into Earth.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 104,
+   "en": "This is neither an order nor a mission. I believe it is the hope of every one of us.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 200,
+   "en": "I understand the circumstances well.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 201,
+   "en": "...That battle was broadcast all over Earth, and I'm about to be held responsible.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 202,
+   "en": "The hard-liners who carry on Duke Dermail's will won't let this chance slip by.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 203,
+   "en": "As long as people do not know the E2 exists, I will be driven from my current position.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 204,
+   "en": "But before that happens, I have a request.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 205,
+   "en": "The E2 will surely bring disaster upon humanity. Please pursue Char and destroy the E2.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 206,
+   "en": "In doing so, you may lose your home to return to, and your chance to clear your names.",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 207,
+   "en": "Even so, will you go?",
+   "speaker": "Relena Peacecraft"
+  },
+  {
+   "id": 300,
+   "en": "Why did something like this happen...? Is peace nothing more than an ideal?",
+   "speaker": "Relena Peacecraft"
+  }
+ ]
+}

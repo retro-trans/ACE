@@ -1,0 +1,56 @@
+{
+ "table": "050",
+ "dialogue_file": "work/translation/en/dialogue/m050.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defeat E2",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Defeat Sazabi with 50 percent+ armor",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "<mk(-12.5,-12.5,3,1)><mk(-50,-12.5,3,1,50)><mk(-12.5,-50,3,1,100)>We've tracked down <pic(0)><cs(3)>the forces led by Char<ce()> <mk(37.5,37.5,7,0,200)><ar(0,7,0,200)>at last. It's been a long road...",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 101,
+   "en": "As long as the E2 remains intact, true peace will never come.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 102,
+   "en": "This will most likely be the final mission.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 103,
+   "en": "Yes, this is the final battle. Make sure you come back alive.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 200,
+   "en": "---",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 300,
+   "en": "To think it would come to this... Just a little more... and after we came this far!",
+   "speaker": "? (briefing officer)"
+  }
+ ]
+}

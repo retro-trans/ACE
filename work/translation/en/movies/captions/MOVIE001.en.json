@@ -1,0 +1,46 @@
+{
+ "movie": "MOVIE001",
+ "rows": [
+  {
+   "start": 0.0,
+   "end": 5.88,
+   "en": "It has been one week since Representative Peacecraft, Earth's new leader, announced that space refugees would be accepted."
+  },
+  {
+   "start": 6.9,
+   "end": 12.56,
+   "en": "A transport carrying refugees who have wandered through space is now about to enter the atmosphere."
+  },
+  {
+   "start": 13.9,
+   "end": 19.64,
+   "en": "After a long war, Earth and space are joining hands once more, and a new era is about to begin."
+  },
+  {
+   "start": 23.15,
+   "end": 25.47,
+   "en": "Someone is attacking the shuttles!"
+  },
+  {
+   "start": 28.18,
+   "end": 31.06,
+   "en": "This appears to be a UCE warship!"
+  },
+  {
+   "start": 31.06,
+   "end": 35.57,
+   "en": "The shuttles carrying the refugees are under attack!"
+  },
+  {
+   "start": 37.84,
+   "end": 40.52,
+   "en": "UCE forces have attacked a refugee ship again!"
+  },
+  {
+   "start": 45.46,
+   "end": 46.14,
+   "en": "An explosion...!"
+  }
+ ],
+ "outline": 2
+}

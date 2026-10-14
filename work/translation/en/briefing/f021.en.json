@@ -1,0 +1,86 @@
+{
+ "table": "021",
+ "dialogue_file": "work/translation/en/dialogue/m021.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Beat Enemy Strike Force",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Hold out until the enemy ship stops",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "The United Space Force is moving to retake <pic(0)><cs(3)>Amaterasu<ce()>, held by the Martian Successors.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 101,
+   "en": "For this operation, the enemy strike force deployed around Earth has to be pinned down.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 102,
+   "en": "Our mission this time is to hit that strike force and support the United Space Force.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 103,
+   "en": "We already know their <mk(-50,-50,3,1)>hideout. It is an <pic(1)><cs(3)>abandoned colony<ce()> near Amaterasu.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 104,
+   "en": "It has <mk(62.5,25,7,0)><ar(0,7,0)>no direct link to the E2, but it's an important mission. I expect a lot from you.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 200,
+   "en": "Thanks to your efforts, the operation to retake Amaterasu was a success.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 201,
+   "en": "Since this operation, the Martian Successors have pulled back from the front line.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 202,
+   "en": "But the polar cap ruins on Mars... Unless we strike there, they'll show up again.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 203,
+   "en": "As of today, the Nadesico B is assigned to the mission to bring Mars under control.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 204,
+   "en": "I hear the Nadesico C, being built by <cs(1)>Nergal Heavy Industries<ce()>, will be used to take Mars.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 205,
+   "en": "Losing her will weaken us, but both are important missions. Let's do our very best.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 300,
+   "en": "You are the UCE's last hope. I want you to understand that and act accordingly.",
+   "speaker": "Commanding officer?"
+  }
+ ]
+}

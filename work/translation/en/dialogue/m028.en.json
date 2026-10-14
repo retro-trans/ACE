@@ -1,0 +1,290 @@
+{
+ "mission": "028",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Parliament HQ destroyed",
+   "speaker": "HUD"
+  },
+  {
+   "id": 10,
+   "en": "That's the enemy ship's main cannon! We're being targeted from outside the area!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 11,
+   "en": "Shoot down that enemy ship, on the double!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 12,
+   "en": "The rest of you, clear out the enemies in the area! Watch out for the shelling!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 13,
+   "en": "The enemies deployed here are Poseidal's Heavy Metals.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 14,
+   "en": "Heat source detected at long range!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 15,
+   "en": "The enemy ship is recharging. We're safe for a while.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 16,
+   "en": "Enemy reinforcements confirmed.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 17,
+   "en": "Enemy reinforcements incoming!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 18,
+   "en": "All enemy signals in the area are gone.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 19,
+   "en": "What...? Units are approaching!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 20,
+   "en": "They're identified as Giganos forces!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 21,
+   "en": "So they're after the HQ.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 22,
+   "en": "All units, intercept them.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 23,
+   "en": "Take out the ones heading for the HQ first!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 24,
+   "en": "The HQ is under attack! What are you doing!?",
+   "speaker": "?"
+  },
+  {
+   "id": 25,
+   "en": "The HQ can't hold out any longer!",
+   "speaker": "?"
+  },
+  {
+   "id": 26,
+   "en": "Message from HQ.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 27,
+   "en": "They're ordering us to wipe out the enemy at once.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 28,
+   "en": "The bigwigs watching from safety sure ask a lot.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 29,
+   "en": "Captain, we have an emergency transmission.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 30,
+   "en": "It's been a while, Captain Bright.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 31,
+   "en": "I'd like a word with you later. I'm counting on you.",
+   "speaker": "Kouichirou Misumaru?"
+  },
+  {
+   "id": 32,
+   "en": "All enemy signals in the area are gone.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 33,
+   "en": "The VIPs appear to be safe. Good work.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 34,
+   "en": "All units, return to the Ra Cailum.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 35,
+   "en": "The HQ has been destroyed!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 40,
+   "en": "If you climb too high, you'll get sniped!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 41,
+   "en": "Go too high, and you'll get sniped.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 42,
+   "en": "At high altitude, the enemy battleship will snipe you.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 43,
+   "en": "Climb too high and you'll be sniped.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 44,
+   "en": "If you go up too high, you'll get sniped, you know!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 45,
+   "en": "If you fly too high, you'll be sniped.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 46,
+   "en": "PROBABILITY OF SNIPING AT HIGH ALTITUDE: 90 PERCENT.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 47,
+   "en": "If you climb too high, you'll be sniped!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 48,
+   "en": "At high altitude, that battleship will pick you off.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 49,
+   "en": "At high altitude, the enemy battleship will snipe you.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 50,
+   "en": "Keep your altitude as low as you can!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 51,
+   "en": "Keep your altitude as low as possible!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 52,
+   "en": "Please keep your altitude as low as possible.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 53,
+   "en": "Try not to go up too high.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 54,
+   "en": "Just don't go up too high, okay!?",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 55,
+   "en": "Try not to gain too much altitude, all right?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 57,
+   "en": "Please try not to gain too much altitude!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 58,
+   "en": "Keep your altitude down as much as you can, would you?",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 59,
+   "en": "Please keep altitude to a minimum.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 60,
+   "en": "Bring your altitude down!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 61,
+   "en": "Lower your altitude!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 62,
+   "en": "Please lower your altitude.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 63,
+   "en": "Lower your altitude, now.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 64,
+   "en": "Get lower! Come on!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 65,
+   "en": "Bring your altitude down.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 66,
+   "en": "REDUCE ALTITUDE.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 67,
+   "en": "Please lower your altitude!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 68,
+   "en": "Drop your altitude!",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 69,
+   "en": "Please reduce altitude.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

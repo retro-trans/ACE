@@ -1,0 +1,630 @@
+{
+ "mission": "031",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defeat enemy forces",
+   "speaker": "-"
+  },
+  {
+   "id": 2,
+   "en": "---",
+   "speaker": "-"
+  },
+  {
+   "id": 3,
+   "en": "Defeat Harald",
+   "speaker": "-"
+  },
+  {
+   "id": 11,
+   "en": "We're moving in to support the Peacemillion!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 12,
+   "en": "You came for us. Thank you.",
+   "speaker": "Sally Po?"
+  },
+  {
+   "id": 13,
+   "en": "Incoming transmission from the United Space Force.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 14,
+   "en": "We've deployed chaff grenades in the combat zone.",
+   "speaker": "United Space Force officer (Misumaru?)"
+  },
+  {
+   "id": 15,
+   "en": "Use them to hold out for a while.",
+   "speaker": "United Space Force officer (Misumaru?)"
+  },
+  {
+   "id": 16,
+   "en": "Our United Space Force strike team will now move",
+   "speaker": "United Space Force officer (Misumaru?)"
+  },
+  {
+   "id": 17,
+   "en": "to take the enemy control ship.",
+   "speaker": "United Space Force officer (Misumaru?)"
+  },
+  {
+   "id": 21,
+   "en": "I hate to admit it, but we're totally outmatched now.",
+   "speaker": "Sally Po?"
+  },
+  {
+   "id": 22,
+   "en": "The Mobile Dolls' flawlessly precise AI...",
+   "speaker": "Sally Po?"
+  },
+  {
+   "id": 23,
+   "en": "fused with the power of E2 in a single machine...",
+   "speaker": "Sally Po?"
+  },
+  {
+   "id": 24,
+   "en": "The enemy is strong... frighteningly so...",
+   "speaker": "Sally Po?"
+  },
+  {
+   "id": 31,
+   "en": "This is the strike team.",
+   "speaker": "USF strike team"
+  },
+  {
+   "id": 32,
+   "en": "We're about to destroy the control ship...!",
+   "speaker": "USF strike team"
+  },
+  {
+   "id": 33,
+   "en": "The strike team's been wiped out!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 34,
+   "en": "No...! What are we supposed to do now...!?",
+   "speaker": "Sally Po?"
+  },
+  {
+   "id": 35,
+   "en": "All we can do right now is hold out.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 37,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 38,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 41,
+   "en": "Enemy reinforcements launching from the enemy ship!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 42,
+   "en": "My God...",
+   "speaker": "Sally Po?"
+  },
+  {
+   "id": 43,
+   "en": "Just how much strength do they have...",
+   "speaker": "Sally Po?"
+  },
+  {
+   "id": 45,
+   "en": "It's no good, there are too many of them...",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 46,
+   "en": "Boson particle readings rising!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 47,
+   "en": "What!? A Boson Jump...!?",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 51,
+   "en": "Sorry to keep you waiting, everyone.\nI'm Ruri Hoshino, captain of the Nadesico C.",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 52,
+   "en": "Taking the Mars base took us\nlonger than we expected.",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 53,
+   "en": "Nadesico, I'm glad you came!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 54,
+   "en": "We feel the same way Commander Misumaru does, after all.",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 55,
+   "en": "The Nadesico is returning to the United Space Force.\nWe'll be counting on you from here on.",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 61,
+   "en": "I've seized control of the Mobile Doll system",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 62,
+   "en": "and degraded its functions.",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 63,
+   "en": "She hacked them in the blink of an eye...!",
+   "speaker": "Sally Po?"
+  },
+  {
+   "id": 64,
+   "en": "So this is the power of the Electronic Fairy...",
+   "speaker": "Sally Po?"
+  },
+  {
+   "id": 66,
+   "en": "Enemy reinforcements incoming!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 67,
+   "en": "Nadesico C, moving in to support you.",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 71,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 72,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 74,
+   "en": "A unit is approaching our position!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 76,
+   "en": "The enemy appears to be withdrawing.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 81,
+   "en": "Looks like your judgment was right, Lieutenant Noin.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 82,
+   "en": "I'm counting on you from here on, okay?",
+   "speaker": "Sally Po?"
+  },
+  {
+   "id": 83,
+   "en": "Yes. We have to make this an era without conflict...",
+   "speaker": "Noin?"
+  },
+  {
+   "id": 84,
+   "en": "But before that, we still have work to do.",
+   "speaker": "Ruri Hoshino?"
+  },
+  {
+   "id": 91,
+   "en": "Be careful, okay?",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 92,
+   "en": "I'm expecting big things from you.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 93,
+   "en": "Please do your best.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 94,
+   "en": "You'll be fine. Go for it.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 95,
+   "en": "Come on, smash 'em to smithereens!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 96,
+   "en": "I'm rooting for you. Do your best.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 97,
+   "en": "EXPEDITE TARGET DESTRUCTION.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 98,
+   "en": "Do your best! I know you can do it!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 99,
+   "en": "You'll be fine. I'm counting on you.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 100,
+   "en": "I expect prompt execution of the mission.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 101,
+   "en": "If you destroy the chaff grenades,",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 102,
+   "en": "If you destroy the chaff grenades,",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 103,
+   "en": "If you destroy the chaff grenades,",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 104,
+   "en": "If you destroy the chaff grenades,",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 105,
+   "en": "If you destroy the chaff grenades,",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 106,
+   "en": "If you destroy the chaff grenades,",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 107,
+   "en": "CHAFF GRENADE DESTRUCTION RECOMMENDED.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 108,
+   "en": "If you destroy the chaff grenades,",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 109,
+   "en": "If you destroy the chaff grenades,",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 110,
+   "en": "If you destroy the chaff grenades,",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 111,
+   "en": "you can jam the enemy's lock-on.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 112,
+   "en": "you can jam their lock-on.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 113,
+   "en": "you will be able to jam the enemy's lock-on.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 114,
+   "en": "you can jam the enemy's lock-on.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 115,
+   "en": "you can jam the enemy's lock-on, you know!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 116,
+   "en": "you can interfere with the enemy's lock-on.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 117,
+   "en": "ENEMY LOCK-ON CAN BE JAMMED.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 118,
+   "en": "you can jam the enemy's lock-on!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 119,
+   "en": "you can jam the enemy's lock-on, you see.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 120,
+   "en": "it will be possible to disrupt enemy lock-on.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 121,
+   "en": "Put them to good use.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 122,
+   "en": "Make good use of them.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 123,
+   "en": "Please put them to good use.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 124,
+   "en": "Use them wisely, now.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 125,
+   "en": "Use them well, okay?",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 126,
+   "en": "Use them effectively, all right?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 128,
+   "en": "Please use them effectively!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 129,
+   "en": "Use them to your advantage, would you?",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 130,
+   "en": "Please utilize them effectively.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 131,
+   "en": "What's wrong? Get it together!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 132,
+   "en": "What are you doing? Do it right!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 133,
+   "en": "What's the matter? Please pull yourself together.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 134,
+   "en": "What are you doing? Get a grip!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 135,
+   "en": "Hey, come on, get it together!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 136,
+   "en": "Hey now, pull yourself together.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 137,
+   "en": "READY.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 138,
+   "en": "Are you all right? Please pull yourself together!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 139,
+   "en": "Honestly, get a hold of yourself!",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 140,
+   "en": "Please pull yourself together.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 141,
+   "en": "It's no use, we can't hold out any longer!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 142,
+   "en": "Is this the end...!?",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 143,
+   "en": "Not here... not like this...!",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 144,
+   "en": "How long are we supposed to hold out!?",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 145,
+   "en": "Is it all over for us!?",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 146,
+   "en": "We're at our limit... What do we do...!",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 147,
+   "en": "ALARM MESSAGE: DAMAGE SPREADING.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 148,
+   "en": "It's no use! We can't hold out any longer!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 149,
+   "en": "We're at our limit! We can't take any more!",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 150,
+   "en": "We can no longer maintain our combat strength.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 151,
+   "en": "They're no big deal! Keep at it!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 152,
+   "en": "Pay them back for everything they've done!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 153,
+   "en": "We can handle them easily now. Please, take them down!",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 154,
+   "en": "They're no match for you now. Take them out!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 155,
+   "en": "Make them pay for everything so far!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 156,
+   "en": "It's all right now. Take them all down, okay?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 157,
+   "en": "DESTROY TARGETS IMMEDIATELY.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 158,
+   "en": "They're nothing special now! Please take them down!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 159,
+   "en": "We're fine now. Keep knocking them down for me.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 160,
+   "en": "Please destroy all of them.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 161,
+   "en": "Thank goodness, you're safe.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 162,
+   "en": "You made it. Good work.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 163,
+   "en": "Thank goodness, you're all right.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 164,
+   "en": "Thank goodness, you're safe.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 165,
+   "en": "Waah, thank goodness! You're okay!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 166,
+   "en": "Thank goodness... you're safe.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 167,
+   "en": "CRISIS AVERTED. READY.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 168,
+   "en": "Thank goodness, you're all right.",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 169,
+   "en": "You're safe. I'm glad.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 170,
+   "en": "It appears you are unharmed.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

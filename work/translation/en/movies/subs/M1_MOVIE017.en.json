@@ -1,0 +1,187 @@
+{
+ "movie": "M1_MOVIE017",
+ "cards": [
+  {
+   "id": 0,
+   "frames": [
+    19,
+    134
+   ],
+   "kind": "title",
+   "box": [
+    114,
+    199,
+    398,
+    250
+   ],
+   "lines": [
+    [
+     199,
+     223
+    ],
+    [
+     226,
+     250
+    ]
+   ],
+   "peak": 37,
+   "en": "— Ra Cailum Medical Crew\nAnna Stephanie —"
+  },
+  {
+   "id": 1,
+   "frames": [
+    182,
+    396
+   ],
+   "kind": "subtitle",
+   "box": [
+    124,
+    357,
+    390,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 297,
+   "en": "When we left the sea of stars and returned to Earth,\nwhat awaited us was the fierce fire of war."
+  },
+  {
+   "id": 2,
+   "frames": [
+    431,
+    574
+   ],
+   "kind": "subtitle",
+   "box": [
+    133,
+    357,
+    379,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 462,
+   "en": "Armed clashes were steadily\nlaying waste to the land."
+  },
+  {
+   "id": 3,
+   "frames": [
+    606,
+    761
+   ],
+   "kind": "subtitle",
+   "box": [
+    123,
+    357,
+    390,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 650,
+   "en": "Yet through it all, Miss Relena\nkept calling for peace."
+  },
+  {
+   "id": 4,
+   "frames": [
+    798,
+    1008
+   ],
+   "kind": "subtitle",
+   "box": [
+    108,
+    357,
+    404,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 842,
+   "en": "An age of peace may be a naive ideal.\nPerhaps there can be no order without force."
+  },
+  {
+   "id": 5,
+   "frames": [
+    1037,
+    1239
+   ],
+   "kind": "subtitle",
+   "box": [
+    106,
+    357,
+    407,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 1070,
+   "en": "Even so, I could believe that Miss Relena\nwould lead us into an age of peace."
+  },
+  {
+   "id": 6,
+   "frames": [
+    1293,
+    1456
+   ],
+   "kind": "subtitle",
+   "box": [
+    130,
+    357,
+    385,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 1307,
+   "en": "Everyone felt the same, and I think that's\nwhy they threw themselves into the fighting."
+  }
+ ]
+}

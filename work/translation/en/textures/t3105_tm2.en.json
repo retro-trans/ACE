@@ -1,0 +1,25 @@
+{
+ "name": "t3105.tm2",
+ "labels": [
+  {
+   "box": [
+    6,
+    445,
+    442,
+    464
+   ],
+   "en": "©SUNRISE  ©XEBEC / 1998 NADESICO Production Committee",
+   "align": "left"
+  },
+  {
+   "box": [
+    6,
+    464,
+    267,
+    482
+   ],
+   "en": "©SOTSU AGENCY / SUNRISE",
+   "align": "left"
+  }
+ ]
+}

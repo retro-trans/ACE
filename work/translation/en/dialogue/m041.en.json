@@ -1,0 +1,405 @@
+{
+ "mission": "041",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defeat enemy forces",
+   "speaker": "objective"
+  },
+  {
+   "id": 2,
+   "en": "---",
+   "speaker": "objective"
+  },
+  {
+   "id": 3,
+   "en": "Defeat the Psycho Gundam",
+   "speaker": "objective"
+  },
+  {
+   "id": 10,
+   "en": "Allied forces have begun storming the base.",
+   "speaker": "allied radio?"
+  },
+  {
+   "id": 11,
+   "en": "The assault is already under way.",
+   "speaker": "allied commander?"
+  },
+  {
+   "id": 12,
+   "en": "Whoever's in position, start securing the perimeter!",
+   "speaker": "allied commander?"
+  },
+  {
+   "id": 13,
+   "en": "Looks like our allies have taken the base.",
+   "speaker": "operator"
+  },
+  {
+   "id": 14,
+   "en": "They say they're going to blow the base up now.",
+   "speaker": "operator"
+  },
+  {
+   "id": 15,
+   "en": "Now if we can just deal with the rest of the enemy...",
+   "speaker": "operator"
+  },
+  {
+   "id": 16,
+   "en": "Heat signature confirmed on radar.",
+   "speaker": "operator"
+  },
+  {
+   "id": 17,
+   "en": "This machine...!?",
+   "speaker": "operator"
+  },
+  {
+   "id": 18,
+   "en": "You... who are you? You're the enemy, aren't you?",
+   "speaker": "Four Murasame"
+  },
+  {
+   "id": 19,
+   "en": "The Psycho Gundam!",
+   "speaker": "Kamille Bidan?"
+  },
+  {
+   "id": 20,
+   "en": "Chain explosions! The whole summit's about to blow!",
+   "speaker": "operator"
+  },
+  {
+   "id": 21,
+   "en": "",
+   "speaker": ""
+  },
+  {
+   "id": 22,
+   "en": "Wake up, Four!",
+   "speaker": "Kamille Bidan"
+  },
+  {
+   "id": 23,
+   "en": "It's me! Don't you know it's Kamille?",
+   "speaker": "Kamille Bidan"
+  },
+  {
+   "id": 24,
+   "en": "",
+   "speaker": ""
+  },
+  {
+   "id": 25,
+   "en": "Four, it's Kamille!",
+   "speaker": "Kamille Bidan"
+  },
+  {
+   "id": 26,
+   "en": "It's me, Kamille Bidan!",
+   "speaker": "Kamille Bidan"
+  },
+  {
+   "id": 27,
+   "en": "",
+   "speaker": ""
+  },
+  {
+   "id": 28,
+   "en": "Four, stop! Don't fight!",
+   "speaker": "Kamille Bidan"
+  },
+  {
+   "id": 29,
+   "en": "",
+   "speaker": ""
+  },
+  {
+   "id": 30,
+   "en": "Four, you mustn't fight!",
+   "speaker": "Kamille Bidan"
+  },
+  {
+   "id": 31,
+   "en": "",
+   "speaker": ""
+  },
+  {
+   "id": 32,
+   "en": "You can't be riding that thing.",
+   "speaker": "Kamille Bidan"
+  },
+  {
+   "id": 33,
+   "en": "You never have to get in it again, Four.",
+   "speaker": "Kamille Bidan"
+  },
+  {
+   "id": 34,
+   "en": "",
+   "speaker": ""
+  },
+  {
+   "id": 35,
+   "en": "That thing is a devil's machine! Stop!",
+   "speaker": "Kamille Bidan"
+  },
+  {
+   "id": 36,
+   "en": "Aaaaaaagh!",
+   "speaker": "Four Murasame"
+  },
+  {
+   "id": 37,
+   "en": "This isn't real, is it? This can't be real!",
+   "speaker": "Kamille Bidan"
+  },
+  {
+   "id": 38,
+   "en": "Answer me, Four!",
+   "speaker": "Kamille Bidan"
+  },
+  {
+   "id": 40,
+   "en": "Watch out for the gun batteries around you.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 41,
+   "en": "Watch out for the gun batteries around here!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 42,
+   "en": "Please watch out for the surrounding gun batteries.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 43,
+   "en": "Mind the gun batteries around you.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 44,
+   "en": "Look out for the gun batteries around you!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 45,
+   "en": "Watch out for the gun batteries nearby, okay?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 46,
+   "en": "CAUTION: GUN BATTERIES IN AREA.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 47,
+   "en": "Please be careful of the gun batteries nearby!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 48,
+   "en": "Keep an eye on the gun batteries around you, now.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 49,
+   "en": "Please watch out for the surrounding gun batteries.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 50,
+   "en": "That pilot... an Enhanced Human?",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 51,
+   "en": "That pilot... an Enhanced Human!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 52,
+   "en": "That pilot is an Enhanced Human.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 53,
+   "en": "So that pilot's an Enhanced Human.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 54,
+   "en": "That pilot's one of those Enhanced Humans!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 55,
+   "en": "That pilot is an Enhanced Human.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 56,
+   "en": "ENEMY PILOT IDENTIFIED AS ENHANCED HUMAN. CAUTION.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 57,
+   "en": "That pilot is an Enhanced Human!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 58,
+   "en": "That pilot's an Enhanced Human.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 59,
+   "en": "The enemy pilot is an Enhanced Human.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 60,
+   "en": "They must have tremendous power.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 61,
+   "en": "They're dangerous. Don't underestimate them!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 62,
+   "en": "They have very high abilities. Please be careful.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 63,
+   "en": "I can feel an immensely powerful force.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 64,
+   "en": "They've gotta be crazy strong!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 65,
+   "en": "They must have tremendous power.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 67,
+   "en": "They have incredible power. Be careful!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 68,
+   "en": "I can sense a terrifying power. Be careful.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 69,
+   "en": "Please be careful.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 70,
+   "en": "That was a terrifying enemy.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 71,
+   "en": "That was a terrifyingly strong enemy...",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 72,
+   "en": "That was a terrifying enemy.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 73,
+   "en": "That was a truly terrifying enemy.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 74,
+   "en": "What a totally insane enemy that was!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 75,
+   "en": "That was a really strong enemy, wasn't it?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 76,
+   "en": "CRISIS AVERTED.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 77,
+   "en": "That was a terrifying enemy, wasn't it?",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 78,
+   "en": "What a terrifying enemy that was...",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 79,
+   "en": "Enemy destruction confirmed.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 80,
+   "en": "So why do I feel so sad...?",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 81,
+   "en": "We were lucky to survive that...",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 82,
+   "en": "I'm glad you're safe.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 83,
+   "en": "There was something sad about that pilot...",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 84,
+   "en": "But I kinda feel sorry for them...",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 85,
+   "en": "That kid in the cockpit...",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 87,
+   "en": "But somehow, it makes me sad...",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 88,
+   "en": "That pilot was a sad soul...",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 89,
+   "en": "Good work.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

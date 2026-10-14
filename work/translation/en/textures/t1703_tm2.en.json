@@ -1,0 +1,34 @@
+{
+ "name": "t1703.tm2",
+ "labels": [
+  {
+   "box": [
+    4,
+    5,
+    108,
+    25
+   ],
+   "en": "Stage Info",
+   "align": "left"
+  },
+  {
+   "box": [
+    48,
+    42,
+    125,
+    58
+   ],
+   "en": "Secret"
+  },
+  {
+   "box": [
+    3,
+    99,
+    105,
+    119
+   ],
+   "en": "Unit Info",
+   "align": "left"
+  }
+ ]
+}

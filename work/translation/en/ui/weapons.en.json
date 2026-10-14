@@ -1,0 +1,917 @@
+{
+ "group": "weapons",
+ "font": "f005",
+ "where": [
+  "\\target\\menu\\fmg\\f252.fmg@0x0",
+  "\\target\\menu\\bnd\\mode_data\\MenuCampaign.csc:\\target\\menu\\fmg\\f252.fmg@0x670800",
+  "\\target\\menu\\bnd\\mode_data\\MenuFree.csc:\\target\\menu\\fmg\\f252.fmg@0x60d000",
+  "\\target\\menu\\bnd\\mode_data\\MenuMulti.csc:\\target\\menu\\fmg\\f252.fmg@0x453800"
+ ],
+ "limits": {
+  "lines": 1,
+  "width": 174,
+  "bytes": 26
+ },
+ "rows": [
+  {
+   "id": 101,
+   "en": "Beam Saber"
+  },
+  {
+   "id": 102,
+   "en": "Beam Rifle"
+  },
+  {
+   "id": 103,
+   "en": "Hyper Mega Launcher"
+  },
+  {
+   "id": 104,
+   "en": "Head Vulcan"
+  },
+  {
+   "id": 105,
+   "en": "Grenade Launcher"
+  },
+  {
+   "id": 106,
+   "en": "Wave Rider Transform"
+  },
+  {
+   "id": 121,
+   "en": "Beam Saber"
+  },
+  {
+   "id": 122,
+   "en": "Beam Rifle"
+  },
+  {
+   "id": 123,
+   "en": "Clay Bazooka"
+  },
+  {
+   "id": 124,
+   "en": "Head Vulcan"
+  },
+  {
+   "id": 125,
+   "en": "Mega Bazooka Launcher"
+  },
+  {
+   "id": 141,
+   "en": "Beam Saber"
+  },
+  {
+   "id": 142,
+   "en": "Beam Rifle"
+  },
+  {
+   "id": 143,
+   "en": "Claw Arm Punch"
+  },
+  {
+   "id": 144,
+   "en": "Diff. Mega Particle Cannon"
+  },
+  {
+   "id": 145,
+   "en": "Mobile Armor Transform"
+  },
+  {
+   "id": 161,
+   "en": "Beam Saber"
+  },
+  {
+   "id": 162,
+   "en": "Beam Gun"
+  },
+  {
+   "id": 163,
+   "en": "Double Beam Gun"
+  },
+  {
+   "id": 164,
+   "en": "Funnel"
+  },
+  {
+   "id": 165,
+   "en": "Funnel All Launch"
+  },
+  {
+   "id": 301,
+   "en": "Beam Saber"
+  },
+  {
+   "id": 302,
+   "en": "Buster Rifle"
+  },
+  {
+   "id": 303,
+   "en": "Shield Attack"
+  },
+  {
+   "id": 304,
+   "en": "Head Vulcan"
+  },
+  {
+   "id": 305,
+   "en": "Machine Cannon"
+  },
+  {
+   "id": 306,
+   "en": "Bird Mode Transform"
+  },
+  {
+   "id": 321,
+   "en": "Beam Scythe"
+  },
+  {
+   "id": 322,
+   "en": "Buster Shield"
+  },
+  {
+   "id": 323,
+   "en": "Machine Cannon"
+  },
+  {
+   "id": 324,
+   "en": "Head Vulcan"
+  },
+  {
+   "id": 325,
+   "en": "Hyper Jammer"
+  },
+  {
+   "id": 341,
+   "en": "Army Knife"
+  },
+  {
+   "id": 342,
+   "en": "Beam Gatling"
+  },
+  {
+   "id": 343,
+   "en": "Micro Missile"
+  },
+  {
+   "id": 344,
+   "en": "Gatling"
+  },
+  {
+   "id": 345,
+   "en": "Homing Missile"
+  },
+  {
+   "id": 346,
+   "en": "Full Open Attack"
+  },
+  {
+   "id": 361,
+   "en": "Heat Shotel"
+  },
+  {
+   "id": 362,
+   "en": "Heat Shotel Throw"
+  },
+  {
+   "id": 363,
+   "en": "Shield Flash"
+  },
+  {
+   "id": 364,
+   "en": "Head Vulcan"
+  },
+  {
+   "id": 365,
+   "en": "Homing Missile"
+  },
+  {
+   "id": 366,
+   "en": "Cross Crusher"
+  },
+  {
+   "id": 381,
+   "en": "Beam Glaive"
+  },
+  {
+   "id": 382,
+   "en": "Dragon Fang"
+  },
+  {
+   "id": 383,
+   "en": "Flamethrower"
+  },
+  {
+   "id": 384,
+   "en": "Head Vulcan"
+  },
+  {
+   "id": 385,
+   "en": "Beam Glaive Cont. Attack"
+  },
+  {
+   "id": 386,
+   "en": "Beam Glaive Spin Slash"
+  },
+  {
+   "id": 401,
+   "en": "Beam Saber"
+  },
+  {
+   "id": 402,
+   "en": "Dober Gun"
+  },
+  {
+   "id": 403,
+   "en": "Dober Gun (Charge)"
+  },
+  {
+   "id": 421,
+   "en": "Beam Sword"
+  },
+  {
+   "id": 422,
+   "en": "Heat Rod"
+  },
+  {
+   "id": 423,
+   "en": "Heat Rod (Full Power)"
+  },
+  {
+   "id": 424,
+   "en": "Bird Mode Transform"
+  },
+  {
+   "id": 501,
+   "en": "Beam Saber"
+  },
+  {
+   "id": 502,
+   "en": "Beam Rifle"
+  },
+  {
+   "id": 503,
+   "en": "New Hyper Bazooka"
+  },
+  {
+   "id": 504,
+   "en": "Fin Funnel"
+  },
+  {
+   "id": 505,
+   "en": "Dummy Balloon"
+  },
+  {
+   "id": 506,
+   "en": "I-Field"
+  },
+  {
+   "id": 521,
+   "en": "Beam Saber"
+  },
+  {
+   "id": 522,
+   "en": "Beam Shot Rifle"
+  },
+  {
+   "id": 523,
+   "en": "Shield Missile"
+  },
+  {
+   "id": 524,
+   "en": "Funnel"
+  },
+  {
+   "id": 525,
+   "en": "Dummy Balloon"
+  },
+  {
+   "id": 526,
+   "en": "Diff. Mega Particle Cannon"
+  },
+  {
+   "id": 601,
+   "en": "Aura Sword"
+  },
+  {
+   "id": 602,
+   "en": "Aura Shot"
+  },
+  {
+   "id": 603,
+   "en": "Dunbine Kick"
+  },
+  {
+   "id": 604,
+   "en": "Wire Claw"
+  },
+  {
+   "id": 605,
+   "en": "Aura Barrier"
+  },
+  {
+   "id": 621,
+   "en": "Aura Beam Sword"
+  },
+  {
+   "id": 622,
+   "en": "Aura Sword Rifle"
+  },
+  {
+   "id": 623,
+   "en": "Aura Cannon"
+  },
+  {
+   "id": 624,
+   "en": "Wire Claw"
+  },
+  {
+   "id": 625,
+   "en": "Aura Barrier"
+  },
+  {
+   "id": 626,
+   "en": "Wing Caliber Transform"
+  },
+  {
+   "id": 641,
+   "en": "Aura Sword"
+  },
+  {
+   "id": 642,
+   "en": "Aura Vulcan"
+  },
+  {
+   "id": 643,
+   "en": "Flare Bomb"
+  },
+  {
+   "id": 644,
+   "en": "Wire Claw"
+  },
+  {
+   "id": 645,
+   "en": "Aura Barrier"
+  },
+  {
+   "id": 646,
+   "en": "Aura Power"
+  },
+  {
+   "id": 701,
+   "en": "Saber"
+  },
+  {
+   "id": 702,
+   "en": "Power Launcher"
+  },
+  {
+   "id": 703,
+   "en": "Shield Attack"
+  },
+  {
+   "id": 704,
+   "en": "S-Mine"
+  },
+  {
+   "id": 705,
+   "en": "Thruster Unit"
+  },
+  {
+   "id": 706,
+   "en": "Beam Coating"
+  },
+  {
+   "id": 721,
+   "en": "Saber"
+  },
+  {
+   "id": 722,
+   "en": "Buster Launcher"
+  },
+  {
+   "id": 723,
+   "en": "Power Launcher"
+  },
+  {
+   "id": 724,
+   "en": "S-Mine"
+  },
+  {
+   "id": 725,
+   "en": "Prowler Transform"
+  },
+  {
+   "id": 726,
+   "en": "Thruster Unit"
+  },
+  {
+   "id": 727,
+   "en": "Beam Coating"
+  },
+  {
+   "id": 741,
+   "en": "Scythe"
+  },
+  {
+   "id": 742,
+   "en": "Buster Launcher"
+  },
+  {
+   "id": 743,
+   "en": "Round Binder"
+  },
+  {
+   "id": 744,
+   "en": "Power Launcher"
+  },
+  {
+   "id": 745,
+   "en": "Bio Relation"
+  },
+  {
+   "id": 746,
+   "en": "Thruster Unit"
+  },
+  {
+   "id": 747,
+   "en": "Beam Coating"
+  },
+  {
+   "id": 761,
+   "en": "Saber"
+  },
+  {
+   "id": 762,
+   "en": "Power Launcher"
+  },
+  {
+   "id": 763,
+   "en": "Circus Binder"
+  },
+  {
+   "id": 764,
+   "en": "Reverse Bomber"
+  },
+  {
+   "id": 765,
+   "en": "Energy Bomber"
+  },
+  {
+   "id": 766,
+   "en": "Full Open Launcher"
+  },
+  {
+   "id": 767,
+   "en": "Thruster Unit"
+  },
+  {
+   "id": 768,
+   "en": "Beam Coating"
+  },
+  {
+   "id": 781,
+   "en": "Saber"
+  },
+  {
+   "id": 782,
+   "en": "Power Launcher"
+  },
+  {
+   "id": 783,
+   "en": "Double Power Launcher"
+  },
+  {
+   "id": 784,
+   "en": "Thruster Unit"
+  },
+  {
+   "id": 785,
+   "en": "Beam Coating"
+  },
+  {
+   "id": 801,
+   "en": "Saber"
+  },
+  {
+   "id": 802,
+   "en": "Buster Launcher"
+  },
+  {
+   "id": 803,
+   "en": "Power Launcher"
+  },
+  {
+   "id": 804,
+   "en": "Land Booster Transform"
+  },
+  {
+   "id": 805,
+   "en": "Thruster Unit"
+  },
+  {
+   "id": 806,
+   "en": "Beam Coating"
+  },
+  {
+   "id": 1001,
+   "en": "Laser Sword"
+  },
+  {
+   "id": 1002,
+   "en": "Hand Railgun"
+  },
+  {
+   "id": 1003,
+   "en": "5-Tube Missile Pod"
+  },
+  {
+   "id": 1004,
+   "en": "Spinning Laser Sword"
+  },
+  {
+   "id": 1005,
+   "en": "Shoulder Bomb"
+  },
+  {
+   "id": 1006,
+   "en": "Tackle"
+  },
+  {
+   "id": 1007,
+   "en": "Hand Railgun"
+  },
+  {
+   "id": 1008,
+   "en": "Railcannon"
+  },
+  {
+   "id": 1009,
+   "en": "Double Railcannon"
+  },
+  {
+   "id": 1010,
+   "en": "Shoulder Bomb"
+  },
+  {
+   "id": 1011,
+   "en": "Cavalier"
+  },
+  {
+   "id": 1012,
+   "en": "Glider Unit"
+  },
+  {
+   "id": 1013,
+   "en": "Armor Unit"
+  },
+  {
+   "id": 1021,
+   "en": "Punch"
+  },
+  {
+   "id": 1022,
+   "en": "2-Barrel Railgun"
+  },
+  {
+   "id": 1023,
+   "en": "Hand Railgun"
+  },
+  {
+   "id": 1024,
+   "en": "10-Tube Missile Pod"
+  },
+  {
+   "id": 1025,
+   "en": "2-Barrel Machine Guns"
+  },
+  {
+   "id": 1026,
+   "en": "280mm Railcannon"
+  },
+  {
+   "id": 1027,
+   "en": "Full Open Shot"
+  },
+  {
+   "id": 1028,
+   "en": "Glider Unit"
+  },
+  {
+   "id": 1041,
+   "en": "Assault Knife"
+  },
+  {
+   "id": 1042,
+   "en": "Hand Railgun"
+  },
+  {
+   "id": 1043,
+   "en": "3-Barrel 105mm Cannon"
+  },
+  {
+   "id": 1044,
+   "en": "Dual Missile"
+  },
+  {
+   "id": 1045,
+   "en": "Jammer"
+  },
+  {
+   "id": 1046,
+   "en": "Glider Unit"
+  },
+  {
+   "id": 1061,
+   "en": "Blue Dragon Sword"
+  },
+  {
+   "id": 1062,
+   "en": "Machine Cannon"
+  },
+  {
+   "id": 1063,
+   "en": "100-Tube Launcher"
+  },
+  {
+   "id": 1064,
+   "en": "Chest 12-Barrel Vulcan"
+  },
+  {
+   "id": 1065,
+   "en": "2-Barrel Missile Pod"
+  },
+  {
+   "id": 1066,
+   "en": "Large Cruise Missile"
+  },
+  {
+   "id": 1101,
+   "en": "Tackle"
+  },
+  {
+   "id": 1102,
+   "en": "Hand Cannon"
+  },
+  {
+   "id": 1103,
+   "en": "Chest Vulcan"
+  },
+  {
+   "id": 1104,
+   "en": "Tail Binder"
+  },
+  {
+   "id": 1105,
+   "en": "Distortion Field"
+  },
+  {
+   "id": 1106,
+   "en": "Gekigan Flare"
+  },
+  {
+   "id": 1121,
+   "en": "Punch"
+  },
+  {
+   "id": 1122,
+   "en": "Rapid Rifle"
+  },
+  {
+   "id": 1123,
+   "en": "Large Railcannon"
+  },
+  {
+   "id": 1124,
+   "en": "Distortion Attack"
+  },
+  {
+   "id": 1125,
+   "en": "Distortion Field"
+  },
+  {
+   "id": 1126,
+   "en": "Roller Dash"
+  },
+  {
+   "id": 1141,
+   "en": "Claw"
+  },
+  {
+   "id": 1142,
+   "en": "Boson Jump Claw"
+  },
+  {
+   "id": 1143,
+   "en": "Double Claw"
+  },
+  {
+   "id": 1144,
+   "en": "Spinning Claw"
+  },
+  {
+   "id": 1145,
+   "en": "Distortion Field"
+  },
+  {
+   "id": 1146,
+   "en": "Roller Dash"
+  },
+  {
+   "id": 1147,
+   "en": "Boson Jump"
+  },
+  {
+   "id": 1201,
+   "en": "Brain Bar (Melee)"
+  },
+  {
+   "id": 1202,
+   "en": "Brain Bar (Range)"
+  },
+  {
+   "id": 1203,
+   "en": "Brain Blade"
+  },
+  {
+   "id": 1204,
+   "en": "Chakra Shield"
+  },
+  {
+   "id": 1205,
+   "en": "Chakra Flash"
+  },
+  {
+   "id": 1206,
+   "en": "Mood"
+  },
+  {
+   "id": 1207,
+   "en": "Vital Jump"
+  },
+  {
+   "id": 1221,
+   "en": "Brain Bar (Melee)"
+  },
+  {
+   "id": 1222,
+   "en": "Brain Bar (Range)"
+  },
+  {
+   "id": 1223,
+   "en": "Shooter"
+  },
+  {
+   "id": 1224,
+   "en": "Chakra Shield"
+  },
+  {
+   "id": 1225,
+   "en": "Chakra Flash"
+  },
+  {
+   "id": 1226,
+   "en": "Mood"
+  },
+  {
+   "id": 1227,
+   "en": "Vital Jump"
+  },
+  {
+   "id": 1241,
+   "en": "Brain Bar (Melee)"
+  },
+  {
+   "id": 1242,
+   "en": "Brain Bar (Range)"
+  },
+  {
+   "id": 1243,
+   "en": "Shooter"
+  },
+  {
+   "id": 1244,
+   "en": "Chakra Shield"
+  },
+  {
+   "id": 1245,
+   "en": "Chakra Flash"
+  },
+  {
+   "id": 1246,
+   "en": "Mood"
+  },
+  {
+   "id": 1247,
+   "en": "Vital Jump"
+  },
+  {
+   "id": 1261,
+   "en": "Fin"
+  },
+  {
+   "id": 1262,
+   "en": "Chakra Light"
+  },
+  {
+   "id": 1263,
+   "en": "Fin (Morphing)"
+  },
+  {
+   "id": 1264,
+   "en": "Chakra Light All Fire"
+  },
+  {
+   "id": 1265,
+   "en": "Chakra Shield"
+  },
+  {
+   "id": 1266,
+   "en": "Fin All Fire"
+  },
+  {
+   "id": 1267,
+   "en": "Mood"
+  },
+  {
+   "id": 1268,
+   "en": "Vital Jump"
+  },
+  {
+   "id": 1301,
+   "en": "Knuckle Shot"
+  },
+  {
+   "id": 1302,
+   "en": "Lasered Rifle"
+  },
+  {
+   "id": 1303,
+   "en": "V-MAX Attack"
+  },
+  {
+   "id": 1304,
+   "en": "Calf Missile"
+  },
+  {
+   "id": 1305,
+   "en": "ECM Chaff"
+  },
+  {
+   "id": 1306,
+   "en": "V-MAX Activate"
+  },
+  {
+   "id": 1321,
+   "en": "Arm Horn"
+  },
+  {
+   "id": 1322,
+   "en": "Lasered Rifle"
+  },
+  {
+   "id": 1323,
+   "en": "V-MAX Attack"
+  },
+  {
+   "id": 1324,
+   "en": "V-MAX Activate"
+  },
+  {
+   "id": 1401,
+   "en": "Plasma Stake"
+  },
+  {
+   "id": 1402,
+   "en": "M950 Machine Gun"
+  },
+  {
+   "id": 1403,
+   "en": "Split Missile"
+  },
+  {
+   "id": 1501,
+   "en": "Energy Blade"
+  },
+  {
+   "id": 1502,
+   "en": "6-Barrel Gatling Cannon"
+  },
+  {
+   "id": 1503,
+   "en": "4-Tube Missile Pod"
+  },
+  {
+   "id": 1504,
+   "en": "Shotgun"
+  },
+  {
+   "id": 1505,
+   "en": "Electron Sniper Rifle"
+  },
+  {
+   "id": 1506,
+   "en": "Glider Unit"
+  }
+ ]
+}

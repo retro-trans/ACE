@@ -1,0 +1,395 @@
+{
+ "mission": "009",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Destroy 3 satellites & foes",
+   "speaker": "System"
+  },
+  {
+   "id": 2,
+   "en": "---",
+   "speaker": "System"
+  },
+  {
+   "id": 3,
+   "en": "Defeat enemy forces",
+   "speaker": "System"
+  },
+  {
+   "id": 11,
+   "en": "Enemies are heading your way!",
+   "speaker": "?"
+  },
+  {
+   "id": 13,
+   "en": "Grados plans to use these satellites",
+   "speaker": "Sally Po?"
+  },
+  {
+   "id": 14,
+   "en": "to attack Earth's major cities.",
+   "speaker": "Sally Po?"
+  },
+  {
+   "id": 15,
+   "en": "We must stop them before they're ready, at all costs!",
+   "speaker": "Sally Po?"
+  },
+  {
+   "id": 17,
+   "en": "Enemy reinforcements confirmed.",
+   "speaker": "Peacemillion operator?"
+  },
+  {
+   "id": 18,
+   "en": "Half of all satellites destroyed.",
+   "speaker": "?"
+  },
+  {
+   "id": 19,
+   "en": "The enemy's preparations are moving ahead. Hurry!",
+   "speaker": "?"
+  },
+  {
+   "id": 22,
+   "en": "All units, hurry and destroy the satellites!",
+   "speaker": "Sally Po?"
+  },
+  {
+   "id": 23,
+   "en": "Just what I'd expect from a Ra Cailum pilot.",
+   "speaker": "Sally Po?"
+  },
+  {
+   "id": 24,
+   "en": "Amazing, and in such a short time...!",
+   "speaker": "Sally Po?"
+  },
+  {
+   "id": 31,
+   "en": "That concludes the operation.",
+   "speaker": "Sally Po?"
+  },
+  {
+   "id": 32,
+   "en": "Wait! New enemy contacts confirmed!",
+   "speaker": "Peacemillion operator?"
+  },
+  {
+   "id": 33,
+   "en": "They're identified as Titans!",
+   "speaker": "Peacemillion operator?"
+  },
+  {
+   "id": 34,
+   "en": "What did you say!?",
+   "speaker": "Sally Po?"
+  },
+  {
+   "id": 35,
+   "en": "Looks like they want a fight. All units, engage!",
+   "speaker": "Sally Po?"
+  },
+  {
+   "id": 41,
+   "en": "I'm the one entrusted with the Peacemillion,",
+   "speaker": "Sally Po"
+  },
+  {
+   "id": 42,
+   "en": "Major Sally Po.",
+   "speaker": "Sally Po"
+  },
+  {
+   "id": 45,
+   "en": "I hope this goes well for both of us.",
+   "speaker": "Sally Po"
+  },
+  {
+   "id": 46,
+   "en": "Likewise, we're counting on you.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 47,
+   "en": "All units, destroy the satellites in your areas!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 51,
+   "en": "Please stop this, Gale!",
+   "speaker": "Eiji Asuka"
+  },
+  {
+   "id": 52,
+   "en": "Please listen to what I have to say!",
+   "speaker": "Eiji Asuka"
+  },
+  {
+   "id": 53,
+   "en": "Goodbye... Gale.",
+   "speaker": "Eiji Asuka"
+  },
+  {
+   "id": 56,
+   "en": "All enemies confirmed destroyed.",
+   "speaker": "Peacemillion operator?"
+  },
+  {
+   "id": 57,
+   "en": "No... there are still Grados forces out there!",
+   "speaker": "?"
+  },
+  {
+   "id": 60,
+   "en": "We owe this success to all of you.",
+   "speaker": "Sally Po"
+  },
+  {
+   "id": 61,
+   "en": "I look forward to meeting you again.",
+   "speaker": "Sally Po"
+  },
+  {
+   "id": 71,
+   "en": "I'll send the target location data over to you.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 72,
+   "en": "Target location data has been transferred.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 73,
+   "en": "I've sent the target location data to you.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 74,
+   "en": "I've sent you the target location data.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 75,
+   "en": "I sent you where the targets are, so...",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 76,
+   "en": "I've sent you the target location data.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 77,
+   "en": "DISPLAYING TARGET LOCATION DATA.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 78,
+   "en": "I've transferred the target location data to you!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 79,
+   "en": "I sent the target location data your way.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 80,
+   "en": "Transferring target location data to your monitor.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 81,
+   "en": "Follow the display and head for them, okay?",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 82,
+   "en": "Follow the display and move in to destroy them.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 83,
+   "en": "Please use it to keep track of the targets.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 84,
+   "en": "Check the display and head for the targets.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 85,
+   "en": "take a look and smash 'em one after another!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 86,
+   "en": "Follow the display and go take them down, okay?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 87,
+   "en": "PROCEED AT ONCE. DESTROY TARGETS.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 88,
+   "en": "Please follow the display and head for the targets!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 89,
+   "en": "Check the display and go take them out for me.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 90,
+   "en": "Please follow the display and proceed to destroy the targets.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 91,
+   "en": "It's your first space battle. Take it carefully, okay?",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 92,
+   "en": "This is your first space battle, so don't get careless.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 93,
+   "en": "I'll be praying for your success in space combat.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 94,
+   "en": "It's your first space battle. Be careful.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 95,
+   "en": "It's space combat, but you'll be fine, right? I'm rooting for you!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 96,
+   "en": "I know it's your first space battle, but do your best.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 98,
+   "en": "It's your first space battle! Please be careful!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 99,
+   "en": "Your first space battle, huh? I'm counting on you to be careful.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 101,
+   "en": "This one's not like the others. Be careful!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 102,
+   "en": "This one's strong!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 103,
+   "en": "Don't underestimate this enemy's capabilities.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 104,
+   "en": "What...? This enemy's strong. Be careful.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 105,
+   "en": "Ugh, no way! This one's strong!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 106,
+   "en": "The enemy is strong. Be careful.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 107,
+   "en": "ALARM MESSAGE: DANGER. EVADE.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 108,
+   "en": "This enemy is strong! Please be careful!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 109,
+   "en": "That enemy's performance is something else. Watch out.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 110,
+   "en": "The target is high-performance. Please stay alert.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 111,
+   "en": "You did it! That was amazing!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 112,
+   "en": "Splendid piloting.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 113,
+   "en": "Beautifully done. Just what I'd expect.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 114,
+   "en": "Amazing. That's beyond what I expected.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 115,
+   "en": "Eeek! Wait, that was amazing!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 116,
+   "en": "Amazing. Now you're showing what you can really do.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 117,
+   "en": "CRISIS AVERTED.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 118,
+   "en": "What amazing skill! I'm so impressed!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 119,
+   "en": "Well, isn't that impressive. Keep it up.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 120,
+   "en": "Just what I'd expect from an ace pilot.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

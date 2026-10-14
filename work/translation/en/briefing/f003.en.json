@@ -1,0 +1,101 @@
+{
+ "table": "003",
+ "dialogue_file": "work/translation/en/dialogue/m003.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Retake Classified Cargo",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Destroy the targets",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Obtain an Organic Plate",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "Our advance units report <pic(0)>the <cs(3)>enemy raiding force<ce()> has split up and is fleeing.",
+   "speaker": "? (Bright Noa or Noin)"
+  },
+  {
+   "id": 101,
+   "en": "A short while ago, we picked up the trail of <mk(25,-25,1,1)><ar(0,1,1,50)>one of those units.",
+   "speaker": "? (Bright Noa or Noin)"
+  },
+  {
+   "id": 102,
+   "en": "<mk(-25,25,1,0)><ar(0,1,0,50)>We'll now rush to <pic(1)>the <cs(3)>site<ce()> and conduct an operation to retake the classified material.",
+   "speaker": "? (Bright Noa or Noin)"
+  },
+  {
+   "id": 103,
+   "en": "I know you're uneasy going into battle with so many wounded aboard, but steel yourselves.",
+   "speaker": "? (Bright Noa or Noin)"
+  },
+  {
+   "id": 104,
+   "en": "We also recovered another <pic(2)><cs(3)>new model<ce()> from the UCE base.",
+   "speaker": "? (Bright Noa or Noin)"
+  },
+  {
+   "id": 105,
+   "en": "It's untested even in drills, but should help in the battles ahead. Take care of it.",
+   "speaker": "? (Bright Noa or Noin)"
+  },
+  {
+   "id": 200,
+   "en": "It seems the Poseidal Army's aim is to sell the classified material to other factions.",
+   "speaker": "Dermail?"
+  },
+  {
+   "id": 201,
+   "en": "Perhaps they've given up on taking Earth. They've sunk to mere warmongering, it seems.",
+   "speaker": "Dermail?"
+  },
+  {
+   "id": 202,
+   "en": "That cursed Lady Poseidal... We must hurry and recapture it.",
+   "speaker": "Dermail?"
+  },
+  {
+   "id": 203,
+   "en": "To deal with this, it was decided to reorganize <cs(1)>Londo Bell<ce()> as a dedicated pursuit unit.",
+   "speaker": "Dermail?"
+  },
+  {
+   "id": 204,
+   "en": "This mission calls for great strength, so each body of our UCE has lent us forces.",
+   "speaker": "Dermail?"
+  },
+  {
+   "id": 205,
+   "en": "Four ships in all: yours, the <cs(1)>Nadesico B<ce()>, the <cs(1)>Gran Garan<ce()> and the <cs(1)>Peacemillion<ce()>.",
+   "speaker": "Dermail?"
+  },
+  {
+   "id": 206,
+   "en": "They are already on the move. I want you to proceed in coordination with them.",
+   "speaker": "Dermail?"
+  },
+  {
+   "id": 207,
+   "en": "Gather the scattered units' personnel as you go, and carry out your mission flexibly.",
+   "speaker": "Dermail?"
+  },
+  {
+   "id": 300,
+   "en": "So you're just a ragtag unit after all. It seems I was a fool to expect anything of you.",
+   "speaker": "Dermail?"
+  }
+ ]
+}

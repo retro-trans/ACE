@@ -1,0 +1,187 @@
+{
+ "movie": "M1_MOVIE006",
+ "cards": [
+  {
+   "id": 0,
+   "frames": [
+    183,
+    298
+   ],
+   "kind": "subtitle",
+   "box": [
+    123,
+    357,
+    419,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 211,
+   "en": "The ship was fired up, determined to see\nthe pursuit mission through, but—"
+  },
+  {
+   "id": 1,
+   "frames": [
+    321,
+    457
+   ],
+   "kind": "subtitle",
+   "box": [
+    134,
+    357,
+    379,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 387,
+   "en": "all I felt was unease,\neven though I had always loved space."
+  },
+  {
+   "id": 2,
+   "frames": [
+    494,
+    649
+   ],
+   "kind": "subtitle",
+   "box": [
+    107,
+    357,
+    407,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 603,
+   "en": "Still, I wanted badly to go.\nNot out of duty as a soldier, but—"
+  },
+  {
+   "id": 3,
+   "frames": [
+    672,
+    845
+   ],
+   "kind": "subtitle",
+   "box": [
+    144,
+    357,
+    370,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 680,
+   "en": "for the man I met in Antarctica... Zechs.\nI wanted to stop him."
+  },
+  {
+   "id": 4,
+   "frames": [
+    869,
+    985
+   ],
+   "kind": "subtitle",
+   "box": [
+    123,
+    357,
+    390,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 960,
+   "en": "He is always driven by his convictions.\nI knew stopping him would be difficult."
+  },
+  {
+   "id": 5,
+   "frames": [
+    1008,
+    1174
+   ],
+   "kind": "subtitle",
+   "box": [
+    126,
+    357,
+    387,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 1038,
+   "en": "Even so, I was prepared to do anything\nif it meant stopping him."
+  },
+  {
+   "id": 6,
+   "frames": [
+    19,
+    134
+   ],
+   "kind": "title",
+   "box": [
+    114,
+    198,
+    400,
+    250
+   ],
+   "lines": [
+    [
+     198,
+     224
+    ],
+    [
+     225,
+     250
+    ]
+   ],
+   "peak": 76,
+   "en": "— Ra Cailum Operations Staff Officer\nLucrezia Noin —"
+  }
+ ]
+}

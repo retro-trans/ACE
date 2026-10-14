@@ -1,0 +1,71 @@
+{
+ "table": "002",
+ "dialogue_file": "work/translation/en/dialogue/m002.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "UCE Base Defense",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Defeat the Desks Custom",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "---",
+   "speaker": "-"
+  },
+  {
+   "id": 200,
+   "en": "This is <cs(1)>UCE<ce()> HQ, Dermail speaking. I've already received the report on this incident.",
+   "speaker": "Dermail"
+  },
+  {
+   "id": 201,
+   "en": "The <cs(1)>Poseidal Army<ce()> is from Pentagona and has lately invaded the Earth Sphere for spoils.",
+   "speaker": "Dermail"
+  },
+  {
+   "id": 202,
+   "en": "We've long had our eye on them, but I never thought they'd target a place like this...",
+   "speaker": "Dermail"
+  },
+  {
+   "id": 203,
+   "en": "I want you of the <cs(1)>Ra Cailum<ce()> to take up the pursuit mission at once.",
+   "speaker": "Dermail"
+  },
+  {
+   "id": 204,
+   "en": "Keep the base's survivors aboard your ship under protection until things settle down.",
+   "speaker": "Dermail"
+  },
+  {
+   "id": 205,
+   "en": "Put civilians to work if useful. Top priority: recover the stolen classified material.",
+   "speaker": "Dermail"
+  },
+  {
+   "id": 206,
+   "en": "Whatever it takes, I expect a swift deployment.",
+   "speaker": "Dermail"
+  },
+  {
+   "id": 300,
+   "en": "So you're just a ragtag unit after all. It seems I was a fool to expect anything of you.",
+   "speaker": "Dermail"
+  }
+ ]
+}

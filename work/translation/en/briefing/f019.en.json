@@ -1,0 +1,106 @@
+{
+ "table": "019",
+ "dialogue_file": "work/translation/en/dialogue/m019.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Infiltrate Mining Planet",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Reach the destination",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "Time limit exceeded",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Defeat all Bat-Shu units",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "The investigation team pursuing Poseidal seems to have picked up the E2's trail.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 101,
+   "en": "The site is the mining planet <pic(0)><cs(3)>Palata Star<ce()>, an abandoned planet once owned by Poseidal.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 102,
+   "en": "<mk(37.5,-37.5,1,1,100)><ar(0,1,1,150)>A suspicious transport shuttle was seen entering. It seems to be in contact with outside.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 103,
+   "en": "If they're stopping somewhere like this, they may be dealing with another faction...",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 104,
+   "en": "The investigation team infiltrated the planet ahead of us, and we've lost contact since.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 105,
+   "en": "In light of this, we will now carry out a mission to infiltrate <mk(-50,50,1,0,150)><ar(0,1,0,150)>Palata Star.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 106,
+   "en": "Make recovering the E2 your top priority, and adapt to the situation as you go.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 200,
+   "en": "I knew there were radical civilians in the colonies who took an <cs(1)>anti-UCE<ce()> stance.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 201,
+   "en": "But I never imagined they'd get mixed up in this E2 affair...",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 202,
+   "en": "No doubt the trigger was the UCE starting full-scale preparations to advance into space.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 203,
+   "en": "If Earth-colony relations get any worse, innocent civilians will be caught up in it.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 204,
+   "en": "I'd say it was fortunate we were able to stop them this time.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 205,
+   "en": "My call: I'd rather not report this upstairs. Getting the E2 back will settle it all.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 206,
+   "en": "The remaining E2s are the two held by Giganos and White Fang.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 207,
+   "en": "From here on, we'll have to deal with things swiftly... Keep that in mind.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 300,
+   "en": "You went down at a time this critical!? Pull yourself together!",
+   "speaker": "Commanding officer?"
+  }
+ ]
+}

@@ -1,0 +1,162 @@
+{
+ "movie": "M1_MOVIE018",
+ "cards": [
+  {
+   "id": 5,
+   "frames": [
+    19,
+    134
+   ],
+   "kind": "title",
+   "box": [
+    114,
+    198,
+    400,
+    250
+   ],
+   "lines": [
+    [
+     198,
+     224
+    ],
+    [
+     225,
+     250
+    ]
+   ],
+   "peak": 76,
+   "en": "— Queen of the Kingdom of Na\nCiela Lapana —",
+   "manual": true
+  },
+  {
+   "id": 0,
+   "frames": [
+    183,
+    308
+   ],
+   "kind": "subtitle",
+   "box": [
+    121,
+    357,
+    392,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 297,
+   "en": "Drake vanished,\nand my mission came to an end, but—"
+  },
+  {
+   "id": 1,
+   "frames": [
+    340,
+    438
+   ],
+   "kind": "subtitle",
+   "box": [
+    150,
+    357,
+    364,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 354,
+   "en": "I still had a role\nleft to play."
+  },
+  {
+   "id": 2,
+   "frames": [
+    478,
+    617
+   ],
+   "kind": "subtitle",
+   "box": [
+    124,
+    357,
+    389,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 486,
+   "en": "Unless the Surface finds its way to peace,\nall that I have done will mean nothing."
+  },
+  {
+   "id": 3,
+   "frames": [
+    640,
+    795
+   ],
+   "kind": "subtitle",
+   "box": [
+    98,
+    357,
+    414,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 654,
+   "en": "That is why the Gran Garan fought on,\nside by side with them."
+  },
+  {
+   "id": 4,
+   "frames": [
+    845,
+    993
+   ],
+   "kind": "subtitle",
+   "box": [
+    104,
+    357,
+    410,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 861,
+   "en": "They are not the sort to cause such an incident.\nEven now, I still believe that."
+  }
+ ]
+}

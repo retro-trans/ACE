@@ -1,0 +1,239 @@
+{
+ "movie": "M1_MOVIE019",
+ "cards": [
+  {
+   "id": 0,
+   "frames": [
+    19,
+    134
+   ],
+   "kind": "title",
+   "box": [
+    114,
+    199,
+    455,
+    249
+   ],
+   "lines": [
+    [
+     199,
+     223
+    ],
+    [
+     226,
+     249
+    ]
+   ],
+   "peak": 37,
+   "en": "— Former UCE Representative\nRelena Peacecraft —"
+  },
+  {
+   "id": 1,
+   "frames": [
+    182,
+    330
+   ],
+   "kind": "subtitle",
+   "box": [
+    126,
+    357,
+    387,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 196,
+   "en": "Battle after battle claimed countless lives,\nand at last the war came to an end."
+  },
+  {
+   "id": 2,
+   "frames": [
+    377,
+    516
+   ],
+   "kind": "subtitle",
+   "box": [
+    124,
+    357,
+    388,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 385,
+   "en": "To protect the right to live,\na right that belongs to every person,"
+  },
+  {
+   "id": 3,
+   "frames": [
+    541,
+    713
+   ],
+   "kind": "subtitle",
+   "box": [
+    144,
+    357,
+    370,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 578,
+   "en": "I have taken up that work\nas the new representative of the UCE."
+  },
+  {
+   "id": 4,
+   "frames": [
+    770,
+    925
+   ],
+   "kind": "subtitle",
+   "box": [
+    125,
+    357,
+    389,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 785,
+   "en": "Why do people fight?\nWhy do they not understand one another?"
+  },
+  {
+   "id": 5,
+   "frames": [
+    974,
+    1138
+   ],
+   "kind": "subtitle",
+   "box": [
+    117,
+    357,
+    397,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 1076,
+   "en": "If war is never to happen again,\nwe must come to understand one another."
+  },
+  {
+   "id": 6,
+   "frames": [
+    1181,
+    1361
+   ],
+   "kind": "subtitle",
+   "box": [
+    114,
+    357,
+    400,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 1319,
+   "en": "To that end, I publicly declared\nthat we would take in the space refugees."
+  },
+  {
+   "id": 7,
+   "frames": [
+    1395,
+    1562
+   ],
+   "kind": "subtitle",
+   "box": [
+    114,
+    357,
+    400,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 1460,
+   "en": "I promised every refugee a life\nin which they need not fear tomorrow."
+  },
+  {
+   "id": 8,
+   "frames": [
+    1610,
+    1746
+   ],
+   "kind": "subtitle",
+   "box": [
+    110,
+    357,
+    405,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 1721,
+   "en": "At the time, I believed\nthat would be enough to make it work."
+  }
+ ]
+}

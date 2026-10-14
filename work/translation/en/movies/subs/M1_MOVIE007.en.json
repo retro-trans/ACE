@@ -1,0 +1,153 @@
+{
+ "movie": "M1_MOVIE007",
+ "cards": [
+  {
+   "id": 0,
+   "frames": [
+    19,
+    134
+   ],
+   "kind": "title",
+   "box": [
+    114,
+    198,
+    399,
+    250
+   ],
+   "lines": [
+    [
+     198,
+     224
+    ],
+    [
+     225,
+     250
+    ]
+   ],
+   "peak": 31,
+   "en": "— United Space Force Major\nRuri Hoshino —"
+  },
+  {
+   "id": 1,
+   "frames": [
+    183,
+    361
+   ],
+   "kind": "subtitle",
+   "box": [
+    105,
+    357,
+    408,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     382
+    ],
+    [
+     382,
+     408
+    ]
+   ],
+   "peak": 348,
+   "en": "They helped me many times.\nI'm still grateful to them."
+  },
+  {
+   "id": 2,
+   "frames": [
+    387,
+    530
+   ],
+   "kind": "subtitle",
+   "box": [
+    136,
+    357,
+    378,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     382
+    ],
+    [
+     382,
+     408
+    ]
+   ],
+   "peak": 480,
+   "en": "So when they caused that incident,\nI was a little surprised."
+  },
+  {
+   "id": 3,
+   "frames": [
+    572,
+    860
+   ],
+   "kind": "subtitle",
+   "box": [
+    78,
+    357,
+    437,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     382
+    ],
+    [
+     382,
+     408
+    ]
+   ],
+   "peak": 593,
+   "en": "But every event has many causes and reasons\nbehind it. It was the same with Akito."
+  },
+  {
+   "id": 4,
+   "frames": [
+    899,
+    1001
+   ],
+   "kind": "subtitle",
+   "box": [
+    133,
+    357,
+    381,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 913,
+   "en": "That's why I still believe in them,"
+  },
+  {
+   "id": 5,
+   "frames": [
+    1040,
+    1191
+   ],
+   "kind": "subtitle",
+   "box": [
+    85,
+    357,
+    428,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 1054,
+   "en": "because they, too, are precious to me..."
+  }
+ ]
+}

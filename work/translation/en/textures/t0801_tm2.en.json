@@ -1,0 +1,91 @@
+{
+ "name": "t0801.tm2",
+ "labels": [
+  {
+   "box": [
+    55,
+    15,
+    150,
+    37
+   ],
+   "en": "Player",
+   "align": "right",
+   "grow": [
+    30,
+    0
+   ],
+   "height": 20
+  },
+  {
+   "box": [
+    11,
+    56,
+    150,
+    76
+   ],
+   "en": "Friendly 01",
+   "align": "right",
+   "height": 20
+  },
+  {
+   "box": [
+    11,
+    95,
+    150,
+    115
+   ],
+   "en": "Friendly 02",
+   "align": "right",
+   "height": 20
+  },
+  {
+   "box": [
+    11,
+    134,
+    150,
+    154
+   ],
+   "en": "Friendly 03",
+   "align": "right",
+   "height": 20
+  },
+  {
+   "box": [
+    68,
+    160,
+    135,
+    185
+   ],
+   "en": "Sortie",
+   "align": "center",
+   "grow": [
+    10,
+    10
+   ]
+  },
+  {
+   "box": [
+    27,
+    201,
+    117,
+    218
+   ],
+   "en": "Units",
+   "align": "left"
+  },
+  {
+   "box": [
+    137,
+    222,
+    161,
+    244
+   ],
+   "en": "units",
+   "align": "right",
+   "grow": [
+    16,
+    0
+   ]
+  }
+ ]
+}

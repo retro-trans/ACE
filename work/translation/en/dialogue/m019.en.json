@@ -1,0 +1,260 @@
+{
+ "mission": "019",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Reach the reactor",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Detonator triggered",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "Defeat the Ashura Temple",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Reactor destroyed",
+   "speaker": "HUD"
+  },
+  {
+   "id": 10,
+   "en": "Reactor detonator activated.",
+   "speaker": "Facility PA"
+  },
+  {
+   "id": 11,
+   "en": "All workers, evacuate immediately.",
+   "speaker": "Facility PA"
+  },
+  {
+   "id": 12,
+   "en": "I repeat...",
+   "speaker": "Facility PA"
+  },
+  {
+   "id": 13,
+   "en": "It looks like Poseidal is abandoning this place.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 14,
+   "en": "So the deal has already gone down...?",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 15,
+   "en": "There's no time for the infiltration team to get back.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 16,
+   "en": "Shut down the detonator, quickly!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 17,
+   "en": "Deactivating alert mode.",
+   "speaker": "infiltration team?"
+  },
+  {
+   "id": 18,
+   "en": "Deactivating alert mode.",
+   "speaker": "infiltration team?"
+  },
+  {
+   "id": 19,
+   "en": "Deactivating alert mode.",
+   "speaker": "infiltration team?"
+  },
+  {
+   "id": 20,
+   "en": "Enemy reinforcements confirmed.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 21,
+   "en": "We're almost out of time!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 22,
+   "en": "We've picked up a suspicious shuttle in nearby space.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 23,
+   "en": "Is that Poseidal's trading partner...?",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 24,
+   "en": "No, they appear to be civilians.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 25,
+   "en": "I knew there was anti-UCE activity, but",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 26,
+   "en": "I never imagined it had grown this strong...",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 27,
+   "en": "It bothers me, but they're civilians.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 28,
+   "en": "There's no need to detain them. Let them go.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 29,
+   "en": "Operatives have reached the reactor.\nWe will now work on disarming the detonator.",
+   "speaker": "infiltration team?"
+  },
+  {
+   "id": 30,
+   "en": "Heavy Metal sighted.\nIt's carrying the E2's container!",
+   "speaker": "infiltration team?"
+  },
+  {
+   "id": 31,
+   "en": "Are they trying to take it out of here? Stop them!",
+   "speaker": "infiltration team?"
+  },
+  {
+   "id": 32,
+   "en": "They've found us! I won't hand over the E2...\nGo, now!",
+   "speaker": "Gavlet Gablae?"
+  },
+  {
+   "id": 33,
+   "en": "Heh heh... Do you think you can beat me?\nOr will you turn tail and flee!?",
+   "speaker": "Gavlet Gablae?"
+  },
+  {
+   "id": 34,
+   "en": "Leave recovering the E2 to our friendly forces.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 35,
+   "en": "Make wiping out the enemy your priority.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 36,
+   "en": "Shutting down the detonator.",
+   "speaker": "Facility PA?"
+  },
+  {
+   "id": 37,
+   "en": "We've successfully recovered the E2. No problems here.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 38,
+   "en": "What!? My own men, and what a pathetic showing!",
+   "speaker": "Gavlet Gablae?"
+  },
+  {
+   "id": 39,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 40,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 41,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 42,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 43,
+   "en": "The reactor's been hit! Watch it!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 44,
+   "en": "Get out of there, quickly...",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 45,
+   "en": "I'll pay you back for this, I swear!",
+   "speaker": "Gavlet Gablae?"
+  },
+  {
+   "id": 46,
+   "en": "We've got it back. There's no need to pursue.",
+   "speaker": "? (allied)"
+  },
+  {
+   "id": 50,
+   "en": "We're out of time, you know!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 51,
+   "en": "There's no time! Hurry it up!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 52,
+   "en": "There isn't much time left.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 53,
+   "en": "You can't afford to take your time here, you know.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 54,
+   "en": "There's no time, I'm telling you! Hurry, hurry!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 55,
+   "en": "There's not much time left. Hurry, okay?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 56,
+   "en": "TIME LIMIT APPROACHING.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 57,
+   "en": "We're out of time! Please hurry!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 58,
+   "en": "We're out of time. Hurry it along, would you?",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 59,
+   "en": "There is no time remaining. Please hurry.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

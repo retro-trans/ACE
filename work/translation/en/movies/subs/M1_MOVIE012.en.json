@@ -1,0 +1,207 @@
+{
+ "movie": "M1_MOVIE012",
+ "cards": [
+  {
+   "id": 0,
+   "frames": [
+    19,
+    134
+   ],
+   "kind": "title",
+   "box": [
+    114,
+    202,
+    400,
+    249
+   ],
+   "lines": [
+    [
+     202,
+     223
+    ],
+    [
+     226,
+     249
+    ]
+   ],
+   "peak": 31,
+   "en": "— Ra Cailum Operations Staff Officer\nLucrezia Noin —"
+  },
+  {
+   "id": 1,
+   "frames": [
+    183,
+    358
+   ],
+   "kind": "subtitle",
+   "box": [
+    88,
+    357,
+    424,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 205,
+   "en": "Back then, I was constantly plagued by doubt.\nHow much did anything I did really mean?"
+  },
+  {
+   "id": 2,
+   "frames": [
+    388,
+    527
+   ],
+   "kind": "subtitle",
+   "box": [
+    112,
+    357,
+    403,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 462,
+   "en": "What we had fought so hard to recover\nwas about to be used for wanton destruction."
+  },
+  {
+   "id": 3,
+   "frames": [
+    556,
+    737
+   ],
+   "kind": "subtitle",
+   "box": [
+    78,
+    357,
+    436,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 606,
+   "en": "Had what I believed was for the people's sake\nbeen nothing more than self-deception?"
+  },
+  {
+   "id": 4,
+   "frames": [
+    770,
+    874
+   ],
+   "kind": "subtitle",
+   "box": [
+    144,
+    357,
+    369,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 825,
+   "en": "The ones who answered those doubts\nwere Commander Misumaru and—"
+  },
+  {
+   "id": 5,
+   "frames": [
+    899,
+    963
+   ],
+   "kind": "subtitle",
+   "box": [
+    135,
+    357,
+    375,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 915,
+   "en": "the people aboard the Ra Cailum."
+  },
+  {
+   "id": 6,
+   "frames": [
+    998,
+    1111
+   ],
+   "kind": "subtitle",
+   "box": [
+    151,
+    357,
+    360,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 1017,
+   "en": "It wasn't so much that I led them;\nrather, they were the ones who moved me."
+  },
+  {
+   "id": 7,
+   "frames": [
+    1149,
+    1228
+   ],
+   "kind": "subtitle",
+   "box": [
+    79,
+    357,
+    435,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 1167,
+   "en": "I still didn't know what was right, but—"
+  },
+  {
+   "id": 8,
+   "frames": [
+    1260,
+    1360
+   ],
+   "kind": "subtitle",
+   "box": [
+    90,
+    357,
+    424,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 1323,
+   "en": "I felt that at their side, I could not go wrong."
+  }
+ ]
+}

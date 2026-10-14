@@ -1,0 +1,106 @@
+{
+ "table": "044",
+ "dialogue_file": "work/translation/en/dialogue/m044.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Mop Up Remnants",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "Friendly warship sunk",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Clear without hitting the Garuda",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "<mk(-75,25,2,1)><ar(0,2,1,300)><mk(-75,-12.5,2,1,50)><ar(0,2,1,300)><mk(-62.5,-62.5,3,1,100)><ar(0,3,1,300)><mk(-12.5,-75,4,1,150)><ar(0,4,1,300)><mk(25,-75,4,1,200)><ar(0,4,1,300)>Enemy remnants have gathered in the desert at <pic(0)><cs(3)>Point ME<ce()> and are engaging <mk(12.5,12.5,7,3,350)><ar(0,7,3,350)><pic(1)><cs(3)>allied forces<ce()>.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 101,
+   "en": "Our allies are pushed back by the enemy's overwhelming numbers and are struggling.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 102,
+   "en": "The enemy, too, seems to be growing desperate as its strength steadily dwindles.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 103,
+   "en": "But those still refusing to surrender will likely keep resisting to the death.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 104,
+   "en": "We<mk(75,25,6,3)><ar(0,6,3,200)><mk(75,0,6,0,50)><ar(0,6,0,200)><mk(75,-25,6,3,100)><ar(0,6,3,200)> will now head there and, together with our allies, wipe out the enemy forces.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 105,
+   "en": "It will be a hard fight, but I wish you luck.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 200,
+   "en": "With this operation, we've wiped out Grados and the other forces invading Earth.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 201,
+   "en": "The war is surely heading toward its end. The era we are striving for is almost here.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 202,
+   "en": "I have one piece of good news for you all.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 203,
+   "en": "As for the space refugees who lost their place to live in the UCE attack incident,",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 204,
+   "en": "Miss Relena held talks with their representative, Kahns, on the refugees' treatment.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 205,
+   "en": "As a result, they reached an agreement for Earth to take in the refugees.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 206,
+   "en": "If this is realized, it's cause for joy. A new history of the Earth Sphere will begin.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 207,
+   "en": "But for that, we must restore peace on the ground so that Miss Relena is free to act.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 208,
+   "en": "As the ones working behind the scenes... we shall fight on to the very end.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 300,
+   "en": "We can't stand still if we want peace. Don't let your guard down, even for an instant.",
+   "speaker": "Bright Noa?"
+  }
+ ]
+}

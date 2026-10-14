@@ -1,0 +1,187 @@
+{
+ "movie": "M1_MOVIE021",
+ "cards": [
+  {
+   "id": 0,
+   "frames": [
+    19,
+    134
+   ],
+   "kind": "title",
+   "box": [
+    114,
+    198,
+    399,
+    250
+   ],
+   "lines": [
+    [
+     198,
+     224
+    ],
+    [
+     224,
+     250
+    ]
+   ],
+   "peak": 40,
+   "en": "— Neo Zeon Supreme Leader\nChar Aznable —"
+  },
+  {
+   "id": 1,
+   "frames": [
+    183,
+    314
+   ],
+   "kind": "subtitle",
+   "box": [
+    125,
+    357,
+    385,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 300,
+   "en": "—Earth.\nA planet whose land is our mother and our cradle."
+  },
+  {
+   "id": 2,
+   "frames": [
+    337,
+    495
+   ],
+   "kind": "subtitle",
+   "box": [
+    132,
+    357,
+    380,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 411,
+   "en": "Those who gave themselves over to its embrace\nhad rotted into something hideous."
+  },
+  {
+   "id": 3,
+   "frames": [
+    519,
+    646
+   ],
+   "kind": "subtitle",
+   "box": [
+    131,
+    357,
+    382,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 570,
+   "en": "Why will they not leap up into the sea\nof possibility spread out before them?"
+  },
+  {
+   "id": 4,
+   "frames": [
+    669,
+    778
+   ],
+   "kind": "subtitle",
+   "box": [
+    129,
+    357,
+    383,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 690,
+   "en": "It fell to me\nto awaken them."
+  },
+  {
+   "id": 5,
+   "frames": [
+    802,
+    969
+   ],
+   "kind": "subtitle",
+   "box": [
+    111,
+    357,
+    402,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 813,
+   "en": "Londo Bell and Relena Peacecraft...\nfools who cannot break free of the Earth."
+  },
+  {
+   "id": 6,
+   "frames": [
+    1003,
+    1134
+   ],
+   "kind": "subtitle",
+   "box": [
+    109,
+    357,
+    402,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     381
+    ],
+    [
+     384,
+     408
+    ]
+   ],
+   "peak": 1027,
+   "en": "I made them atone for their arrogance\non the very stage they set for themselves."
+  }
+ ]
+}

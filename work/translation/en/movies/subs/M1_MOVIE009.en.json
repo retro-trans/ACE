@@ -1,0 +1,207 @@
+{
+ "movie": "M1_MOVIE009",
+ "cards": [
+  {
+   "id": 0,
+   "frames": [
+    19,
+    134
+   ],
+   "kind": "title",
+   "box": [
+    114,
+    52,
+    398,
+    268
+   ],
+   "lines": [
+    [
+     52,
+     224
+    ],
+    [
+     224,
+     268
+    ]
+   ],
+   "peak": 31,
+   "en": "— Formerly of Poseidal's Thirteen\nGavlet Gablae —"
+  },
+  {
+   "id": 1,
+   "frames": [
+    183,
+    351
+   ],
+   "kind": "subtitle",
+   "box": [
+    122,
+    357,
+    391,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 199,
+   "en": "The business at Palata Star, you say...?\nNow there is a memory I can never forget."
+  },
+  {
+   "id": 2,
+   "frames": [
+    378,
+    542
+   ],
+   "kind": "subtitle",
+   "box": [
+    117,
+    357,
+    397,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 395,
+   "en": "Being tracked down by them,\nlosing the battle... it was all a nightmare."
+  },
+  {
+   "id": 3,
+   "frames": [
+    586,
+    791
+   ],
+   "kind": "subtitle",
+   "box": [
+    101,
+    357,
+    412,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 603,
+   "en": "Thanks to them, Nei made a fool of me afterward\nand I was ordered home. Utterly miserable!"
+  },
+  {
+   "id": 4,
+   "frames": [
+    828,
+    951
+   ],
+   "kind": "subtitle",
+   "box": [
+    131,
+    357,
+    382,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 840,
+   "en": "I lost Lady Poseidal's trust as well,\nand it galled me beyond words."
+  },
+  {
+   "id": 5,
+   "frames": [
+    987,
+    1219
+   ],
+   "kind": "subtitle",
+   "box": [
+    95,
+    357,
+    418,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 1003,
+   "en": "Even so, I did not dislike them.\nThere was a certain conviction in what they did."
+  },
+  {
+   "id": 6,
+   "frames": [
+    1246,
+    1476
+   ],
+   "kind": "subtitle",
+   "box": [
+    94,
+    357,
+    420,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 1261,
+   "en": "They held to a belief that sounds simple, yet is\nterribly hard: always seek the best answer."
+  },
+  {
+   "id": 7,
+   "frames": [
+    1505,
+    1659
+   ],
+   "kind": "subtitle",
+   "box": [
+    121,
+    357,
+    392,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 1597,
+   "en": "And even I could not claim\nto feel no sympathy for that belief."
+  },
+  {
+   "id": 8,
+   "frames": [
+    1685,
+    1792
+   ],
+   "kind": "subtitle",
+   "box": [
+    112,
+    357,
+    401,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 1714,
+   "en": "Though now, it all rings rather hollow."
+  }
+ ]
+}

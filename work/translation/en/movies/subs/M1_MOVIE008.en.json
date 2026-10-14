@@ -1,0 +1,201 @@
+{
+ "movie": "M1_MOVIE008",
+ "cards": [
+  {
+   "id": 0,
+   "frames": [
+    19,
+    134
+   ],
+   "kind": "title",
+   "box": [
+    114,
+    198,
+    399,
+    250
+   ],
+   "lines": [
+    [
+     198,
+     224
+    ],
+    [
+     225,
+     250
+    ]
+   ],
+   "peak": 37,
+   "en": "— Ra Cailum Medical Crew\nAnna Stephanie —"
+  },
+  {
+   "id": 1,
+   "frames": [
+    182,
+    346
+   ],
+   "kind": "subtitle",
+   "box": [
+    127,
+    357,
+    387,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     382
+    ],
+    [
+     382,
+     408
+    ]
+   ],
+   "peak": 294,
+   "en": "Everything I experienced in space\nhad started to leave me confused."
+  },
+  {
+   "id": 2,
+   "frames": [
+    382,
+    481
+   ],
+   "kind": "subtitle",
+   "box": [
+    118,
+    357,
+    395,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 399,
+   "en": "What was right, and what wasn't—"
+  },
+  {
+   "id": 3,
+   "frames": [
+    511,
+    609
+   ],
+   "kind": "subtitle",
+   "box": [
+    133,
+    357,
+    379,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     382
+    ],
+    [
+     382,
+     408
+    ]
+   ],
+   "peak": 581,
+   "en": "I learned that it couldn't\nbe decided so simply."
+  },
+  {
+   "id": 4,
+   "frames": [
+    654,
+    844
+   ],
+   "kind": "subtitle",
+   "box": [
+    102,
+    357,
+    411,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     382
+    ],
+    [
+     382,
+     408
+    ]
+   ],
+   "peak": 767,
+   "en": "Everyone around me was fighting desperately,\nand I no longer knew if that was really right."
+  },
+  {
+   "id": 5,
+   "frames": [
+    895,
+    1005
+   ],
+   "kind": "subtitle",
+   "box": [
+    106,
+    357,
+    407,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 906,
+   "en": "But we couldn't stop fighting."
+  },
+  {
+   "id": 6,
+   "frames": [
+    1032,
+    1151
+   ],
+   "kind": "subtitle",
+   "box": [
+    84,
+    357,
+    430,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 1063,
+   "en": "Still, if we didn't have to fight, it would be better—"
+  },
+  {
+   "id": 7,
+   "frames": [
+    1184,
+    1361
+   ],
+   "kind": "subtitle",
+   "box": [
+    130,
+    357,
+    382,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     382
+    ],
+    [
+     382,
+     408
+    ]
+   ],
+   "peak": 1192,
+   "en": "is it because I'm weak that I couldn't\nhelp but think so?"
+  }
+ ]
+}

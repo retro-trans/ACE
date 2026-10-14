@@ -1,0 +1,131 @@
+{
+ "table": "025",
+ "dialogue_file": "work/translation/en/dialogue/m025.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Investigate Enemy Base",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Obtain an Organic Plate",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "The unidentified units appearing all over are very likely connected to Drake.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 101,
+   "en": "<mk(62.5,25,7,3,50)><ar(0,7,3,150)><mk(25,37.5,7,0,50)><ar(0,7,0,150)>We will now head to the Drake Army's base to investigate.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 102,
+   "en": "HQ has sent us intel on the <pt(-62.5,12.5,0,1)><pt(-75,-50,0,1,50)><pt(-37.5,-75,0,1,100)><pt(-12.5,-25,0,1,150)><pt(12.5,-62.5,0,1,200)>locations thought to be their base.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 103,
+   "en": "However, the <pic(0)><cs(3)>suspected area<ce()> is wide, so it's essential that every unit search on its own.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 104,
+   "en": "If any of you find the enemy base, I'm counting on you to report in at once.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 200,
+   "en": "Ever since Drake made contact with Dermail, I've been with the UCE, looking into the E2.",
+   "speaker": "Ciela Lapana?"
+  },
+  {
+   "id": 201,
+   "en": "...I believe I must explain this to all of you.",
+   "speaker": "Ciela Lapana?"
+  },
+  {
+   "id": 202,
+   "en": "The E2 is <cs(1)>Aura Energy<ce()> artificially materialized into a highly concentrated energy mass.",
+   "speaker": "Ciela Lapana?"
+  },
+  {
+   "id": 203,
+   "en": "Its synchronizing effect is so strong it can explosively boost its host's base power.",
+   "speaker": "Ciela Lapana?"
+  },
+  {
+   "id": 204,
+   "en": "That versatility means it can be adapted to all kinds of weapons.",
+   "speaker": "Ciela Lapana?"
+  },
+  {
+   "id": 205,
+   "en": "The machines you fought before were also experimental units for it.",
+   "speaker": "Ciela Lapana?"
+  },
+  {
+   "id": 206,
+   "en": "Dermail had joined hands with Drake for a time, as a source of Aura Energy.",
+   "speaker": "Ciela Lapana?"
+  },
+  {
+   "id": 207,
+   "en": "It seems his aim was to <cs(1)>apply the E2 to machine enhancement<ce()> and gain that technology.",
+   "speaker": "Ciela Lapana?"
+  },
+  {
+   "id": 208,
+   "en": "A gentle rule backed by absolute military force... That is their aim.",
+   "speaker": "Ciela Lapana?"
+  },
+  {
+   "id": 209,
+   "en": "OZ, with its fine researchers, and Drake, with his resources, had interests that aligned.",
+   "speaker": "Ciela Lapana?"
+  },
+  {
+   "id": 210,
+   "en": "With his goal achieved, Dermail cut ties with Drake to keep that power to himself.",
+   "speaker": "Ciela Lapana?"
+  },
+  {
+   "id": 211,
+   "en": "Since coming to the Surface, I have been tracking Drake's movements, but",
+   "speaker": "Ciela Lapana?"
+  },
+  {
+   "id": 212,
+   "en": "For him to join hands with wicked people of the Surface like this... It is unforgivable.",
+   "speaker": "Ciela Lapana?"
+  },
+  {
+   "id": 213,
+   "en": "I intend to keep pursuing Drake.",
+   "speaker": "Ciela Lapana?"
+  },
+  {
+   "id": 214,
+   "en": "As members of the UCE, please look into Dermail's movements.",
+   "speaker": "Ciela Lapana?"
+  },
+  {
+   "id": 300,
+   "en": "I never imagined you would be defeated... I can only say that it is deeply regrettable.",
+   "speaker": "Ciela Lapana?"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "table": "026",
+ "dialogue_file": "work/translation/en/dialogue/m026.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Recapture Sea Fortress",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Reach a 60-second Chain",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "Our <pt(50,-62.5,0,1)>mission this time is to seize the <cs(1)>Drake Army<ce()>-occupied <mk(12.5,-50,6,1,150)><mk(25,-25,5,1,50)><mk(50,-12.5,4,1,250)><mk(12.5,-75,6,1,350)><mk(75,-12.5,4,1,350)><pic(0)><cs(3)>Mogadishu Fortress<ce()>.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 101,
+   "en": "The Drake Army is an armed group that came here from the other world of <cs(1)>Byston Well<ce()>.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 102,
+   "en": "Their aims were unknown, and for a while they stayed on Earth without making a move, but",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 103,
+   "en": "now, for the first time, they've shown intent to invade by force. The UCE must respond.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 104,
+   "en": "The plan: send a UCE infiltration team straight in and take the fortress from within.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 105,
+   "en": "We'll draw the fire of the <pic(1)><cs(3)>Noventa Cannons<ce()> around the fortress, <mk(-25,25,1,0,50)><ar(0,1,0,450)><mk(-50,-25,2,3,150)><ar(0,2,3,450)><mk(25,50,0,3,250)><ar(0,0,3,450)><mk(-50,-75,2,3,350)><ar(0,2,3,450)><mk(75,50,0,3,350)><ar(0,0,3,450)>giving the team a way in.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 106,
+   "en": "The Noventa Cannons are immensely powerful, so this is a dangerous mission. Be careful.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 200,
+   "en": "We sent the armor recovered from the unidentified units to the ship's forensics team, and",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 201,
+   "en": "they report that it may use technology repurposed from Aura Battlers.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 202,
+   "en": "Given this incident as well, it's reasonable to assume Drake is involved, but...",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 203,
+   "en": "That machine isn't an Aura Battler either. Something about it bothers me...",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 204,
+   "en": "The investigation continues. I'll tell you all as soon as anything new comes to light.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 300,
+   "en": "The enemy won't wait for us. Always judge the situation and respond flexibly.",
+   "speaker": "Bright Noa?"
+  }
+ ]
+}

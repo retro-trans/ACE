@@ -1,0 +1,385 @@
+{
+ "mission": "001",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Destroy the training units",
+   "speaker": "-"
+  },
+  {
+   "id": 2,
+   "en": "---",
+   "speaker": "-"
+  },
+  {
+   "id": 3,
+   "en": "Defeat enemy forces",
+   "speaker": "-"
+  },
+  {
+   "id": 10,
+   "en": "I'm Special Lieutenant First Class Lucrezia Noin,\nyour operations staff officer as of today.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 11,
+   "en": "I'll be counting on you from here on out.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 12,
+   "en": "Let's get right to it. You'll be running a live combat exercise now.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 13,
+   "en": "Your machine is the UCE's newest model,\nthe Mass Production Gespenst Mk-II.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 14,
+   "en": "It's very stable and easy to handle.\nFor now, I want you to show me what you can do in it.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 15,
+   "en": "Your targets are the training units.\nAll units, commence combat from your assigned positions!",
+   "speaker": "Noin"
+  },
+  {
+   "id": 17,
+   "en": "First, lock on to an enemy with the △ button.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 18,
+   "en": "You can attack a locked-on enemy with the □ button.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 19,
+   "en": "When an enemy's in range, the marker turns red.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 20,
+   "en": "These are the basics, so make sure you remember them.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 21,
+   "en": "Close in on a locked-on enemy to attack in melee.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 22,
+   "en": "When the marker changes shape, that's your cue.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 23,
+   "en": "Be careful not to get caught in enemy explosions.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 24,
+   "en": "Next, we'll test aerial combat.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 25,
+   "en": "Press R1 to climb and R2 to descend.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 26,
+   "en": "Always try to match your opponent's altitude.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 27,
+   "en": "Next up is evasion training.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 28,
+   "en": "Right as the enemy opens fire,",
+   "speaker": "Noin"
+  },
+  {
+   "id": 29,
+   "en": "try flicking the left stick.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 30,
+   "en": "It drains your verniers, so don't use it carelessly.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 31,
+   "en": "Next, try firing your sub weapon.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 32,
+   "en": "You can fire it with the ○ button.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 33,
+   "en": "Combine it skillfully with your regular shots.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 34,
+   "en": "Next, try out your attach weapons.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 35,
+   "en": "With the L1 button and the L2 button,",
+   "speaker": "Noin"
+  },
+  {
+   "id": 36,
+   "en": "you can use different attacks.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 37,
+   "en": "Combine them with other attacks for better effect.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 38,
+   "en": "Next, we'll practice dashing.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 39,
+   "en": "The × button activates it. Give it a try.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 40,
+   "en": "You can also evade and attack while dashing.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 41,
+   "en": "To cancel it, just press the × button again.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 42,
+   "en": "It lets you move fast. Use it to close in or assault.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 43,
+   "en": "A brand-new model, and you've already mastered it...",
+   "speaker": "Noin"
+  },
+  {
+   "id": 44,
+   "en": "All right, I'm sending out more units.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 45,
+   "en": "You're quite the pilot.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 46,
+   "en": "You can handle tomorrow's transport duty like this.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 47,
+   "en": "All right, all programs, proceed to phase two...",
+   "speaker": "Noin"
+  },
+  {
+   "id": 48,
+   "en": "What...? Don't tell me, is that the enemy!?",
+   "speaker": "Noin"
+  },
+  {
+   "id": 49,
+   "en": "To think we'd be spotted in a place like this...",
+   "speaker": "? (enemy commander)"
+  },
+  {
+   "id": 50,
+   "en": "All of you, deal with the ones here for me.",
+   "speaker": "? (enemy commander)"
+  },
+  {
+   "id": 51,
+   "en": "The rest of us will proceed as planned.\nWe can't waste any time. Move out!",
+   "speaker": "? (enemy commander)"
+  },
+  {
+   "id": 52,
+   "en": "The exercise is cancelled! All units, return fire!",
+   "speaker": "Noin"
+  },
+  {
+   "id": 53,
+   "en": "I can't raise the base... Is that jamming!?",
+   "speaker": "Noin"
+  },
+  {
+   "id": 54,
+   "en": "This looks like a carefully planned operation.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 55,
+   "en": "These aren't training units, so watch yourself!",
+   "speaker": "Noin"
+  },
+  {
+   "id": 56,
+   "en": "If we don't hurry, the boss is gonna chew us out!",
+   "speaker": "? (enemy pilot)"
+  },
+  {
+   "id": 57,
+   "en": "Remember, our real target is the UCE base!",
+   "speaker": "? (enemy pilot)"
+  },
+  {
+   "id": 58,
+   "en": "I'm worried about the base. We're heading back now!",
+   "speaker": "Noin"
+  },
+  {
+   "id": 60,
+   "en": "First, lock on to an enemy with the △ button.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 61,
+   "en": "You can attack a locked-on enemy with the □ button.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 62,
+   "en": "Your attack switches automatically based on distance.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 63,
+   "en": "These are the basics, so make sure you remember them.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 64,
+   "en": "Close in on a locked-on enemy to attack in melee.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 65,
+   "en": "When the marker changes shape, that's your cue.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 66,
+   "en": "Be careful not to get caught in enemy explosions.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 67,
+   "en": "Next, we'll test aerial combat.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 68,
+   "en": "Press R1 to climb and R2 to descend.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 69,
+   "en": "Always try to match your opponent's altitude.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 70,
+   "en": "Next up is evasion training.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 71,
+   "en": "Right as the enemy opens fire,",
+   "speaker": "Noin"
+  },
+  {
+   "id": 72,
+   "en": "try flicking the left stick.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 73,
+   "en": "It drains your verniers, so don't use it carelessly.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 74,
+   "en": "Next, we'll practice dashing.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 75,
+   "en": "The × button activates it. Give it a try.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 76,
+   "en": "You can also evade and attack while dashing.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 77,
+   "en": "To cancel it, just press the × button again.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 78,
+   "en": "It lets you move fast. Use it to close in or assault.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 80,
+   "en": "Serving as your operations staff officer from today,",
+   "speaker": "Noin"
+  },
+  {
+   "id": 81,
+   "en": "I'm Special Lieutenant First Class Lucrezia Noin.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 82,
+   "en": "I'll be counting on you from here on out.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 83,
+   "en": "Your targets are the training units.",
+   "speaker": "Noin"
+  },
+  {
+   "id": 84,
+   "en": "All units, engage from your assigned positions!",
+   "speaker": "Noin"
+  },
+  {
+   "id": 85,
+   "en": "All right, I'm sending out more units.",
+   "speaker": "Noin"
+  }
+ ]
+}

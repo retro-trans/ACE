@@ -1,0 +1,385 @@
+{
+ "mission": "030",
+ "rows": [
+  {
+   "id": 1,
+   "en": "60%+ approval at speech end",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Parliament HQ destroyed",
+   "speaker": "HUD"
+  },
+  {
+   "id": 10,
+   "en": "The infiltration team has secured the Parliament.\nThe speech will begin shortly.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 11,
+   "en": "We will guard the surrounding area.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 12,
+   "en": "Parliament is being broadcast live worldwide.\nAvoid combat as much as you possibly can.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 13,
+   "en": "The speech has begun!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 14,
+   "en": "With enough public support, we'll achieve our goal.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 15,
+   "en": "You're on camera there! Move, now!",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 16,
+   "en": "No! Get away from the chopper!",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 17,
+   "en": "Intercept them without getting caught on camera.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 18,
+   "en": "Enemy reinforcements confirmed.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 19,
+   "en": "The UCE is targeting the Parliament!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 20,
+   "en": "They'd catch their own side in the crossfire...!?",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 21,
+   "en": "Protect the Parliament no matter what!",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 22,
+   "en": "The Parliament is under enemy attack!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 23,
+   "en": "The Parliament can't hold out much longer...!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 24,
+   "en": "Heat signature confirmed on radar.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 25,
+   "en": "So the UCE won't just sit back and watch after all...",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 26,
+   "en": "It can't be helped. Get into intercept formation!",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 27,
+   "en": "A TV news chopper is flying over the operation area.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 28,
+   "en": "We can't let them see us fighting.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 29,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 30,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 31,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 32,
+   "en": "The Parliament has been destroyed!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 33,
+   "en": "Miss Relena...!",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 34,
+   "en": "The speech has ended.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 35,
+   "en": "That was a wonderful speech, Miss Relena.",
+   "speaker": "Lucrezia Noin"
+  },
+  {
+   "id": 36,
+   "en": "Your words will go down in history.",
+   "speaker": "Lucrezia Noin"
+  },
+  {
+   "id": 37,
+   "en": "...Zechs, your sister has done you proud.",
+   "speaker": "Lucrezia Noin"
+  },
+  {
+   "id": 38,
+   "en": "The speech has ended.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 39,
+   "en": "Unfortunately, public support remains low...",
+   "speaker": "Operator"
+  },
+  {
+   "id": 40,
+   "en": "This is on us...!",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 41,
+   "en": "Is the world going to sink even deeper into chaos...?",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 42,
+   "en": "The people's approval rating has shot right up!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 43,
+   "en": "Seems the enemy's given up too. They're pulling back.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 44,
+   "en": "Miss Relena, you truly are remarkable...!",
+   "speaker": "Lucrezia Noin"
+  },
+  {
+   "id": 45,
+   "en": "Your words will go down in history.",
+   "speaker": "Lucrezia Noin"
+  },
+  {
+   "id": 46,
+   "en": "...Zechs, your sister has done you proud.",
+   "speaker": "Lucrezia Noin"
+  },
+  {
+   "id": 47,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 48,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 49,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 50,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 51,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 52,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 53,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 54,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 55,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 56,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 57,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 58,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 59,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 60,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 61,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 62,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 63,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 70,
+   "en": "Make sure you stay away from the chopper.",
+   "speaker": "Operator (slot 1)"
+  },
+  {
+   "id": 71,
+   "en": "Stay away from the chopper!",
+   "speaker": "Operator (slot 2)"
+  },
+  {
+   "id": 72,
+   "en": "Please do not approach the helicopter.",
+   "speaker": "Operator (slot 3)"
+  },
+  {
+   "id": 73,
+   "en": "You mustn't go near the chopper.",
+   "speaker": "Operator (slot 4)"
+  },
+  {
+   "id": 74,
+   "en": "No getting close to the chopper, okay!?",
+   "speaker": "Operator (slot 5)"
+  },
+  {
+   "id": 75,
+   "en": "Don't go near the chopper, all right?",
+   "speaker": "Operator (slot 6)"
+  },
+  {
+   "id": 76,
+   "en": "AVOID APPROACHING HELICOPTER.",
+   "speaker": "Operator (slot 7)"
+  },
+  {
+   "id": 77,
+   "en": "Please don't go near the chopper, okay?",
+   "speaker": "Operator (slot 8)"
+  },
+  {
+   "id": 78,
+   "en": "Keep away from the chopper.",
+   "speaker": "Operator (slot 9)"
+  },
+  {
+   "id": 79,
+   "en": "Please do not approach the helicopter.",
+   "speaker": "Operator (slot 10)"
+  },
+  {
+   "id": 80,
+   "en": "The approval rating's going to drop!",
+   "speaker": "Operator (slot 1)"
+  },
+  {
+   "id": 81,
+   "en": "What are you doing!? The approval rating's dropping!",
+   "speaker": "Operator (slot 2)"
+  },
+  {
+   "id": 82,
+   "en": "Doing that will lower the approval rating.",
+   "speaker": "Operator (slot 3)"
+  },
+  {
+   "id": 83,
+   "en": "Look, the approval rating's gone down!",
+   "speaker": "Operator (slot 4)"
+  },
+  {
+   "id": 84,
+   "en": "Hey, the approval rating's gonna drop!",
+   "speaker": "Operator (slot 5)"
+  },
+  {
+   "id": 85,
+   "en": "The approval rating's dropping.",
+   "speaker": "Operator (slot 6)"
+  },
+  {
+   "id": 86,
+   "en": "APPROVAL RATING DECLINE CONFIRMED.",
+   "speaker": "Operator (slot 7)"
+  },
+  {
+   "id": 87,
+   "en": "The approval rating's going to drop!",
+   "speaker": "Operator (slot 8)"
+  },
+  {
+   "id": 88,
+   "en": "The approval rating has gone down.",
+   "speaker": "Operator (slot 9)"
+  },
+  {
+   "id": 89,
+   "en": "The approval rating has dropped.",
+   "speaker": "Operator (slot 10)"
+  }
+ ]
+}

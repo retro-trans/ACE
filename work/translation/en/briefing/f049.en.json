@@ -1,0 +1,81 @@
+{
+ "table": "049",
+ "dialogue_file": "work/translation/en/dialogue/m049.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Infiltrate Amaterasu",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Reach the destination",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "Time limit exceeded",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Defeat all Shishiki units",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "Inside the abandoned <pic(0)><cs(3)>Amaterasu<ce()>, <pt(75,-75,0,1)>a heat signature has been detected.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 101,
+   "en": "We have also confirmed that Neo Zeon combat units are lurking nearby.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 102,
+   "en": "Given this and Char's course, it is reasonable to conclude that Char fled here.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 103,
+   "en": "I want all pilots<mk(-12.5,12.5,1,0)><ar(0,1,0,50)> to infiltrate the <pic(1)><cs(3)>interior<ce()> and search for Char and the E2.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 104,
+   "en": "You'll be slipping right into Char's bosom. One moment's mistake could cost your life.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 105,
+   "en": "Take every care, defeat Char, and wipe the E2 from the face of this world.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 106,
+   "en": "Good luck, all units.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 200,
+   "en": "Char has only so many places to go. I think we can trust what Hokushin said.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 201,
+   "en": "We do not know what trump card he may still be hiding.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 202,
+   "en": "But we have come this far. It is time to settle things with Char once and for all.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 300,
+   "en": "To think it would come to this... Just a little more... and after we came this far!",
+   "speaker": "Bright Noa?"
+  }
+ ]
+}

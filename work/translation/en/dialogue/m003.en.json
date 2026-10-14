@@ -1,0 +1,200 @@
+{
+ "mission": "003",
+ "rows": [
+  {
+   "id": 1,
+   "speaker": "System",
+   "en": "Destroy enemy transports"
+  },
+  {
+   "id": 2,
+   "speaker": "System",
+   "en": "---"
+  },
+  {
+   "id": 3,
+   "speaker": "System",
+   "en": "Defeat enemy forces"
+  },
+  {
+   "id": 10,
+   "speaker": "Ra Cailum operator",
+   "en": "Enemy ship on radar! Enemy signals around it as well."
+  },
+  {
+   "id": 11,
+   "speaker": "Bright",
+   "en": "Right, commence the operation!"
+  },
+  {
+   "id": 12,
+   "speaker": "Bright",
+   "en": "Still no word from the friendly units that went ahead?"
+  },
+  {
+   "id": 13,
+   "speaker": "Ra Cailum operator",
+   "en": "I'm working on it!"
+  },
+  {
+   "id": 14,
+   "speaker": "?",
+   "en": "Start the recovery!"
+  },
+  {
+   "id": 15,
+   "speaker": "Hokushin?",
+   "en": "They still haven't grasped the situation they're in. What blissful fools."
+  },
+  {
+   "id": 16,
+   "speaker": "Ra Cailum operator",
+   "en": "Heat signatures! Lots of them on radar!"
+  },
+  {
+   "id": 17,
+   "speaker": "Bright",
+   "en": "What...!"
+  },
+  {
+   "id": 18,
+   "speaker": "Bright",
+   "en": "Change of plan, return fire!"
+  },
+  {
+   "id": 19,
+   "speaker": "Poseidal raid leader",
+   "en": "As promised, I leave the rest to you."
+  },
+  {
+   "id": 20,
+   "speaker": "Poseidal raid leader",
+   "en": "Do whatever you like with that lot."
+  },
+  {
+   "id": 21,
+   "speaker": "Hokushin?",
+   "en": "Impudent warmongers, acting like we're in their debt."
+  },
+  {
+   "id": 22,
+   "speaker": "Hokushin?",
+   "en": "With this theft scheme,"
+  },
+  {
+   "id": 23,
+   "speaker": "Hokushin?",
+   "en": "just how many do they mean to fleece..."
+  },
+  {
+   "id": 24,
+   "speaker": "Hokushin?",
+   "en": "No matter. What I came for is duly received."
+  },
+  {
+   "id": 25,
+   "speaker": "?",
+   "en": "What you came for...? Meaning what? Who are you!?"
+  },
+  {
+   "id": 26,
+   "speaker": "Hokushin?",
+   "en": "You have no need to know that."
+  },
+  {
+   "id": 27,
+   "speaker": "Ra Cailum operator",
+   "en": "No response from the friendly units in the area."
+  },
+  {
+   "id": 28,
+   "speaker": "Bright",
+   "en": "What!? You're saying they've all been wiped out...!?"
+  },
+  {
+   "id": 29,
+   "speaker": "Bright",
+   "en": "Why didn't we notice until now!?"
+  },
+  {
+   "id": 30,
+   "speaker": "Hokushin?",
+   "en": "The hour has passed."
+  },
+  {
+   "id": 31,
+   "speaker": "Hokushin?",
+   "en": "Then there is no reason for me to remain here."
+  },
+  {
+   "id": 32,
+   "speaker": "Ra Cailum operator",
+   "en": "Enemy withdrawal confirmed."
+  },
+  {
+   "id": 33,
+   "speaker": "?",
+   "en": "So our allies have been... nearly all wiped out..."
+  },
+  {
+   "id": 34,
+   "speaker": "Bright",
+   "en": "Hurry and recover the surviving units!"
+  },
+  {
+   "id": 35,
+   "speaker": "System",
+   "en": "Organic Plate obtained."
+  },
+  {
+   "id": 40,
+   "speaker": "?",
+   "en": "Attack the enemy ship! You have to stop it!"
+  },
+  {
+   "id": 41,
+   "speaker": "?",
+   "en": "Attack the enemy ship. Bring it to a halt!"
+  },
+  {
+   "id": 42,
+   "speaker": "?",
+   "en": "Please attack the enemy ship and stop it."
+  },
+  {
+   "id": 43,
+   "speaker": "?",
+   "en": "Attack it! We have to stop that enemy ship!"
+  },
+  {
+   "id": 44,
+   "speaker": "?",
+   "en": "Hit the enemy ship and stop it!"
+  },
+  {
+   "id": 45,
+   "speaker": "?",
+   "en": "Attack the enemy ship and make it stop."
+  },
+  {
+   "id": 46,
+   "speaker": "?",
+   "en": "PROBABILITY OF HALTING TARGET BY ATTACK: 90%."
+  },
+  {
+   "id": 47,
+   "speaker": "?",
+   "en": "Attack the enemy ship and stop it, please."
+  },
+  {
+   "id": 48,
+   "speaker": "?",
+   "en": "Attack the enemy ship and stop it for me."
+  },
+  {
+   "id": 49,
+   "speaker": "?",
+   "en": "Please attack the target ship and halt its movement."
+  }
+ ]
+}

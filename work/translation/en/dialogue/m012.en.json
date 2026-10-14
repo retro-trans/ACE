@@ -1,0 +1,330 @@
+{
+ "mission": "012",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 11,
+   "en": "Nadesico B, what's your status!?",
+   "speaker": "Bright"
+  },
+  {
+   "id": 12,
+   "en": "We're all right here. Thank you for the support.",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 13,
+   "en": "All units, take out the enemies in the area!",
+   "speaker": "Bright"
+  },
+  {
+   "id": 21,
+   "en": "Damn, look at their numbers!",
+   "speaker": "?"
+  },
+  {
+   "id": 22,
+   "en": "Multiple contacts approaching the Nadesico B!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 23,
+   "en": "That's... the ones from back then...!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 24,
+   "en": "In a single night, stretching up to the heavens,",
+   "speaker": "Hokushin?"
+  },
+  {
+   "id": 25,
+   "en": "the spiral of space, like a gourd vine...",
+   "speaker": "Hokushin?"
+  },
+  {
+   "id": 26,
+   "en": "Sink, Nadesico.",
+   "speaker": "Hokushin?"
+  },
+  {
+   "id": 31,
+   "en": "So it was you...",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 32,
+   "en": "the unit that's been abducting the A-class Jumpers.",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 33,
+   "en": "Indeed. We are the shadow of the Martian Successors.",
+   "speaker": "Hokushin?"
+  },
+  {
+   "id": 34,
+   "en": "Human, yet strayed from the path of humanity. Fiends.",
+   "speaker": "Hokushin?"
+  },
+  {
+   "id": 35,
+   "en": "All for the sake of a new order.",
+   "speaker": "Hokushin?"
+  },
+  {
+   "id": 41,
+   "en": "Boson particle readings rising!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 51,
+   "en": "Another unidentified unit!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 52,
+   "en": "Get over there and support the Nadesico, now!",
+   "speaker": "Bright"
+  },
+  {
+   "id": 53,
+   "en": "Captain Bright, we're fine.",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 54,
+   "en": "I'll leave it in that person's hands.",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 55,
+   "en": "So you've come, avenger.",
+   "speaker": "Hokushin?"
+  },
+  {
+   "id": 56,
+   "en": "You'll be dealing... with me.",
+   "speaker": "Akito Tenkawa?"
+  },
+  {
+   "id": 61,
+   "en": "Enemy reinforcements confirmed.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 71,
+   "en": "Nadesico, take this with you.",
+   "speaker": "Akito Tenkawa?"
+  },
+  {
+   "id": 72,
+   "en": "It's not something that should be in their hands.",
+   "speaker": "Akito Tenkawa?"
+  },
+  {
+   "id": 73,
+   "en": "That's the E2, isn't it? But why...",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 74,
+   "en": "That's none of your concern. Hurry, go.",
+   "speaker": "Akito Tenkawa?"
+  },
+  {
+   "id": 75,
+   "en": "...Nadesico B, withdrawing from this sector.",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 76,
+   "en": "Just what is that black machine...?",
+   "speaker": "?"
+  },
+  {
+   "id": 81,
+   "en": "The enemy looks set to hole up in Amaterasu, but...",
+   "speaker": "Bright"
+  },
+  {
+   "id": 82,
+   "en": "we did manage to get the Nadesico B out.",
+   "speaker": "Bright"
+  },
+  {
+   "id": 83,
+   "en": "For now, the operation is over.",
+   "speaker": "Bright"
+  },
+  {
+   "id": 84,
+   "en": "It's good to see you again.",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 85,
+   "en": "We'll deliver the E2 to you later.",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 91,
+   "en": "So this is a spatial jump... a Boson Jump!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 92,
+   "en": "A spatial jump... so that's a Boson Jump!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 93,
+   "en": "So this is a spatial jump... a Boson Jump!",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 94,
+   "en": "So this is a spatial jump... a Boson Jump.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 95,
+   "en": "Is this a spatial jump... a Boson Jump!?",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 96,
+   "en": "A Boson Jump... a leap through space, then.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 97,
+   "en": "SPATIAL JUMP: BOSON JUMP CONFIRMED.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 98,
+   "en": "Boson Jump! Here they come!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 99,
+   "en": "A Boson Jump... It's just like teleporting.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 100,
+   "en": "Enemies are arriving by spatial jump... Boson Jump.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 101,
+   "en": "How many of them are there...!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 102,
+   "en": "Where did this many come from...!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 103,
+   "en": "I can't keep track of the enemy's numbers!",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 104,
+   "en": "What is with all these enemies...!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 105,
+   "en": "No! There are so many enemies!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 106,
+   "en": "There are so many of them...",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 107,
+   "en": "TARGET COUNT: UNMEASURABLE.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 108,
+   "en": "There are a huge number of enemies!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 109,
+   "en": "Just how many enemies is this...",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 110,
+   "en": "Numerous targets confirmed.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 111,
+   "en": "Amazing! You wiped them out in no time!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 112,
+   "en": "Man, that's some skill you've got.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 113,
+   "en": "Amazing... Just what I'd expect from you.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 114,
+   "en": "You did it! That was amazing!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 115,
+   "en": "Eeek! You're the best!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 116,
+   "en": "Wow, that was over in no time.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 117,
+   "en": "MULTIPLE TARGETS DESTROYED. CONFIRMED.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 118,
+   "en": "Amazing! You're amazing!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 119,
+   "en": "Impressive. You're good.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 120,
+   "en": "Confirmed: a large number of targets destroyed.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

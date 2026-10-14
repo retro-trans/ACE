@@ -1,0 +1,120 @@
+{
+ "mission": "023",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 10,
+   "en": "The enemy's resistance is fiercer than expected.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 11,
+   "en": "All units, secure the surrounding area.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 12,
+   "en": "Protect the vehicle carrying the commander!",
+   "speaker": "Titans soldier"
+  },
+  {
+   "id": 13,
+   "en": "Confirmed: the commander's vehicle has been destroyed.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 14,
+   "en": "Enemy reinforcements confirmed.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 15,
+   "en": "As expected, the enemy's putting up a fierce fight.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 16,
+   "en": "Like hell we'll let you bastards do as you please!",
+   "speaker": "Titans soldier"
+  },
+  {
+   "id": 17,
+   "en": "Damn it! Next time, I'll kill you!",
+   "speaker": "Titans soldier"
+  },
+  {
+   "id": 18,
+   "en": "Enemy withdrawal confirmed.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 19,
+   "en": "Looks like the base capture succeeded too.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 20,
+   "en": "All units, return to the Ra Cailum.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 30,
+   "en": "This one's not like the others. Be careful!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 31,
+   "en": "This one's strong!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 32,
+   "en": "Don't underestimate this enemy's capabilities.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 33,
+   "en": "What...? This enemy's strong. Be careful.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 34,
+   "en": "Ugh, no way! This one's strong!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 35,
+   "en": "The enemy is strong. Be careful.",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 36,
+   "en": "ALARM MESSAGE: DANGER. EVADE.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 37,
+   "en": "This enemy is strong! Please be careful!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 38,
+   "en": "That enemy's performance is something else. Watch out.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 39,
+   "en": "The target is high-performance. Please stay alert.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

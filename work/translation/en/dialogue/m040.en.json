@@ -1,0 +1,440 @@
+{
+ "mission": "040",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "Defeat the Sazabi",
+   "speaker": "HUD"
+  },
+  {
+   "id": 11,
+   "en": "The area's already one big free-for-all.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 12,
+   "en": "Poseidal Army units have been confirmed too.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 13,
+   "en": "Looks like there's still some time before the impact.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 14,
+   "en": "Wipe out the enemy, cover the allied fleet's escape!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 16,
+   "en": "Thanks, you saved us. We owe you.",
+   "speaker": "UCE ally?"
+  },
+  {
+   "id": 21,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 22,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 23,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 24,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 25,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 26,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 27,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 28,
+   "en": "What do you think you're doing!? Shoot them down!",
+   "speaker": "Duke Dermail?"
+  },
+  {
+   "id": 31,
+   "en": "The Poseidal Army is starting to pull out!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 32,
+   "en": "We need to evacuate too, and fast!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 36,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 37,
+   "en": "We won't be brought down by something like this!",
+   "speaker": "Duke Dermail?"
+  },
+  {
+   "id": 41,
+   "en": "Axis has begun its final acceleration.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 42,
+   "en": "Only moments left until impact.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 46,
+   "en": "Axis is about to hit!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 47,
+   "en": "We're going to get caught in the shockwave!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 51,
+   "en": "There are so many of them. Please be careful.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 52,
+   "en": "It'll take more than this to shoot me down!",
+   "speaker": "? (player-side pilot)"
+  },
+  {
+   "id": 54,
+   "en": "Allied ships are going down one after another!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 55,
+   "en": "Damn it... Isn't there anything we can do!?",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 56,
+   "en": "It's all we can do just to hold on!",
+   "speaker": "Operator?"
+  },
+  {
+   "id": 58,
+   "en": "Open up an escape route! Hurry it up!",
+   "speaker": "Duke Dermail?"
+  },
+  {
+   "id": 59,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 60,
+   "en": "Allied ship sunk!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 61,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 62,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 63,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 64,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 65,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 71,
+   "en": "The shockwave from the impact has died down.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 72,
+   "en": "But... ships slow to escape were almost all wiped out.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 73,
+   "en": "...Recover all units.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 74,
+   "en": "Wait! An enemy unit is approaching!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 75,
+   "en": "It seems we really are bound by fate, you and I.",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 76,
+   "en": "...That voice!",
+   "speaker": "? (player side)"
+  },
+  {
+   "id": 81,
+   "en": "Char Aznable! Stop this!",
+   "speaker": "? (player side)"
+  },
+  {
+   "id": 82,
+   "en": "Those who remain on Earth",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 83,
+   "en": "do nothing but pollute the Earth.",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 84,
+   "en": "They are people whose souls are bound by gravity!",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 86,
+   "en": "And I, Char Aznable, intend to purge them!",
+   "speaker": "Char Aznable"
+  },
+  {
+   "id": 87,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 91,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 92,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 93,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 94,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 95,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 97,
+   "en": "My monitors are dying...! Was I hit?",
+   "speaker": "?"
+  },
+  {
+   "id": 99,
+   "en": "So the UCE is finished.",
+   "speaker": "?"
+  },
+  {
+   "id": 100,
+   "en": "So this is what you've left behind, Char...",
+   "speaker": "?"
+  },
+  {
+   "id": 101,
+   "en": "Hang in there, somehow!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 102,
+   "en": "You've got to hold out!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 103,
+   "en": "Please hold out, somehow!",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 104,
+   "en": "You hold out, whatever it takes!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 105,
+   "en": "You'd better hang in there, okay!?",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 106,
+   "en": "Hang on, somehow!",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 107,
+   "en": "AVERT CRISIS. READY.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 108,
+   "en": "Please hang on, somehow!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 109,
+   "en": "Hold out somehow for me, would you!",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 110,
+   "en": "Please hold out.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 111,
+   "en": "Whatever you do, don't get hit by the debris!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 112,
+   "en": "Focus on dodging the debris!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 113,
+   "en": "Please be careful to avoid direct hits from debris.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 114,
+   "en": "Be careful not to get hit by the debris!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 115,
+   "en": "Just dodge the debris, no matter what!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 116,
+   "en": "Concentrate on avoiding the debris!",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 117,
+   "en": "EVADE DEBRIS.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 118,
+   "en": "Whatever happens, please don't get hit by the debris!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 119,
+   "en": "Just evade the debris, whatever you do.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 120,
+   "en": "Please evade the debris.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 121,
+   "en": "What incredible pressure!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 122,
+   "en": "What strength...!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 123,
+   "en": "Such strength... Please be careful.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 124,
+   "en": "I can't believe an enemy this strong exists!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 125,
+   "en": "It looks tough, but don't you dare lose to it!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 126,
+   "en": "What an enemy... but don't lose!",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 127,
+   "en": "DESTROY AT ONCE. REPEAT, DESTROY AT ONCE.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 128,
+   "en": "This strength is unbelievable!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 129,
+   "en": "I never thought it would be this strong...",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 130,
+   "en": "The target is high-performance. Please stay alert.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

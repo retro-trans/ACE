@@ -1,0 +1,111 @@
+{
+ "table": "036",
+ "dialogue_file": "work/translation/en/dialogue/m036.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Infiltrate Jaburo",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Escort the target",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Find the hidden passage",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "We are now<pt(0,-18.75,0,2)> heading for <pic(0)><cs(3)>Jaburo<ce()>, but it is not responding to our calls.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 101,
+   "en": "It's not because we're defectors, it seems. All comm lines have been completely cut.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 102,
+   "en": "The E2 is currently being stored at Jaburo.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 103,
+   "en": "If an enemy has attacked it... then this is clearly an emergency.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 104,
+   "en": "We may be at odds with them now, but they were once our allies.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 105,
+   "en": "<mk(-75,50,1,0,50)><ar(0,1,0,200)>We will head out at once to support the UCE. This is also Miss Relena's wish.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 106,
+   "en": "If it is an enemy, then it has enough strength to push into Jaburo. Be extremely careful.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 200,
+   "en": "Jaburo collapsed completely in the explosion of the E2.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 201,
+   "en": "The E2 is gone from this world... But that alone won't be the end of it.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 202,
+   "en": "Dermail seems to have started moving to retaliate against Char Aznable's <cs(1)>Neo Zeon<ce()>.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 203,
+   "en": "The UCE's own leaders have gathered at its space base, the Gate of Zedan, massing forces.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 204,
+   "en": "All-out war preparations are steadily advancing. At this rate, it will all happen again.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 205,
+   "en": "Having lost her chance to persuade the UCE at Jaburo, Miss Relena ignored our protests",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 206,
+   "en": "and set off for the Gate of Zedan.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 207,
+   "en": "She means to stop a reckless act of retaliation, but it is far too dangerous.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 208,
+   "en": "I want you all there at once as well. Stop the pointless fighting, whatever it takes.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 300,
+   "en": "We can't stand still if we want peace. Don't let your guard down, even for an instant.",
+   "speaker": "? (briefing officer)"
+  }
+ ]
+}

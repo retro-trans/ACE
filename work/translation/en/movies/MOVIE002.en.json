@@ -1,0 +1,6781 @@
+{
+ "movie": "MOVIE002",
+ "segments": [
+  {
+   "id": "ending_epilogue",
+   "frames": [
+    780,
+    2700
+   ],
+   "plate": [
+    800,
+    2690
+   ],
+   "level": [
+    20,
+    20,
+    70,
+    420
+   ],
+   "region": [
+    72,
+    480
+   ],
+   "speed": 0.5915,
+   "origin": 800,
+   "fade": [
+    52,
+    88,
+    340,
+    380
+   ],
+   "colour": [
+    190,
+    128,
+    128
+   ],
+   "width": 388,
+   "lines": [
+    {
+     "band": [
+      379,
+      434
+     ],
+     "span": [
+      72,
+      480
+     ]
+    },
+    {
+     "size": 15,
+     "weight": 600,
+     "band": [
+      379,
+      406
+     ],
+     "en": "After the last E2 was confirmed destroyed, I parted",
+     "x": 74,
+     "width": 388
+    },
+    {
+     "size": 15,
+     "weight": 600,
+     "band": [
+      406,
+      434
+     ],
+     "en": "ways with the Ra Cailum.",
+     "x": 74,
+     "width": 388
+    },
+    {
+     "band": [
+      479,
+      534
+     ],
+     "span": [
+      72,
+      480
+     ]
+    },
+    {
+     "size": 15,
+     "weight": 600,
+     "band": [
+      479,
+      506
+     ],
+     "en": "It all began with this weapon, created by the former",
+     "x": 74,
+     "width": 388
+    },
+    {
+     "size": 15,
+     "weight": 600,
+     "band": [
+      506,
+      534
+     ],
+     "en": "UCE.",
+     "x": 74,
+     "width": 388
+    },
+    {
+     "band": [
+      545,
+      601
+     ],
+     "span": [
+      72,
+      480
+     ]
+    },
+    {
+     "size": 15,
+     "weight": 600,
+     "band": [
+      545,
+      573
+     ],
+     "en": "Through the fabricated refugee ship incident, Relena",
+     "x": 74,
+     "width": 388
+    },
+    {
+     "size": 15,
+     "weight": 600,
+     "band": [
+      573,
+      601
+     ],
+     "en": "Peacecraft was removed from office, and",
+     "x": 74,
+     "width": 388
+    },
+    {
+     "band": [
+      612,
+      668
+     ],
+     "span": [
+      72,
+      480
+     ]
+    },
+    {
+     "size": 15,
+     "weight": 600,
+     "band": [
+      612,
+      640
+     ],
+     "en": "the hardliners who inherit the will of Dermail, the",
+     "x": 74,
+     "width": 388
+    },
+    {
+     "size": 15,
+     "weight": 600,
+     "band": [
+      640,
+      668
+     ],
+     "en": "root of the war, have seized power again.",
+     "x": 74,
+     "width": 388
+    },
+    {
+     "band": [
+      678,
+      767
+     ],
+     "span": [
+      72,
+      480
+     ]
+    },
+    {
+     "size": 15,
+     "weight": 600,
+     "band": [
+      678,
+      708
+     ],
+     "en": "They have laid all the blame on Londo Bell’s Ra",
+     "x": 74,
+     "width": 388
+    },
+    {
+     "size": 15,
+     "weight": 600,
+     "band": [
+      708,
+      737
+     ],
+     "en": "Cailum, and with that as their pretext, they mean to",
+     "x": 74,
+     "width": 388
+    },
+    {
+     "size": 15,
+     "weight": 600,
+     "band": [
+      737,
+      767
+     ],
+     "en": "pull the trigger of war once more.",
+     "x": 74,
+     "width": 388
+    },
+    {
+     "band": [
+      811,
+      867
+     ],
+     "span": [
+      72,
+      480
+     ]
+    },
+    {
+     "size": 15,
+     "weight": 600,
+     "band": [
+      811,
+      839
+     ],
+     "en": "Will the Ra Cailum, home on Earth with its mission",
+     "x": 74,
+     "width": 388
+    },
+    {
+     "size": 15,
+     "weight": 600,
+     "band": [
+      839,
+      867
+     ],
+     "en": "done, let that pass?",
+     "x": 74,
+     "width": 388
+    },
+    {
+     "band": [
+      877,
+      933
+     ],
+     "span": [
+      72,
+      480
+     ]
+    },
+    {
+     "size": 15,
+     "weight": 600,
+     "band": [
+      877,
+      905
+     ],
+     "en": "The aces will surely fight on to the end to snuff out",
+     "x": 74,
+     "width": 388
+    },
+    {
+     "size": 15,
+     "weight": 600,
+     "band": [
+      905,
+      933
+     ],
+     "en": "the new flames of war.",
+     "x": 74,
+     "width": 388
+    },
+    {
+     "band": [
+      977,
+      1068
+     ],
+     "span": [
+      72,
+      480
+     ]
+    },
+    {
+     "size": 15,
+     "weight": 600,
+     "band": [
+      977,
+      1007
+     ],
+     "en": "In their place, I leave here every record I have",
+     "x": 74,
+     "width": 388
+    },
+    {
+     "size": 15,
+     "weight": 600,
+     "band": [
+      1007,
+      1038
+     ],
+     "en": "obtained, so that the truth may reach as many as",
+     "x": 74,
+     "width": 388
+    },
+    {
+     "size": 15,
+     "weight": 600,
+     "band": [
+      1038,
+      1068
+     ],
+     "en": "possible.",
+     "x": 74,
+     "width": 388
+    },
+    {
+     "band": [
+      1110,
+      1167
+     ],
+     "span": [
+      72,
+      480
+     ]
+    },
+    {
+     "size": 15,
+     "weight": 600,
+     "band": [
+      1110,
+      1138
+     ],
+     "en": "— Unified Earth Calendar 045, January",
+     "x": 74,
+     "width": 388
+    },
+    {
+     "size": 15,
+     "weight": 600,
+     "band": [
+      1138,
+      1167
+     ],
+     "en": "From a record disc found at the L1 point —",
+     "x": 74,
+     "width": 388
+    }
+   ]
+  },
+  {
+   "frames": [
+    3760,
+    11060
+   ],
+   "plate": "black",
+   "region": [
+    211,
+    512
+   ],
+   "speed": 1.17105,
+   "origin": 3700,
+   "fade": [
+    -10,
+    -9,
+    457,
+    458
+   ],
+   "colour": [
+    172,
+    128,
+    128
+   ],
+   "width": 290,
+   "lines": [
+    {
+     "band": [
+      522,
+      545
+     ],
+     "span": [
+      211,
+      474
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Banpresto / FromSoftware",
+     "align": "center",
+     "x": 349,
+     "width": 270
+    },
+    {
+     "band": [
+      549,
+      572
+     ],
+     "span": [
+      243,
+      454
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "A.C.E. Co-Development Staff",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      873,
+      896
+     ],
+     "span": [
+      211,
+      483
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— FromSoftware Development Staff —",
+     "align": "center",
+     "x": 354,
+     "width": 270
+    },
+    {
+     "band": [
+      981,
+      1003
+     ],
+     "span": [
+      270,
+      427
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Game Designer —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      1008,
+      1030
+     ],
+     "span": [
+      322,
+      377
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Yui Tanimura",
+     "align": "center",
+     "x": 350,
+     "width": 270
+    },
+    {
+     "band": [
+      1063,
+      1083
+     ],
+     "span": [
+      299,
+      398
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Story —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      1089,
+      1111
+     ],
+     "span": [
+      272,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Yui Tanimura",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      1089,
+      1111
+     ],
+     "span": [
+      371,
+      444
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Ayaka Ieki",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      1197,
+      1218
+     ],
+     "span": [
+      273,
+      423
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Main Programmer —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      1224,
+      1246
+     ],
+     "span": [
+      313,
+      386
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Yoshiyuki Naito",
+     "align": "center",
+     "x": 350,
+     "width": 270
+    },
+    {
+     "band": [
+      1279,
+      1300
+     ],
+     "span": [
+      289,
+      407
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Characters —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      1305,
+      1322
+     ],
+     "span": [
+      321,
+      375
+     ],
+     "size": 12,
+     "weight": 600,
+     "en": "Programmer",
+     "align": "center",
+     "x": 348
+    },
+    {
+     "band": [
+      1332,
+      1354
+     ],
+     "span": [
+      313,
+      385
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Yusuke Ebata",
+     "align": "center",
+     "x": 349,
+     "width": 270
+    },
+    {
+     "band": [
+      1360,
+      1376
+     ],
+     "span": [
+      271,
+      425
+     ],
+     "size": 12,
+     "weight": 600,
+     "en": "3D Modeling / Animation",
+     "align": "center",
+     "x": 348
+    },
+    {
+     "band": [
+      1387,
+      1408
+     ],
+     "span": [
+      254,
+      326
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Tomoya Kawasaki",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      1387,
+      1408
+     ],
+     "span": [
+      372,
+      444
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Akihiro Hayano",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      1413,
+      1435
+     ],
+     "span": [
+      272,
+      328
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Ryo Yamagishi",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      1413,
+      1435
+     ],
+     "span": [
+      371,
+      444
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Satoshi Motowaki",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      1441,
+      1462
+     ],
+     "span": [
+      271,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Suguru Ueda",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      1441,
+      1462
+     ],
+     "span": [
+      371,
+      442
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Yoshito Kawanishi",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      1468,
+      1485
+     ],
+     "span": [
+      311,
+      385
+     ],
+     "size": 12,
+     "weight": 600,
+     "en": "2D Graphics",
+     "align": "center",
+     "x": 348
+    },
+    {
+     "band": [
+      1494,
+      1515
+     ],
+     "span": [
+      312,
+      385
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Koji Watanabe",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      1523,
+      1539
+     ],
+     "span": [
+      306,
+      390
+     ],
+     "size": 12,
+     "weight": 600,
+     "en": "Character SFX",
+     "align": "center",
+     "x": 348
+    },
+    {
+     "band": [
+      1548,
+      1570
+     ],
+     "span": [
+      305,
+      395
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Junichiro Ishino",
+     "align": "center",
+     "x": 350,
+     "width": 270
+    },
+    {
+     "band": [
+      1603,
+      1624
+     ],
+     "span": [
+      263,
+      434
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Character Logic —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      1629,
+      1646
+     ],
+     "span": [
+      321,
+      375
+     ],
+     "size": 12,
+     "weight": 600,
+     "en": "Planner",
+     "align": "center",
+     "x": 348
+    },
+    {
+     "band": [
+      1657,
+      1678
+     ],
+     "span": [
+      313,
+      384
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Takeyuki Kitazaki",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      1684,
+      1700
+     ],
+     "span": [
+      321,
+      375
+     ],
+     "size": 12,
+     "weight": 600,
+     "en": "Programmer",
+     "align": "center",
+     "x": 348
+    },
+    {
+     "band": [
+      1710,
+      1732
+     ],
+     "span": [
+      312,
+      385
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Yoshitaka Suzuki",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      1765,
+      1785
+     ],
+     "span": [
+      301,
+      396
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Stages —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      1792,
+      1809
+     ],
+     "span": [
+      321,
+      375
+     ],
+     "size": 12,
+     "weight": 600,
+     "en": "Planner",
+     "align": "center",
+     "x": 348
+    },
+    {
+     "band": [
+      1818,
+      1840
+     ],
+     "span": [
+      313,
+      384
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Shigeto Hirai",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      1846,
+      1862
+     ],
+     "span": [
+      321,
+      375
+     ],
+     "size": 12,
+     "weight": 600,
+     "en": "Programmer",
+     "align": "center",
+     "x": 348
+    },
+    {
+     "band": [
+      1872,
+      1894
+     ],
+     "span": [
+      313,
+      385
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Yoshiyuki Naito",
+     "align": "center",
+     "x": 349,
+     "width": 270
+    },
+    {
+     "band": [
+      1899,
+      1917
+     ],
+     "span": [
+      314,
+      383
+     ],
+     "size": 12,
+     "weight": 600,
+     "en": "3D Modeling",
+     "align": "center",
+     "x": 348
+    },
+    {
+     "band": [
+      1927,
+      1948
+     ],
+     "span": [
+      254,
+      326
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Yukito Okui",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      1927,
+      1948
+     ],
+     "span": [
+      372,
+      444
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Motohiro Yamada",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      1953,
+      1975
+     ],
+     "span": [
+      255,
+      326
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Masahiro Takai",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      1981,
+      1997
+     ],
+     "span": [
+      311,
+      385
+     ],
+     "size": 12,
+     "weight": 600,
+     "en": "2D Graphics",
+     "align": "center",
+     "x": 348
+    },
+    {
+     "band": [
+      2008,
+      2029
+     ],
+     "span": [
+      238,
+      328
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Junichiro Ishino",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      2008,
+      2029
+     ],
+     "span": [
+      372,
+      444
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Tomoko Yamagami",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      2034,
+      2056
+     ],
+     "span": [
+      255,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Yuki Ichinomiya",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      2088,
+      2110
+     ],
+     "span": [
+      304,
+      392
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— 3D Demos —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      2117,
+      2132
+     ],
+     "span": [
+      305,
+      391
+     ],
+     "size": 12,
+     "weight": 600,
+     "en": "3D Animation",
+     "align": "center",
+     "x": 348
+    },
+    {
+     "band": [
+      2143,
+      2164
+     ],
+     "span": [
+      271,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Suguru Ueda",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      2143,
+      2164
+     ],
+     "span": [
+      371,
+      427
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Isao Saito",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      2198,
+      2217
+     ],
+     "span": [
+      303,
+      394
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Menus —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      2224,
+      2241
+     ],
+     "span": [
+      321,
+      375
+     ],
+     "size": 12,
+     "weight": 600,
+     "en": "Programmer",
+     "align": "center",
+     "x": 348
+    },
+    {
+     "band": [
+      2251,
+      2273
+     ],
+     "span": [
+      237,
+      328
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Shintaro Misaki",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      2251,
+      2273
+     ],
+     "span": [
+      372,
+      444
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Kazuaki Ito",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      2279,
+      2295
+     ],
+     "span": [
+      311,
+      385
+     ],
+     "size": 12,
+     "weight": 600,
+     "en": "2D Graphics",
+     "align": "center",
+     "x": 348
+    },
+    {
+     "band": [
+      2304,
+      2326
+     ],
+     "span": [
+      312,
+      385
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Tomoko Watanabe",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      2358,
+      2380
+     ],
+     "span": [
+      294,
+      403
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Planners —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      2386,
+      2402
+     ],
+     "span": [
+      315,
+      382
+     ],
+     "size": 12,
+     "weight": 600,
+     "en": "Planning",
+     "align": "center",
+     "x": 348
+    },
+    {
+     "band": [
+      2412,
+      2434
+     ],
+     "span": [
+      255,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Kaiko Arima",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      2412,
+      2434
+     ],
+     "span": [
+      372,
+      427
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Takeshi Sato",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      2439,
+      2461
+     ],
+     "span": [
+      254,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Ryosuke Fujino",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      2494,
+      2546
+     ],
+     "span": [
+      304,
+      392
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Sound —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      2549,
+      2565
+     ],
+     "span": [
+      303,
+      393
+     ],
+     "size": 12,
+     "weight": 600,
+     "en": "Sound Director",
+     "align": "center",
+     "x": 348
+    },
+    {
+     "band": [
+      2574,
+      2596
+     ],
+     "span": [
+      322,
+      377
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Tsukasa Saito",
+     "align": "center",
+     "x": 350,
+     "width": 270
+    },
+    {
+     "band": [
+      2603,
+      2619
+     ],
+     "span": [
+      304,
+      392
+     ],
+     "size": 12,
+     "weight": 600,
+     "en": "Sound Creators",
+     "align": "center",
+     "x": 348
+    },
+    {
+     "band": [
+      2629,
+      2650
+     ],
+     "span": [
+      252,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Daisuke Matsumoto",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      2629,
+      2650
+     ],
+     "span": [
+      371,
+      447
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Kota Hoshino",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      2656,
+      2678
+     ],
+     "span": [
+      251,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Koichi Suenaga",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      2656,
+      2678
+     ],
+     "span": [
+      372,
+      447
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Hideyuki Eto",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      2709,
+      2730
+     ],
+     "span": [
+      290,
+      407
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— CG Movies —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      2738,
+      2754
+     ],
+     "span": [
+      314,
+      382
+     ],
+     "size": 12,
+     "weight": 600,
+     "en": "CG Director",
+     "align": "center",
+     "x": 348
+    },
+    {
+     "band": [
+      2763,
+      2785
+     ],
+     "span": [
+      311,
+      386
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Yoshio Yokota",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      2791,
+      2808
+     ],
+     "span": [
+      311,
+      385
+     ],
+     "size": 12,
+     "weight": 600,
+     "en": "CG Designers",
+     "align": "center",
+     "x": 348
+    },
+    {
+     "band": [
+      2818,
+      2840
+     ],
+     "span": [
+      251,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Toshiyuki Suzuki",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      2818,
+      2840
+     ],
+     "span": [
+      371,
+      447
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Takashi Shinozuka",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      2845,
+      2866
+     ],
+     "span": [
+      253,
+      326
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Shuzo Tadokoro",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      2845,
+      2866
+     ],
+     "span": [
+      372,
+      447
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Kimihiro Tomino",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      2872,
+      2894
+     ],
+     "span": [
+      251,
+      326
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Takayuki Toda",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      2872,
+      2894
+     ],
+     "span": [
+      371,
+      464
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Hiroki Ebisawa",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      2899,
+      2920
+     ],
+     "span": [
+      268,
+      326
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Takayuki Muro",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      2899,
+      2920
+     ],
+     "span": [
+      371,
+      446
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Takayuki Ozawa",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      2926,
+      2948
+     ],
+     "span": [
+      252,
+      326
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Akio Horibe",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      2979,
+      3001
+     ],
+     "span": [
+      255,
+      442
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Assistant Director —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      3007,
+      3028
+     ],
+     "span": [
+      314,
+      385
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Tomohiko Yoshida",
+     "align": "center",
+     "x": 350,
+     "width": 270
+    },
+    {
+     "band": [
+      3114,
+      3136
+     ],
+     "span": [
+      296,
+      400
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Director —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      3142,
+      3163
+     ],
+     "span": [
+      312,
+      386
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Tomohiro Shibuya",
+     "align": "center",
+     "x": 349,
+     "width": 270
+    },
+    {
+     "band": [
+      3466,
+      3488
+     ],
+     "span": [
+      302,
+      395
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Cast —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      3520,
+      3541
+     ],
+     "span": [
+      304,
+      392
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Cast —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      3547,
+      3569
+     ],
+     "span": [
+      273,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Takeshi Aoba",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      3547,
+      3569
+     ],
+     "span": [
+      371,
+      443
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Shuichi Ikeda",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      3574,
+      3595
+     ],
+     "span": [
+      255,
+      326
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Ryuzo Ishino",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      3574,
+      3595
+     ],
+     "span": [
+      372,
+      426
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Osamu Ichikawa",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      3602,
+      3623
+     ],
+     "span": [
+      272,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Tetsu Inada",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      3602,
+      3623
+     ],
+     "span": [
+      371,
+      444
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Kazuhiko Inoue",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      3628,
+      3650
+     ],
+     "span": [
+      237,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Fumiko Inoue",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      3628,
+      3650
+     ],
+     "span": [
+      372,
+      458
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Yuji Ueda",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      3655,
+      3676
+     ],
+     "span": [
+      254,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Hiroko Emori",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      3655,
+      3676
+     ],
+     "span": [
+      371,
+      443
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Akio Otsuka",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      3682,
+      3704
+     ],
+     "span": [
+      254,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Tomoko Otsuka",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      3682,
+      3704
+     ],
+     "span": [
+      371,
+      443
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Hochu Otsuka",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      3709,
+      3731
+     ],
+     "span": [
+      272,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Ai Orikasa",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      3709,
+      3731
+     ],
+     "span": [
+      371,
+      443
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Yasuyuki Kase",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      3736,
+      3758
+     ],
+     "span": [
+      271,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Osamu Kato",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      3736,
+      3758
+     ],
+     "span": [
+      371,
+      462
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Maria Kawamura",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      3763,
+      3785
+     ],
+     "span": [
+      255,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Masami Kikuchi",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      3763,
+      3785
+     ],
+     "span": [
+      371,
+      461
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Jurota Kosugi",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      3790,
+      3811
+     ],
+     "span": [
+      255,
+      326
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Takehito Koyasu",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      3790,
+      3811
+     ],
+     "span": [
+      371,
+      444
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Yoshiko Sakakibara",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      3817,
+      3839
+     ],
+     "span": [
+      254,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Hiroyuki Shibamoto",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      3817,
+      3839
+     ],
+     "span": [
+      371,
+      444
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Saeko Shimazu",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      3844,
+      3866
+     ],
+     "span": [
+      273,
+      328
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Tetsu Shiratori",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      3844,
+      3866
+     ],
+     "span": [
+      371,
+      444
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Hirotaka Suzuoki",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      3871,
+      3893
+     ],
+     "span": [
+      272,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Toshihiko Seki",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      3871,
+      3893
+     ],
+     "span": [
+      371,
+      444
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Miki Takahashi",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      3898,
+      3920
+     ],
+     "span": [
+      256,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Hirofumi Tanaka",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      3898,
+      3920
+     ],
+     "span": [
+      372,
+      444
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Yumi Toma",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      3925,
+      3947
+     ],
+     "span": [
+      255,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Yasuhiko Tokuyama",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      3925,
+      3947
+     ],
+     "span": [
+      371,
+      443
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Nobuo Tobita",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      3952,
+      3974
+     ],
+     "span": [
+      254,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Mika Doi",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      3952,
+      3974
+     ],
+     "span": [
+      373,
+      427
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Shigeru Nakahara",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      3979,
+      4001
+     ],
+     "span": [
+      255,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Shiho Nagoshi",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      3979,
+      4001
+     ],
+     "span": [
+      371,
+      427
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Sho Hayami",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      4006,
+      4028
+     ],
+     "span": [
+      266,
+      326
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Eriko Hara",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      4006,
+      4028
+     ],
+     "span": [
+      373,
+      453
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Noriko Hidaka",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      4033,
+      4055
+     ],
+     "span": [
+      255,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Hirokazu Hiramatsu",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      4033,
+      4055
+     ],
+     "span": [
+      371,
+      461
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Kayoko Fujii",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      4060,
+      4082
+     ],
+     "span": [
+      273,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Toru Furuya",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      4060,
+      4082
+     ],
+     "span": [
+      371,
+      444
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Kenyu Horiuchi",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      4087,
+      4109
+     ],
+     "span": [
+      254,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Ryuichi Horibe",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      4087,
+      4109
+     ],
+     "span": [
+      371,
+      461
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Chieko Honda",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      4114,
+      4136
+     ],
+     "span": [
+      254,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Yasunori Masutani",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      4114,
+      4136
+     ],
+     "span": [
+      371,
+      455
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Miyuki Matsuoka",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      4142,
+      4163
+     ],
+     "span": [
+      271,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Hikaru Midorikawa",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      4142,
+      4163
+     ],
+     "span": [
+      372,
+      427
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Omi Minami",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      4168,
+      4190
+     ],
+     "span": [
+      255,
+      326
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Akino Murata",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      4168,
+      4190
+     ],
+     "span": [
+      371,
+      443
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Toshiyuki Morikawa",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      4195,
+      4216
+     ],
+     "span": [
+      254,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Akiko Yajima",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      4195,
+      4216
+     ],
+     "span": [
+      372,
+      443
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Koichi Yamadera",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      4222,
+      4244
+     ],
+     "span": [
+      244,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Mitsuki Yayoi",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      4222,
+      4244
+     ],
+     "span": [
+      371,
+      444
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Chisa Yokoyama",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      4249,
+      4271
+     ],
+     "span": [
+      256,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Takahiro Yoshimizu",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      4277,
+      4293
+     ],
+     "span": [
+      372,
+      449
+     ],
+     "size": 12,
+     "weight": 600,
+     "en": "(in Japanese syllabary order)",
+     "align": "center",
+     "x": 410
+    },
+    {
+     "band": [
+      4384,
+      4406
+     ],
+     "span": [
+      297,
+      400
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Sound Director —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      4412,
+      4433
+     ],
+     "span": [
+      271,
+      426
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "X-One Co., Ltd.",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      4438,
+      4460
+     ],
+     "span": [
+      313,
+      385
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Kazuya Torishima",
+     "align": "center",
+     "x": 349,
+     "width": 270
+    },
+    {
+     "band": [
+      4492,
+      4514
+     ],
+     "span": [
+      281,
+      416
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Casting —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      4519,
+      4541
+     ],
+     "span": [
+      246,
+      450
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Aoni Production Co., Ltd.",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      4546,
+      4568
+     ],
+     "span": [
+      322,
+      377
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Yasuaki Sumi",
+     "align": "center",
+     "x": 350,
+     "width": 270
+    },
+    {
+     "band": [
+      4870,
+      4893
+     ],
+     "span": [
+      295,
+      402
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Music Cooperation —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      4924,
+      4946
+     ],
+     "span": [
+      260,
+      437
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— A&R Producer —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      4948,
+      4975
+     ],
+     "span": [
+      261,
+      436
+     ],
+     "size": 16,
+     "weight": 700,
+     "keep": true
+    },
+    {
+     "band": [
+      4982,
+      5003
+     ],
+     "span": [
+      313,
+      385
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Junichi Tsuchiya",
+     "align": "center",
+     "x": 349,
+     "width": 270
+    },
+    {
+     "band": [
+      5090,
+      5111
+     ],
+     "span": [
+      251,
+      446
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— A&R Supervisor —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      5112,
+      5140
+     ],
+     "span": [
+      261,
+      436
+     ],
+     "size": 16,
+     "weight": 700,
+     "keep": true
+    },
+    {
+     "band": [
+      5147,
+      5168
+     ],
+     "span": [
+      313,
+      385
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Michiharu Sato",
+     "align": "center",
+     "x": 349,
+     "width": 270
+    },
+    {
+     "band": [
+      5200,
+      5223
+     ],
+     "span": [
+      276,
+      420
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— A&R Directors —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      5224,
+      5251
+     ],
+     "span": [
+      261,
+      436
+     ],
+     "size": 16,
+     "weight": 700,
+     "keep": true
+    },
+    {
+     "band": [
+      5258,
+      5280
+     ],
+     "span": [
+      254,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Yasuhiko Onda",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      5258,
+      5280
+     ],
+     "span": [
+      371,
+      443
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Junya Shinozaki",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      5286,
+      5307
+     ],
+     "span": [
+      237,
+      326
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Mitsuo Hasegawa",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      5339,
+      5361
+     ],
+     "span": [
+      244,
+      453
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Recording Director —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      5362,
+      5390
+     ],
+     "span": [
+      261,
+      436
+     ],
+     "size": 16,
+     "weight": 700,
+     "keep": true
+    },
+    {
+     "band": [
+      5397,
+      5418
+     ],
+     "span": [
+      323,
+      378
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Wataru Yoshioka",
+     "align": "center",
+     "x": 350,
+     "width": 270
+    },
+    {
+     "band": [
+      5451,
+      5472
+     ],
+     "span": [
+      237,
+      460
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Project Producer —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      5480,
+      5494
+     ],
+     "span": [
+      271,
+      426
+     ],
+     "size": 12,
+     "weight": 600,
+     "keep": true
+    },
+    {
+     "band": [
+      5505,
+      5527
+     ],
+     "span": [
+      313,
+      385
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Tatsushi Miura",
+     "align": "center",
+     "x": 349,
+     "width": 270
+    },
+    {
+     "band": [
+      5559,
+      5580
+     ],
+     "span": [
+      244,
+      452
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Artist Manager —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      5588,
+      5603
+     ],
+     "span": [
+      271,
+      426
+     ],
+     "size": 12,
+     "weight": 600,
+     "keep": true
+    },
+    {
+     "band": [
+      5613,
+      5634
+     ],
+     "span": [
+      313,
+      385
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Hirokazu Fukumoto",
+     "align": "center",
+     "x": 349,
+     "width": 270
+    },
+    {
+     "band": [
+      5667,
+      5688
+     ],
+     "span": [
+      249,
+      447
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Sales Promotion —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      5690,
+      5717
+     ],
+     "span": [
+      233,
+      469
+     ],
+     "size": 16,
+     "weight": 700,
+     "keep": true
+    },
+    {
+     "band": [
+      5721,
+      5743
+     ],
+     "span": [
+      313,
+      386
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Nobuhiro Maeno",
+     "align": "center",
+     "x": 350,
+     "width": 270
+    },
+    {
+     "band": [
+      5829,
+      5850
+     ],
+     "span": [
+      232,
+      465
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Tie-in Coordination —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      5852,
+      5879
+     ],
+     "span": [
+      261,
+      436
+     ],
+     "size": 16,
+     "weight": 700,
+     "keep": true
+    },
+    {
+     "band": [
+      5883,
+      5904
+     ],
+     "span": [
+      304,
+      394
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Kenichiro Kimura",
+     "align": "center",
+     "x": 349,
+     "width": 270
+    },
+    {
+     "band": [
+      5963,
+      5984
+     ],
+     "span": [
+      281,
+      416
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Image Song —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      5991,
+      6013
+     ],
+     "span": [
+      211,
+      471
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "“Image Song: Garnet Moon”",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      6045,
+      6067
+     ],
+     "span": [
+      328,
+      467
+     ],
+     "size": 14,
+     "weight": 700,
+     "en": "Lyrics: Sumiyo Mutsumi",
+     "align": "left",
+     "x": 262,
+     "width": 240
+    },
+    {
+     "band": [
+      6072,
+      6094
+     ],
+     "span": [
+      328,
+      436
+     ],
+     "size": 14,
+     "weight": 700,
+     "en": "Music: Shigeki Sako",
+     "align": "left",
+     "x": 262,
+     "width": 240
+    },
+    {
+     "band": [
+      6099,
+      6120
+     ],
+     "span": [
+      328,
+      452
+     ],
+     "size": 14,
+     "weight": 700,
+     "en": "Arrangement: Yasuaki Maejima",
+     "align": "left",
+     "x": 262,
+     "width": 240
+    },
+    {
+     "band": [
+      6126,
+      6148
+     ],
+     "span": [
+      336,
+      351
+     ],
+     "size": 14,
+     "weight": 700,
+     "en": "Vocals: Hitomi Shimatani",
+     "align": "left",
+     "x": 262,
+     "width": 240
+    },
+    {
+     "band": [
+      6126,
+      6148
+     ],
+     "span": [
+      368,
+      462
+     ],
+     "size": 16,
+     "weight": 700,
+     "en": "",
+     "align": "left",
+     "x": 368
+    },
+    {
+     "band": [
+      6180,
+      6202
+     ],
+     "span": [
+      264,
+      432
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Ending Song —",
+     "align": "left",
+     "x": 264,
+     "width": 270
+    },
+    {
+     "band": [
+      6206,
+      6229
+     ],
+     "span": [
+      244,
+      453
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "“Ending Song: Inori”",
+     "align": "left",
+     "x": 244,
+     "width": 270
+    },
+    {
+     "band": [
+      6261,
+      6283
+     ],
+     "span": [
+      328,
+      473
+     ],
+     "size": 14,
+     "weight": 700,
+     "en": "Lyrics: BULGE / sola",
+     "align": "left",
+     "x": 262,
+     "width": 240
+    },
+    {
+     "band": [
+      6288,
+      6310
+     ],
+     "span": [
+      328,
+      473
+     ],
+     "size": 14,
+     "weight": 700,
+     "en": "Music: BULGE / sola",
+     "align": "left",
+     "x": 262,
+     "width": 240
+    },
+    {
+     "band": [
+      6316,
+      6337
+     ],
+     "span": [
+      328,
+      430
+     ],
+     "size": 14,
+     "weight": 700,
+     "en": "Arrangement: BULGE",
+     "align": "left",
+     "x": 262,
+     "width": 240
+    },
+    {
+     "band": [
+      6342,
+      6363
+     ],
+     "span": [
+      336,
+      351
+     ],
+     "size": 14,
+     "weight": 700,
+     "en": "Vocals: Hitomi Shimatani",
+     "align": "left",
+     "x": 262,
+     "width": 240
+    },
+    {
+     "band": [
+      6342,
+      6363
+     ],
+     "span": [
+      368,
+      462
+     ],
+     "size": 16,
+     "weight": 700,
+     "en": "",
+     "align": "left",
+     "x": 368
+    },
+    {
+     "band": [
+      6451,
+      6472
+     ],
+     "span": [
+      254,
+      443
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Special Thanks to —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      6477,
+      6499
+     ],
+     "span": [
+      254,
+      326
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Yuzo Kojima",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      6477,
+      6499
+     ],
+     "span": [
+      372,
+      427
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Makoto Sato",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      6504,
+      6525
+     ],
+     "span": [
+      254,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Kazutaka Era",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      6558,
+      6580
+     ],
+     "span": [
+      255,
+      328
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Takanobu Terada",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      6558,
+      6580
+     ],
+     "span": [
+      371,
+      444
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Satoshi Otsuka",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      6612,
+      6634
+     ],
+     "span": [
+      314,
+      383
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Supervision —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      6639,
+      6660
+     ],
+     "span": [
+      275,
+      422
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Sunrise Inc.",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      6667,
+      6688
+     ],
+     "span": [
+      254,
+      326
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Katsumi Mochizuki",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      6667,
+      6688
+     ],
+     "span": [
+      371,
+      444
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Akihiro Morita",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      6693,
+      6714
+     ],
+     "span": [
+      271,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Makoto Shibuya",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      6721,
+      6742
+     ],
+     "span": [
+      245,
+      451
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Sotsu Agency Co., Ltd.",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      6747,
+      6769
+     ],
+     "span": [
+      322,
+      377
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Retsu Tamura",
+     "align": "center",
+     "x": 350,
+     "width": 270
+    },
+    {
+     "band": [
+      6774,
+      6795
+     ],
+     "span": [
+      269,
+      428
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Rights In Co., Ltd.",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      6801,
+      6823
+     ],
+     "span": [
+      313,
+      385
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Keiko Hirakawa",
+     "align": "center",
+     "x": 349,
+     "width": 270
+    },
+    {
+     "band": [
+      6855,
+      6877
+     ],
+     "span": [
+      251,
+      447
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Original Mecha Design —",
+     "align": "center",
+     "x": 349,
+     "width": 270
+    },
+    {
+     "band": [
+      6883,
+      6900
+     ],
+     "span": [
+      274,
+      423
+     ],
+     "size": 12,
+     "weight": 600,
+     "en": "— Banpresto Originals —",
+     "align": "center",
+     "x": 348
+    },
+    {
+     "band": [
+      6909,
+      6930
+     ],
+     "span": [
+      304,
+      393
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Kunio Okawara",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      6937,
+      6958
+     ],
+     "span": [
+      312,
+      386
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Taisei Fujii",
+     "align": "center",
+     "x": 349,
+     "width": 270
+    },
+    {
+     "band": [
+      6991,
+      7007
+     ],
+     "span": [
+      255,
+      442
+     ],
+     "size": 12,
+     "weight": 600,
+     "en": "— FromSoftware Originals —",
+     "align": "center",
+     "x": 348
+    },
+    {
+     "band": [
+      7017,
+      7039
+     ],
+     "span": [
+      255,
+      328
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Daisuke Satake",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      7017,
+      7039
+     ],
+     "span": [
+      371,
+      444
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Shinsaku Matsuoka",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      7044,
+      7066
+     ],
+     "span": [
+      271,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Akira Takimoto",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      7098,
+      7120
+     ],
+     "span": [
+      297,
+      400
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Cooperating Companies —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      7129,
+      7151
+     ],
+     "span": [
+      264,
+      406
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Layup Co., Ltd.",
+     "align": "center",
+     "x": 335,
+     "width": 270
+    },
+    {
+     "band": [
+      7156,
+      7178
+     ],
+     "span": [
+      264,
+      430
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "ARTPRESTO Co., Ltd.",
+     "align": "center",
+     "x": 347,
+     "width": 270
+    },
+    {
+     "band": [
+      7183,
+      7205
+     ],
+     "span": [
+      264,
+      460
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Digitalscape Co., Ltd.",
+     "align": "center",
+     "x": 362,
+     "width": 270
+    },
+    {
+     "band": [
+      7210,
+      7232
+     ],
+     "span": [
+      264,
+      443
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Digital Hearts Co., Ltd.",
+     "align": "center",
+     "x": 354,
+     "width": 270
+    },
+    {
+     "band": [
+      7531,
+      7553
+     ],
+     "span": [
+      211,
+      471
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— FromSoftware Staff —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      7584,
+      7605
+     ],
+     "span": [
+      227,
+      469
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Package Visual Design —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      7612,
+      7633
+     ],
+     "span": [
+      314,
+      384
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Naoizumi Tazo",
+     "align": "center",
+     "x": 349,
+     "width": 270
+    },
+    {
+     "band": [
+      7665,
+      7688
+     ],
+     "span": [
+      286,
+      411
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— PR Support —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      7692,
+      7714
+     ],
+     "span": [
+      237,
+      328
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Keiichiro Segawa",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      7692,
+      7714
+     ],
+     "span": [
+      371,
+      444
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Yasutaka Ogura",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      7747,
+      7768
+     ],
+     "span": [
+      297,
+      400
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Quality Control —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      7773,
+      7795
+     ],
+     "span": [
+      313,
+      385
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Tatsuya Kawate",
+     "align": "center",
+     "x": 349,
+     "width": 270
+    },
+    {
+     "band": [
+      7827,
+      7849
+     ],
+     "span": [
+      280,
+      417
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Production Management —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      7854,
+      7876
+     ],
+     "span": [
+      313,
+      385
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Yuki Iguchi",
+     "align": "center",
+     "x": 349,
+     "width": 270
+    },
+    {
+     "band": [
+      7909,
+      7929
+     ],
+     "span": [
+      301,
+      395
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Testers —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      7936,
+      7958
+     ],
+     "span": [
+      254,
+      328
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Takuro Seguchi",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      7936,
+      7958
+     ],
+     "span": [
+      371,
+      443
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Kenji Akiba",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      7963,
+      7984
+     ],
+     "span": [
+      255,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Tomohiro Ito",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      7963,
+      7984
+     ],
+     "span": [
+      370,
+      443
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Yoshinaga Iizuka",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      7989,
+      8011
+     ],
+     "span": [
+      254,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Akihiro Tojo",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      7989,
+      8011
+     ],
+     "span": [
+      372,
+      444
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Takuya Tanaka",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      8016,
+      8038
+     ],
+     "span": [
+      255,
+      328
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Masayoshi Akasaka",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      8016,
+      8038
+     ],
+     "span": [
+      371,
+      442
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Kenji Murashima",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      8043,
+      8065
+     ],
+     "span": [
+      271,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Jun Someya",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      8043,
+      8065
+     ],
+     "span": [
+      371,
+      427
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Daisuke Mori",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      8151,
+      8175
+     ],
+     "span": [
+      251,
+      445
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Banpresto Staff —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      8206,
+      8228
+     ],
+     "span": [
+      297,
+      400
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Advertising —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      8233,
+      8254
+     ],
+     "span": [
+      254,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Koji Kumakura",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      8233,
+      8254
+     ],
+     "span": [
+      371,
+      444
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Momoko Suzuki",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      8259,
+      8281
+     ],
+     "span": [
+      237,
+      328
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Chikae Kimura",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      8259,
+      8281
+     ],
+     "span": [
+      371,
+      426
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Takashi Watanabe",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      8287,
+      8308
+     ],
+     "span": [
+      254,
+      326
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Tatsuya Kawase",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      8287,
+      8308
+     ],
+     "span": [
+      372,
+      444
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Tomoko Takehara",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      8341,
+      8362
+     ],
+     "span": [
+      314,
+      383
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Sales —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      8367,
+      8389
+     ],
+     "span": [
+      271,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Yutaka Watanabe",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      8367,
+      8389
+     ],
+     "span": [
+      372,
+      444
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Hideo Emoto",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      8394,
+      8415
+     ],
+     "span": [
+      256,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Shoichi Yoshiba",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      8394,
+      8415
+     ],
+     "span": [
+      371,
+      453
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Eriko Totsuka",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    },
+    {
+     "band": [
+      8422,
+      8442
+     ],
+     "span": [
+      254,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Haruko Okugaki",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      8476,
+      8496
+     ],
+     "span": [
+      297,
+      400
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Licensing —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      8503,
+      8523
+     ],
+     "span": [
+      313,
+      385
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "Yuta Kadohara",
+     "align": "center",
+     "x": 349,
+     "width": 270
+    },
+    {
+     "band": [
+      8557,
+      8576
+     ],
+     "span": [
+      258,
+      439
+     ],
+     "size": 15,
+     "weight": 700,
+     "en": "— Chief Producers —",
+     "align": "center",
+     "x": 348,
+     "width": 270
+    },
+    {
+     "band": [
+      8583,
+      8603
+     ],
+     "span": [
+      254,
+      327
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Katsuhiro Suzuki",
+     "align": "right",
+     "x": 344,
+     "width": 128
+    },
+    {
+     "band": [
+      8583,
+      8603
+     ],
+     "span": [
+      371,
+      442
+     ],
+     "size": 13,
+     "weight": 600,
+     "en": "Yoshihisa Kanesaka",
+     "align": "left",
+     "x": 356,
+     "width": 128
+    }
+   ]
+  },
+  {
+   "frames": [
+    11340,
+    13200
+   ],
+   "plate": [
+    11340,
+    13200
+   ],
+   "level": [
+    0,
+    0,
+    40,
+    448
+   ],
+   "speed": 1.17105,
+   "origin": 11340,
+   "fade": [
+    -10,
+    -9,
+    457,
+    458
+   ],
+   "colour": [
+    172,
+    128,
+    128
+   ],
+   "width": 300,
+   "lines": [
+    {
+     "band": [
+      466,
+      487
+     ],
+     "span": [
+      184,
+      326
+     ],
+     "en": "— Producers —",
+     "align": "center",
+     "x": 255,
+     "size": 15,
+     "weight": 700
+    },
+    {
+     "band": [
+      493,
+      510
+     ],
+     "span": [
+      102,
+      192
+     ],
+     "en": "— Banpresto —",
+     "align": "center",
+     "x": 147,
+     "size": 12,
+     "weight": 600
+    },
+    {
+     "band": [
+      493,
+      510
+     ],
+     "span": [
+      299,
+      421
+     ],
+     "en": "— FromSoftware —",
+     "align": "center",
+     "x": 360,
+     "size": 12,
+     "weight": 600
+    },
+    {
+     "band": [
+      520,
+      541
+     ],
+     "span": [
+      112,
+      183
+     ],
+     "en": "Hiroshi Kosuge",
+     "align": "center",
+     "x": 148,
+     "size": 15,
+     "weight": 700
+    },
+    {
+     "band": [
+      520,
+      541
+     ],
+     "span": [
+      325,
+      397
+     ],
+     "en": "Hiroyuki Goto",
+     "align": "center",
+     "x": 361,
+     "size": 15,
+     "weight": 700
+    },
+    {
+     "band": [
+      925,
+      946
+     ],
+     "span": [
+      175,
+      335
+     ],
+     "en": "— Supervisor —",
+     "align": "center",
+     "x": 255,
+     "size": 15,
+     "weight": 700
+    },
+    {
+     "band": [
+      953,
+      969
+     ],
+     "span": [
+      194,
+      315
+     ],
+     "en": "— FromSoftware —",
+     "align": "center",
+     "x": 254,
+     "size": 12,
+     "weight": 600
+    },
+    {
+     "band": [
+      979,
+      1000
+     ],
+     "span": [
+      228,
+      283
+     ],
+     "en": "Naotoshi Zin",
+     "align": "center",
+     "x": 256,
+     "size": 15,
+     "weight": 700
+    },
+    {
+     "band": [
+      1384,
+      1406
+     ],
+     "span": [
+      123,
+      387
+     ],
+     "en": "— Executive Producers —",
+     "align": "center",
+     "x": 255,
+     "size": 15,
+     "weight": 700
+    },
+    {
+     "band": [
+      1412,
+      1428
+     ],
+     "span": [
+      102,
+      192
+     ],
+     "en": "— Banpresto —",
+     "align": "center",
+     "x": 147,
+     "size": 12,
+     "weight": 600
+    },
+    {
+     "band": [
+      1412,
+      1428
+     ],
+     "span": [
+      299,
+      421
+     ],
+     "en": "— FromSoftware —",
+     "align": "center",
+     "x": 360,
+     "size": 12,
+     "weight": 600
+    },
+    {
+     "band": [
+      1437,
+      1459
+     ],
+     "span": [
+      119,
+      175
+     ],
+     "en": "Toshihiro Nada",
+     "align": "center",
+     "x": 147,
+     "size": 15,
+     "weight": 700
+    },
+    {
+     "band": [
+      1437,
+      1459
+     ],
+     "span": [
+      326,
+      397
+     ],
+     "en": "Eiichi Nakajima",
+     "align": "center",
+     "x": 362,
+     "size": 15,
+     "weight": 700
+    },
+    {
+     "band": [
+      2086,
+      2110
+     ],
+     "span": [
+      219,
+      291
+     ],
+     "en": "— Development —",
+     "align": "center",
+     "x": 255,
+     "size": 13,
+     "weight": 700
+    }
+   ],
+   "local": 30
+  },
+  {
+   "type": "static",
+   "frames": [
+    13312,
+    13652
+   ],
+   "box": [
+    222,
+    164,
+    290,
+    182
+   ],
+   "colour": [
+    215,
+    128,
+    128
+   ],
+   "lines": [
+    {
+     "band": [
+      164,
+      182
+     ],
+     "en": "— Publisher —",
+     "align": "center",
+     "x": 256,
+     "size": 12,
+     "weight": 600
+    }
+   ],
+   "refs": [
+    13306,
+    13654
+   ]
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    3782,
+    4148
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 0,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 18,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "romaji_bottom": 406,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     3782,
+     0.0
+    ],
+    [
+     3795,
+     0.0
+    ],
+    [
+     3843,
+     0.18143203883495146
+    ],
+    [
+     3901,
+     0.33616504854368934
+    ],
+    [
+     3921,
+     0.3871359223300971
+    ],
+    [
+     3940,
+     0.45934466019417475
+    ],
+    [
+     4033,
+     0.6826456310679612
+    ],
+    [
+     4103,
+     0.8319174757281553
+    ],
+    [
+     4121,
+     0.9484223300970874
+    ],
+    [
+     4138,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ],
+   "backdrop": {
+    "top": 375,
+    "bottom": 448,
+    "opacity": 0.86,
+    "feather": 8
+   }
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    4148,
+    4522
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 1,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 18,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "romaji_bottom": 406,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     4148,
+     0.0
+    ],
+    [
+     4160,
+     0.0
+    ],
+    [
+     4181,
+     0.09881422924901186
+    ],
+    [
+     4230,
+     0.1686429512516469
+    ],
+    [
+     4234,
+     0.22397891963109354
+    ],
+    [
+     4256,
+     0.3089591567852437
+    ],
+    [
+     4322,
+     0.4492753623188406
+    ],
+    [
+     4327,
+     0.4888010540184453
+    ],
+    [
+     4414,
+     0.7167325428194994
+    ],
+    [
+     4482,
+     0.9380764163372859
+    ],
+    [
+     4518,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ],
+   "backdrop": {
+    "top": 375,
+    "bottom": 448,
+    "opacity": 0.86,
+    "feather": 8
+   }
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    4522,
+    4918
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 2,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 18,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "romaji_bottom": 386,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     4522,
+     0.0
+    ],
+    [
+     4525,
+     0.0
+    ],
+    [
+     4581,
+     0.07829839704069051
+    ],
+    [
+     4615,
+     0.20715166461159062
+    ],
+    [
+     4643,
+     0.2725030826140567
+    ],
+    [
+     4668,
+     0.3218249075215783
+    ],
+    [
+     4692,
+     0.3588162762022195
+    ],
+    [
+     4734,
+     0.4938347718865598
+    ],
+    [
+     4768,
+     0.6448828606658447
+    ],
+    [
+     4820,
+     0.7398273736128237
+    ],
+    [
+     4880,
+     0.9001233045622689
+    ],
+    [
+     4909,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ],
+   "backdrop": {
+    "top": 355,
+    "bottom": 448,
+    "opacity": 0.86,
+    "feather": 8
+   }
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    4918,
+    5324
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 3,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 18,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "romaji_bottom": 386,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     4918,
+     0.0
+    ],
+    [
+     4921,
+     0.0
+    ],
+    [
+     4964,
+     0.11032608695652174
+    ],
+    [
+     5024,
+     0.2565217391304348
+    ],
+    [
+     5117,
+     0.529891304347826
+    ],
+    [
+     5208,
+     0.7407608695652174
+    ],
+    [
+     5227,
+     0.8505434782608695
+    ],
+    [
+     5320,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ],
+   "backdrop": {
+    "top": 355,
+    "bottom": 448,
+    "opacity": 0.86,
+    "feather": 8
+   }
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    5324,
+    5750
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 4,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 18,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "romaji_bottom": 406,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     5324,
+     0.0
+    ],
+    [
+     5328,
+     0.0
+    ],
+    [
+     5410,
+     0.10641296687808316
+    ],
+    [
+     5473,
+     0.24171952078928824
+    ],
+    [
+     5484,
+     0.28400281888653983
+    ],
+    [
+     5564,
+     0.4559548978153629
+    ],
+    [
+     5589,
+     0.609584214235377
+    ],
+    [
+     5611,
+     0.6518675123326286
+    ],
+    [
+     5688,
+     0.8054968287526427
+    ],
+    [
+     5727,
+     0.9400986610288936
+    ],
+    [
+     5740,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ],
+   "backdrop": {
+    "top": 375,
+    "bottom": 448,
+    "opacity": 0.86,
+    "feather": 8
+   }
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    5750,
+    6092
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 5,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 18,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "romaji_bottom": 386,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     5750,
+     0.0
+    ],
+    [
+     5759,
+     0.0
+    ],
+    [
+     5816,
+     0.19798301486199577
+    ],
+    [
+     5841,
+     0.2664543524416136
+    ],
+    [
+     5915,
+     0.47770700636942676
+    ],
+    [
+     5941,
+     0.5461783439490446
+    ],
+    [
+     5983,
+     0.6618895966029724
+    ],
+    [
+     5995,
+     0.7181528662420382
+    ],
+    [
+     6028,
+     0.8593418259023354
+    ],
+    [
+     6082,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ],
+   "backdrop": {
+    "top": 332,
+    "bottom": 448,
+    "opacity": 0.86,
+    "feather": 8
+   }
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    6189,
+    6526
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 6,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 18,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "romaji_bottom": 406,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     6189,
+     0.0
+    ],
+    [
+     6263,
+     0.19152542372881357
+    ],
+    [
+     6275,
+     0.26610169491525426
+    ],
+    [
+     6283,
+     0.3169491525423729
+    ],
+    [
+     6331,
+     0.47796610169491527
+    ],
+    [
+     6391,
+     0.6186440677966102
+    ],
+    [
+     6468,
+     0.7627118644067796
+    ],
+    [
+     6500,
+     0.8525423728813559
+    ],
+    [
+     6516,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ],
+   "backdrop": {
+    "top": 375,
+    "bottom": 448,
+    "opacity": 0.86,
+    "feather": 8
+   }
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    6542,
+    6871
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 7,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 18,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "romaji_bottom": 406,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     6542,
+     0.0
+    ],
+    [
+     6556,
+     0.0
+    ],
+    [
+     6580,
+     0.16105769230769232
+    ],
+    [
+     6648,
+     0.27323717948717946
+    ],
+    [
+     6685,
+     0.47115384615384615
+    ],
+    [
+     6713,
+     0.6209935897435898
+    ],
+    [
+     6824,
+     0.7772435897435898
+    ],
+    [
+     6861,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ],
+   "backdrop": {
+    "top": 375,
+    "bottom": 448,
+    "opacity": 0.86,
+    "feather": 8
+   }
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    7333,
+    7678
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 8,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 18,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "romaji_bottom": 406,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     7333,
+     0.0
+    ],
+    [
+     7346,
+     0.0
+    ],
+    [
+     7428,
+     0.2654924983692107
+    ],
+    [
+     7618,
+     0.4409654272667971
+    ],
+    [
+     7622,
+     0.4957599478147423
+    ],
+    [
+     7627,
+     0.715590345727332
+    ],
+    [
+     7636,
+     0.8851924331376386
+    ],
+    [
+     7674,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ],
+   "backdrop": {
+    "top": 375,
+    "bottom": 448,
+    "opacity": 0.86,
+    "feather": 8
+   }
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    7678,
+    8070
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 9,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 18,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "romaji_bottom": 386,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     7678,
+     0.0
+    ],
+    [
+     7682,
+     0.0
+    ],
+    [
+     7791,
+     0.2222222222222222
+    ],
+    [
+     7830,
+     0.33273273273273274
+    ],
+    [
+     7860,
+     0.3963963963963964
+    ],
+    [
+     7868,
+     0.45705705705705707
+    ],
+    [
+     7877,
+     0.5075075075075075
+    ],
+    [
+     7963,
+     0.7069069069069069
+    ],
+    [
+     8038,
+     0.8672672672672672
+    ],
+    [
+     8066,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ],
+   "backdrop": {
+    "top": 355,
+    "bottom": 448,
+    "opacity": 0.86,
+    "feather": 8
+   }
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    8070,
+    8453
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 10,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 18,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "romaji_bottom": 406,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     8070,
+     0.0
+    ],
+    [
+     8073,
+     0.0
+    ],
+    [
+     8127,
+     0.18277310924369747
+    ],
+    [
+     8170,
+     0.23739495798319327
+    ],
+    [
+     8216,
+     0.32668067226890757
+    ],
+    [
+     8278,
+     0.45535714285714285
+    ],
+    [
+     8312,
+     0.5582983193277311
+    ],
+    [
+     8318,
+     0.5898109243697479
+    ],
+    [
+     8374,
+     0.717436974789916
+    ],
+    [
+     8411,
+     0.8660714285714286
+    ],
+    [
+     8449,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ],
+   "backdrop": {
+    "top": 352,
+    "bottom": 448,
+    "opacity": 0.86,
+    "feather": 8
+   }
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    8453,
+    8856
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 11,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 18,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "romaji_bottom": 386,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     8453,
+     0.0
+    ],
+    [
+     8457,
+     0.0
+    ],
+    [
+     8485,
+     0.12008978675645342
+    ],
+    [
+     8512,
+     0.1537598204264871
+    ],
+    [
+     8568,
+     0.2839506172839506
+    ],
+    [
+     8610,
+     0.388327721661055
+    ],
+    [
+     8654,
+     0.49607182940516276
+    ],
+    [
+     8672,
+     0.5286195286195287
+    ],
+    [
+     8741,
+     0.6515151515151515
+    ],
+    [
+     8754,
+     0.702020202020202
+    ],
+    [
+     8807,
+     0.9017957351290684
+    ],
+    [
+     8846,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ],
+   "backdrop": {
+    "top": 355,
+    "bottom": 448,
+    "opacity": 0.86,
+    "feather": 8
+   }
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    8922,
+    9282
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 12,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 18,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "romaji_bottom": 406,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     8922,
+     0.0
+    ],
+    [
+     8936,
+     0.0
+    ],
+    [
+     8978,
+     0.10641296687808316
+    ],
+    [
+     9020,
+     0.24171952078928824
+    ],
+    [
+     9031,
+     0.28400281888653983
+    ],
+    [
+     9111,
+     0.4559548978153629
+    ],
+    [
+     9138,
+     0.609584214235377
+    ],
+    [
+     9160,
+     0.6518675123326286
+    ],
+    [
+     9237,
+     0.8054968287526427
+    ],
+    [
+     9275,
+     0.9400986610288936
+    ],
+    [
+     9278,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ],
+   "backdrop": {
+    "top": 375,
+    "bottom": 448,
+    "opacity": 0.86,
+    "feather": 8
+   }
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    9282,
+    9646
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 13,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 18,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "romaji_bottom": 386,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     9282,
+     0.0
+    ],
+    [
+     9285,
+     0.0
+    ],
+    [
+     9345,
+     0.11945392491467577
+    ],
+    [
+     9360,
+     0.1955143832276938
+    ],
+    [
+     9374,
+     0.25841053144807413
+    ],
+    [
+     9450,
+     0.4256460263286202
+    ],
+    [
+     9462,
+     0.47489029741589467
+    ],
+    [
+     9476,
+     0.5158459288152121
+    ],
+    [
+     9532,
+     0.6621160409556314
+    ],
+    [
+     9555,
+     0.749390541199415
+    ],
+    [
+     9572,
+     0.7932715748415408
+    ],
+    [
+     9610,
+     0.9224768405655778
+    ],
+    [
+     9636,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ],
+   "backdrop": {
+    "top": 332,
+    "bottom": 448,
+    "opacity": 0.86,
+    "feather": 8
+   }
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    9727,
+    10077
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 14,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 18,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "romaji_bottom": 406,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     9727,
+     0.0
+    ],
+    [
+     9741,
+     0.0
+    ],
+    [
+     9776,
+     0.13249571673329527
+    ],
+    [
+     9804,
+     0.1901770416904626
+    ],
+    [
+     9871,
+     0.4368932038834951
+    ],
+    [
+     9915,
+     0.5414049114791548
+    ],
+    [
+     9925,
+     0.5893774985722444
+    ],
+    [
+     9998,
+     0.7138777841233581
+    ],
+    [
+     10017,
+     0.7715591090805254
+    ],
+    [
+     10054,
+     0.9354654483152485
+    ],
+    [
+     10067,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ],
+   "backdrop": {
+    "top": 375,
+    "bottom": 448,
+    "opacity": 0.86,
+    "feather": 8
+   }
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    10077,
+    10418
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 15,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 18,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "romaji_bottom": 406,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     10077,
+     0.0
+    ],
+    [
+     10086,
+     0.0
+    ],
+    [
+     10173,
+     0.32124352331606215
+    ],
+    [
+     10225,
+     0.5107327905255367
+    ],
+    [
+     10234,
+     0.5891931902294597
+    ],
+    [
+     10250,
+     0.6484085862324205
+    ],
+    [
+     10355,
+     0.8823094004441154
+    ],
+    [
+     10408,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ],
+   "backdrop": {
+    "top": 375,
+    "bottom": 448,
+    "opacity": 0.86,
+    "feather": 8
+   }
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    11369,
+    11725
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 16,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 18,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "romaji_bottom": 406,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     11369,
+     0.0
+    ],
+    [
+     11383,
+     0.0
+    ],
+    [
+     11446,
+     0.18254603682946358
+    ],
+    [
+     11470,
+     0.2634107285828663
+    ],
+    [
+     11526,
+     0.44595676541232987
+    ],
+    [
+     11627,
+     0.6677341873498799
+    ],
+    [
+     11714,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ],
+   "backdrop": {
+    "top": 375,
+    "bottom": 448,
+    "opacity": 0.86,
+    "feather": 8
+   }
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    11726,
+    12074
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 17,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 18,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "romaji_bottom": 406,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     11726,
+     0.0
+    ],
+    [
+     11740,
+     0.0
+    ],
+    [
+     11832,
+     0.24987120041215868
+    ],
+    [
+     11853,
+     0.33024214322514167
+    ],
+    [
+     11876,
+     0.3848531684698609
+    ],
+    [
+     11895,
+     0.4657393096342092
+    ],
+    [
+     11914,
+     0.5203503348789283
+    ],
+    [
+     11963,
+     0.6326635754765585
+    ],
+    [
+     12004,
+     0.7686759402369913
+    ],
+    [
+     12046,
+     0.9180834621329211
+    ],
+    [
+     12063,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ],
+   "backdrop": {
+    "top": 352,
+    "bottom": 448,
+    "opacity": 0.86,
+    "feather": 8
+   }
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    12099,
+    12493
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 18,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 18,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "romaji_bottom": 406,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     12099,
+     0.0
+    ],
+    [
+     12113,
+     0.0
+    ],
+    [
+     12145,
+     0.1242320819112628
+    ],
+    [
+     12218,
+     0.18156996587030716
+    ],
+    [
+     12242,
+     0.2696245733788396
+    ],
+    [
+     12300,
+     0.520136518771331
+    ],
+    [
+     12340,
+     0.6655290102389079
+    ],
+    [
+     12351,
+     0.7344709897610922
+    ],
+    [
+     12458,
+     0.8839590443686007
+    ],
+    [
+     12489,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ],
+   "backdrop": {
+    "top": 375,
+    "bottom": 448,
+    "opacity": 0.86,
+    "feather": 8
+   }
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    12493,
+    12853
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 19,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 18,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "romaji_bottom": 386,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     12493,
+     0.0
+    ],
+    [
+     12497,
+     0.0
+    ],
+    [
+     12540,
+     0.12894560107454667
+    ],
+    [
+     12591,
+     0.30624580255204836
+    ],
+    [
+     12668,
+     0.5413028878441908
+    ],
+    [
+     12676,
+     0.5977165883143049
+    ],
+    [
+     12714,
+     0.6581598388179987
+    ],
+    [
+     12774,
+     0.7871054398925453
+    ],
+    [
+     12824,
+     0.9408999328408327
+    ],
+    [
+     12842,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ],
+   "backdrop": {
+    "top": 355,
+    "bottom": 448,
+    "opacity": 0.86,
+    "feather": 8
+   }
+  },
+  {
+   "type": "karaoke",
+   "frames": [
+    12909,
+    13242
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 20,
+   "romaji_line": {
+    "align": "center",
+    "x": 256,
+    "size": 18,
+    "weight": 650
+   },
+   "english_line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "romaji_bottom": 406,
+   "show_english": false,
+   "width": 470,
+   "knots": [
+    [
+     12909,
+     0.0
+    ],
+    [
+     12922,
+     0.0
+    ],
+    [
+     12943,
+     0.0999206978588422
+    ],
+    [
+     12959,
+     0.2331482950039651
+    ],
+    [
+     13021,
+     0.29976209357652656
+    ],
+    [
+     13099,
+     0.6582077716098335
+    ],
+    [
+     13163,
+     0.7993655828707376
+    ],
+    [
+     13218,
+     1.0
+    ]
+   ],
+   "fade": 4,
+   "fill": [
+    215,
+    60,
+    145
+   ],
+   "backdrop": {
+    "top": 375,
+    "bottom": 448,
+    "opacity": 0.86,
+    "feather": 8
+   }
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    3782,
+    4148
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 0,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 432,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    4148,
+    4522
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 1,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 432,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    4522,
+    4918
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 2,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 432,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    4918,
+    5324
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 3,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 432,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    5324,
+    5750
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 4,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 432,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    5750,
+    6092
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 5,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 432,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    6189,
+    6526
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 6,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 432,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    6542,
+    6871
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 7,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 432,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    7333,
+    7678
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 8,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 432,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    7678,
+    8070
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 9,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 432,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    8070,
+    8453
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 10,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 432,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    8453,
+    8856
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 11,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 432,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    8922,
+    9282
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 12,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 432,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    9282,
+    9646
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 13,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 432,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    9727,
+    10077
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 14,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 432,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    10077,
+    10418
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 15,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 432,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    11369,
+    11725
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 16,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 432,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    11726,
+    12074
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 17,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 432,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    12099,
+    12493
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 18,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 432,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    12493,
+    12853
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 19,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 432,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  },
+  {
+   "type": "lyrics_caption",
+   "frames": [
+    12909,
+    13242
+   ],
+   "lyrics": "work/translation/en/movies/lyrics/MOVIE002.txt",
+   "index": 20,
+   "line": {
+    "align": "center",
+    "x": 256,
+    "size": 15,
+    "weight": 600
+   },
+   "width": 470,
+   "bottom": 432,
+   "colour": [
+    235,
+    128,
+    128
+   ],
+   "fade": 4
+  }
+ ],
+ "karaoke_review": {
+  "layout": "overlay",
+  "timed_rows": 21,
+  "omitted_rows": [],
+  "lyrics_sha256": "eb8024384d1f2814b77c07a72e61a54d93e049c3318ab53cc18b320a656cc35d"
+ }
+}

@@ -1,0 +1,325 @@
+{
+ "mission": "042",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Destroy warships & foes",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Gran Garan sunk",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "Defeat the Galava",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 10,
+   "en": "The fighting has spread across a wide area.",
+   "speaker": "? (commander, Bright Noa?)"
+  },
+  {
+   "id": 11,
+   "en": "Escort nearby allied ships and clear out the enemy.",
+   "speaker": "? (commander, Bright Noa?)"
+  },
+  {
+   "id": 12,
+   "en": "Drake's misdeeds have plunged the Surface into chaos.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 13,
+   "en": "With our own hands,",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 14,
+   "en": "we must bring all of this to an end.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 15,
+   "en": "Inform all hands: this is an all-out attack!",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 16,
+   "en": "Drake... do you even realize what you have done?",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 17,
+   "en": "We cannot afford to fall back.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 18,
+   "en": "Pushing through by force will only add to our losses.",
+   "speaker": "Ciela Lapana?"
+  },
+  {
+   "id": 19,
+   "en": "Gran Garan, full speed ahead!",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 20,
+   "en": "Begone, you wicked ones!!",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 21,
+   "en": "Damage to the Gran Garan is mounting!",
+   "speaker": "Gran Garan operator?"
+  },
+  {
+   "id": 22,
+   "en": "The Gran Garan is going down!",
+   "speaker": "Gran Garan operator?"
+  },
+  {
+   "id": 23,
+   "en": "Confirmed: the Gea Garing has been destroyed.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 24,
+   "en": "An Aura Battler is closing in fast!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 25,
+   "en": "Don't think that beating Drake alone settles this!",
+   "speaker": "Bern Bunnings? (Galava)"
+  },
+  {
+   "id": 26,
+   "en": "Have at you, you Surface rabble!",
+   "speaker": "Bern Bunnings? (Galava)"
+  },
+  {
+   "id": 27,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 28,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 29,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 30,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 31,
+   "en": "So this is... where it ends...!",
+   "speaker": "Bern Bunnings? (Galava)"
+  },
+  {
+   "id": 32,
+   "en": "What has all that hatred ever gained you!",
+   "speaker": "Show Zama?"
+  },
+  {
+   "id": 33,
+   "en": "Power, and cunning!",
+   "speaker": "Bern Bunnings? (Galava)"
+  },
+  {
+   "id": 34,
+   "en": "Something's happening to the Galava...",
+   "speaker": "?"
+  },
+  {
+   "id": 35,
+   "en": "Here comes the Hyper Galava.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 36,
+   "en": "This time, my Aura Power will finish you!",
+   "speaker": "Bern Bunnings? (Hyper Galava)"
+  },
+  {
+   "id": 37,
+   "en": "Confirmed: the Will Wipps has been destroyed.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 38,
+   "en": "You have done well.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 39,
+   "en": "The surrounding area has been secured.",
+   "speaker": "Gran Garan operator?"
+  },
+  {
+   "id": 40,
+   "en": "With this, the evil Aura Power",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 41,
+   "en": "will surely be swept from the Surface.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 42,
+   "en": "The target is deploying an Aura Barrier.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 43,
+   "en": "The enemy ship is deploying an Aura Barrier.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 44,
+   "en": "The enemy's Aura Barrier is weakening.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 45,
+   "en": "The enemy ship's Aura Barrier is gone.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 46,
+   "en": "Our attacks aren't working on the enemy ship!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 47,
+   "en": "The target is deploying an Aura Barrier.",
+   "speaker": "Ciela Lapana?"
+  },
+  {
+   "id": 48,
+   "en": "Our attacks won't work now. Wait for your chance.",
+   "speaker": "Ciela Lapana?"
+  },
+  {
+   "id": 49,
+   "en": "It will take more than this to sink the Gran Garan.",
+   "speaker": "Ciela Lapana"
+  },
+  {
+   "id": 50,
+   "en": "Protect the Gran Garan and destroy the enemy ships.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 51,
+   "en": "Protect the Gran Garan and bring down those ships!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 52,
+   "en": "Please protect the Gran Garan and destroy enemy ships.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 53,
+   "en": "Guard the Gran Garan and shoot down the enemy ships.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 54,
+   "en": "Protect the Gran Garan, and wreck the enemy ships too!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 55,
+   "en": "Protect the Gran Garan and take out enemy ships, okay?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 56,
+   "en": "DEFEND GRAN GARAN. DESTROY ENEMY SHIPS.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 57,
+   "en": "Please protect the Gran Garan and destroy enemy ships!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 58,
+   "en": "Protect the Gran Garan and wipe out those enemy ships.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 59,
+   "en": "Please protect the Gran Garan and destroy enemy ships.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 60,
+   "en": "Go back up the Gran Garan!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 61,
+   "en": "Move in and support the Gran Garan!",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 62,
+   "en": "Please provide support to the Gran Garan.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 63,
+   "en": "You need to cover the Gran Garan!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 64,
+   "en": "Cover the Gran Garan!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 65,
+   "en": "Go back up the Gran Garan, quick!",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 66,
+   "en": "SUPPORT GRAN GARAN.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 67,
+   "en": "Please support the Gran Garan!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 68,
+   "en": "Move in and back up the Gran Garan!",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 69,
+   "en": "Please support the Gran Garan.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "table": "080",
+ "dialogue_file": "work/translation/en/dialogue/m080.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Extra Mission 1",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "---",
+   "speaker": "HUD"
+  }
+ ]
+}

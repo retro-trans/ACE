@@ -1,0 +1,250 @@
+{
+ "mission": "016",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defeat enemy forces",
+   "speaker": "System"
+  },
+  {
+   "id": 2,
+   "en": "City damage reaches 40%",
+   "speaker": "System"
+  },
+  {
+   "id": 10,
+   "en": "Our demand: free our brethren you've taken prisoner.",
+   "speaker": "Grados terrorist leader"
+  },
+  {
+   "id": 11,
+   "en": "If you refuse, we'll blow ourselves up with this city.",
+   "speaker": "Grados terrorist leader"
+  },
+  {
+   "id": 12,
+   "en": "We are serious. We expect a wise decision.",
+   "speaker": "Grados terrorist leader"
+  },
+  {
+   "id": 13,
+   "en": "Analysis in! Their units are loaded with explosives!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 14,
+   "en": "Destroy them carelessly and the city gets caught too!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 15,
+   "en": "Take them out while keeping the damage to a minimum!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 16,
+   "en": "Enemy reinforcements incoming!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 17,
+   "en": "Message from Commander Misumaru, United Space Force.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 18,
+   "en": "Thank you for answering our request.",
+   "speaker": "Kouichirou Misumaru"
+  },
+  {
+   "id": 19,
+   "en": "These days the UCE looks down on Spacenoids, and",
+   "speaker": "Kouichirou Misumaru"
+  },
+  {
+   "id": 20,
+   "en": "it rarely lends a hand in cases like this one.",
+   "speaker": "Kouichirou Misumaru"
+  },
+  {
+   "id": 21,
+   "en": "Out in space, distrust of the UCE runs deep,",
+   "speaker": "Kouichirou Misumaru"
+  },
+  {
+   "id": 22,
+   "en": "and anti-UCE activity is on the rise as well.",
+   "speaker": "Kouichirou Misumaru"
+  },
+  {
+   "id": 23,
+   "en": "I want you all to know how things stand.",
+   "speaker": "Kouichirou Misumaru"
+  },
+  {
+   "id": 24,
+   "en": "Well then, I'll take my leave.",
+   "speaker": "Kouichirou Misumaru"
+  },
+  {
+   "id": 25,
+   "en": "Incoming message from the mayor.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 26,
+   "en": "The mayor says no further damage can be tolerated.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 27,
+   "en": "All enemy signals in the area are gone.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 28,
+   "en": "Looks like we managed to keep the damage down.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 29,
+   "en": "I can't believe we're this outmatched...",
+   "speaker": "Grados terrorist leader"
+  },
+  {
+   "id": 30,
+   "en": "We're receiving a surrender transmission from Grados.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 31,
+   "en": "Looks like we managed to keep the damage down.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 32,
+   "en": "And there's a message of thanks from the mayor.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 33,
+   "en": "Emergency transmission from the mayor!",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 34,
+   "en": "Residents' lives can't be sustained like this, so",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 35,
+   "en": "the mayor has given in to the terrorists' demands.",
+   "speaker": "Ra Cailum operator?"
+  },
+  {
+   "id": 36,
+   "en": "Is there nothing more we can do...!?",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 40,
+   "en": "Lure them somewhere wide open and fight them there!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 41,
+   "en": "Draw them into open space and fight them there.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 42,
+   "en": "Please fight in an open area to keep damage down.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 43,
+   "en": "Pull them out somewhere open before you fight them!",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 44,
+   "en": "Lure 'em out somewhere roomy and fight there!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 45,
+   "en": "Fight somewhere open where there's less damage, okay?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 46,
+   "en": "DESTROY TARGETS WHERE PROJECTED DAMAGE IS LOW.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 47,
+   "en": "Please fight somewhere open where there's no damage!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 48,
+   "en": "Take the fight somewhere open.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 49,
+   "en": "Please defeat them in an open area, out of harm's way.",
+   "speaker": "operator (slot 10)"
+  },
+  {
+   "id": 50,
+   "en": "You can't wreck the city!",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 51,
+   "en": "Make sure you don't cause any damage to the city.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 52,
+   "en": "Please keep the damage to the city down.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 53,
+   "en": "Be careful not to wreck the city.",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 54,
+   "en": "Wrecking the city is a no-no, got it!?",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 55,
+   "en": "Be careful not to destroy the city, okay?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 56,
+   "en": "MINIMIZE DAMAGE TO URBAN AREA.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 57,
+   "en": "Please don't destroy the city!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 58,
+   "en": "Don't destroy the city. I'm counting on you.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 59,
+   "en": "Please take care not to destroy the city.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

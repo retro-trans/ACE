@@ -1,0 +1,45 @@
+{
+ "name": "t0148.tm2",
+ "labels": [
+  {
+   "box": [
+    81,
+    18,
+    82,
+    35
+   ],
+   "en": " ",
+   "vertical": true
+  },
+  {
+   "box": [
+    9,
+    17,
+    81,
+    36
+   ],
+   "en": "Time Limit",
+   "height": 17
+  },
+  {
+   "box": [
+    2,
+    129,
+    23,
+    209
+   ],
+   "en": "Standing By",
+   "vertical": true
+  },
+  {
+   "box": [
+    48,
+    239,
+    113,
+    255
+   ],
+   "en": "Cancel",
+   "align": "left"
+  }
+ ]
+}

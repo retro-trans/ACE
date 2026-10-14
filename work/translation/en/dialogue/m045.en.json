@@ -1,0 +1,290 @@
+{
+ "mission": "045",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "Defeat the Baronz",
+   "speaker": "HUD"
+  },
+  {
+   "id": 10,
+   "en": "Firing the Gravity Blast.",
+   "speaker": "Ruri Hoshino?"
+  },
+  {
+   "id": 11,
+   "en": "Orphan hasn't started surfacing yet.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 12,
+   "en": "Shoot down the Reclaimers!",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 13,
+   "en": "Nadesico C, moving in to support you.",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 14,
+   "en": "If you could draw the enemy in front of the Nadesico,",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 15,
+   "en": "that would help us a great deal.",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 16,
+   "en": "Is this thing some kind of monster!?",
+   "speaker": "Reclaimer pilot (?)"
+  },
+  {
+   "id": 17,
+   "en": "Firing the Gravity Blast.",
+   "speaker": "Ruri Hoshino?"
+  },
+  {
+   "id": 18,
+   "en": "Firing the Gravity Blast.",
+   "speaker": "Ruri Hoshino?"
+  },
+  {
+   "id": 19,
+   "en": "Enemy reinforcements confirmed.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 20,
+   "en": "Prepare to intercept. Enemies incoming.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 21,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 22,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 23,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 24,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 25,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 26,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 27,
+   "en": "You mustn't hurt Orphan.",
+   "speaker": "Hime Utsunomiya?"
+  },
+  {
+   "id": 28,
+   "en": "The Reclaimers are our only target, after all.",
+   "speaker": "Hime Utsunomiya?"
+  },
+  {
+   "id": 29,
+   "en": "We've received a support request from another unit.",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 30,
+   "en": "Nadesico C is withdrawing. I'll leave the rest to you.",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 31,
+   "en": "Nadesico C has taken moderate damage.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 32,
+   "en": "Nadesico C is withdrawing. I'll leave the rest to you.",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 33,
+   "en": "Enemy force confirmed, approaching our position.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 34,
+   "en": "They're identified as the Poseidal Army!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 35,
+   "en": "They really will stoop to anything... won't they.",
+   "speaker": "Ruri Hoshino?"
+  },
+  {
+   "id": 36,
+   "en": "A machine is closing in fast from Orphan!",
+   "speaker": "Operator"
+  },
+  {
+   "id": 37,
+   "en": "It's too late, whatever you do!",
+   "speaker": "Jonathan Green"
+  },
+  {
+   "id": 38,
+   "en": "Orphan will reduce everything to nothing\nand carry us off to a new world!",
+   "speaker": "Jonathan Green"
+  },
+  {
+   "id": 39,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 40,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 41,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 42,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 43,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 44,
+   "en": "",
+   "speaker": "-"
+  },
+  {
+   "id": 45,
+   "en": "You've been running away too!",
+   "speaker": "Yuu Isami?"
+  },
+  {
+   "id": 46,
+   "en": "And just what am I supposed to be running from!?",
+   "speaker": "Jonathan Green"
+  },
+  {
+   "id": 47,
+   "en": "From fighting on your own, and living on your own!",
+   "speaker": "Yuu Isami?"
+  },
+  {
+   "id": 48,
+   "en": "Aaaaagh!",
+   "speaker": "Jonathan Green?"
+  },
+  {
+   "id": 49,
+   "en": "The Reclaimers are slowing down.",
+   "speaker": "Operator"
+  },
+  {
+   "id": 50,
+   "en": "Let's leave the rest to the United Space Force.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 51,
+   "en": "We're pulling out. Keep watch on the area as we go.",
+   "speaker": "Bright Noa?"
+  },
+  {
+   "id": 52,
+   "en": "I can't fire while you're there.",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 53,
+   "en": "Please move out of the line of fire.",
+   "speaker": "Ruri Hoshino"
+  },
+  {
+   "id": 60,
+   "en": "Be careful not to get caught in the blast.",
+   "speaker": "operator (slot 1)"
+  },
+  {
+   "id": 61,
+   "en": "Watch it. Don't get caught in the blast.",
+   "speaker": "operator (slot 2)"
+  },
+  {
+   "id": 62,
+   "en": "Please take care not to get caught in the blast.",
+   "speaker": "operator (slot 3)"
+  },
+  {
+   "id": 63,
+   "en": "Careful not to get caught in the blast, okay?",
+   "speaker": "operator (slot 4)"
+  },
+  {
+   "id": 64,
+   "en": "Watch out, don't get caught in the blast!",
+   "speaker": "operator (slot 5)"
+  },
+  {
+   "id": 65,
+   "en": "Do be careful not to get caught in the blast, okay?",
+   "speaker": "operator (slot 6)"
+  },
+  {
+   "id": 66,
+   "en": "EXERCISE CAUTION.",
+   "speaker": "operator (slot 7)"
+  },
+  {
+   "id": 67,
+   "en": "Please be careful not to get caught in the blast!",
+   "speaker": "operator (slot 8)"
+  },
+  {
+   "id": 68,
+   "en": "Mind you don't get caught in the blast.",
+   "speaker": "operator (slot 9)"
+  },
+  {
+   "id": 69,
+   "en": "Please take care to avoid being caught in the blast.",
+   "speaker": "operator (slot 10)"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "group": "common",
+ "font": "f010",
+ "where": [
+  "\\target\\window\\msg\\CommonMessage.fmg@0x0",
+  "\\target\\window\\bnd\\InGameWindow.bnd@0x60",
+  "\\target\\window\\bnd\\MultiPlayWindow.bnd@0x80"
+ ],
+ "limits": {
+  "lines": 4,
+  "width": 362,
+  "bytes": 113
+ },
+ "rows": [
+  {
+   "id": 1,
+   "en": "Restart the mission from the beginning?"
+  },
+  {
+   "id": 2,
+   "en": "If you have not saved the game,\nyour progress so far will be lost.\n\nQuit and return to the title screen?"
+  },
+  {
+   "id": 3,
+   "en": "This will end the match.\nAre you sure?"
+  },
+  {
+   "id": 4,
+   "en": "Player 1\n\nThis will end the match.\nAre you sure?"
+  },
+  {
+   "id": 5,
+   "en": "Player 2\n\nThis will end the match.\nAre you sure?"
+  }
+ ]
+}

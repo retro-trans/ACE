@@ -1,0 +1,229 @@
+{
+ "movie": "M1_MOVIE013",
+ "cards": [
+  {
+   "id": 0,
+   "frames": [
+    19,
+    134
+   ],
+   "kind": "title",
+   "box": [
+    114,
+    194,
+    455,
+    343
+   ],
+   "lines": [
+    [
+     194,
+     223
+    ],
+    [
+     224,
+     343
+    ]
+   ],
+   "peak": 31,
+   "en": "— Former UCE Representative\nRelena Peacecraft —"
+  },
+  {
+   "id": 1,
+   "frames": [
+    183,
+    397
+   ],
+   "kind": "subtitle",
+   "box": [
+    123,
+    357,
+    388,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 294,
+   "en": "Back then, I was uncertain.\nUncertain about taking a step forward."
+  },
+  {
+   "id": 2,
+   "frames": [
+    448,
+    624
+   ],
+   "kind": "subtitle",
+   "box": [
+    98,
+    357,
+    415,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 534,
+   "en": "In space, a great many refugees had appeared,\nwandering with nowhere to go."
+  },
+  {
+   "id": 3,
+   "frames": [
+    684,
+    779
+   ],
+   "kind": "subtitle",
+   "box": [
+    105,
+    357,
+    411,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 703,
+   "en": "Was there nothing I could do to help them?"
+  },
+  {
+   "id": 4,
+   "frames": [
+    801,
+    966
+   ],
+   "kind": "subtitle",
+   "box": [
+    91,
+    357,
+    422,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 811,
+   "en": "I kept asking myself that, but—\nI did not know what I should do."
+  },
+  {
+   "id": 5,
+   "frames": [
+    1009,
+    1182
+   ],
+   "kind": "subtitle",
+   "box": [
+    115,
+    357,
+    398,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 1030,
+   "en": "But when I met them again that day,\nthey made me realize something."
+  },
+  {
+   "id": 6,
+   "frames": [
+    1221,
+    1331
+   ],
+   "kind": "subtitle",
+   "box": [
+    100,
+    357,
+    411,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 1255,
+   "en": "I will never condone settling things by force."
+  },
+  {
+   "id": 7,
+   "frames": [
+    1359,
+    1554
+   ],
+   "kind": "subtitle",
+   "box": [
+    125,
+    357,
+    388,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 1495,
+   "en": "But that one must act on one's convictions—\nthat much I came to understand."
+  },
+  {
+   "id": 8,
+   "frames": [
+    1587,
+    1704
+   ],
+   "kind": "subtitle",
+   "box": [
+    150,
+    357,
+    364,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 1630,
+   "en": "That is surely why I made\nsuch a request of them."
+  },
+  {
+   "id": 9,
+   "frames": [
+    1758,
+    1961
+   ],
+   "kind": "subtitle",
+   "box": [
+    109,
+    357,
+    404,
+    408
+   ],
+   "lines": [
+    [
+     357,
+     408
+    ]
+   ],
+   "peak": 1921,
+   "en": "Even at the risk of my own safety, I resolved\nto bring my message to the people myself."
+  }
+ ]
+}

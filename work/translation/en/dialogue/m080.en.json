@@ -1,0 +1,15 @@
+{
+ "mission": "080",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD objective"
+  },
+  {
+   "id": 2,
+   "en": "---",
+   "speaker": "HUD objective"
+  }
+ ]
+}

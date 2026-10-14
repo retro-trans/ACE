@@ -1,0 +1,121 @@
+{
+ "table": "012",
+ "dialogue_file": "work/translation/en/dialogue/m012.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Support Nadesico B",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Achieve a 120-second Chain",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "An emergency call has come in from the <pic(0)><cs(3)>Nadesico B<ce()>, which is out on its pursuit mission.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 101,
+   "en": "<mk(37.5,-75,5,1)><mk(75,-37.5,5,1,50)><mk(75,-75,5,1,100)>At the <cs(1)>Hisago Plan<ce()>'s main terminal colony, <pic(1)><cs(3)>Amaterasu<ce()>, a coup has broken out.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 102,
+   "en": "Calling themselves the Martian Successors, they've seized Amaterasu's central systems.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 103,
+   "en": "<mk(37.5,-37.5,5,3,50)><ar(0,5,3,150)>The Nadesico B was there studying the E2, but seems to have been caught in the coup.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 104,
+   "en": "<mk(-50,12.5,1,3,100)><ar(0,1,3,200)><mk(-12.5,50,1,3,100)><ar(0,1,3,200)>The ship is fighting alongside the UCE's United Space Force and has requested support.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 105,
+   "en": "<mk(50,37.5,0,0,50)><ar(0,0,0,150)>We will now change course for Amaterasu and move to support the Nadesico B.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 106,
+   "en": "We know very little about the enemy forces. Be extremely careful.",
+   "speaker": "Bright Noa"
+  },
+  {
+   "id": 200,
+   "en": "This is Misumaru of the <cs(1)>United Space Force<ce()>. I thank you for your cooperation.",
+   "speaker": "Kouichirou Misumaru"
+  },
+  {
+   "id": 201,
+   "en": "But despite our efforts, Amaterasu has been occupied by the <cs(1)>Martian Successors<ce()>.",
+   "speaker": "Kouichirou Misumaru"
+  },
+  {
+   "id": 202,
+   "en": "By destroying the Chulips all at once, we did manage to cut Amaterasu off, but",
+   "speaker": "Kouichirou Misumaru"
+  },
+  {
+   "id": 203,
+   "en": "Amaterasu's Ruins Unit was taken to the enemy base, Iwato, ruins at Mars's polar cap.",
+   "speaker": "Kouichirou Misumaru"
+  },
+  {
+   "id": 204,
+   "en": "At this rate, they will gain what they were after: control of the <cs(1)>Boson Jump<ce()>.",
+   "speaker": "Kouichirou Misumaru"
+  },
+  {
+   "id": 205,
+   "en": "That would mean free jumps through space become possible.",
+   "speaker": "Kouichirou Misumaru"
+  },
+  {
+   "id": 206,
+   "en": "...I trust you understand how serious a situation that would be.",
+   "speaker": "Kouichirou Misumaru"
+  },
+  {
+   "id": 207,
+   "en": "Getting an E2 back this time is a step forward for the UCE's mission, but",
+   "speaker": "Kouichirou Misumaru"
+  },
+  {
+   "id": 208,
+   "en": "that is not the only thing that needs watching. I want you to keep that in mind.",
+   "speaker": "Kouichirou Misumaru"
+  },
+  {
+   "id": 209,
+   "en": "...And one more thing: be wary of Dermail. His methods are a bit too heavy-handed...",
+   "speaker": "Kouichirou Misumaru"
+  },
+  {
+   "id": 210,
+   "en": "Well then, I wish you all the best. Until we meet again.",
+   "speaker": "Kouichirou Misumaru"
+  },
+  {
+   "id": 300,
+   "en": "I had heard of your exploits, so I find this outcome truly regrettable.",
+   "speaker": "Kouichirou Misumaru"
+  }
+ ]
+}

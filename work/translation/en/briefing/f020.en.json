@@ -1,0 +1,76 @@
+{
+ "table": "020",
+ "dialogue_file": "work/translation/en/dialogue/m020.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Giganos Fortress Raid",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "Friendly warship sunk",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Hold out until the Gilgazamune stops",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "We've located Giganos's <mk(-50,-60,5,1)><mk(-20,-45,4,1,50)><mk(20,-45,4,1,100)><mk(50,-60.5,3,1,150)>final defensive stronghold, the <pic(0)><cs(3)>Giganos Space Fortress<ce()>.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 101,
+   "en": "We can be certain the E2 was brought in there.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 102,
+   "en": "The UCE has <pt(0,50,0,3)><mk(-20,25,0,3,100)><ar(0,0,3,150)><mk(20,25,0,3,150)><ar(0,0,3,150)>already sent a <pic(1)><cs(3)>fleet<ce()> and a <pic(2)><cs(3)>power satellite<ce()> and urged surrender. They refuse.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 103,
+   "en": "Our mission: <mk(-75,2.5,1,3)><ar(0,1,3,50)><mk(75,2.5,7,0,50)><ar(0,7,0,50)>raid the fortress as the advance unit and retake the E2 from the enemy.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 104,
+   "en": "This mission will take every one of us... Be careful going in.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 200,
+   "en": "Giganos's command is crushed, and the E2 was safely recovered from a fortress lab.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 201,
+   "en": "HQ rates your results this time very highly.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 202,
+   "en": "But there is still one E2 left.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 203,
+   "en": "White Fang... Once we learn their movements, you'll go recover it. I'm counting on you.",
+   "speaker": "Commanding officer?"
+  },
+  {
+   "id": 300,
+   "en": "What on earth are you doing in a place like this? Think about what your role is.",
+   "speaker": "Commanding officer?"
+  }
+ ]
+}

@@ -1,0 +1,330 @@
+{
+ "mission": "005",
+ "rows": [
+  {
+   "id": 1,
+   "speaker": "HUD",
+   "en": "Defeat enemy forces"
+  },
+  {
+   "id": 2,
+   "speaker": "HUD",
+   "en": "Air defense units wiped out"
+  },
+  {
+   "id": 10,
+   "speaker": "?",
+   "en": "The coastal AA guns are holding off the bombers.\nGuard the AA guns and keep the bombers out."
+  },
+  {
+   "id": 11,
+   "speaker": "?",
+   "en": "The Gran Garan will hold the line out on the open sea."
+  },
+  {
+   "id": 12,
+   "speaker": "?",
+   "en": "Understood.\nWe'll deal with any enemies that break through."
+  },
+  {
+   "id": 13,
+   "speaker": "?",
+   "en": "Don't let a single one get close!"
+  },
+  {
+   "id": 14,
+   "speaker": "?",
+   "en": "Protect the coastal anti-air units."
+  },
+  {
+   "id": 15,
+   "speaker": "?",
+   "en": "If they go down, the bombers will come right in!"
+  },
+  {
+   "id": 16,
+   "speaker": "Operator",
+   "en": "The enemy is an OZ Mobile Doll unit."
+  },
+  {
+   "id": 17,
+   "speaker": "?",
+   "en": "The latest models, huh? This'll be trouble..."
+  },
+  {
+   "id": 18,
+   "speaker": "Operator",
+   "en": "The defense units are under attack!"
+  },
+  {
+   "id": 19,
+   "speaker": "Operator",
+   "en": "Defense units: three left!"
+  },
+  {
+   "id": 20,
+   "speaker": "?",
+   "en": "What are you doing?! Hold the enemy back!"
+  },
+  {
+   "id": 21,
+   "speaker": "Operator",
+   "en": "Defense units: one left! They can't hold much longer!"
+  },
+  {
+   "id": 22,
+   "speaker": "Operator",
+   "en": "Heat signature from under the sea!"
+  },
+  {
+   "id": 23,
+   "speaker": "-",
+   "en": ""
+  },
+  {
+   "id": 24,
+   "speaker": "-",
+   "en": ""
+  },
+  {
+   "id": 25,
+   "speaker": "-",
+   "en": ""
+  },
+  {
+   "id": 26,
+   "speaker": "-",
+   "en": ""
+  },
+  {
+   "id": 27,
+   "speaker": "Operator",
+   "en": "Incoming UCE transmission on the public frequency!"
+  },
+  {
+   "id": 28,
+   "speaker": "UCE (broadcast)",
+   "en": "Claiming refugee aid, your nation took in defectors"
+  },
+  {
+   "id": 29,
+   "speaker": "UCE (broadcast)",
+   "en": "and has become a breeding ground for criminals."
+  },
+  {
+   "id": 30,
+   "speaker": "UCE (broadcast)",
+   "en": "Your nation has ignored our repeated warnings."
+  },
+  {
+   "id": 31,
+   "speaker": "UCE (broadcast)",
+   "en": "Your only path is destruction, the same as before."
+  },
+  {
+   "id": 32,
+   "speaker": "?",
+   "en": "So they mean to crush the kingdom no matter what...!"
+  },
+  {
+   "id": 33,
+   "speaker": "?",
+   "en": "The people, sick and tired of this endless war,"
+  },
+  {
+   "id": 34,
+   "speaker": "?",
+   "en": "are throwing their support behind the Sanc Kingdom."
+  },
+  {
+   "id": 35,
+   "speaker": "?",
+   "en": "So much that the UCE feels threatened by it."
+  },
+  {
+   "id": 36,
+   "speaker": "Relena Peacecraft",
+   "en": "Stop this fighting at once!"
+  },
+  {
+   "id": 37,
+   "speaker": "Relena Peacecraft",
+   "en": "Nothing can be resolved through force of arms."
+  },
+  {
+   "id": 38,
+   "speaker": "OZ pilot",
+   "en": "There's a tough one out here! Send reinforcements!"
+  },
+  {
+   "id": 39,
+   "speaker": "Operator",
+   "en": "Enemy reinforcements confirmed."
+  },
+  {
+   "id": 40,
+   "speaker": "Operator",
+   "en": "The enemy appears to be withdrawing."
+  },
+  {
+   "id": 41,
+   "speaker": "?",
+   "en": "Air defense units silenced!\nEnemy bombers are entering the Sanc Kingdom!"
+  },
+  {
+   "id": 42,
+   "speaker": "?",
+   "en": "The Sanc Kingdom...!\nMiss Relena...!"
+  },
+  {
+   "id": 50,
+   "speaker": "Operator (selectable, variant 0)",
+   "en": "Looks like they stop moving while their barrier's up."
+  },
+  {
+   "id": 51,
+   "speaker": "Operator (selectable, variant 1)",
+   "en": "They seem to stop moving while the barrier's deployed."
+  },
+  {
+   "id": 52,
+   "speaker": "Operator (selectable, variant 2)",
+   "en": "The enemy stops moving while its barrier is deployed."
+  },
+  {
+   "id": 53,
+   "speaker": "Operator (selectable, variant 3)",
+   "en": "They stop moving while they've got their barrier up."
+  },
+  {
+   "id": 54,
+   "speaker": "Operator (selectable, variant 4)",
+   "en": "They freeze up while they've got that barrier up."
+  },
+  {
+   "id": 55,
+   "speaker": "Operator (selectable, variant 5)",
+   "en": "Seems they stop moving while the barrier's deployed."
+  },
+  {
+   "id": 56,
+   "speaker": "Operator (selectable, variant 6)",
+   "en": "TARGET HALT CONFIRMED DURING BARRIER DEPLOYMENT."
+  },
+  {
+   "id": 57,
+   "speaker": "Operator (selectable, variant 7)",
+   "en": "The enemy stops moving while its barrier is deployed."
+  },
+  {
+   "id": 58,
+   "speaker": "Operator (selectable, variant 8)",
+   "en": "The enemy stops moving while that barrier's deployed."
+  },
+  {
+   "id": 59,
+   "speaker": "Operator (selectable, variant 9)",
+   "en": "The enemy stops moving while its barrier is deployed."
+  },
+  {
+   "id": 60,
+   "speaker": "Operator (selectable, variant 0)",
+   "en": "Just hit everything in sight and it'll work out."
+  },
+  {
+   "id": 61,
+   "speaker": "Operator (selectable, variant 1)",
+   "en": "Hit as many enemy units as you can."
+  },
+  {
+   "id": 62,
+   "speaker": "Operator (selectable, variant 2)",
+   "en": "If you keep attacking, you should be able to hold them back."
+  },
+  {
+   "id": 63,
+   "speaker": "Operator (selectable, variant 3)",
+   "en": "Keep hitting them one after another and hold them back."
+  },
+  {
+   "id": 64,
+   "speaker": "Operator (selectable, variant 4)",
+   "en": "Just keep attacking and it should work out."
+  },
+  {
+   "id": 65,
+   "speaker": "Operator (selectable, variant 5)",
+   "en": "If you keep hitting them one after another, you can stop them."
+  },
+  {
+   "id": 66,
+   "speaker": "Operator (selectable, variant 6)",
+   "en": "HALT TARGET MOVEMENT."
+  },
+  {
+   "id": 67,
+   "speaker": "Operator (selectable, variant 7)",
+   "en": "Just hit everything in sight and you've got this!"
+  },
+  {
+   "id": 68,
+   "speaker": "Operator (selectable, variant 8)",
+   "en": "Keep up the attack and stop the enemy's advance."
+  },
+  {
+   "id": 69,
+   "speaker": "Operator (selectable, variant 9)",
+   "en": "Please attack to stop the enemy's movement."
+  },
+  {
+   "id": 70,
+   "speaker": "Operator (selectable, variant 0)",
+   "en": "You did it! That was amazing!"
+  },
+  {
+   "id": 71,
+   "speaker": "Operator (selectable, variant 1)",
+   "en": "Splendid piloting."
+  },
+  {
+   "id": 72,
+   "speaker": "Operator (selectable, variant 2)",
+   "en": "Beautifully done. Just what I'd expect."
+  },
+  {
+   "id": 73,
+   "speaker": "Operator (selectable, variant 3)",
+   "en": "Amazing. That's beyond what I expected."
+  },
+  {
+   "id": 74,
+   "speaker": "Operator (selectable, variant 4)",
+   "en": "Eeek! Wait, that was amazing!"
+  },
+  {
+   "id": 75,
+   "speaker": "Operator (selectable, variant 5)",
+   "en": "Amazing. Now you're showing what you can really do."
+  },
+  {
+   "id": 76,
+   "speaker": "Operator (selectable, variant 6)",
+   "en": "CRISIS AVERTED."
+  },
+  {
+   "id": 77,
+   "speaker": "Operator (selectable, variant 7)",
+   "en": "What amazing skill! I'm so impressed!"
+  },
+  {
+   "id": 78,
+   "speaker": "Operator (selectable, variant 8)",
+   "en": "Well, isn't that impressive. Keep it up."
+  },
+  {
+   "id": 79,
+   "speaker": "Operator (selectable, variant 9)",
+   "en": "Just what I'd expect from an ace pilot."
+  }
+ ]
+}

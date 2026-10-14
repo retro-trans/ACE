@@ -1,0 +1,91 @@
+{
+ "table": "009",
+ "dialogue_file": "work/translation/en/dialogue/m009.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Destroy Mirror Satellites",
+   "speaker": "-"
+  },
+  {
+   "id": 2,
+   "en": "Destroy the targets",
+   "speaker": "-"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "-"
+  },
+  {
+   "id": 4,
+   "en": "Destroy satellites & Bravers in 1 min",
+   "speaker": "-"
+  },
+  {
+   "id": 100,
+   "en": "You've only just come up into space, but we have orders from HQ.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 101,
+   "en": "The <cs(1)>Grados Empire<ce()>, long on the offensive against Earth, appears to be on the move.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 102,
+   "en": "For those unaware: an independent empire beyond the Earth Sphere, out to invade Earth.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 103,
+   "en": "Right now, <pt(-62.5,0,0,1)><pt(-12.5,5,0,1,50)><pt(-25,-37.5,0,1,100)><pt(17.5,-30,0,1,150)><pt(12.5,-75,0,1,200)><mk(-62.5,-37.5,3,1,250)><ar(0,3,1,350)><mk(-62.5,-75,3,1,300)><ar(0,3,1,350)><mk(-25,-75,3,1,350)><ar(0,3,1,350)>the Grados fleet is deployed in Earth orbit, carrying a <pic(0)><cs(3)>new weapon<ce()>.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 104,
+   "en": "Grados aims to seize major cities on the ground and has even demanded the UCE surrender.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 105,
+   "en": "Naturally, the UCE has no intention whatsoever of giving in.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 106,
+   "en": "Now <mk(25,50,7,0)><ar(0,7,0,100)><mk(25,12.5,7,3,50)><ar(0,7,3,100)><mk(62.5,12.5,7,3,100)><ar(0,7,3,100)>we'll come under the <pic(1)><cs(3)>Peacemillion<ce()>'s command and help destroy the enemy satellites.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 107,
+   "en": "This is your first space battle, an unfamiliar one, so I want you to proceed with care.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 200,
+   "en": "That mission was not on the schedule, but good work.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 201,
+   "en": "The operation worked and Grados withdrew. They likely won't move in earnest for a while.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 202,
+   "en": "What concerns me more is the Titans. They're stepping up activity in space as well...",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 203,
+   "en": "Parts of the Moon are under their control too. We'd best assume something will happen.",
+   "speaker": "Lucrezia Noin?"
+  },
+  {
+   "id": 300,
+   "en": "If you're defeated, it's all for nothing. Approach your operations with more care.",
+   "speaker": "Lucrezia Noin?"
+  }
+ ]
+}

@@ -1,0 +1,324 @@
+[
+ {
+  "ingame": "000",
+  "name_ja": "０１２３４５６７８９％： 　",
+  "story_index": null,
+  "flow_chart": "?",
+  "matches": 0
+ },
+ {
+  "ingame": "001",
+  "name_ja": "実戦演習",
+  "story_index": 0,
+  "flow_chart": "Mission 1 - Canyon Zone: Combat Training",
+  "matches": 1
+ },
+ {
+  "ingame": "002",
+  "name_ja": "ＵＣＥ基地防衛",
+  "story_index": 1,
+  "flow_chart": "Mission 2 - UCE 4th Base: UCE Base Defense",
+  "matches": 1
+ },
+ {
+  "ingame": "003",
+  "name_ja": "機密物資奪還",
+  "story_index": 2,
+  "flow_chart": "Mission 3 - Canyon Zone: Recapture Classified Material",
+  "matches": 1
+ },
+ {
+  "ingame": "004",
+  "name_ja": "友軍機援護",
+  "story_index": 3,
+  "flow_chart": "Mission 4 - Megaliths: Support Friendly Craft",
+  "matches": 1
+ },
+ {
+  "ingame": "005",
+  "name_ja": "サンクキングダム防衛",
+  "story_index": 28,
+  "flow_chart": "Mission 29 - Sanc Kingdom: Sanc Kingdom Defense",
+  "matches": 1
+ },
+ {
+  "ingame": "006",
+  "name_ja": "機密物資回収",
+  "story_index": 4,
+  "flow_chart": "Mission 5 - Sea Near Japan: Collect Classified Material",
+  "matches": 1
+ },
+ {
+  "ingame": "007",
+  "name_ja": "Ｅ２打ち上げ阻止",
+  "story_index": 6,
+  "flow_chart": "Mission 7 - Eastern Australia: Intercept E2 Launch",
+  "matches": 1
+ },
+ {
+  "ingame": "008",
+  "name_ja": "Ｅ２強奪部隊包囲",
+  "story_index": 5,
+  "flow_chart": "Mission 6 - Antartic Base: E2 Robbery Unit Siege",
+  "matches": 1
+ },
+ {
+  "ingame": "009",
+  "name_ja": "ミラー衛星破壊",
+  "story_index": 8,
+  "flow_chart": "Mission 9 - Earth Satellite Orbit: Destroy Mirror Satellites",
+  "matches": 1
+ },
+ {
+  "ingame": "010",
+  "name_ja": "シャトル打ち上げ",
+  "story_index": 7,
+  "flow_chart": "Mission 8 - Spaceport: Shuttle Launch",
+  "matches": 1
+ },
+ {
+  "ingame": "012",
+  "name_ja": "ナデシコＢ援護",
+  "story_index": 9,
+  "flow_chart": "Mission 10 - Terminal Colony: Support Nadesico B",
+  "matches": 1
+ },
+ {
+  "ingame": "014",
+  "name_ja": "ギガノス帝国制圧",
+  "story_index": 11,
+  "flow_chart": "Mission 12 - Giganos Lunar Empire Airspace: Suppress Giganos Empire",
+  "matches": 1
+ },
+ {
+  "ingame": "015",
+  "name_ja": "グラナダ奪還",
+  "story_index": 10,
+  "flow_chart": "Mission 11 - Granada Airspace: Recapture Granada",
+  "matches": 1
+ },
+ {
+  "ingame": "016",
+  "name_ja": "月面都市解放",
+  "story_index": 12,
+  "flow_chart": "Mission 13 - Von Braun: Liberate Lunar City",
+  "matches": 1
+ },
+ {
+  "ingame": "017",
+  "name_ja": "敵襲撃部隊制圧",
+  "story_index": 17,
+  "flow_chart": "Mission 18 - 13 Bunch: Supress Enemy Assault Force",
+  "matches": 1
+ },
+ {
+  "ingame": "019",
+  "name_ja": "鉱山惑星潜入",
+  "story_index": 13,
+  "flow_chart": "Mission 14 - Palata Star: Infiltrate Mining Planet",
+  "matches": 1
+ },
+ {
+  "ingame": "020",
+  "name_ja": "ギガノス要塞襲撃",
+  "story_index": 14,
+  "flow_chart": "Mission 15 - Giganos Space Fortress: Giganos Fortress Raid",
+  "matches": 1
+ },
+ {
+  "ingame": "021",
+  "name_ja": "敵遊撃部隊撃破",
+  "story_index": 15,
+  "flow_chart": "Mission 16 - Abandoned Colony Outskirts: Defeat Enemy Strike Force",
+  "matches": 1
+ },
+ {
+  "ingame": "022",
+  "name_ja": "戦艦リーブラ阻止",
+  "story_index": 16,
+  "flow_chart": "Mission 17 - Battleship Libra: Stop Battleship Libra",
+  "matches": 1
+ },
+ {
+  "ingame": "023",
+  "name_ja": "ジャブロー奪還",
+  "story_index": 18,
+  "flow_chart": "Mission 19 - Jaburo: Recapture Jaburo",
+  "matches": 1
+ },
+ {
+  "ingame": "024",
+  "name_ja": "残党勢力鎮圧",
+  "story_index": 20,
+  "flow_chart": "Mission 21 - Canyon Zone: Eliminate Enemy Remnants",
+  "matches": 1
+ },
+ {
+  "ingame": "025",
+  "name_ja": "敵拠点調査",
+  "story_index": 22,
+  "flow_chart": "Mission 23 - Southern Arabian Peninsula: Investigate Enemy Base",
+  "matches": 1
+ },
+ {
+  "ingame": "026",
+  "name_ja": "海上要塞奪還",
+  "story_index": 21,
+  "flow_chart": "Mission 22 - Mogadishu Fortress: Recapture Sea Fortress",
+  "matches": 1
+ },
+ {
+  "ingame": "027",
+  "name_ja": "友軍援護",
+  "story_index": 23,
+  "flow_chart": "Mission 24 - Eastern Eurasia: Support Friendly Forces",
+  "matches": 1
+ },
+ {
+  "ingame": "028",
+  "name_ja": "ＵＣＥ議会防衛",
+  "story_index": 19,
+  "flow_chart": "Mission 20 - UCE Parliament: Defend UCE Parliament",
+  "matches": 1
+ },
+ {
+  "ingame": "029",
+  "name_ja": "ラビアンローズ防衛",
+  "story_index": 24,
+  "flow_chart": "Mission 25 - La Vie en Rose: Defend La Vie en Rose",
+  "matches": 1
+ },
+ {
+  "ingame": "030",
+  "name_ja": "ＵＣＥ議会占拠",
+  "story_index": 29,
+  "flow_chart": "Mission 30 - UCE Parliament: Occupy UCE Parliament",
+  "matches": 1
+ },
+ {
+  "ingame": "031",
+  "name_ja": "ピースミリオン援護",
+  "story_index": 25,
+  "flow_chart": "Mission 26 - UCE Fleet: Support Peacemillion",
+  "matches": 1
+ },
+ {
+  "ingame": "032",
+  "name_ja": "サート・スター防衛",
+  "story_index": 31,
+  "flow_chart": "Mission 32 - Theart Star: Theart Star Defense",
+  "matches": 1
+ },
+ {
+  "ingame": "034",
+  "name_ja": "友軍艦援護",
+  "story_index": 27,
+  "flow_chart": "Mission 28 - Sea near Japan: Support Allied Warships",
+  "matches": 1
+ },
+ {
+  "ingame": "036",
+  "name_ja": "ジャブロー潜入",
+  "story_index": 30,
+  "flow_chart": "Mission 31 - Jaburo: Infiltrate Jaburo",
+  "matches": 1
+ },
+ {
+  "ingame": "037",
+  "name_ja": "コロニー攻撃阻止",
+  "story_index": 26,
+  "flow_chart": "Mission 27 - Sweetwater: Stop Colony Assault",
+  "matches": 1
+ },
+ {
+  "ingame": "038",
+  "name_ja": "グリプス２防衛",
+  "story_index": 32,
+  "flow_chart": "Mission 33 - Gryps 2: Gryps 2 Defense",
+  "matches": 1
+ },
+ {
+  "ingame": "039",
+  "name_ja": "ラー・カイラム防衛",
+  "story_index": 33,
+  "flow_chart": "Mission 34 - Neo Zeon Fleet: Ra Caillum Defense",
+  "matches": 1
+ },
+ {
+  "ingame": "040",
+  "name_ja": "ＵＣＥ艦隊援護",
+  "story_index": 34,
+  "flow_chart": "Mission 35 - Gate of Zedan: UCE Fleet Support",
+  "matches": 1
+ },
+ {
+  "ingame": "041",
+  "name_ja": "キリマンジャロ制圧",
+  "story_index": 35,
+  "flow_chart": "Mission 36 - Kilimanjaro Base: Capture Kilimanjaro",
+  "matches": 1
+ },
+ {
+  "ingame": "042",
+  "name_ja": "ドレイク軍せん滅",
+  "story_index": 36,
+  "flow_chart": "Mission 37 - Near North America: Annihilate Drake Army",
+  "matches": 1
+ },
+ {
+  "ingame": "043",
+  "name_ja": "スヴェート制圧",
+  "story_index": null,
+  "flow_chart": "?",
+  "matches": 0
+ },
+ {
+  "ingame": "044",
+  "name_ja": "残党勢力掃討",
+  "story_index": 38,
+  "flow_chart": "Mission 39 - Southern Arabian Peninsula: Mop Up Remnants",
+  "matches": 1
+ },
+ {
+  "ingame": "045",
+  "name_ja": "オルファン浮上阻止",
+  "story_index": 37,
+  "flow_chart": "Mission 38 - Sea Near Orphan: Stop Orphan Surfacing",
+  "matches": 1
+ },
+ {
+  "ingame": "046",
+  "name_ja": "機雷撤去",
+  "story_index": 40,
+  "flow_chart": "Mission 41 - Space Colony Outskirts: Mine Removal",
+  "matches": 1
+ },
+ {
+  "ingame": "047",
+  "name_ja": "所属不明機撃破",
+  "story_index": 41,
+  "flow_chart": "Mission 42 - Space Near Earth: Defeat Unknown Assilants",
+  "matches": 1
+ },
+ {
+  "ingame": "048",
+  "name_ja": "難民船団阻止",
+  "story_index": 42,
+  "flow_chart": "Mission 43 - Earth Orbit: Intercept Refugee Fleet",
+  "matches": 1
+ },
+ {
+  "ingame": "049",
+  "name_ja": "アマテラス潜入",
+  "story_index": 43,
+  "flow_chart": "Mission 44 - Inside Amaterasu: Infiltrate Amaterasu",
+  "matches": 1
+ },
+ {
+  "ingame": "050",
+  "name_ja": "Ｅ２撃破",
+  "story_index": 44,
+  "flow_chart": "Mission 45 - Space Near Mars: Defeat E2",
+  "matches": 1
+ }
+]

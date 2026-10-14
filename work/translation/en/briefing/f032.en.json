@@ -1,0 +1,81 @@
+{
+ "table": "032",
+ "dialogue_file": "work/translation/en/dialogue/m032.json",
+ "rows": [
+  {
+   "id": 1,
+   "en": "Theart Star Defense",
+   "speaker": "HUD"
+  },
+  {
+   "id": 2,
+   "en": "Defeat enemy forces",
+   "speaker": "HUD"
+  },
+  {
+   "id": 3,
+   "en": "---",
+   "speaker": "HUD"
+  },
+  {
+   "id": 4,
+   "en": "Defeat all Space Graia units",
+   "speaker": "HUD"
+  },
+  {
+   "id": 100,
+   "en": "The neutral autonomous zone <pic(0)><cs(3)>Theart Star<ce()> is surrounded by <mk(0,-12.5,0,1)><ar(0,0,1,150)><mk(-62.5,-37.5,1,1,50)><ar(0,1,1,150)><mk(62.5,-37.5,7,1,150)><ar(0,7,1,150)>the Poseidal Army.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 101,
+   "en": "We need to get to the Gate of Zedan as soon as possible, but",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 102,
+   "en": "since Theart Star has also been helping to protect space refugees,",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 103,
+   "en": "Commander Misumaru has sent an urgent request for us to save it.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 104,
+   "en": "And we can't just stand by and let Poseidal's outrages go unchecked here, either.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 105,
+   "en": "<mk(62.5,37.5,7,0,50)><ar(0,7,0,50)>We will hurry to <pic(1)><cs(3)>the surrounding space<ce()> and eliminate the besieging enemy units.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 200,
+   "en": "Just as Full Flat told us, we have confirmed a Titans fleet.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 201,
+   "en": "We have to strike them before they reach the Gate of Zedan.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 202,
+   "en": "I've already sent the Peacemillion and Nadesico C. Please head there at once as well.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 203,
+   "en": "I'm worried about Miss Relena... We have to hurry.",
+   "speaker": "? (briefing officer)"
+  },
+  {
+   "id": 300,
+   "en": "To think that Londo Bell, a gathering of the elite, would actually be defeated...",
+   "speaker": "?"
+  }
+ ]
+}
