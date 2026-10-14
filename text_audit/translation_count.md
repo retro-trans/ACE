@@ -35,12 +35,14 @@ One entry means one stored message or label, which can contain several displayed
 - The executable also contains the Japanese game title, アナザーセンチュリーズエピソード, outside these tables. It is one additional text candidate; other inspected executable Japanese strings primarily describe internal resources or window types and require runtime review.
 - The 60 non-Japanese unique strings include English labels, names, numbers, punctuation and formatting samples. Some English labels may also require translation depending on the target language.
 
-## Saved evidence
+## Saved evidence (local only)
 
-- [Unique Japanese text](unique_japanese_text.txt)
-- [Unique entries with all source locations and original control codes](unique_japanese_entries.json)
-- [Parsed message tables](fmg_tables.json)
-- [Archive inventory](inventory.json)
-- [Compressed-file audit](compressed_audit.json)
+These ignored files can be generated from the original disc with `audit_text.py`. They are intentionally absent from the public repository because they contain source scripts or extracted game data.
+
+- `unique_japanese_text.txt` — unique source text.
+- `unique_japanese_entries.json` — entries with source locations and control codes.
+- `fmg_tables.json` — parsed message tables.
+- `inventory.json` — archive inventory.
+- `compressed_audit.json` — compressed-file audit.
 
 The FMG structure was cross-checked against the [OpenCombas SoulsFormats implementation](https://github.com/OpenCombas/SoulsFormats/blob/main/Formats/FMG.cs). All counts above come from the local game files. CSC decoding was verified against matching uncompressed archive resources and exact declared output lengths. The original ISO and ZIP were not modified.

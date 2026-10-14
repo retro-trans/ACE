@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "manifest_sha256": "f5716c45d62e8f946e2036b9e0c806f796f0f7adbfb8eef158433e7a7682e64f",
+  "patches": [
+    {
+      "patch": "ACE-English-0.1.17.xdelta",
+      "roundtrip_verified": true,
+      "target_sha256": "198bfe6cbd177347927aa412e716197f0d148e06ad768ee94537ac39b8e5871c"
+    }
+  ]
+}
