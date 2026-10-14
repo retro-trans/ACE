@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.17 - 2026-10-15
+## 0.1.17 - 2026-10-15 (published)
 
 Output: `work/output/ACE-EN-0.1.17.iso` (report `ACE-EN-0.1.17.json`, SHA-256
 `198bfe6cbd177347927aa412e716197f0d148e06ad768ee94537ac39b8e5871c`).
@@ -20,6 +20,12 @@ Output: `work/output/ACE-EN-0.1.17.iso` (report `ACE-EN-0.1.17.json`, SHA-256
 - First public release packaging: ACE-3-style README and release notes, English-only source repository,
   and a Retro Trans Tools-compatible full xdelta patch with checksums and complete output verification.
   The project lead explicitly requested publication under `retro-trans/ACE` using `binhlt0402`.
+- Published [ACE English 0.1.17](https://github.com/retro-trans/ACE/releases/tag/v0.1.17).
+  The 320,312,789-byte patch passed a complete decode-and-hash round trip, and all uploaded assets matched
+  their local sizes and checksums. Metadata and game-specific verification records are under
+  `docs/releases/0.1.17/`.
+- Retro Trans's scoped catalog refresh succeeded; public automatic-patching routes, already-current behavior
+  and unknown-image rejection were verified.
 
 ## 0.1.16 - 2026-10-14 (local test build, not released)
 

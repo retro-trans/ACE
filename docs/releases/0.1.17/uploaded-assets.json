@@ -1,0 +1,34 @@
+{
+  "repo": "retro-trans/ACE",
+  "release_id": 412984791,
+  "tag": "v0.1.17",
+  "url": "https://github.com/retro-trans/ACE/releases/tag/v0.1.17",
+  "published_at": "2026-10-14T17:17:16Z",
+  "all_uploaded_sizes_and_hashes_match": true,
+  "assets": [
+    {
+      "name": "ACE-English-0.1.17.xdelta",
+      "size": 320312789,
+      "digest": "sha256:7f021fa068408aafe089cf8244662384b0b1583caaade3683da2ede4278dd10d",
+      "browser_download_url": "https://github.com/retro-trans/ACE/releases/download/v0.1.17/ACE-English-0.1.17.xdelta"
+    },
+    {
+      "name": "BUILD-MANIFEST.json",
+      "size": 922,
+      "digest": "sha256:f5716c45d62e8f946e2036b9e0c806f796f0f7adbfb8eef158433e7a7682e64f",
+      "browser_download_url": "https://github.com/retro-trans/ACE/releases/download/v0.1.17/BUILD-MANIFEST.json"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "size": 263,
+      "digest": "sha256:d375ae1dd268cc77563c1245da75bde30c7f5f6adf0f0cf0cfb2e58eb2f788be",
+      "browser_download_url": "https://github.com/retro-trans/ACE/releases/download/v0.1.17/SHA256SUMS.txt"
+    },
+    {
+      "name": "VALIDATION.json",
+      "size": 315,
+      "digest": "sha256:db996f52252fbe7f9b10f4e8db87fb06c3e457cbe1265e81c979c5bbc4047929",
+      "browser_download_url": "https://github.com/retro-trans/ACE/releases/download/v0.1.17/VALIDATION.json"
+    }
+  ]
+}

@@ -6,6 +6,19 @@ request**, releases must work with Retro Trans Tools). The user explicitly reque
 release 0.1.17 on 2026-10-15, using `binhlt0402` in `retro-trans`. Repository: https://github.com/retro-trans/ACE.
 Packaging and publication instructions are in `docs/RELEASING.md`.
 
+## Public release
+
+Build **0.1.17** is published at https://github.com/retro-trans/ACE/releases/tag/v0.1.17.
+The release contains `ACE-English-0.1.17.xdelta` (320,312,789 bytes), the Retro Trans manifest,
+validation report and checksums. Its patch SHA-256 is
+`7f021fa068408aafe089cf8244662384b0b1583caaade3683da2ede4278dd10d`.
+The upstream release builder decoded the patch and verified the complete image against the build checksum;
+all uploaded asset sizes and GitHub SHA-256 digests matched. Evidence is in `docs/releases/0.1.17/`.
+Retro Trans catalog refresh run `38605374725` succeeded. The downloaded public catalog passed original-disc
+routes for Latest, Next version only and 0.1.17, current-image no-op and unknown-image rejection.
+The source commit is `219b6e5d65ea5515356bef428d25989b55c152dc`; the release tag also includes packaging records.
+Future changed builds need a new version and a new explicit publication request.
+
 ## Where things stand (2026-10-15)
 
 Latest image: `work/output/ACE-EN-0.1.17.iso` (SHA-256
