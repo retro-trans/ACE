@@ -1,0 +1,18 @@
+{
+  "version": "0.1.20",
+  "iso_sha256": "45148f8c96a06d8cc5129de216dcf0f36830cb3f82f4f4f1c82652af79168082",
+  "dialogue_rows": 3493,
+  "dialogue_layout_problems": 0,
+  "japanese_text_tables": 0,
+  "japanese_text_rows": 0,
+  "original_japanese_textures_checked": 35,
+  "original_japanese_textures_remaining": 0,
+  "opening_karaoke_rows_passed": 31,
+  "ending_karaoke_rows_passed": 21,
+  "movies_byte_identical_to_release_0_1_17": true,
+  "translated_movies": 3,
+  "original_story_movies": 22,
+  "audio_and_nonvideo_unchanged": true,
+  "mission_3_progression_fix_confirmed_in_play": true,
+  "full_playthrough_complete": false
+}

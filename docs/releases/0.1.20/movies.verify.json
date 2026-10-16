@@ -1,0 +1,119 @@
+{
+ "iso": "ACE-EN-0.1.20.iso",
+ "translated_movies": [
+  "/MOVIE0/MOVIE001.PSS",
+  "/MOVIE0/MOVIE002.PSS",
+  "/MOVIE0/MOVIE003.PSS"
+ ],
+ "original_story_movies": 22,
+ "audio_and_nonvideo_unchanged": true,
+ "movies": {
+  "/MOVIE0/MOVIE001.PSS": {
+   "status": "translated",
+   "sha256": "91ea00eacb2919d097996ff04b2c1e62ec183f6f82621f0920df59eb5d9b93d0",
+   "nonvideo_sha256": "a01d6dd4e55be9dd81f2b5796cd34e02d676a2c1af86a83d47c10bcb44a9fd3e"
+  },
+  "/MOVIE0/MOVIE002.PSS": {
+   "status": "translated",
+   "sha256": "832fd92ddc20e999f9e1405be440d2c4473cd4cbe5f60fdf764ff8d52b23095d",
+   "nonvideo_sha256": "db7d89fc96d8571d9684a7f994fe18e9884cfe78273ffd65f659beff5e0110a2"
+  },
+  "/MOVIE0/MOVIE003.PSS": {
+   "status": "translated",
+   "sha256": "d7465ecdc16665714070b9748924f3f9be6aebc074d9e7da191fbc034d393616",
+   "nonvideo_sha256": "06cd828ed5e405691855f92aa7190e93a9c7e64819abc0b671065d2ae6546278"
+  },
+  "/MOVIE0/MOVIE005.PSS": {
+   "status": "original",
+   "sha256": "9ac26a2e788618cff607cc09c014e9dbb7a0c372eafafe08797d8305e47051b6"
+  },
+  "/MOVIE1/MOVIE001.PSS": {
+   "status": "original",
+   "sha256": "becc6b6df6216429b5d9f85d9578df059676abfcebaf8a66af1dbdcc3e5b7995"
+  },
+  "/MOVIE1/MOVIE002.PSS": {
+   "status": "original",
+   "sha256": "285d5a80a80354fde992600694aaed02228bceaa82acf9274942ab04ecb83e0c"
+  },
+  "/MOVIE1/MOVIE003.PSS": {
+   "status": "original",
+   "sha256": "f18f1c3ad9969255acfcf9705eb7c83116159d3414475b2b0255add50ed7364c"
+  },
+  "/MOVIE1/MOVIE004.PSS": {
+   "status": "original",
+   "sha256": "0d522eaa79ce51dd6b6a269810b7beb6fbb5214827acc9ad991222642322ab79"
+  },
+  "/MOVIE1/MOVIE005.PSS": {
+   "status": "original",
+   "sha256": "edb1cc90624639799e7eb8da4ed8c7a60dfb179f45494cbf36815a6bcdf209b5"
+  },
+  "/MOVIE1/MOVIE006.PSS": {
+   "status": "original",
+   "sha256": "cf0ec2efb98390161f692034637f857b241d55064d3cec18f35aef42668436eb"
+  },
+  "/MOVIE1/MOVIE007.PSS": {
+   "status": "original",
+   "sha256": "f6c948b68218b2291f97f2b72e010961817d5ff9d25363282a8730f6772bf0c4"
+  },
+  "/MOVIE1/MOVIE008.PSS": {
+   "status": "original",
+   "sha256": "9ff874b14780383830f3fecf1e2c64bca13a346cf747aa5e998919f595ea657f"
+  },
+  "/MOVIE1/MOVIE009.PSS": {
+   "status": "original",
+   "sha256": "4b42aa5ca3cca5070ea6b0017a494524b9c42f42254801f49274687050fbcf07"
+  },
+  "/MOVIE1/MOVIE010.PSS": {
+   "status": "original",
+   "sha256": "3bf907c49cae2ec06937e6245f0a296abfbace7e98fe21ceff8fd7c8fb50c455"
+  },
+  "/MOVIE1/MOVIE011.PSS": {
+   "status": "original",
+   "sha256": "7d3ff9ad068a140e285d21cec964c5b041cd5b4af792c5661de4810f084eaeaf"
+  },
+  "/MOVIE1/MOVIE012.PSS": {
+   "status": "original",
+   "sha256": "6a2437adab9470829d78bf47a8870f58fca876b5d2b50e7db301dab9712147a7"
+  },
+  "/MOVIE1/MOVIE013.PSS": {
+   "status": "original",
+   "sha256": "1aa1a5bc6aa836cee0435010cc9819626e867ecf0976f1a9af7fc5e7f12b0ad9"
+  },
+  "/MOVIE1/MOVIE014.PSS": {
+   "status": "original",
+   "sha256": "4854407d4f589d1b41bd71eba705e1564f905b95b1db0f122e4f83f4264931e8"
+  },
+  "/MOVIE1/MOVIE015.PSS": {
+   "status": "original",
+   "sha256": "908c8b9239587cc0b825b3823f7551e3144a4f3067d6b08e8540f051f79ba4cb"
+  },
+  "/MOVIE1/MOVIE016.PSS": {
+   "status": "original",
+   "sha256": "7a57c71e55f105b1f0e6f4b97f36c9df40e8aa389062b3f99d6efa6f6421028b"
+  },
+  "/MOVIE1/MOVIE017.PSS": {
+   "status": "original",
+   "sha256": "a359c96b09bb6988746a5b53bb5f4d7389d27fecf3facc680e5ea7575ab5a24f"
+  },
+  "/MOVIE1/MOVIE018.PSS": {
+   "status": "original",
+   "sha256": "9136914d11acefad68cf956f0d81811c44f9cdb716f3bd919686039fa95ca6a8"
+  },
+  "/MOVIE1/MOVIE019.PSS": {
+   "status": "original",
+   "sha256": "f441518fbffc1bece77b60e029f163f7c288a1a9e4df2fd36233efc90fc96759"
+  },
+  "/MOVIE1/MOVIE020.PSS": {
+   "status": "original",
+   "sha256": "5c2703589a5a99ca844eda4378b2405547b97e7115324c0fa9303c58b1cefe55"
+  },
+  "/MOVIE1/MOVIE021.PSS": {
+   "status": "original",
+   "sha256": "5d52acde67f6a33d5e7db506073fbb6062fadffc6b6545340251b07b045c493c"
+  },
+  "/MOVIE1/MOVIE022.PSS": {
+   "status": "original",
+   "sha256": "cdaea518fc9b8ac4f9a061a13916d3328e8d6c1689631b1beab3f415808bc9bd"
+  }
+ }
+}

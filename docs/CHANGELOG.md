@@ -1,9 +1,34 @@
 # Changelog
 
-## 0.1.20 - 2026-10-16 (local test build, not released)
+## 0.1.21 - 2026-10-16 (local movie variant, not released)
+
+Output: `work/output/ACE-EN-0.1.21.iso` (3,357,147,136 bytes; report `ACE-EN-0.1.21.json`, SHA-256
+`9ea4840758b1d6409c63af57520d15145c17d7bca21b172d14bbb22004e8082c`).
+
+- Same game text as 0.1.20, including the mission 3 fix (confirmed in play).
+- **Release movies leave out song-lyric overlays:**
+  - `build.py --no-lyrics` (and `movie_text.py build MOVIE002 --no-lyrics`) drops the karaoke and lyric caption
+    segments;
+  - MOVIE002 keeps the English epilogue, staff credits and producer/publisher cards without karaoke;
+  - MOVIE003 has only song lyrics and stays original;
+  - MOVIE001 (news captions) is unchanged from 0.1.20.
+  Local builds without the switch still include the user's lyrics.
+- `package_release.py` takes `--version` and reads the expected output hash from the build report.
+- Dialogue layout check: 3,493 rows, 0 problems. Final Japanese inventory: 0 tables.
+- The user requested lyrics in the public release, so 0.1.20 is the selected release instead of this variant.
+
+## 0.1.20 - 2026-10-16 (release candidate)
 
 Output: `work/output/ACE-EN-0.1.20.iso` (report `ACE-EN-0.1.20.json`, SHA-256
 `45148f8c96a06d8cc5129de216dcf0f36830cb3f82f4f4f1c82652af79168082`).
+
+- Selected for publication at the user's explicit request, with opening and ending lyrics/karaoke included.
+- Includes the 0.1.18 difficulty/controller fixes and 0.1.19 restored HUD warnings.
+- Release verification: all 3,493 dialogue rows pass layout checks; 0 Japanese text tables remain; all 35
+  targeted UI textures are translated; all 52 karaoke rows pass. Three edited movies match 0.1.17 exactly,
+  and all movie audio/nonvideo bytes and 22 story movies are unchanged from the original.
+- The 320,364,671-byte release patch passed a complete decode-and-hash round trip. Candidate Retro Trans
+  catalog routes passed. Manifest, checksums and evidence are under `docs/releases/0.1.20/`.
 
 - **Mission 3 could not be finished:** the last Muzura sat at zero armour and never withdrew.
   - Cause: a 53-byte operator row spoken by an enemy speaker (row 21, with a `<cs(1)>` speaker colour). The

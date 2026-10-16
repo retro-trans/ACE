@@ -40,8 +40,12 @@ def nonvideo_hash(path, packets):
 
 def verify(iso):
     build_report = json.loads(iso.with_suffix('.json').read_text(encoding='utf-8'))
-    wanted = {mt.disc_path(n) for n in ('MOVIE001','MOVIE002','MOVIE003')}
-    require(set(build_report['movies']) == wanted,'Unexpected translated movie scope')
+    allowed = {mt.disc_path(n) for n in ('MOVIE001','MOVIE002','MOVIE003')}
+    wanted = set(build_report['movies'])
+    # A release build without song lyrics (build.py --no-lyrics) leaves a lyrics-only movie original.
+    require(wanted <= allowed and (wanted == allowed or build_report.get('movies_without_lyrics')),
+            'Unexpected translated movie scope')
+    no_lyrics = bool(build_report.get('movies_without_lyrics'))
     results = {}
     with open(SOURCE_ISO,'rb') as original, open(iso,'rb') as built:
         old_files,new_files = iso_files(original),iso_files(built)
@@ -55,6 +59,10 @@ def verify(iso):
                 require(actual == build_report['movies'][name],'Built movie mismatch: '+name)
                 movie = Path(name).stem
                 src,dst = mt.source_movie(movie),mt.OUT/(movie+'.PSS')
+                if no_lyrics and (mt.OUT/(movie+'.nolyrics.PSS')).exists():
+                    dst = mt.OUT/(movie+'.nolyrics.PSS')
+                with open(dst,'rb') as stream:
+                    require(range_hash(stream,0,dst.stat().st_size) == actual,'Built movie file mismatch: '+movie)
                 packets = mt.video_packets(src)
                 require(packets == mt.video_packets(dst),'Packet positions changed: '+movie)
                 before,after = nonvideo_hash(src,packets),nonvideo_hash(dst,packets)
@@ -70,7 +78,7 @@ def verify(iso):
               'audio_and_nonvideo_unchanged':True,'movies':results}
     target = iso.with_suffix('.movies.verify.json')
     target.write_text(json.dumps(report,indent=1),encoding='utf-8')
-    print('PASS: 3 translated movies, 22 original story movies; all audio and nonvideo bytes unchanged')
+    print('PASS: %d translated movies,' % len(wanted), '22 original story movies; all audio and nonvideo bytes unchanged')
     print('Report:',target)
 
 

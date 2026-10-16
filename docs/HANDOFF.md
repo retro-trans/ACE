@@ -8,6 +8,15 @@ Packaging and publication instructions are in `docs/RELEASING.md`.
 
 ## Public release
 
+The user explicitly requested a new release on 2026-10-16 and confirmed that lyrics must be included.
+The selected image is **0.1.20**, SHA-256
+`45148f8c96a06d8cc5129de216dcf0f36830cb3f82f4f4f1c82652af79168082`.
+It includes the play-confirmed mission 3 progression fix, the 0.1.18 menu fixes, the restored HUD warnings,
+and both opening/ending lyric overlays. The lyric-free 0.1.21 image is a local variant and is not selected
+for publication. Release notes: `docs/releases/RELEASE_NOTES_0.1.20.md`.
+
+### Previous public release
+
 Build **0.1.17** is published at https://github.com/retro-trans/ACE/releases/tag/v0.1.17.
 The release contains `ACE-English-0.1.17.xdelta` (320,312,789 bytes), the Retro Trans manifest,
 validation report and checksums. Its patch SHA-256 is
@@ -21,7 +30,7 @@ Future changed builds need a new version and a new explicit publication request.
 
 ## HUD warning restoration (2026-10-16)
 
-Latest local image: `work/output/ACE-EN-0.1.19.iso` (3,357,147,136 bytes; SHA-256
+Earlier local image: `work/output/ACE-EN-0.1.19.iso` (3,357,147,136 bytes; SHA-256
 `0cae3a989e87bb8b2fabb61bc058d185b2bfcb9a964fead4e8b0b0a6e28a232f`).
 
 The user reported question marks where the original game displays `AREA OVER`. Build **0.1.19** preserves
@@ -63,7 +72,7 @@ The user previously confirmed these game screens and sequences (before the recen
 - the title screen;
 - the save screen.
 
-`docs/CHANGELOG.md` has every build from 0.1.0 to 0.1.19.
+`docs/CHANGELOG.md` includes the 0.1.20 release and the unselected 0.1.21 local movie variant.
 
 Static checks on 0.1.17:
 - `tools/japanese_inventory.py` finds 0 text tables with Japanese.
@@ -90,6 +99,7 @@ these are enforced by the layout checks and the build:
 | Text | Limit |
 | --- | --- |
 | Operator window (`<op()>` ... `<ed()>`) | 1 line, 54 visible bytes |
+| Operator window with speaker color (`<cs(n)>`) | 1 line, 46 visible bytes |
 | Main radio window | 2 lines, 93 bytes |
 | HUD objective labels (rows 1-9 of each mission) | 28 bytes |
 | Briefing text | 89 bytes |
