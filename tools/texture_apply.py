@@ -15,6 +15,8 @@ class TextureText:
             return
         table = tt.by_name()
         for path in specs:
+            if path.name.endswith('.en.json') and path.with_name(path.name[:-8] + '.json').exists():
+                continue  # Prefer a local working spec; exports also work on a fresh checkout.
             spec = json.loads(path.read_text(encoding='utf-8'))
             if not any(l.get('en') for l in spec.get('labels', [])):
                 continue

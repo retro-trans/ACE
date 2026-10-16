@@ -19,9 +19,41 @@ routes for Latest, Next version only and 0.1.17, current-image no-op and unknown
 The source commit is `219b6e5d65ea5515356bef428d25989b55c152dc`; the release tag also includes packaging records.
 Future changed builds need a new version and a new explicit publication request.
 
-## Where things stand (2026-10-15)
+## HUD warning restoration (2026-10-16)
 
-Latest image: `work/output/ACE-EN-0.1.17.iso` (SHA-256
+Latest local image: `work/output/ACE-EN-0.1.19.iso` (3,357,147,136 bytes; SHA-256
+`0cae3a989e87bb8b2fabb61bc058d185b2bfcb9a964fead4e8b0b0a6e28a232f`).
+
+The user reported question marks where the original game displays `AREA OVER`. Build **0.1.19** preserves
+the stock full-width English glyphs for `AREA OVER`, `CAUTION`, `ON AIR`, `MISSILE`, and `ERROR` in the HUD
+font. These strings are in `Fe1p.bnd` and `Fe2p.bnd`, nested child `50140/5`; they had escaped the Japanese
+inventory because they were already English. The font rebuild had remapped their characters to `?`.
+`tools/ui_layout.py` now retains those original glyphs, and `tools/verify_hud_warning.py` checks their exact
+pixels and metrics plus unchanged translated ASCII glyphs. See `docs/hud_warning_0.1.19.md`.
+The built ISO passed the font comparison: only HUD fonts changed from 0.1.18; other DATA.BIN resources and
+the executable are identical. Movie hashes match; ISO/UDF and payload checks passed. The final Japanese
+inventory found 0 tables and 0 rows. Local font proofs and verification are in `work/ui/hud-warning-0.1.19/`.
+In-game confirmation of the warning remains for user testing. No release was requested for this build.
+
+## Local menu fixes (2026-10-16)
+
+Build **0.1.18** fixes the user-reported difficulty alignment and clipped controller labels.
+Previous local image: `work/output/ACE-EN-0.1.18.iso` (3,357,147,136 bytes; SHA-256
+`28712a4f103890cbb4a04f0c4743fef7e71cad3c98a5e0d1a8de21ad71b3151d`).
+Rookie/Pilot/Ace move down five texture pixels in both normal and highlighted states.
+Manual and Semi-Auto right-side labels are now drawn across the main texture and its rotated continuation,
+using the actual `b032.mnb` UV bounds. See `docs/menu_fixes_0.1.18.md` for coordinates and reproduction.
+Encoded artwork is reconstructed under `work/ui/menu-fixes-0.1.18/`; these are not emulator screenshots.
+The saved `verification.json` confirms all three copies of each texture, unchanged other DATA.BIN resources
+and executable, and the controller mesh UV bounds. The build's ISO/UDF and payload hash checks passed;
+movie hashes match 0.1.17. All four encoded-artwork previews were visually reviewed.
+The 0.1.18 Japanese inventory found 0 text tables and 0 rows containing Japanese.
+Both controller pages and all three difficulty selections still need in-game confirmation from a fresh boot.
+No release was requested for this build. The public release remains 0.1.17.
+
+## Previous image and validation (2026-10-15)
+
+Previous image: `work/output/ACE-EN-0.1.17.iso` (SHA-256
 `198bfe6cbd177347927aa412e716197f0d148e06ad768ee94537ac39b8e5871c`). The ending now uses a larger lyric
 overlay across the bottom of the credits and an English replacement epilogue scroll. All 22 story movies are
 original. All text outside the movies is translated and checked.
@@ -31,7 +63,7 @@ The user previously confirmed these game screens and sequences (before the recen
 - the title screen;
 - the save screen.
 
-`docs/CHANGELOG.md` has every build from 0.1.0 to 0.1.17.
+`docs/CHANGELOG.md` has every build from 0.1.0 to 0.1.19.
 
 Static checks on 0.1.17:
 - `tools/japanese_inventory.py` finds 0 text tables with Japanese.

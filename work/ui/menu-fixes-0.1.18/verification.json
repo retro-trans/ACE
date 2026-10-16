@@ -1,0 +1,28 @@
+{
+  "iso": "ACE-EN-0.1.18.iso",
+  "previous": "ACE-EN-0.1.17.iso",
+  "changed_resources": [
+    "\\target\\menu\\tm2\\t0300.tm2",
+    "\\target\\menu\\tm2\\t0301.tm2",
+    "\\target\\menu\\tm2\\t0302.tm2",
+    "\\target\\menu\\tm2\\t0303.tm2",
+    "\\target\\menu\\bnd\\mode_data\\MenuIntro.csc",
+    "\\target\\menu\\bnd\\mode_data\\MenuTitleIntro.csc"
+  ],
+  "texture_copies": {
+    "t0300.tm2": 3,
+    "t0302.tm2": 3,
+    "t0303.tm2": 3,
+    "t0301.tm2": 3
+  },
+  "all_other_data_resources_identical": true,
+  "executable_identical": true,
+  "controller_mesh_uvs_verified": true,
+  "difficulty_label_shift_y": 5,
+  "textures": {
+    "t0300.tm2": "33fdec492950b29eabeec2a5ebc4b71bba4a0ddb1592805613c6ac4cab91ea1f",
+    "t0301.tm2": "7ac361af568edc9e2aac1052f87dddd78baf6b364885efc5937fdb0bead4a4a8",
+    "t0302.tm2": "362bd3487a51bb986ede5afb55557109d8d22ae16686b8a6c1b0e4f83d714686",
+    "t0303.tm2": "5d323b21ad97548a91d07a4e377b54912bceb057e6379378070cea180e4df4ca"
+  }
+}

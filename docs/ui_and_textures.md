@@ -39,6 +39,12 @@ everything they draw is now English. `vwf_font.reclaim` repacks each atlas with 
 still uses, adds the English set (f005 at 2x, the HUD font at 1x) and points every other code at '?'. A small
 font is rebuilt only when all rows of its groups are translated.
 
+From 0.1.19 the HUD retained set also includes the original full-width English labels in Fe1p/Fe2p child
+`50140/5`: `AREA OVER`, `CAUTION`, `ON AIR`, `MISSILE`, and `ERROR`. These are not translation groups and
+contain no kana/kanji, so a zero-Japanese inventory does not check them. Discarding their glyphs had turned
+them into question marks. `tools/verify_hud_warning.py` checks their original pixels/metrics and unchanged
+ASCII glyphs; see `docs/hud_warning_0.1.19.md`.
+
 ## Executable and save icon
 
 Same-size edits: the title string at EE 0x2c6470 becomes "Another Century's Episode" and the placeholder name

@@ -30,6 +30,10 @@ LINE_WIDTH, MAX_LINES, MAX_BYTES = 400, 2, 93
 # Operator window: a row of 57 visible bytes crashed the game in play (mission 1 row 69, build 0.1.10), 56 bytes
 # played fine and the Japanese never exceeds 52; 54 keeps a margin under the proven size.
 OP_MAX_BYTES = 54
+# Operator rows with a <cs(n)> speaker colour: the colour code shares the same buffer (about 10 bytes), so the text
+# is held to the Japanese maximum for these rows, 46 bytes. A 53-byte row stalled mission 3's script (row 21,
+# build 0.1.19; found by bisecting with diagnostic builds).
+OP_CS_MAX_BYTES = 46
 # Objective and failure labels (rows 1-9 without tokens) are drawn on the HUD; their buffer is not located, so they
 # are held to the Japanese maximum (28 bytes).
 OBJECTIVE_MAX_BYTES = 28
@@ -97,8 +101,17 @@ def wrap(text, lines=MAX_LINES):
     return best[1] if best else [text]
 
 
-def stored(ja, en, window=None):
-    prefix, _, suffix = split(ja)
+def stored(ja, en, window=None, scale_typing=False):
+    prefix, src, suffix = split(ja)
+    if scale_typing:
+        # <sp(N)> is the delay per typed character (EE 0x2370f0 stores it; the typewriter at 0x237790 types one
+        # character each time the frame-time accumulator passes it). Keep the English typing time equal to the
+        # Japanese one, so the mission script's timing stays as in the original.
+        ja_chars = len(re.sub(r'#c(\[[0-9A-Fa-f]{6}\])?|\s', '', src))
+        en_chars = len(en.replace('\n', ''))
+        if en_chars > ja_chars > 0:
+            prefix = re.sub(r'<sp\((\d+)\)>', lambda m: '<sp(%d)>' % max(1, round(int(m.group(1)) * ja_chars / en_chars)),
+                            prefix)
     return prefix + '\n'.join(wrap(en, max_lines(window))) + suffix
 
 
@@ -128,6 +141,8 @@ def problems(row, window=None):
             out.append('line too wide (%d units): %r' % (width(l), l))
     n = visible_bytes('\n'.join(lines))
     limit = OP_MAX_BYTES if window == 'op' else MAX_BYTES
+    if window == 'op' and '<cs(' in row['ja']:
+        limit = OP_CS_MAX_BYTES
     if row['id'] < 10 and not split(row['ja'])[0]:
         limit = OBJECTIVE_MAX_BYTES        # objective / failure labels drawn on the HUD
     if n > limit:

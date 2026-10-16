@@ -38,7 +38,8 @@ plain English, and `dialogue_layout.stored` puts the original prefix and suffix 
   object for every row, so the limit is per row. Tokens are not copied; `#c[RRGGBB]` codes and line breaks are.
   Japanese rows top out near 90 visible bytes.
 * **Lines: 2** in the main radio window (no Japanese row uses more). **Operator window** (rows from `<op()>` to
-  `<ed()>`): **1 line and at most 54 bytes**. A two-line message froze the game and a 57-byte one crashed it in
+  `<ed()>`): **1 line and at most 54 bytes**, or **46 bytes** for rows with a `<cs(n)>` speaker colour (the colour code
+  shares the buffer; a 53-byte enemy line stalled mission 3's script so the last enemy could not retreat). A two-line message froze the game and a 57-byte one crashed it in
   play; the Japanese never exceeds one line or 52 bytes there.
 * **Objective / failure labels** (rows 1-9 without tokens, drawn on the HUD): at most 28 bytes, the Japanese
   maximum (buffer not located).

@@ -270,7 +270,27 @@ def apply_spec(data, spec):
     for lab in spec['labels']:
         if lab.get('en'):
             render_label(im, lab)
+    # Some menu pictures span a main rectangle and a rotated atlas continuation.
+    # Letter the assembled picture, then put each piece back in its original slot.
+    for panel in spec.get('panels', []):
+        canvas = assemble_panel(im, panel)
+        for lab in panel['labels']:
+            render_label(canvas, lab)
+        for piece in panel['pieces']:
+            box, at = piece['box'], piece['at']
+            tile = im.crop(box).rotate(piece.get('rotate', 0), expand=True)
+            painted = canvas.crop((at[0], at[1], at[0] + tile.width, at[1] + tile.height))
+            im.paste(painted.rotate(-piece.get('rotate', 0), expand=True), box[:2])
     return encode(data, im), im
+
+
+def assemble_panel(im, panel):
+    """Reconstruct atlas pieces with opaque copying (preserving their alpha)."""
+    canvas = Image.new('RGBA', tuple(panel['size']))
+    for piece in panel['pieces']:
+        tile = im.crop(piece['box']).rotate(piece.get('rotate', 0), expand=True)
+        canvas.paste(tile, tuple(piece['at']))
+    return canvas
 
 
 def main():

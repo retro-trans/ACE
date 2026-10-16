@@ -19,6 +19,13 @@ from vwf_font import add_english, reclaim
 DIR = ROOT / 'work/translation/en/ui'
 TOKEN = re.compile(r'<[a-z]+\([^)]*\)>|%%|%[-+0 #]*\d*[a-z]')
 _fonts = {}
+# Fe1p/Fe2p child 50140/5 already contains English in full-width CP932.
+# These rows are not translation groups, but still use the rebuilt HUD font.
+HUD_STOCK_LABELS = {2: 'AREA OVER', 22: 'CAUTION', 23: 'ON AIR', 24: 'MISSILE', 25: 'ERROR'}
+
+
+def hud_stock_text(text):
+    return ''.join('\u3000' if c == ' ' else chr(ord(c) + 0xfee0) for c in text)
 
 
 def groups():
@@ -30,8 +37,10 @@ def load(name):
 
 
 def keep_chars(font_name):
-    """Non-ASCII characters the English of every group using ``font_name`` still needs."""
+    """Non-ASCII glyphs needed by translated groups and existing English HUD labels."""
     chars = set()
+    if font_name == 'hud13':
+        chars.update(''.join(hud_stock_text(s) for s in HUD_STOCK_LABELS.values()))
     for g in groups():
         data = load(g)
         if data['font'] == font_name:

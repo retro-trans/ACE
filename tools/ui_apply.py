@@ -4,9 +4,9 @@ A table is translated when its Japanese rows are exactly one group's rows (same 
 a table - menu bundles, standalone files, nested HUD bundles, window bundles - gets the same English without
 tracking locations. One-row lock-on label tables in mission containers are matched per label (group 'lockon').
 
-Fonts: the small fonts f005 (names) and the HUD font 50071 are rebuilt (only the stock glyphs the English still
-uses, plus the English set; every other code shows '?'), so a font is rebuilt - and its tables translated - only
-when every row of every group drawn with it has English.
+Fonts: the small fonts f005 (names) and the HUD font 50071 are rebuilt (stock glyphs needed by translated text
+and existing full-width English HUD labels, plus the English set; every other code shows '?'). A font is rebuilt
+and its tables translated only when every row of every group drawn with it has English.
 """
 import collections
 import re

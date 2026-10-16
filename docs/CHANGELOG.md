@@ -1,5 +1,60 @@
 # Changelog
 
+## 0.1.20 - 2026-10-16 (local test build, not released)
+
+Output: `work/output/ACE-EN-0.1.20.iso` (report `ACE-EN-0.1.20.json`, SHA-256
+`45148f8c96a06d8cc5129de216dcf0f36830cb3f82f4f4f1c82652af79168082`).
+
+- **Mission 3 could not be finished:** the last Muzura sat at zero armour and never withdrew.
+  - Cause: a 53-byte operator row spoken by an enemy speaker (row 21, with a `<cs(1)>` speaker colour). The
+    colour code shares the operator message buffer, so the row overran it and the mission script stalled. The
+    game did not crash.
+  - Found by bisecting with diagnostic builds:
+    - mission 3 in Japanese: retreat works;
+    - dialogue only in Japanese: works;
+    - rows 10-26: works;
+    - rows 19-26: works;
+    - rows 21-22: works;
+    - row 21 alone: works.
+  - Ruled out:
+    - typing speed: scaling `<sp(n)>` to the Japanese typing time did not help (`build.py --scale-typing`
+      remains as a diagnostic);
+    - the lock-on labels;
+    - the lines just before the retreat.
+- **Rule:** operator rows with a `<cs(n)>` speaker are held to 46 visible bytes, the Japanese maximum for those
+  rows. `dialogue_layout.py` enforces it, and 79 rows across 36 missions were shortened.
+
+## 0.1.19 - 2026-10-16 (local test build, not released)
+
+Output: `work/output/ACE-EN-0.1.19.iso` (3,357,147,136 bytes; report `ACE-EN-0.1.19.json`, SHA-256
+`0cae3a989e87bb8b2fabb61bc058d185b2bfcb9a964fead4e8b0b0a6e28a232f`).
+
+- Restored the original `AREA OVER` out-of-bounds warning by preserving its full-width English glyphs in
+  the rebuilt HUD font. The same fix restores `CAUTION`, `ON AIR`, `MISSILE`, and `ERROR` in both HUD bundles.
+- Kept original warning lettering, spacing and text; existing translated ASCII glyphs are unchanged.
+  The 0.1.18 difficulty and controller fixes are included.
+- Added a check for exact stock warning glyph pixels/metrics and a build comparison that permits only the
+  two HUD font children in each HUD bundle to change. See `docs/hud_warning_0.1.19.md`.
+- Verification passed: only HUD fonts changed from 0.1.18; other DATA.BIN resources, warning tables and
+  executable are identical. Movie hashes match. ISO/UDF and payload checks passed, and the final Japanese
+  inventory found 0 tables and 0 rows. In-game confirmation remains for user testing.
+
+## 0.1.18 - 2026-10-16 (local test build, not released)
+
+Output: `work/output/ACE-EN-0.1.18.iso` (3,357,147,136 bytes; report `ACE-EN-0.1.18.json`, SHA-256
+`28712a4f103890cbb4a04f0c4743fef7e71cad3c98a5e0d1a8de21ad71b3151d`).
+
+- Lowered Rookie, Pilot and Ace by five texture pixels to centre them vertically in their buttons, for both
+  normal and highlighted states.
+- Restored complete right-side labels in the Manual and Semi-Auto controller diagrams. Labels are drawn on
+  the assembled panel, then split across the main and rotated continuation pieces used by the game.
+- Added encoded-artwork previews and checks that only the four intended textures and their packed copies
+  differ from 0.1.17. See `docs/menu_fixes_0.1.18.md`. In-game confirmation remains for user testing.
+- Build and comparison passed: all three copies of each changed texture match the intended encoding;
+  every other DATA.BIN resource and the executable are identical to 0.1.17. Movie hashes also match.
+  ISO/UDF layout and rebuilt file hashes passed; all four encoded texture previews were visually reviewed.
+  The final Japanese inventory found 0 tables and 0 rows containing Japanese.
+
 ## 0.1.17 - 2026-10-15 (published)
 
 Output: `work/output/ACE-EN-0.1.17.iso` (report `ACE-EN-0.1.17.json`, SHA-256

@@ -81,3 +81,7 @@ offending line. When the same Japanese line occurs in several missions, give it 
 Operator-window rows are also limited to **54 visible bytes** (one byte per English character, two for fullwidth
 symbols such as △ □ ○ ×). A 57-byte row crashed the game in play (mission 1 row 69); the Japanese never exceeds 52.
 The check reports "N visible bytes (max 54 in the op window)".
+
+Operator rows spoken by a `<cs(n)>` speaker (the enemy and guest speakers whose rows start with `<cs(1)>` etc.) are
+held to **46 visible bytes**: the speaker colour shares the message buffer. A 53-byte row stalled mission 3's script
+(the enemy could not retreat). The check reports "N visible bytes (max 46 ...)".

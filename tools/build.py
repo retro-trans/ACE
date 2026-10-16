@@ -194,7 +194,7 @@ def english_container(data, mission, report):
         require(rows.get(r['id']) == r['ja'], 'm%s id %d: Japanese source differs from disc' % (mission, r['id']))
         bad = dialogue_layout.problems(r, win[r['id']])
         require(not bad, 'm%s id %d: %s' % (mission, r['id'], bad))
-        rows[r['id']] = dialogue_layout.stored(r['ja'], r['en'], win[r['id']])
+        rows[r['id']] = dialogue_layout.stored(r['ja'], r['en'], win[r['id']], DIAG.get('scale_typing', False))
         done += 1
     if not done:
         return None
@@ -646,11 +646,14 @@ def main():
     ap.add_argument('version')
     ap.add_argument('--write', action='store_true')
     ap.add_argument('--movies', default=None, help='comma list of movie specs to include (default: all with a spec)')
+    ap.add_argument('--no-lyrics', action='store_true',
+                    help='public release: movies without the user-supplied song lyrics (karaoke left out)')
     ap.add_argument('--stock-missions', default='', help='diagnostic: comma list of mission numbers (e.g. 001) left untranslated')
     ap.add_argument('--stock-hud', action='store_true', help='diagnostic: keep the stock HUD font and Fe speaker tables')
     ap.add_argument('--stock-dialogue', default='', help='diagnostic: missions whose dialogue table stays stock')
     ap.add_argument('--stock-labels', default='', help='diagnostic: missions whose lock-on label tables stay stock')
     ap.add_argument('--no-blank', action='store_true', help='diagnostic: do not blank unused mission tables')
+    ap.add_argument('--scale-typing', action='store_true', help='diagnostic: English typed as fast as the Japanese took')
     ap.add_argument('--rows', default='', help='diagnostic: MISSION:A-B[,C-D] translates only those rows; MISSION:!A-B all but those')
     ap.add_argument('--no-cleanup', action='store_true',
                     help='diagnostic: stock ELF labels, no blanking of unused tables, no zeroing of moved slots')
@@ -668,6 +671,8 @@ def main():
         DIAG['stock_labels'] = set(a.stock_labels.split(','))
     if a.no_blank:
         DIAG['no_blank'] = True
+    if a.scale_typing:
+        DIAG['scale_typing'] = True
     if a.rows:
         mission, spec = a.rows.split(':')
         include = not spec.startswith('!')
@@ -695,7 +700,8 @@ def main():
         elf = patch_elf(f.read(rec['size']), report)
     import movie_text
     only = set(a.movies.split(',')) if a.movies else None
-    movies = {} if DIAG else movie_text.ready(only)      # diagnostic builds keep the stock movies
+    movies = {} if DIAG else movie_text.ready(only, a.no_lyrics)      # diagnostic builds keep the stock movies
+    report['movies_without_lyrics'] = bool(a.no_lyrics)
     report['movies'] = {name: json.loads((path.with_suffix('.json')).read_text(encoding='utf-8'))['sha256']
                         for name, path in movies.items()}
     write_iso(patches, tail, new_size, report['changed'], out, report, dict({'/SLPS_253.94': elf}, **movies))

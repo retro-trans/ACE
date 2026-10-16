@@ -1,0 +1,20 @@
+{
+  "iso": "ACE-EN-0.1.19.iso",
+  "previous": "ACE-EN-0.1.18.iso",
+  "restored_labels": [
+    "AREA OVER",
+    "CAUTION",
+    "ON AIR",
+    "MISSILE",
+    "ERROR"
+  ],
+  "stock_glyph_pixels_and_metrics_preserved": true,
+  "ascii_glyphs_unchanged": true,
+  "changed_resources": [
+    "\\target\\fe\\InGame\\param\\Fe1p.bnd",
+    "\\target\\fe\\InGame\\param\\Fe2p.bnd",
+    "\\target\\fe\\InGame\\param\\Fe1p.bnd",
+    "\\target\\fe\\InGame\\param\\Fe2p.bnd"
+  ],
+  "comparison_passed": true
+}

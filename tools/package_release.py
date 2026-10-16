@@ -1,4 +1,4 @@
-"""Package the verified 0.1.17 ISO using the pinned Retro Trans release builder.
+"""Package a verified ISO using the pinned Retro Trans release builder.
 
 Run with Python 3.11+. Defaults to a dry run; --write encodes and round-trips.
 """
@@ -14,13 +14,8 @@ import time
 ROOT = Path(__file__).resolve().parent.parent
 UPSTREAM = ROOT / 'work/source/retro-trans-tools'
 PIN = 'dde06f13fdabd7d9fa03af861f50e72fcf196faa'
-VERSION = '0.1.17'
 SOURCE = ROOT / "Another Century's Episode (Japan).iso"
-TARGET = ROOT / 'work/output/ACE-EN-0.1.17.iso'
-EXPECTED = {
-    SOURCE: '7ea891fddbbc3f560330e7c8ecc74e36d2f1137cd1907abf0af3158171b3e3e9',
-    TARGET: '198bfe6cbd177347927aa412e716197f0d148e06ad768ee94537ac39b8e5871c',
-}
+SOURCE_SHA256 = '7ea891fddbbc3f560330e7c8ecc74e36d2f1137cd1907abf0af3158171b3e3e9'
 
 
 def hashes(path):
@@ -35,8 +30,13 @@ def hashes(path):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--source-commit', required=True)
+    parser.add_argument('--version', required=True, help='e.g. 0.1.21 (packages work/output/ACE-EN-<version>.iso)')
     parser.add_argument('--write', action='store_true')
     args = parser.parse_args()
+    VERSION = args.version
+    TARGET = ROOT / ('work/output/ACE-EN-%s.iso' % VERSION)
+    report = json.loads((ROOT / ('work/output/ACE-EN-%s.json' % VERSION)).read_text(encoding='utf-8'))
+    EXPECTED = {SOURCE: SOURCE_SHA256, TARGET: report['sha256']}
     commit = subprocess.check_output(['git', 'rev-parse', '--verify', args.source_commit + '^{commit}'], cwd=ROOT, text=True).strip()
     actual = subprocess.check_output(['git', 'rev-parse', 'HEAD'], cwd=UPSTREAM, text=True).strip()
     if actual != PIN:
@@ -45,7 +45,7 @@ def main():
         parser.error('Retro Trans Tools has modified tracked files')
     config = dict(game_id='ace', game_name="Another Century's Episode", platform='PS2',
                   version=VERSION, source_commit=commit, patches=[dict(
-                      patch='ACE-English-0.1.17.xdelta', edition='English', language='en',
+                      patch='ACE-English-%s.xdelta' % VERSION, edition='English', language='en',
                       source_version='original', source_format='iso', target_format='iso',
                       source=str(SOURCE), target=str(TARGET))])
     print(json.dumps(config, indent=2), flush=True)
@@ -61,7 +61,7 @@ def main():
         identities[path] = hashes(path)
         if identities[path]['sha256'] != expected:
             parser.error('Unexpected image identity: ' + path.name)
-    private = ROOT / 'work/source/release-0.1.17-local.json'
+    private = ROOT / ('work/source/release-%s-local.json' % VERSION)
     private.write_text(json.dumps(config, indent=2) + '\n', encoding='utf-8')
     sys.path.insert(0, str(UPSTREAM))
     from retro_trans.release import build_release, validate_directory

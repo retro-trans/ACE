@@ -664,8 +664,13 @@ class Karaoke:
 
 # ---------------------------------------------------------------- spec, analysis and preview
 
-def load(movie):
+LYRIC_TYPES = ('karaoke', 'lyrics_caption')   # segments that render song lyrics (user-supplied, never released)
+
+
+def load(movie, no_lyrics=False):
     spec = json.loads((SPEC / (movie + '.json')).read_text(encoding='utf-8'))
+    if no_lyrics:
+        spec['segments'] = [s for s in spec['segments'] if s.get('type') not in LYRIC_TYPES]
     es, packets = elementary(movie)
     kinds = {'static': StaticCard, 'caption': Caption, 'karaoke': Karaoke, 'lyrics_caption': LyricsCaption}
     segs = [kinds.get(s.get('type'), Segment)(movie, es, k, s) for k, s in enumerate(spec['segments'])]
@@ -794,9 +799,10 @@ def ts_bytes(prefix, t):
                   ((t << 1) & 0xfe) | 1])
 
 
-def build(movie):
-    built_from = spec_hash(movie)          # the spec this build reflects, even if it is edited meanwhile
-    spec, es, packets, segs = load(movie)
+def build(movie, no_lyrics=False):
+    tag = '.nolyrics' if no_lyrics else ''
+    built_from = spec_hash(movie, no_lyrics)    # the spec this build reflects, even if it is edited meanwhile
+    spec, es, packets, segs = load(movie, no_lyrics)
     pss = source_movie(movie)
     gops, pics = index(es)
     matrix = sequence_matrix(es)
@@ -829,7 +835,7 @@ def build(movie):
     report = {'gops': len(todo), 'q': {}, 'bytes': 0}
     print(movie, 'encoding', len(todo), 'GOPs', flush=True)
     completed = 0
-    new_es = CACHE / (movie + '.new.m2v')
+    new_es = CACHE / (movie + tag + '.new.m2v')
     new_pics = {}
     with open(es, 'rb') as src, open(new_es, 'wb') as dst:
         pos = 0
@@ -901,7 +907,7 @@ def build(movie):
     lo_list = [c[0] for c in changed]
     starts_all = sorted(new_pics)
     OUT.mkdir(parents=True, exist_ok=True)
-    out = OUT / (movie + '.PSS')
+    out = OUT / (movie + tag + '.PSS')
     with open(pss, 'rb') as src, open(new_es, 'rb') as nes, open(out, 'wb') as dst:
         pos = 0
         for hdr, p, n, at in packets:
@@ -975,7 +981,7 @@ def build(movie):
     require(report['frames'] == len(pics), 'Frame count %d, expected %d' % (report['frames'], len(pics)))
     report['spec'] = built_from
     report['sha256'] = sha256(out)
-    (OUT / (movie + '.json')).write_text(json.dumps(report, indent=1), encoding='utf-8')
+    (OUT / (movie + tag + '.json')).write_text(json.dumps(report, indent=1), encoding='utf-8')
     print(movie, report)
     return report
 
@@ -988,9 +994,11 @@ def sha256(path):
     return h.hexdigest()
 
 
-def spec_hash(movie):
+def spec_hash(movie, no_lyrics=False):
     raw = (SPEC / (movie + '.json')).read_bytes()
     digest = hashlib.sha1(raw)
+    if no_lyrics:
+        return hashlib.sha1(raw + b'|nolyrics').hexdigest()     # the lyrics file is not used
     paths = sorted({s['lyrics'] for s in json.loads(raw)['segments'] if 'lyrics' in s})
     for path in paths:
         digest.update(path.encode('utf-8'))
@@ -998,9 +1006,10 @@ def spec_hash(movie):
     return digest.hexdigest()
 
 
-def ready(only=None):
+def ready(only=None, no_lyrics=False):
     """{disc path: built path} for every movie spec (or the movies in ``only``); fails when a build is missing or
-    stale."""
+    stale. With ``no_lyrics`` (public releases) the builds without song lyrics are used, and a movie whose only
+    edits are lyrics stays original."""
     out = {}
     for path in sorted(SPEC.glob('*.json')) if SPEC.exists() else []:
         if path.name.endswith('.en.json'):
@@ -1008,10 +1017,17 @@ def ready(only=None):
         movie = path.stem
         if only is not None and movie not in only:
             continue
-        rep = OUT / (movie + '.json')
-        require(rep.exists() and json.loads(rep.read_text(encoding='utf-8'))['spec'] == spec_hash(movie),
-                'Movie %s is not built for its current spec: run tools/movie_text.py build %s' % (movie, movie))
-        out[disc_path(movie)] = OUT / (movie + '.PSS')
+        segments = json.loads(path.read_text(encoding='utf-8'))['segments']
+        has_lyrics = any(s.get('type') in LYRIC_TYPES for s in segments)
+        if no_lyrics and not [s for s in segments if s.get('type') not in LYRIC_TYPES]:
+            continue                                  # only lyrics: the movie stays original
+        no_lyrics_here = no_lyrics and has_lyrics     # a movie without lyrics uses its normal build
+        tag = '.nolyrics' if no_lyrics_here else ''
+        rep = OUT / (movie + tag + '.json')
+        require(rep.exists() and json.loads(rep.read_text(encoding='utf-8'))['spec'] == spec_hash(movie, no_lyrics_here),
+                'Movie %s is not built for its current spec: run tools/movie_text.py build %s%s'
+                % (movie, movie, ' --no-lyrics' if no_lyrics_here else ''))
+        out[disc_path(movie)] = OUT / (movie + tag + '.PSS')
     return out
 
 
@@ -1022,4 +1038,4 @@ if __name__ == '__main__':
     elif cmd == 'preview':
         preview(movie, [int(x) for x in sys.argv[3:]])
     elif cmd == 'build':
-        build(movie)
+        build(movie, '--no-lyrics' in sys.argv)

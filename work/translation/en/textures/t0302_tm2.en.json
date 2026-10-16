@@ -1146,7 +1146,7 @@
     264,
     487
    ],
-   "en": "Descend",
+   "en": " ",
    "vertical": true,
    "upward": true,
    "height": 20,
@@ -1163,7 +1163,7 @@
     295,
     488
    ],
-   "en": "Ascend",
+   "en": " ",
    "vertical": true,
    "upward": true,
    "height": 20,
@@ -1180,7 +1180,7 @@
     383,
     489
    ],
-   "en": "Lock-on",
+   "en": " ",
    "vertical": true,
    "upward": true,
    "height": 20,
@@ -1197,7 +1197,7 @@
     415,
     488
    ],
-   "en": "Sub Wpn",
+   "en": " ",
    "vertical": true,
    "upward": true,
    "height": 20,
@@ -1214,7 +1214,7 @@
     447,
     488
    ],
-   "en": "Dash On/Off",
+   "en": " ",
    "vertical": true,
    "upward": true,
    "height": 20,
@@ -1231,7 +1231,7 @@
     479,
     488
    ],
-   "en": "Camera",
+   "en": " ",
    "vertical": true,
    "upward": true,
    "height": 20,
@@ -1248,7 +1248,7 @@
     351,
     488
    ],
-   "en": "Main Wpn",
+   "en": " ",
    "vertical": true,
    "upward": true,
    "height": 20,
@@ -1256,6 +1256,155 @@
     205,
     206,
     208
+   ]
+  }
+ ],
+ "panels": [
+  {
+   "size": [
+    571,
+    309
+   ],
+   "pieces": [
+    {
+     "box": [
+      0,
+      0,
+      512,
+      309
+     ],
+     "at": [
+      0,
+      0
+     ]
+    },
+    {
+     "box": [
+      196,
+      346,
+      505,
+      405
+     ],
+     "at": [
+      512,
+      0
+     ],
+     "rotate": -90
+    }
+   ],
+   "labels": [
+    {
+     "box": [
+      430,
+      47,
+      542,
+      67
+     ],
+     "en": "Descend",
+     "align": "center",
+     "height": 21,
+     "color": [
+      205,
+      206,
+      207
+     ]
+    },
+    {
+     "box": [
+      430,
+      79,
+      542,
+      99
+     ],
+     "en": "Ascend",
+     "align": "center",
+     "height": 21,
+     "color": [
+      205,
+      206,
+      207
+     ]
+    },
+    {
+     "box": [
+      430,
+      168,
+      542,
+      186
+     ],
+     "en": "Lock-on",
+     "align": "center",
+     "height": 21,
+     "color": [
+      205,
+      206,
+      207
+     ]
+    },
+    {
+     "box": [
+      430,
+      200,
+      542,
+      218
+     ],
+     "en": "Sub Wpn",
+     "align": "center",
+     "height": 21,
+     "color": [
+      205,
+      206,
+      207
+     ]
+    },
+    {
+     "box": [
+      430,
+      232,
+      542,
+      250
+     ],
+     "en": "Dash On/Off",
+     "align": "center",
+     "height": 21,
+     "color": [
+      205,
+      206,
+      207
+     ]
+    },
+    {
+     "box": [
+      430,
+      265,
+      542,
+      283
+     ],
+     "en": "Camera",
+     "align": "center",
+     "height": 21,
+     "color": [
+      205,
+      206,
+      207
+     ]
+    },
+    {
+     "box": [
+      430,
+      136,
+      542,
+      154
+     ],
+     "en": "Main Wpn",
+     "align": "center",
+     "height": 21,
+     "color": [
+      205,
+      206,
+      207
+     ]
+    }
    ]
   }
  ]
