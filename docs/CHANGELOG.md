@@ -17,7 +17,7 @@ Output: `work/output/ACE-EN-0.1.21.iso` (3,357,147,136 bytes; report `ACE-EN-0.1
 - Dialogue layout check: 3,493 rows, 0 problems. Final Japanese inventory: 0 tables.
 - The user requested lyrics in the public release, so 0.1.20 is the selected release instead of this variant.
 
-## 0.1.20 - 2026-10-16 (release candidate)
+## 0.1.20 - 2026-10-16 (published)
 
 Output: `work/output/ACE-EN-0.1.20.iso` (report `ACE-EN-0.1.20.json`, SHA-256
 `45148f8c96a06d8cc5129de216dcf0f36830cb3f82f4f4f1c82652af79168082`).
@@ -29,6 +29,10 @@ Output: `work/output/ACE-EN-0.1.20.iso` (report `ACE-EN-0.1.20.json`, SHA-256
   and all movie audio/nonvideo bytes and 22 story movies are unchanged from the original.
 - The 320,364,671-byte release patch passed a complete decode-and-hash round trip. Candidate Retro Trans
   catalog routes passed. Manifest, checksums and evidence are under `docs/releases/0.1.20/`.
+- Published [ACE English 0.1.20](https://github.com/retro-trans/ACE/releases/tag/v0.1.20) with lyrics included.
+  All four uploaded asset sizes and SHA-256 digests matched the local package.
+- Retro Trans catalog refresh `38926031385` succeeded; public Latest/0.1.20 routes, current-image no-op,
+  and unknown-image rejection passed. Next version only selects the earlier 0.1.17 release as expected.
 
 - **Mission 3 could not be finished:** the last Muzura sat at zero armour and never withdrew.
   - Cause: a 53-byte operator row spoken by an enemy speaker (row 21, with a `<cs(1)>` speaker colour). The

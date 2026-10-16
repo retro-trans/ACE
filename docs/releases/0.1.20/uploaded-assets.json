@@ -1,0 +1,26 @@
+[
+  {
+    "name": "ACE-English-0.1.20.xdelta",
+    "bytes": 320364671,
+    "digest": "sha256:0548bd3bc952e36b238c427341ddd54bf2c992238208f1a5552f18a63f69cf7c",
+    "verified": true
+  },
+  {
+    "name": "BUILD-MANIFEST.json",
+    "bytes": 922,
+    "digest": "sha256:8d4e685328c8a3027f7e94683ed3586ae99fc54d6b6129496d1f5097dddcf828",
+    "verified": true
+  },
+  {
+    "name": "SHA256SUMS.txt",
+    "bytes": 263,
+    "digest": "sha256:b2cafc269114cd2e43735f65bf4d83094babf652c5cbe089643872e1c834741a",
+    "verified": true
+  },
+  {
+    "name": "VALIDATION.json",
+    "bytes": 315,
+    "digest": "sha256:ba9bb5fcdb1d5d2be23055d9d3cb929c0a7ab4bd795e9702bdcf36ff32e30b0d",
+    "verified": true
+  }
+]

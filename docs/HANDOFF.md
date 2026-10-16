@@ -9,11 +9,19 @@ Packaging and publication instructions are in `docs/RELEASING.md`.
 ## Public release
 
 The user explicitly requested a new release on 2026-10-16 and confirmed that lyrics must be included.
-The selected image is **0.1.20**, SHA-256
+Published release: https://github.com/retro-trans/ACE/releases/tag/v0.1.20.
+The image is **0.1.20**, SHA-256
 `45148f8c96a06d8cc5129de216dcf0f36830cb3f82f4f4f1c82652af79168082`.
 It includes the play-confirmed mission 3 progression fix, the 0.1.18 menu fixes, the restored HUD warnings,
 and both opening/ending lyric overlays. The lyric-free 0.1.21 image is a local variant and is not selected
 for publication. Release notes: `docs/releases/RELEASE_NOTES_0.1.20.md`.
+The 320,364,671-byte xdelta passed a full decode-and-hash round trip. Its SHA-256 is
+`0548bd3bc952e36b238c427341ddd54bf2c992238208f1a5552f18a63f69cf7c`.
+All four uploaded assets matched local sizes and digests. Records are under `docs/releases/0.1.20/`.
+Source commit: `680bde7c1a75f2d8c5d813e6d09b2a0101a1380a`; tag target: `24f79fdf4c651d6e498ba5b9fb58d27a7ea2bcf3`.
+Retro Trans catalog refresh `38926031385` succeeded. The downloaded public catalog routes the original disc
+to 0.1.20 for Latest or explicit 0.1.20, treats the current image as a no-op, and rejects unknown images.
+Next version only still selects 0.1.17, the earliest public release. Use Latest or explicit 0.1.20.
 
 ### Previous public release
 
@@ -58,7 +66,7 @@ and executable, and the controller mesh UV bounds. The build's ISO/UDF and paylo
 movie hashes match 0.1.17. All four encoded-artwork previews were visually reviewed.
 The 0.1.18 Japanese inventory found 0 text tables and 0 rows containing Japanese.
 Both controller pages and all three difficulty selections still need in-game confirmation from a fresh boot.
-No release was requested for this build. The public release remains 0.1.17.
+This build was not published individually; its menu fixes are included in public release 0.1.20.
 
 ## Previous image and validation (2026-10-15)
 
