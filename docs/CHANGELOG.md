@@ -1,6 +1,11 @@
 # Changelog
 
-## 0.1.29 - 2026-10-22 (release preparation)
+## 0.1.29 - 2026-10-22
+
+Published: https://github.com/retro-trans/ACE/releases/tag/v0.1.29.
+The patch passed a full decode and output checksum comparison. All four uploaded
+assets match the local verified package; release evidence is in `docs/releases/0.1.29/`.
+Retro Trans catalog refresh and public Latest/explicit-version routing checks passed.
 
 Output: `work/output/ACE-EN-0.1.29.iso` (3,357,147,136 bytes), SHA-256
 `02ad1831f30daf61348b24cdeb176e1be3bee019cfad7fefcac7a846844f7f6f`.

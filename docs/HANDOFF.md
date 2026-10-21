@@ -6,7 +6,16 @@ request**, releases must work with Retro Trans Tools). The user explicitly reque
 release 0.1.17 on 2026-10-15, using `binhlt0402` in `retro-trans`. Repository: https://github.com/retro-trans/ACE.
 Packaging and publication instructions are in `docs/RELEASING.md`.
 
-## Shared 4x fonts: local 0.1.29 (2026-10-22)
+## Shared 4x fonts: released 0.1.29 (2026-10-22)
+
+Published: https://github.com/retro-trans/ACE/releases/tag/v0.1.29.
+Source commit: `009da80a6b7c18f71ec0da922cf9041ff9c9570d`; release metadata commit:
+`e4d6bf2`. The four-asset package passed a full round trip and uploaded size/SHA-256
+checks. Canonical package and validation evidence: `docs/releases/0.1.29/`.
+Retro Trans catalog refresh run `39665115701` succeeded. The public catalog routes
+both Latest and explicit 0.1.29 from the original Japanese ISO to this release;
+already-current images are a no-op and unknown images are rejected. Reports:
+`catalog-workflow.json`, `public-routes.json`, and `uploaded-assets.json` in that folder.
 
 The user reported blocks in multiple speaker names and lock-on labels, then requested
 removing Japanese glyphs to save space. `english_fonts.py` reclaims unused Japanese glyphs

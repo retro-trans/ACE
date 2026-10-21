@@ -1,0 +1,67 @@
+{
+  "assets": [
+    {
+      "apiUrl": "https://api.github.com/repos/retro-trans/ACE/releases/assets/663608589",
+      "contentType": "application/octet-stream",
+      "createdAt": "2026-10-21T19:48:05Z",
+      "digest": "sha256:5f8170cba51dba21ee89218394cc14edf38f7b77bee7333804c2581c2ab65a5f",
+      "downloadCount": 0,
+      "id": "RA_kwDOVJuZ584njd0N",
+      "label": "",
+      "name": "ACE-English-0.1.29.xdelta",
+      "size": 890566619,
+      "state": "uploaded",
+      "updatedAt": "2026-10-21T19:49:37Z",
+      "url": "https://github.com/retro-trans/ACE/releases/download/v0.1.29/ACE-English-0.1.29.xdelta"
+    },
+    {
+      "apiUrl": "https://api.github.com/repos/retro-trans/ACE/releases/assets/663613213",
+      "contentType": "application/json",
+      "createdAt": "2026-10-21T19:49:54Z",
+      "digest": "sha256:fdf16cd626eccfb9c8346c3b0765be4a3d75f6d54127761493bbc704450e01df",
+      "downloadCount": 0,
+      "id": "RA_kwDOVJuZ584nje8d",
+      "label": "",
+      "name": "BUILD-MANIFEST.json",
+      "size": 922,
+      "state": "uploaded",
+      "updatedAt": "2026-10-21T19:49:54Z",
+      "url": "https://github.com/retro-trans/ACE/releases/download/v0.1.29/BUILD-MANIFEST.json"
+    },
+    {
+      "apiUrl": "https://api.github.com/repos/retro-trans/ACE/releases/assets/663608588",
+      "contentType": "text/plain; charset=utf-8",
+      "createdAt": "2026-10-21T19:48:05Z",
+      "digest": "sha256:b0a67c0d2ab1572e8b3bc568d92a47a836b28fd391ef5ce795f2dc28e33d735c",
+      "downloadCount": 0,
+      "id": "RA_kwDOVJuZ584njd0M",
+      "label": "",
+      "name": "SHA256SUMS.txt",
+      "size": 263,
+      "state": "uploaded",
+      "updatedAt": "2026-10-21T19:48:05Z",
+      "url": "https://github.com/retro-trans/ACE/releases/download/v0.1.29/SHA256SUMS.txt"
+    },
+    {
+      "apiUrl": "https://api.github.com/repos/retro-trans/ACE/releases/assets/663608587",
+      "contentType": "application/json",
+      "createdAt": "2026-10-21T19:48:05Z",
+      "digest": "sha256:bbb025d0671d544c0f6b1f48faaabe33a36387662fcb37e29329ec18849ba9fd",
+      "downloadCount": 0,
+      "id": "RA_kwDOVJuZ584njd0L",
+      "label": "",
+      "name": "VALIDATION.json",
+      "size": 315,
+      "state": "uploaded",
+      "updatedAt": "2026-10-21T19:48:05Z",
+      "url": "https://github.com/retro-trans/ACE/releases/download/v0.1.29/VALIDATION.json"
+    }
+  ],
+  "databaseId": 419987317,
+  "isDraft": false,
+  "isPrerelease": false,
+  "publishedAt": "2026-10-21T19:50:18Z",
+  "tagName": "v0.1.29",
+  "url": "https://github.com/retro-trans/ACE/releases/tag/v0.1.29",
+  "all_assets_verified": true
+}
