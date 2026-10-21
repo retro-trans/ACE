@@ -5,16 +5,18 @@
    "box": [
     23,
     7,
-    57,
+    86,
     24
    ],
    "en": "Resources",
    "align": "left",
-   "grow": [
-    0,
-    50
-   ],
-   "height": 18
+   "height": 18,
+   "erase_box": [
+    23,
+    7,
+    57,
+    24
+   ]
   },
   {
    "box": [
@@ -35,16 +37,18 @@
    "box": [
     22,
     59,
-    90,
+    85,
     76
    ],
    "en": "Repair Eff.",
    "align": "left",
-   "grow": [
-    0,
-    30
-   ],
-   "height": 18
+   "height": 18,
+   "erase_box": [
+    22,
+    59,
+    90,
+    76
+   ]
   },
   {
    "box": [

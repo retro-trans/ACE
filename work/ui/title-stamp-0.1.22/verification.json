@@ -1,0 +1,49 @@
+{
+  "version": "0.1.22",
+  "iso": "ACE-EN-0.1.22.iso",
+  "stamp": {
+    "version": "0.1.22",
+    "group": "github.com / retro-trans",
+    "atlas_bounds": [
+      [
+        434,
+        482,
+        468,
+        491
+      ],
+      [
+        370,
+        498,
+        468,
+        510
+      ]
+    ],
+    "screen_bounds": [
+      [
+        466,
+        406,
+        500,
+        415
+      ],
+      [
+        402,
+        422,
+        500,
+        434
+      ]
+    ]
+  },
+  "changed_pixels": 1070,
+  "existing_artwork_preserved": true,
+  "changed_resources": [
+    "\\target\\menu\\tm2\\t3105.tm2",
+    "\\target\\menu\\mnl\\l014.mnl",
+    "\\target\\menu\\bnd\\mode_data\\MenuTitle.csc",
+    "\\target\\menu\\bnd\\mode_data\\MenuTitleIntro.csc"
+  ],
+  "copies": {
+    "t3105.tm2": 3,
+    "l014.mnl": 3
+  },
+  "iso_comparison_passed": true
+}

@@ -6,6 +6,98 @@ request**, releases must work with Retro Trans Tools). The user explicitly reque
 release 0.1.17 on 2026-10-15, using `binhlt0402` in `retro-trans`. Repository: https://github.com/retro-trans/ACE.
 Packaging and publication instructions are in `docs/RELEASING.md`.
 
+## Release 0.1.26 authorization (2026-10-21)
+
+The user explicitly requested a release of the current build. Package and publish **0.1.26**, retaining
+lyrics and all 22 restored story movies. The discussion of "upstairs" only explained the idiom; that dialogue
+was not edited and is unchanged in this build. Release notes: `docs/releases/RELEASE_NOTES_0.1.26.md`.
+Packaging/publication are in progress. Preserve the documented distinction between automated checks and
+outstanding gameplay verification, especially the expanded 4x HUD font allocation.
+
+## Launch information panels (2026-10-21)
+
+Local build **0.1.26** fixes repeated/stretched lettering after `Resources` and `Repair Eff.` on Launch Setting.
+`t0802.tm2` is a 256x128 atlas. Both `b081.mnb` (launch) and `b083.mnb` (unit setup) reuse narrow horizontal
+strips, so English growth past the fixed section caused the screenshot artifacts. `tools/launch_panel_spec.py`
+keeps Resources within x=23..86 and Repair Eff. within x=22..85, while separately erasing the original text.
+Wording and font height are unchanged. `tools/verify_launch_panel.py` checks both meshes, the clean repeated
+strips, unchanged adjacent labels/percent sign and optional ISO differences from 0.1.25. Reconstructed proofs
+are under `work/ui/launch-panel-0.1.26/`; the before image reproduces both reported artifacts exactly.
+Completed ISO: `work/output/ACE-EN-0.1.26.iso`, 3,357,147,136 bytes, SHA-256
+`95b7fafe2b4c5ddbfbd276f1322cb4cc08479891af0b714db3520b481472244c`.
+Final comparison passed: three launch texture copies (standalone, MenuCampaign, MenuFree) and three title
+version copies match; all other resources and disc files, including movies/audio and the carrier fix, match
+0.1.25. Japanese-table inventory: 0 tables, 0 rows. Evidence: `work/ui/launch-panel-0.1.26/verification.json`.
+In-game confirmation remains necessary. No release was requested. See `docs/launch_panel_0.1.26.md`.
+
+## Carrier information panel (2026-10-21)
+
+Local build **0.1.25** fixes split/overlapping labels in the Rendezvous Point carrier-info panel. Texture
+`t0403.tm2` is stretched by object 32 of `b043.mnb`: atlas x=94.1005..94.2618 fills most of the value column.
+The old English specs grew into this strip and the right border. `tools/carrier_panel_spec.py` removes that
+growth, keeps the heading within x=21..90, abbreviates the name labels to `Carrier`/`Squad`, and bounds body
+labels to x<=86. `texture_text.render_label` now accepts `erase_box` so the entire original heading is erased
+even when its replacement drawing box is narrower. Other label rendering is unchanged.
+`tools/verify_carrier_panel.py` reconstructs the encoded panel using the mesh UVs and can compare a final ISO
+with 0.1.24. Before/after proofs are in `work/ui/carrier-panel-0.1.25/`; they reproduce the reported artifacts
+and show the corrected label area. These are reconstructions, not emulator screenshots.
+Completed ISO: `work/output/ACE-EN-0.1.25.iso`, 3,357,147,136 bytes, SHA-256
+`4cf79a34ff43d8d1e0f166f69330352c3128d3f2d5a69f52ba012688f5137b7c`.
+Final comparison passed: both carrier-texture copies and three title-version copies match the intended
+encoding; all other resources and disc files (including the mesh, executable and all movies) match 0.1.24.
+Japanese-table inventory: 0 tables, 0 rows. Report: `work/ui/carrier-panel-0.1.25/verification.json`.
+In-game confirmation remains necessary. No release was requested. See `docs/carrier_panel_0.1.25.md`.
+
+## Story movie translations restored (2026-10-21)
+
+The user explicitly requested restoring the translated story movies. **All 22 `/MOVIE1` translations are
+active again for local build 0.1.24**, superseding the old exclusion recorded below for 0.1.16-0.1.23.
+Their specs now live directly in `work/translation/en/movies/`; do not move them back to `disabled/`.
+Build with `python tools/build.py 0.1.24 --write` (all 25 active movie specs), retaining both lyric overlays,
+the 4x HUD font and automatic title version. Do not use the old three-movie `--movies` restriction.
+`verify_movie_scope.py` now requires all 22 translated story movies by default and checks their unchanged
+audio/nonvideo data. Use `--original-story` only to verify historical builds 0.1.16-0.1.23.
+Completed: `work/output/ACE-EN-0.1.24.iso`, 3,357,147,136 bytes, SHA-256
+`afde085f60e6d04d3f83f0fa8dbbd4216d5155e9297541ca94eeca8b35f2cc89`.
+All 25 on-disc movie hashes, packet positions and unchanged audio/nonvideo checks passed. All 22 story
+movies decode to their expected frame counts. Encoded title/dialogue frames from the reported Gavlet clip
+were visually checked and saved under `work/ui/story-movies-0.1.24/`. The resource comparison against 0.1.23
+passed: only three copies of the title-version texture differ outside the movies; the 4x HUD font, other
+game data and other disc files are unchanged. Japanese-table inventory: 0 tables, 0 rows. Both songs' 52
+lyric rows pass their layout checks. Reports/logs are beside the ISO (`.movies.verify.json`,
+`.restore.verify.json`, `.story-check.log`, `.inventory.log`). In-game playback and the 4x HUD allocation
+still require gameplay confirmation. No GitHub release was requested for 0.1.24.
+
+## Speaker-name font (2026-10-21)
+
+Local build **0.1.23** upgrades HUD font 50071/50051 (speaker names and lock-on labels) from 1x to 4x.
+`tools/hud_font_hd.py` expands the linear PSMT4HH atlas from 256x128 to 512x512. Text metrics, palette and
+stock warning glyphs are preserved. No executable modifications. **Runtime validation of the larger GPU
+allocation is required before treating this as release-ready.** See `docs/hud_font_0.1.23.md` and use
+`tools/verify_hud_hd.py` for the new build; the historical 0.1.19 warning verifier assumes unchanged 1x ASCII.
+Lyrics remain included. No GitHub release was requested.
+Output: `work/output/ACE-EN-0.1.23.iso` (3,357,147,136 bytes), SHA-256
+`1410084f4bd46f00eb8dcd30d99f56555730d3e0758179c2c50b59672bbe2446`.
+Final ISO comparison passed for all four font copies; other game data, executable and movies match 0.1.22
+apart from the automatic title label. Japanese inventory: 0 tables, 0 rows. PCSX2 testing was not completed:
+another game started in the shared emulator. Temporary keyboard mappings were restored in the saved Pad1
+configuration, but the running session may retain them until settings reload/restart. Do not interrupt it.
+
+## Title version and group credit (2026-10-17)
+
+Local build **0.1.22** adds `v0.1.22` and `github.com / retro-trans` at the bottom right of the title screen,
+following the user's SRW Z screenshot. The version is generated automatically from the build argument.
+`tools/title_stamp.py` stamps the translated `t3105.tm2`; two bounds in `l014.mnl` extend the copyright sprite
+to the right without moving or scaling the existing credits. It preserves all existing artwork and uses the
+original palette. Coordinates and reproduction details: `docs/title_stamp_0.1.22.md`.
+Reconstructed previews and checks are under `work/ui/title-stamp-0.1.22/`; they are not emulator screenshots.
+The build retains 0.1.20's mission 3 fix and all three edited movies, including both lyric overlays.
+Output: `work/output/ACE-EN-0.1.22.iso`, 3,357,147,136 bytes, SHA-256
+`2030fc1dddce477c80aa1b7692ad80164eefe4c3408e500dd6dddbc3807deb7d`.
+Final ISO comparison passed: three copies each of the title texture/layout, unchanged unrelated resources,
+executable and movie identities. Japanese-table inventory: 0 tables, 0 rows.
+Fresh-boot title-screen confirmation remains for user testing. No release was requested for this build.
+
 ## Public release
 
 The user explicitly requested a new release on 2026-10-16 and confirmed that lyrics must be included.
@@ -160,9 +252,9 @@ What the user wants:
 - **MOVIE003 (opening song before the title):** 31 sung rows of Garnet Moon karaoke with the user's English
   translation. Seven supplied rows are omitted in this shorter movie arrangement.
 - **MOVIE005:** ignore it.
-- **The 22 story cutscenes (`/MOVIE1`):** the user wants no baked translation. Their specs are parked in
-  `work/translation/en/movies/disabled/`. Build 0.1.16 restores all 22 original movies; 0.1.15 contained the
-  earlier subtitled versions. `verify_movie_scope.py` checks the restored files against the original ISO.
+- **The 22 story cutscenes (`/MOVIE1`):** restore their English title cards and subtitles, explicitly requested
+  on 2026-10-21. Specs are active in `work/translation/en/movies/`. The exclusion in 0.1.16-0.1.23 is historical;
+  0.1.24 restores the translated versions. `verify_movie_scope.py` checks all 25 replacements and their audio.
 
 ### Karaoke: supplied lyrics and verification
 

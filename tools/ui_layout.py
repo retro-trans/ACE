@@ -57,8 +57,14 @@ def font(name):
         else:
             from ui_prepare import stock_fonts
             f = stock_fonts()[name]
-            start = reclaim(f, keep_chars(name))
-            add_english(f, start=start)
+            if name == 'hud13':
+                from hud_font_hd import rebuild
+                from ace_formats import Font
+                ccm, tm2, _ = rebuild(f.ccm_bytes(), f.tm2_bytes(), keep_chars(name))
+                f = Font(ccm, tm2)
+            else:
+                start = reclaim(f, keep_chars(name))
+                add_english(f, start=start)
             _fonts[name] = f
     return _fonts[name]
 

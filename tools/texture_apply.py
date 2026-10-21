@@ -7,9 +7,10 @@ from ace_formats import require
 
 
 class TextureText:
-    def __init__(self):
+    def __init__(self, version=None):
         self.map = {}
         self.names = {}
+        self.title_stamp = None
         specs = sorted(tt.SPEC.glob('*.json')) if tt.SPEC.exists() else []
         if not specs:
             return
@@ -22,7 +23,10 @@ class TextureText:
                 continue
             require(spec['name'] in table, 'Unknown texture %s' % spec['name'])
             _, t = table[spec['name']]
-            new, _ = tt.apply_spec(t['data'], spec)
+            new, artwork = tt.apply_spec(t['data'], spec)
+            if version and spec['name'] == 't3105.tm2':
+                from title_stamp import stamp_texture
+                new, self.title_stamp = stamp_texture(t['data'], artwork, version)
             require(len(new) == len(t['data']), 'Texture size changed: %s' % spec['name'])
             key = hashlib.sha1(t['data']).hexdigest()
             self.map[key] = new

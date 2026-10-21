@@ -1,5 +1,77 @@
 # Changelog
 
+## 0.1.26 - 2026-10-21 (local test build, not released)
+
+Output: `work/output/ACE-EN-0.1.26.iso` (3,357,147,136 bytes), SHA-256
+`95b7fafe2b4c5ddbfbd276f1322cb4cc08479891af0b714db3520b481472244c`.
+
+- Fixes the repeated fragment beside `Resources` and stretched line after `Repair Eff.` on Launch Setting.
+  Both headings now fit inside the fixed texture area in the launch and unit setup layouts.
+- Preserves the complete wording, percentage symbol and other atlas labels. Retains the carrier-panel fix,
+  all 22 translated story movies, lyrics, 4x HUD font and previous fixes.
+- Encoded panel reconstructions, both meshes' UV checks and final ISO comparison passed. All three corrected
+  texture copies and three title-version copies match. Other game resources and disc files, including movies
+  and audio, match 0.1.25. Japanese-table inventory: 0 tables, 0 rows. In-game confirmation remains necessary.
+  See `docs/launch_panel_0.1.26.md`.
+
+## 0.1.25 - 2026-10-21 (local test build, not released)
+
+Output: `work/output/ACE-EN-0.1.25.iso` (3,357,147,136 bytes), SHA-256
+`4cf79a34ff43d8d1e0f166f69330352c3128d3f2d5a69f52ba012688f5137b7c`.
+
+- Fixes the Rendezvous Point carrier-info panel: English text no longer crosses the stretched texture strip
+  used for the value column. Removes split title/label endings and gray bars behind carrier/squad values.
+- Uses `Carrier` and `Squad` for the two name labels. Keeps the complete `Carrier Info` heading and repair
+  labels within the fixed-width left strip; the original heading is fully erased before narrower lettering.
+- Leaves the left upgrade menu, panel mesh and dynamic values unchanged. Retains all 22 translated story
+  movies, lyrics, 4x HUD font and prior fixes. See `docs/carrier_panel_0.1.25.md`.
+- Reconstructed encoded panel and final ISO checks passed: both carrier-texture copies and all three title
+  copies match. Other game resources, mesh, executable, movies, audio and other disc files match 0.1.24.
+  The final Japanese-table inventory found 0 tables and 0 rows. In-game confirmation remains for testing.
+
+## 0.1.24 - 2026-10-21 (local test build, not released)
+
+Output: `work/output/ACE-EN-0.1.24.iso` (3,357,147,136 bytes), SHA-256
+`afde085f60e6d04d3f83f0fa8dbbd4216d5155e9297541ca94eeca8b35f2cc89`.
+
+- Restores English title cards and subtitles in all 22 story movies, including Gavlet Gablae's interview
+  (`M1_MOVIE003`) reported by the user. Re-enables the existing translated movies and their saved specs.
+- Retains opening/ending lyrics, the translated news/ending, 4x speaker font, prior fixes and title branding.
+- Movie verification now requires 25 translated movies and checks all their original audio/nonvideo data;
+  `--original-story` remains available for historical builds 0.1.16-0.1.23.
+- All 25 on-disc movie hashes, packet positions and unchanged audio/nonvideo checks passed. All 22 restored
+  story movies decode to their expected frame counts; the reported title and dialogue were visually checked.
+- Comparison against 0.1.23 passed: game resources differ only in three title-version texture copies.
+  The 4x HUD font, other disc files and the three opening/ending movies are unchanged. Both songs' 52 lyric
+  rows pass layout checks. Japanese-table inventory: 0 tables, 0 rows.
+- In-game playback and the 4x HUD allocation still need confirmation.
+
+## 0.1.23 - 2026-10-21 (local test build, not released)
+
+Output: `work/output/ACE-EN-0.1.23.iso` (3,357,147,136 bytes), SHA-256
+`1410084f4bd46f00eb8dcd30d99f56555730d3e0758179c2c50b59672bbe2446`.
+
+- Rebuilt the speaker-name/lock-on font at 4x resolution while preserving its on-screen size and spacing.
+- Expanded its texture to 512x512, preserving the palette and original AREA OVER and other warning glyphs.
+- Includes lyrics, all prior fixes and the automatic title version label. See `docs/hud_font_0.1.23.md`.
+- Font and name-layout checks passed; expanded graphics-memory allocation requires gameplay confirmation.
+- Final ISO comparison passed for all four HUD font copies. Only the HUD fonts and title version differ
+  from 0.1.22; executable, dialogue and movies match. Japanese-table inventory: 0 tables, 0 rows.
+
+## 0.1.22 - 2026-10-17 (local test build, not released)
+
+Output: `work/output/ACE-EN-0.1.22.iso` (3,357,147,136 bytes; report `ACE-EN-0.1.22.json`, SHA-256
+`2030fc1dddce477c80aa1b7692ad80164eefe4c3408e500dd6dddbc3807deb7d`).
+
+- Added the build version and `github.com / retro-trans` at the bottom right of the title screen, matching
+  the user's SRW Z reference: two small, right-aligned light lines with a dark outline.
+- The version updates automatically from the build number. Extended the copyright sprite's right edge
+  without moving or scaling the existing credits, and preserved all existing title artwork.
+- Retains the 0.1.20 mission 3 fix, menu/HUD corrections, and opening/ending lyrics.
+- Added title-layout previews and checks for unchanged artwork, executable, movies and unrelated game data.
+  Final ISO comparison passed for all three title copies; Japanese-table inventory: 0 tables, 0 rows.
+  See `docs/title_stamp_0.1.22.md`. In-game confirmation remains for user testing.
+
 ## 0.1.21 - 2026-10-16 (local movie variant, not released)
 
 Output: `work/output/ACE-EN-0.1.21.iso` (3,357,147,136 bytes; report `ACE-EN-0.1.21.json`, SHA-256

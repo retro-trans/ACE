@@ -1,0 +1,24 @@
+{
+  "version": "0.1.23",
+  "iso": "work\\output\\ACE-EN-0.1.23.iso",
+  "texels_per_unit": 4,
+  "atlas": [
+    512,
+    512
+  ],
+  "metrics_preserved": true,
+  "warning_pixels_and_palette_preserved": true,
+  "hud_copies": 4,
+  "changed_resources": [
+    "\\target\\menu\\tm2\\t3105.tm2",
+    "\\target\\fe\\InGame\\param\\Fe1p.bnd",
+    "\\target\\fe\\InGame\\param\\Fe2p.bnd",
+    "\\target\\fe\\InGame\\param\\Fe1p.bnd",
+    "\\target\\fe\\InGame\\param\\Fe2p.bnd",
+    "\\target\\menu\\bnd\\mode_data\\MenuTitle.csc",
+    "\\target\\menu\\bnd\\mode_data\\MenuTitleIntro.csc"
+  ],
+  "iso_comparison_passed": true,
+  "runtime_verified": false,
+  "runtime_check": "Expanded PSMT4HH allocation: check speaker, warnings and surrounding HUD in gameplay."
+}

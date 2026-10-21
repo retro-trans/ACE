@@ -36,6 +36,7 @@ import briefing_layout
 import re
 from ui_apply import UiText, patch_small_font
 from texture_apply import TextureText
+from title_stamp import patch_layout as patch_title_layout
 
 FONT_BUNDLES = ('MenuTitle.csc', 'MenuIntro.csc', 'MenuTitleIntro.csc', 'MenuCampaign.csc', 'MenuFree.csc',
                 'MenuMulti.csc', 'MenuEnding.csc')
@@ -323,7 +324,7 @@ def build_data(db, report):
     entries = db.entries
     changed = {}
     ui = UiText()
-    tex = TextureText()
+    tex = TextureText(report['version'])
     std = {e['name'].lower(): e for e in entries}
     sccm = std[r'\target\menu\font\tm2\f010.ccm']
     stm2 = std[r'\target\menu\font\tm2\f010.tm2']
@@ -358,6 +359,8 @@ def build_data(db, report):
             new = ui.unnamed_bnd(data, extra=extra)
         elif MENU_TM2 in n and n.endswith('.tm2'):
             new = tex.replace(db.read(e))
+        elif n.endswith('\\menu\\mnl\\l014.mnl'):
+            new = patch_title_layout(db.read(e))
         else:
             new = None
         if new:
@@ -390,6 +393,8 @@ def build_data(db, report):
                 t = tex.replace(bundle[child['offset']:child['offset'] + child['size']])
                 if t:
                     repl[child['name']] = t
+            elif child['name'].lower().endswith('\\l014.mnl'):
+                repl[child['name']] = patch_title_layout(bundle[child['offset']:child['offset'] + child['size']])
         if ui.ready.get('f005'):
             repl['f005.ccm'], repl['f005.tm2'] = patch_small_font(bnd_child(bundle, 'f005.ccm'), bnd_child(bundle, 'f005.tm2'), 'f005')
         new_plain = bnd_replace(bundle, repl)
@@ -440,6 +445,8 @@ def build_data(db, report):
     changed[icon['index']] = patch_icon_sys(db.read(icon))
     report['ui'] = dict(ui.applied)
     report['textures'] = dict(tex.applied)
+    require(tex.title_stamp is not None, 'Title version stamp was not generated')
+    report['title_stamp'] = tex.title_stamp
     report['ui_fonts_rebuilt'] = {k: v for k, v in ui.ready.items() if k != 'f010'}
     # Place resources: in place when they fit the slot, else appended after the old end.
     header = bytearray(db.header)

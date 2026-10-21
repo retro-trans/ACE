@@ -5,14 +5,16 @@
    "box": [
     21,
     4,
-    94,
+    90,
     24
    ],
    "en": "Carrier Info",
    "align": "left",
-   "grow": [
-    0,
-    20
+   "erase_box": [
+    21,
+    4,
+    94,
+    24
    ]
   },
   {
@@ -28,29 +30,21 @@
    "box": [
     14,
     36,
-    63,
+    86,
     56
    ],
-   "en": "Carrier Name",
-   "align": "left",
-   "grow": [
-    0,
-    42
-   ]
+   "en": "Carrier",
+   "align": "left"
   },
   {
    "box": [
     14,
     60,
-    63,
+    86,
     79
    ],
-   "en": "Squad Name",
-   "align": "left",
-   "grow": [
-    0,
-    42
-   ]
+   "en": "Squad",
+   "align": "left"
   },
   {
    "box": [
@@ -70,15 +64,11 @@
    "box": [
     13,
     85,
-    78,
+    86,
     103
    ],
    "en": "Units",
-   "align": "left",
-   "grow": [
-    0,
-    27
-   ]
+   "align": "left"
   },
   {
    "box": [
@@ -94,15 +84,11 @@
    "box": [
     14,
     109,
-    81,
+    86,
     128
    ],
    "en": "Repair Res.",
-   "align": "left",
-   "grow": [
-    0,
-    24
-   ]
+   "align": "left"
   },
   {
    "box": [
@@ -122,15 +108,11 @@
    "box": [
     14,
     132,
-    81,
+    86,
     152
    ],
    "en": "Repair Eff.",
-   "align": "left",
-   "grow": [
-    0,
-    24
-   ]
+   "align": "left"
   }
  ]
 }

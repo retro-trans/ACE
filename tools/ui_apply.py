@@ -7,6 +7,7 @@ tracking locations. One-row lock-on label tables in mission containers are match
 Fonts: the small fonts f005 (names) and the HUD font 50071 are rebuilt (stock glyphs needed by translated text
 and existing full-width English HUD labels, plus the English set; every other code shows '?'). A font is rebuilt
 and its tables translated only when every row of every group drawn with it has English.
+HUD lettering uses an expanded 512x512 atlas at 4x density; see hud_font_hd.py for the runtime caveat.
 """
 import collections
 import re
@@ -122,6 +123,10 @@ class UiText:
 
 def patch_small_font(ccm, tm2, name):
     """Rebuild a small font (f005 or the HUD font) with the English set; see the module docstring."""
+    if name == 'hud13':
+        from hud_font_hd import rebuild
+        new_ccm, new_tm2, _ = rebuild(ccm, tm2, ul.keep_chars(name))
+        return new_ccm, new_tm2
     f = Font(ccm, tm2)
     start = reclaim(f, ul.keep_chars(name))
     add_english(f, start=start)

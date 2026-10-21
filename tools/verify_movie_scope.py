@@ -1,4 +1,5 @@
-"""Verify rebuilt movies on disc, unchanged soundtracks, and restoration of all original story movies."""
+"""Verify translated movies and unchanged soundtracks. Use --original-story for builds 0.1.16-0.1.23."""
+import argparse
 import hashlib
 import json
 import sys
@@ -38,14 +39,19 @@ def nonvideo_hash(path, packets):
     return digest.hexdigest()
 
 
-def verify(iso):
+def verify(iso, original_story=False):
     build_report = json.loads(iso.with_suffix('.json').read_text(encoding='utf-8'))
     allowed = {mt.disc_path(n) for n in ('MOVIE001','MOVIE002','MOVIE003')}
+    expected_story = {mt.disc_path('M1_MOVIE%03d' % n) for n in range(1, 23)}
+    if not original_story:
+        allowed |= expected_story
     wanted = set(build_report['movies'])
     # A release build without song lyrics (build.py --no-lyrics) leaves a lyrics-only movie original.
     require(wanted <= allowed and (wanted == allowed or build_report.get('movies_without_lyrics')),
             'Unexpected translated movie scope')
     no_lyrics = bool(build_report.get('movies_without_lyrics'))
+    require((wanted & expected_story) == (set() if original_story else expected_story),
+            'Unexpected story movie scope')
     results = {}
     with open(SOURCE_ISO,'rb') as original, open(iso,'rb') as built:
         old_files,new_files = iso_files(original),iso_files(built)
@@ -57,7 +63,7 @@ def verify(iso):
             actual = range_hash(built,new['offset'],new['size'])
             if name in wanted:
                 require(actual == build_report['movies'][name],'Built movie mismatch: '+name)
-                movie = Path(name).stem
+                movie = ('M1_' if name.startswith('/MOVIE1/') else '') + Path(name).stem
                 src,dst = mt.source_movie(movie),mt.OUT/(movie+'.PSS')
                 if no_lyrics and (mt.OUT/(movie+'.nolyrics.PSS')).exists():
                     dst = mt.OUT/(movie+'.nolyrics.PSS')
@@ -73,14 +79,21 @@ def verify(iso):
                         'Original movie was not restored: '+name)
                 results[name] = {'status':'original','sha256':actual}
     story = [n for n in results if n.startswith('/MOVIE1/')]
-    require(len(story) == 22,'Expected 22 original story movies')
-    report = {'iso':iso.name,'translated_movies':sorted(wanted),'original_story_movies':len(story),
+    require(set(story) == expected_story,'Expected 22 story movies')
+    translated_story = sum(results[n]['status'] == 'translated' for n in story)
+    report = {'iso':iso.name,'translated_movies':sorted(wanted),'original_story_movies':22-translated_story,
+              'translated_story_movies':translated_story,
               'audio_and_nonvideo_unchanged':True,'movies':results}
     target = iso.with_suffix('.movies.verify.json')
     target.write_text(json.dumps(report,indent=1),encoding='utf-8')
-    print('PASS: %d translated movies,' % len(wanted), '22 original story movies; all audio and nonvideo bytes unchanged')
+    print('PASS: %d translated movies, %d translated / %d original story movies; all audio and nonvideo bytes unchanged'
+          % (len(wanted), translated_story, 22-translated_story))
     print('Report:',target)
 
 
 if __name__ == '__main__':
-    verify(Path(sys.argv[1]))
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('iso', type=Path)
+    parser.add_argument('--original-story', action='store_true')
+    args = parser.parse_args()
+    verify(args.iso, args.original_story)

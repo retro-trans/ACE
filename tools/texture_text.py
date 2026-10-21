@@ -6,7 +6,9 @@ Spec files: work/translation/en/textures/<name>.json
   {"name", "labels": [{"box": [x0, y0, x1, y1], "ja", "en", "align": "center|left|right",
                        "vertical": false, "grow": [left, right], "color": [r, g, b] (optional)}]}
 "box" is the Japanese lettering's extent (from detect, adjusted by hand where needed). The lettering is erased by
-interpolating each row (or column, for vertical labels) between the background just outside the box, then the
+default inside that box; optional "erase_box" supplies separate source bounds when the English box is narrower.
+Erasure uses background interpolation:
+each row (or column, for vertical labels) is interpolated between the background just outside the box, then the
 English is drawn in Noto Sans JP (OFL) in the lettering's own colour, shrunk/condensed to fit the box widened by
 "grow" pixels, and the image is mapped back onto the texture's own palette, so size, format and palette stay as
 they were. Vertical labels are drawn rotated, reading top to bottom, or bottom to top with "upward": true (for lettering stored rotated counter-clockwise).
@@ -202,7 +204,7 @@ def render_label(im, lab):
     x0, y0, x1, y1 = lab['box']
     vertical = lab.get('vertical', False)
     colour = lab.get('color') or lettering_colour(im, lab['box'])
-    _bg_fill(im, [x0, y0, x1, y1], vertical)
+    _bg_fill(im, lab.get('erase_box', [x0, y0, x1, y1]), vertical)
     gl, gr = lab.get('grow', [0, 0])
     if not vertical:
         avail = (x1 - x0) + gl + gr

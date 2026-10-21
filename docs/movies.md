@@ -1,5 +1,25 @@
 # Movies (MOVIE0/*.PSS)
 
+## Current scope: 0.1.24
+
+On 2026-10-21 the user requested restoring all 22 translated story cutscenes. Their existing specs and
+English-only copies are active again directly under `work/translation/en/movies/`. Cached translated PSS
+files match those specifications. The older exclusion described in the historical sections below no longer
+applies. All three MOVIE0 translations, including the selected ending overlay and both songs, remain active.
+MOVIE005 stays original. Build without `--movies` to include all 25 active specs:
+
+```text
+python tools/build.py 0.1.24
+python tools/build.py 0.1.24 --write
+python tools/verify_movie_scope.py work/output/ACE-EN-0.1.24.iso
+python tools/verify_story_restore.py work/output/ACE-EN-0.1.24.iso --write
+```
+
+The verifier checks all 25 movie hashes, packet positions and unchanged audio/nonvideo bytes. When verifying
+historical builds 0.1.16-0.1.23, add `--original-story` to the old verification commands below.
+`verify_story_restore.py` compares game resources against 0.1.23, allowing only the automatic title-version
+texture update. It also requires identical opening/ending movie hashes and unchanged other disc files.
+
 The MOVIE0 directory has four FMV movies (MPEG-2 video at 512x448, 29.97 fps, plus 16-bit PCM audio in private
 stream 1). MOVIE1 contains another 22 story cutscenes.
 Every frame was sampled every 2 seconds and checked:
