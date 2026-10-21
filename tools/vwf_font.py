@@ -111,7 +111,7 @@ def quantize(coverage, levels):
     return coverage.point(table)
 
 
-def reclaim(font, keep_chars):
+def reclaim(font, keep_chars, start=0):
     """Repack the atlas with only the stock glyphs for ``keep_chars``; every other code is remembered and later
     pointed at '?' (by add_english). Used for fonts whose Japanese text is entirely translated (f005 names, the
     HUD lock-on/speaker font), so their atlases have room for English. Returns the first free row."""
@@ -122,7 +122,7 @@ def reclaim(font, keep_chars):
         x0, y0, x1, y1 = (int(round(u0 * font.tw)), int(round(v0 * font.th)), int(round(u1 * font.tw)), int(round(v1 * font.th)))
         images[g] = (x1 - x0, y1 - y0, [bytes(font.pixels[(y0 + yy) * font.tw + x0:(y0 + yy) * font.tw + x1]) for yy in range(y1 - y0)])
     font.pixels = bytearray(len(font.pixels))
-    x, y, row_h = GAP, GAP, 0
+    x, y, row_h = GAP, start + GAP, 0
     for g in keep:
         w, h, rows = images[g]
         if x + w + GAP > font.tw:

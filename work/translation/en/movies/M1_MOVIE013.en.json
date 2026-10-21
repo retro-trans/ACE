@@ -5,8 +5,8 @@
    "type": "static",
    "card": 0,
    "frames": [
-    19,
-    134
+    0,
+    153
    ],
    "box": [
     42,
@@ -59,14 +59,20 @@
      249
     ]
    ],
-   "bg_level": 16.0
+   "bg_level": 16.0,
+   "scan_frames": [
+    19,
+    134
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "type": "static",
    "card": 1,
    "frames": [
-    183,
-    397
+    170,
+    410
    ],
    "box": [
     42,
@@ -119,14 +125,20 @@
      407
     ]
    ],
-   "bg_level": 16.0
+   "bg_level": 16.0,
+   "scan_frames": [
+    183,
+    397
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "type": "static",
    "card": 2,
    "frames": [
-    448,
-    624
+    435,
+    637
    ],
    "box": [
     42,
@@ -179,14 +191,20 @@
      407
     ]
    ],
-   "bg_level": 16.0
+   "bg_level": 16.0,
+   "scan_frames": [
+    448,
+    624
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "type": "static",
    "card": 3,
    "frames": [
-    684,
-    779
+    671,
+    790
    ],
    "box": [
     42,
@@ -223,14 +241,20 @@
      392
     ]
    ],
-   "bg_level": 16.0
+   "bg_level": 16.0,
+   "scan_frames": [
+    684,
+    779
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "type": "static",
    "card": 4,
    "frames": [
-    801,
-    966
+    790,
+    979
    ],
    "box": [
     42,
@@ -283,14 +307,20 @@
      406
     ]
    ],
-   "bg_level": 16.0
+   "bg_level": 16.0,
+   "scan_frames": [
+    801,
+    966
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "type": "static",
    "card": 5,
    "frames": [
-    1009,
-    1182
+    996,
+    1195
    ],
    "box": [
     42,
@@ -343,14 +373,20 @@
      406
     ]
    ],
-   "bg_level": 16.0
+   "bg_level": 16.0,
+   "scan_frames": [
+    1009,
+    1182
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "type": "static",
    "card": 6,
    "frames": [
-    1221,
-    1331
+    1208,
+    1344
    ],
    "box": [
     42,
@@ -387,14 +423,20 @@
      392
     ]
    ],
-   "bg_level": 16.0
+   "bg_level": 16.0,
+   "scan_frames": [
+    1221,
+    1331
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "type": "static",
    "card": 7,
    "frames": [
-    1359,
-    1554
+    1346,
+    1567
    ],
    "box": [
     42,
@@ -447,14 +489,20 @@
      406
     ]
    ],
-   "bg_level": 16.0
+   "bg_level": 16.0,
+   "scan_frames": [
+    1359,
+    1554
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "type": "static",
    "card": 8,
    "frames": [
-    1587,
-    1704
+    1574,
+    1717
    ],
    "box": [
     42,
@@ -507,14 +555,20 @@
      406
     ]
    ],
-   "bg_level": 16.0
+   "bg_level": 16.0,
+   "scan_frames": [
+    1587,
+    1704
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "type": "static",
    "card": 9,
    "frames": [
-    1758,
-    1961
+    1745,
+    1974
    ],
    "box": [
     42,
@@ -567,7 +621,13 @@
      406
     ]
    ],
-   "bg_level": 16.0
+   "bg_level": 16.0,
+   "scan_frames": [
+    1758,
+    1961
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   }
  ]
 }

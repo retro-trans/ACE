@@ -4,8 +4,8 @@
   {
    "id": 0,
    "frames": [
-    19,
-    134
+    0,
+    153
    ],
    "kind": "title",
    "box": [
@@ -25,13 +25,19 @@
     ]
    ],
    "peak": 31,
-   "en": "— Former UCE Representative\nRelena Peacecraft —"
+   "en": "— Former UCE Representative\nRelena Peacecraft —",
+   "scan_frames": [
+    19,
+    134
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 1,
    "frames": [
-    183,
-    397
+    170,
+    410
    ],
    "kind": "subtitle",
    "box": [
@@ -47,13 +53,19 @@
     ]
    ],
    "peak": 294,
-   "en": "Back then, I was uncertain.\nUncertain about taking a step forward."
+   "en": "Back then, I was uncertain.\nUncertain about taking a step forward.",
+   "scan_frames": [
+    183,
+    397
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 2,
    "frames": [
-    448,
-    624
+    435,
+    637
    ],
    "kind": "subtitle",
    "box": [
@@ -69,13 +81,19 @@
     ]
    ],
    "peak": 534,
-   "en": "In space, a great many refugees had appeared,\nwandering with nowhere to go."
+   "en": "In space, a great many refugees had appeared,\nwandering with nowhere to go.",
+   "scan_frames": [
+    448,
+    624
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 3,
    "frames": [
-    684,
-    779
+    671,
+    790
    ],
    "kind": "subtitle",
    "box": [
@@ -91,13 +109,19 @@
     ]
    ],
    "peak": 703,
-   "en": "Was there nothing I could do to help them?"
+   "en": "Was there nothing I could do to help them?",
+   "scan_frames": [
+    684,
+    779
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 4,
    "frames": [
-    801,
-    966
+    790,
+    979
    ],
    "kind": "subtitle",
    "box": [
@@ -113,13 +137,19 @@
     ]
    ],
    "peak": 811,
-   "en": "I kept asking myself that, but—\nI did not know what I should do."
+   "en": "I kept asking myself that, but—\nI did not know what I should do.",
+   "scan_frames": [
+    801,
+    966
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 5,
    "frames": [
-    1009,
-    1182
+    996,
+    1195
    ],
    "kind": "subtitle",
    "box": [
@@ -135,13 +165,19 @@
     ]
    ],
    "peak": 1030,
-   "en": "But when I met them again that day,\nthey made me realize something."
+   "en": "But when I met them again that day,\nthey made me realize something.",
+   "scan_frames": [
+    1009,
+    1182
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 6,
    "frames": [
-    1221,
-    1331
+    1208,
+    1344
    ],
    "kind": "subtitle",
    "box": [
@@ -157,13 +193,19 @@
     ]
    ],
    "peak": 1255,
-   "en": "I will never condone settling things by force."
+   "en": "I will never condone settling things by force.",
+   "scan_frames": [
+    1221,
+    1331
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 7,
    "frames": [
-    1359,
-    1554
+    1346,
+    1567
    ],
    "kind": "subtitle",
    "box": [
@@ -179,13 +221,19 @@
     ]
    ],
    "peak": 1495,
-   "en": "But that one must act on one's convictions—\nthat much I came to understand."
+   "en": "But that one must act on one's convictions—\nthat much I came to understand.",
+   "scan_frames": [
+    1359,
+    1554
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 8,
    "frames": [
-    1587,
-    1704
+    1574,
+    1717
    ],
    "kind": "subtitle",
    "box": [
@@ -201,13 +249,19 @@
     ]
    ],
    "peak": 1630,
-   "en": "That is surely why I made\nsuch a request of them."
+   "en": "That is surely why I made\nsuch a request of them.",
+   "scan_frames": [
+    1587,
+    1704
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 9,
    "frames": [
-    1758,
-    1961
+    1745,
+    1974
    ],
    "kind": "subtitle",
    "box": [
@@ -223,7 +277,13 @@
     ]
    ],
    "peak": 1921,
-   "en": "Even at the risk of my own safety, I resolved\nto bring my message to the people myself."
+   "en": "Even at the risk of my own safety, I resolved\nto bring my message to the people myself.",
+   "scan_frames": [
+    1758,
+    1961
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   }
  ]
 }

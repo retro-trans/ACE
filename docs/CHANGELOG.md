@@ -1,5 +1,62 @@
 # Changelog
 
+## 0.1.29 - 2026-10-22 (release preparation)
+
+Output: `work/output/ACE-EN-0.1.29.iso` (3,357,147,136 bytes), SHA-256
+`02ad1831f30daf61348b24cdeb176e1be3bee019cfad7fefcac7a846844f7f6f`.
+
+- Addresses corrupted speaker names and lock-on labels after the 4x HUD font expansion.
+  Both 4x in-game fonts now share the original 1024x512 PSMT4 dialogue allocation.
+  Changes the fixed HUD texture base to the dialogue base, while retaining separate palettes.
+- Removes unused Japanese glyphs and unreferenced glyph records from in-game, menu and
+  small-name fonts. Keeps English, full-width Latin letters/digits and required symbols.
+  The main menu atlas shrinks from 1024x1024 to 1024x512; English screen metrics are preserved.
+- Retains the 0.1.28 movie fade correction, all lyrics and mission dialogue. This is not
+  a confirmed fix for the separate mission 23 completion report.
+- Adds `tools/english_fonts.py` and `tools/verify_shared_fonts.py`; see
+  `docs/shared_fonts_0.1.29.md`. Fresh-boot runtime confirmation is still required.
+- Final resource comparison passed for all four in-game bundle copies and every changed
+  menu/name font. English metrics, warning glyphs and HUD palette are preserved. All
+  other game resources match 0.1.28 except title-version textures; the executable differs
+  only at the intended GS-base word. All 25 movie hashes/lyrics match. Japanese-table
+  inventory: 0 tables, 0 rows. DATA.BIN is 1,132,544 bytes smaller than 0.1.28.
+
+## 0.1.28 - 2026-10-22 (local test build, not released)
+
+Output: `work/output/ACE-EN-0.1.28.iso` (3,357,147,136 bytes), SHA-256
+`c338b3476f280ac3658a592d389bedefb2733500b2960ca05e81091063be46c2`.
+
+- Fixes Japanese lettering flashing before and after English in story movies. Extends all
+  171 subtitle/title-card ranges across their faint fades in all 22 story movies.
+- Measures English fade opacity on lettering rows, excluding the moving picture above
+  the caption bar. Preserves corrected timing when subtitle specifications are regenerated.
+- Keeps opening/ending lyrics, English mission dialogue, the 4x HUD font and prior fixes.
+  The separate 0.1.27 mission 23 diagnostic is not incorporated; that issue remains unconfirmed.
+- Adds frame-based timing refinement and encoded fade-edge checks. See `docs/movies.md`.
+- All 22 rebuilt movies decode to their original frame counts. Checks across 5,849
+  unique fade-edge frames found no remaining Japanese strokes above the verifier's
+  compression tolerance. The reported clip's fade-in, fade-out and blank frames were
+  visually checked in the encoded output. Emulator playback has not been performed.
+- Final ISO comparison against 0.1.26 confirms unchanged gameplay resources, English
+  mission dialogue, HUD font, opening/ending movies and other disc files. Only the
+  title-version textures change outside the 22 corrected story movies. Japanese-table
+  inventory: 0 tables, 0 rows.
+- All 25 on-disc translated movies match their verified builds; packet positions and
+  audio/nonvideo bytes match the Japanese original. Both lyric overlays are included.
+
+## 0.1.27 - 2026-10-22 (local dialogue diagnostic, not released)
+
+- Investigates a reported mission 23 completion stall on public 0.1.26. Cause remains
+  unconfirmed; this build is not presented as a fix.
+- Restores original Japanese dialogue only for internal mission 025 (campaign mission 23)
+  and updates the title version. Keeps English objectives and all other release content.
+- Adds `tools/mission_diagnostic.py` to generate and verify the narrowly scoped test ISO
+  without changing translation sources. See `docs/mission23_investigation.md` for findings
+  and the fresh-boot replay test. No gameplay reproduction was performed.
+- Completed `ACE-EN-0.1.27-dialogue-diagnostic.iso` (3,357,147,136 bytes), SHA-256
+  `7ba2521692255fc8aa7b518bf5e480340413e405d8e680f0ebdeff245c50205a`.
+  Full byte comparison confirms all other ISO bytes are unchanged; four resource readbacks passed.
+
 ## 0.1.26 - 2026-10-21 (released)
 
 Output: `work/output/ACE-EN-0.1.26.iso` (3,357,147,136 bytes), SHA-256

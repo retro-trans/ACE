@@ -4,8 +4,8 @@
   {
    "id": 0,
    "frames": [
-    19,
-    134
+    0,
+    153
    ],
    "kind": "title",
    "box": [
@@ -25,13 +25,19 @@
     ]
    ],
    "peak": 33,
-   "en": "< Unified Earth Calendar 044, July\n— Six months before the Refugee Ship Incident — >"
+   "en": "< Unified Earth Calendar 044, July\n— Six months before the Refugee Ship Incident — >",
+   "scan_frames": [
+    19,
+    134
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 1,
    "frames": [
-    200,
-    315
+    181,
+    334
    ],
    "kind": "title",
    "box": [
@@ -51,13 +57,19 @@
     ]
    ],
    "peak": 212,
-   "en": "— Ra Cailum Operations Staff Officer\nLucrezia Noin —"
+   "en": "— Ra Cailum Operations Staff Officer\nLucrezia Noin —",
+   "scan_frames": [
+    200,
+    315
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 2,
    "frames": [
-    364,
-    534
+    351,
+    547
    ],
    "kind": "subtitle",
    "box": [
@@ -77,13 +89,19 @@
     ]
    ],
    "peak": 483,
-   "en": "I was assigned to the Ra Cailum six months ago,\nat UCE Base No. 4."
+   "en": "I was assigned to the Ra Cailum six months ago,\nat UCE Base No. 4.",
+   "scan_frames": [
+    364,
+    534
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 3,
    "frames": [
-    576,
-    728
+    563,
+    741
    ],
    "kind": "subtitle",
    "box": [
@@ -103,13 +121,19 @@
     ]
    ],
    "peak": 591,
-   "en": "Back then, Londo Bell had only just been formed\nas a UCE special operations unit."
+   "en": "Back then, Londo Bell had only just been formed\nas a UCE special operations unit.",
+   "scan_frames": [
+    576,
+    728
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 4,
    "frames": [
-    765,
-    917
+    752,
+    930
    ],
    "kind": "subtitle",
    "box": [
@@ -129,13 +153,19 @@
     ]
    ],
    "peak": 777,
-   "en": "Our first orders were to transport\nclassified UCE cargo to Jaburo."
+   "en": "Our first orders were to transport\nclassified UCE cargo to Jaburo.",
+   "scan_frames": [
+    765,
+    917
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 5,
    "frames": [
-    971,
-    1125
+    958,
+    1138
    ],
    "kind": "subtitle",
    "box": [
@@ -155,13 +185,19 @@
     ]
    ],
    "peak": 1104,
-   "en": "I suppose that, at the time, I didn't yet take\nthings as seriously as I do now."
+   "en": "I suppose that, at the time, I didn't yet take\nthings as seriously as I do now.",
+   "scan_frames": [
+    971,
+    1125
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 6,
    "frames": [
-    1160,
-    1391
+    1147,
+    1404
    ],
    "kind": "subtitle",
    "box": [
@@ -181,13 +217,19 @@
     ]
    ],
    "peak": 1176,
-   "en": "But on the day before the mission,\na sudden explosion changed everything."
+   "en": "But on the day before the mission,\na sudden explosion changed everything.",
+   "scan_frames": [
+    1160,
+    1391
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 7,
    "frames": [
-    1435,
-    1640
+    1422,
+    1653
    ],
    "kind": "subtitle",
    "box": [
@@ -207,13 +249,19 @@
     ]
    ],
    "peak": 1455,
-   "en": "I've been through a great deal since that day,\nbut looking back, the last thing we did was—"
+   "en": "I've been through a great deal since that day,\nbut looking back, the last thing we did was—",
+   "scan_frames": [
+    1435,
+    1640
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 8,
    "frames": [
-    1668,
-    1781
+    1655,
+    1794
    ],
    "kind": "subtitle",
    "box": [
@@ -233,7 +281,13 @@
     ]
    ],
    "peak": 1704,
-   "en": "perhaps, by then, already\nimpossible to avoid."
+   "en": "perhaps, by then, already\nimpossible to avoid.",
+   "scan_frames": [
+    1668,
+    1781
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   }
  ]
 }

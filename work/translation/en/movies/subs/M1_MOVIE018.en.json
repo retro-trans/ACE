@@ -4,8 +4,8 @@
   {
    "id": 5,
    "frames": [
-    19,
-    134
+    0,
+    153
    ],
    "kind": "title",
    "box": [
@@ -26,13 +26,19 @@
    ],
    "peak": 76,
    "en": "— Queen of the Kingdom of Na\nCiela Lapana —",
-   "manual": true
+   "manual": true,
+   "scan_frames": [
+    19,
+    134
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 0,
    "frames": [
-    183,
-    308
+    170,
+    321
    ],
    "kind": "subtitle",
    "box": [
@@ -52,13 +58,19 @@
     ]
    ],
    "peak": 297,
-   "en": "Drake vanished,\nand my mission came to an end, but—"
+   "en": "Drake vanished,\nand my mission came to an end, but—",
+   "scan_frames": [
+    183,
+    308
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 1,
    "frames": [
-    340,
-    438
+    327,
+    451
    ],
    "kind": "subtitle",
    "box": [
@@ -78,13 +90,19 @@
     ]
    ],
    "peak": 354,
-   "en": "I still had a role\nleft to play."
+   "en": "I still had a role\nleft to play.",
+   "scan_frames": [
+    340,
+    438
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 2,
    "frames": [
-    478,
-    617
+    465,
+    628
    ],
    "kind": "subtitle",
    "box": [
@@ -104,13 +122,19 @@
     ]
    ],
    "peak": 486,
-   "en": "Unless the Surface finds its way to peace,\nall that I have done will mean nothing."
+   "en": "Unless the Surface finds its way to peace,\nall that I have done will mean nothing.",
+   "scan_frames": [
+    478,
+    617
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 3,
    "frames": [
-    640,
-    795
+    628,
+    808
    ],
    "kind": "subtitle",
    "box": [
@@ -130,13 +154,19 @@
     ]
    ],
    "peak": 654,
-   "en": "That is why the Gran Garan fought on,\nside by side with them."
+   "en": "That is why the Gran Garan fought on,\nside by side with them.",
+   "scan_frames": [
+    640,
+    795
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 4,
    "frames": [
-    845,
-    993
+    832,
+    1006
    ],
    "kind": "subtitle",
    "box": [
@@ -156,7 +186,13 @@
     ]
    ],
    "peak": 861,
-   "en": "They are not the sort to cause such an incident.\nEven now, I still believe that."
+   "en": "They are not the sort to cause such an incident.\nEven now, I still believe that.",
+   "scan_frames": [
+    845,
+    993
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   }
  ]
 }

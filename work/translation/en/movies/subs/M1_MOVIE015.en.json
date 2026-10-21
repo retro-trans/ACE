@@ -4,8 +4,8 @@
   {
    "id": 0,
    "frames": [
-    19,
-    134
+    0,
+    153
    ],
    "kind": "title",
    "box": [
@@ -25,13 +25,19 @@
     ]
    ],
    "peak": 37,
-   "en": "— Ruler of Theart Star\nFull Flat —"
+   "en": "— Ruler of Theart Star\nFull Flat —",
+   "scan_frames": [
+    19,
+    134
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 1,
    "frames": [
-    183,
-    372
+    170,
+    385
    ],
    "kind": "subtitle",
    "box": [
@@ -51,13 +57,19 @@
     ]
    ],
    "peak": 303,
-   "en": "I had heard of them for some time.\nSeeing them in person, I was certain."
+   "en": "I had heard of them for some time.\nSeeing them in person, I was certain.",
+   "scan_frames": [
+    183,
+    372
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 2,
    "frames": [
-    404,
-    562
+    391,
+    574
    ],
    "kind": "subtitle",
    "box": [
@@ -77,13 +89,19 @@
     ]
    ],
    "peak": 474,
-   "en": "Young people like them must not\nbe manipulated by Poseidal—"
+   "en": "Young people like them must not\nbe manipulated by Poseidal—",
+   "scan_frames": [
+    404,
+    562
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 3,
    "frames": [
-    587,
-    779
+    574,
+    792
    ],
    "kind": "subtitle",
    "box": [
@@ -103,13 +121,19 @@
     ]
    ],
    "peak": 606,
-   "en": "not by someone who uses talented youths\nto rule the world from the shadows."
+   "en": "not by someone who uses talented youths\nto rule the world from the shadows.",
+   "scan_frames": [
+    587,
+    779
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 4,
    "frames": [
-    837,
-    1001
+    824,
+    1014
    ],
    "kind": "subtitle",
    "box": [
@@ -129,13 +153,19 @@
     ]
    ],
    "peak": 858,
-   "en": "Poseidal deftly played the other powers\nto make the war go on forever."
+   "en": "Poseidal deftly played the other powers\nto make the war go on forever.",
+   "scan_frames": [
+    837,
+    1001
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 5,
    "frames": [
-    1039,
-    1243
+    1026,
+    1256
    ],
    "kind": "subtitle",
    "box": [
@@ -155,13 +185,19 @@
     ]
    ],
    "peak": 1183,
-   "en": "That wrong must be set right.\nOtherwise, the war will never end."
+   "en": "That wrong must be set right.\nOtherwise, the war will never end.",
+   "scan_frames": [
+    1039,
+    1243
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 6,
    "frames": [
-    1278,
-    1401
+    1265,
+    1414
    ],
    "kind": "subtitle",
    "box": [
@@ -181,13 +217,19 @@
     ]
    ],
    "peak": 1294,
-   "en": "Even that fool Gavlet must have\nrealized it after hearing me out."
+   "en": "Even that fool Gavlet must have\nrealized it after hearing me out.",
+   "scan_frames": [
+    1278,
+    1401
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 7,
    "frames": [
-    1431,
-    1610
+    1418,
+    1623
    ],
    "kind": "subtitle",
    "box": [
@@ -207,7 +249,13 @@
     ]
    ],
    "peak": 1480,
-   "en": "Earth and space are both full of rotten sorts,\nbut I've taken a bit of a liking to that lot."
+   "en": "Earth and space are both full of rotten sorts,\nbut I've taken a bit of a liking to that lot.",
+   "scan_frames": [
+    1431,
+    1610
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   }
  ]
 }

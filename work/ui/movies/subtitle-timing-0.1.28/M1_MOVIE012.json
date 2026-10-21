@@ -1,0 +1,162 @@
+{
+  "movie": "M1_MOVIE012",
+  "frames": 1432,
+  "cards": [
+    {
+      "card": 0,
+      "scan_frames": [
+        19,
+        134
+      ],
+      "visible_frames": [
+        2,
+        151
+      ],
+      "frames": [
+        0,
+        153
+      ],
+      "leading_frames": 17,
+      "trailing_frames": 17
+    },
+    {
+      "card": 1,
+      "scan_frames": [
+        183,
+        358
+      ],
+      "visible_frames": [
+        172,
+        369
+      ],
+      "frames": [
+        170,
+        371
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 2,
+      "scan_frames": [
+        388,
+        527
+      ],
+      "visible_frames": [
+        377,
+        538
+      ],
+      "frames": [
+        375,
+        540
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 3,
+      "scan_frames": [
+        556,
+        737
+      ],
+      "visible_frames": [
+        545,
+        748
+      ],
+      "frames": [
+        543,
+        750
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 4,
+      "scan_frames": [
+        770,
+        874
+      ],
+      "visible_frames": [
+        759,
+        885
+      ],
+      "frames": [
+        757,
+        886
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 5,
+      "scan_frames": [
+        899,
+        963
+      ],
+      "visible_frames": [
+        888,
+        974
+      ],
+      "frames": [
+        886,
+        976
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 6,
+      "scan_frames": [
+        998,
+        1111
+      ],
+      "visible_frames": [
+        987,
+        1122
+      ],
+      "frames": [
+        985,
+        1124
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 7,
+      "scan_frames": [
+        1149,
+        1228
+      ],
+      "visible_frames": [
+        1138,
+        1239
+      ],
+      "frames": [
+        1136,
+        1241
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 8,
+      "scan_frames": [
+        1260,
+        1360
+      ],
+      "visible_frames": [
+        1249,
+        1371
+      ],
+      "frames": [
+        1247,
+        1373
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    }
+  ],
+  "threshold_y": 20,
+  "minimum_pixels": 24,
+  "guard_frames": 2
+}

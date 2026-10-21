@@ -4,8 +4,8 @@
   {
    "id": 0,
    "frames": [
-    19,
-    134
+    0,
+    153
    ],
    "kind": "title",
    "box": [
@@ -25,13 +25,19 @@
     ]
    ],
    "peak": 31,
-   "en": "— Formerly of Poseidal's Thirteen\nGavlet Gablae —"
+   "en": "— Formerly of Poseidal's Thirteen\nGavlet Gablae —",
+   "scan_frames": [
+    19,
+    134
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 1,
    "frames": [
-    183,
-    348
+    170,
+    361
    ],
    "kind": "subtitle",
    "box": [
@@ -51,13 +57,19 @@
     ]
    ],
    "peak": 273,
-   "en": "The seizure operation, you say?\nNow there's a story from long ago."
+   "en": "The seizure operation, you say?\nNow there's a story from long ago.",
+   "scan_frames": [
+    183,
+    348
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 2,
    "frames": [
-    382,
-    517
+    369,
+    529
    ],
    "kind": "subtitle",
    "box": [
@@ -77,13 +89,19 @@
     ]
    ],
    "peak": 393,
-   "en": "The Ra Cailum...\nThey appeared before me time and again."
+   "en": "The Ra Cailum...\nThey appeared before me time and again.",
+   "scan_frames": [
+    382,
+    517
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 3,
    "frames": [
-    544,
-    645
+    530,
+    658
    ],
    "kind": "subtitle",
    "box": [
@@ -99,13 +117,19 @@
     ]
    ],
    "peak": 573,
-   "en": "And they were a constant thorn in my side."
+   "en": "And they were a constant thorn in my side.",
+   "scan_frames": [
+    544,
+    645
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 4,
    "frames": [
-    675,
-    849
+    662,
+    861
    ],
    "kind": "subtitle",
    "box": [
@@ -125,13 +149,19 @@
     ]
    ],
    "peak": 714,
-   "en": "Their aims and methods were nothing like mine,\nbut I did respect them, you know."
+   "en": "Their aims and methods were nothing like mine,\nbut I did respect them, you know.",
+   "scan_frames": [
+    675,
+    849
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 5,
    "frames": [
-    874,
-    1022
+    861,
+    1035
    ],
    "kind": "subtitle",
    "box": [
@@ -151,7 +181,13 @@
     ]
    ],
    "peak": 909,
-   "en": "I even thought of them as rivals.\n...Until I saw that incident."
+   "en": "I even thought of them as rivals.\n...Until I saw that incident.",
+   "scan_frames": [
+    874,
+    1022
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   }
  ]
 }

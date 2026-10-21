@@ -1,0 +1,179 @@
+{
+  "movie": "M1_MOVIE013",
+  "frames": 2033,
+  "cards": [
+    {
+      "card": 0,
+      "scan_frames": [
+        19,
+        134
+      ],
+      "visible_frames": [
+        2,
+        151
+      ],
+      "frames": [
+        0,
+        153
+      ],
+      "leading_frames": 17,
+      "trailing_frames": 17
+    },
+    {
+      "card": 1,
+      "scan_frames": [
+        183,
+        397
+      ],
+      "visible_frames": [
+        172,
+        408
+      ],
+      "frames": [
+        170,
+        410
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 2,
+      "scan_frames": [
+        448,
+        624
+      ],
+      "visible_frames": [
+        437,
+        635
+      ],
+      "frames": [
+        435,
+        637
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 3,
+      "scan_frames": [
+        684,
+        779
+      ],
+      "visible_frames": [
+        673,
+        790
+      ],
+      "frames": [
+        671,
+        790
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 4,
+      "scan_frames": [
+        801,
+        966
+      ],
+      "visible_frames": [
+        790,
+        977
+      ],
+      "frames": [
+        790,
+        979
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 5,
+      "scan_frames": [
+        1009,
+        1182
+      ],
+      "visible_frames": [
+        998,
+        1193
+      ],
+      "frames": [
+        996,
+        1195
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 6,
+      "scan_frames": [
+        1221,
+        1331
+      ],
+      "visible_frames": [
+        1210,
+        1342
+      ],
+      "frames": [
+        1208,
+        1344
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 7,
+      "scan_frames": [
+        1359,
+        1554
+      ],
+      "visible_frames": [
+        1348,
+        1565
+      ],
+      "frames": [
+        1346,
+        1567
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 8,
+      "scan_frames": [
+        1587,
+        1704
+      ],
+      "visible_frames": [
+        1576,
+        1715
+      ],
+      "frames": [
+        1574,
+        1717
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 9,
+      "scan_frames": [
+        1758,
+        1961
+      ],
+      "visible_frames": [
+        1747,
+        1972
+      ],
+      "frames": [
+        1745,
+        1974
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    }
+  ],
+  "threshold_y": 20,
+  "minimum_pixels": 24,
+  "guard_frames": 2
+}

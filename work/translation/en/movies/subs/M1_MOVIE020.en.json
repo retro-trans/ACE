@@ -4,8 +4,8 @@
   {
    "id": 0,
    "frames": [
-    19,
-    134
+    0,
+    153
    ],
    "kind": "title",
    "box": [
@@ -25,13 +25,19 @@
     ]
    ],
    "peak": 37,
-   "en": "— Ra Cailum Medical Crew\nAnna Stephanie —"
+   "en": "— Ra Cailum Medical Crew\nAnna Stephanie —",
+   "scan_frames": [
+    19,
+    134
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 1,
    "frames": [
-    182,
-    363
+    169,
+    376
    ],
    "kind": "subtitle",
    "box": [
@@ -51,13 +57,19 @@
     ]
    ],
    "peak": 300,
-   "en": "It was the moment the joy we felt at the war's end\ncame crashing down."
+   "en": "It was the moment the joy we felt at the war's end\ncame crashing down.",
+   "scan_frames": [
+    182,
+    363
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 2,
    "frames": [
-    391,
-    478
+    378,
+    491
    ],
    "kind": "subtitle",
    "box": [
@@ -77,13 +89,19 @@
     ]
    ],
    "peak": 423,
-   "en": "People who should have been bound for Earth\nwere right there."
+   "en": "People who should have been bound for Earth\nwere right there.",
+   "scan_frames": [
+    391,
+    478
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 3,
    "frames": [
-    504,
-    652
+    491,
+    665
    ],
    "kind": "subtitle",
    "box": [
@@ -103,13 +121,19 @@
     ]
    ],
    "peak": 595,
-   "en": "The plan they told us of\nwas utterly horrifying."
+   "en": "The plan they told us of\nwas utterly horrifying.",
+   "scan_frames": [
+    504,
+    652
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 4,
    "frames": [
-    695,
-    883
+    682,
+    896
    ],
    "kind": "subtitle",
    "box": [
@@ -129,13 +153,19 @@
     ]
    ],
    "peak": 831,
-   "en": "Drop E2 onto the Earth.\nIt was a plan to destroy the planet."
+   "en": "Drop E2 onto the Earth.\nIt was a plan to destroy the planet.",
+   "scan_frames": [
+    695,
+    883
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 5,
    "frames": [
-    910,
-    1085
+    897,
+    1098
    ],
    "kind": "subtitle",
    "box": [
@@ -155,13 +185,19 @@
     ]
    ],
    "peak": 924,
-   "en": "The man leading it... was Char Aznable.\nHe was alive."
+   "en": "The man leading it... was Char Aznable.\nHe was alive.",
+   "scan_frames": [
+    910,
+    1085
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 6,
    "frames": [
-    1114,
-    1327
+    1101,
+    1340
    ],
    "kind": "subtitle",
    "box": [
@@ -181,13 +217,19 @@
     ]
    ],
    "peak": 1161,
-   "en": "E2, Char, and the refugee ship.\nWe were the ones who had led them all here..."
+   "en": "E2, Char, and the refugee ship.\nWe were the ones who had led them all here...",
+   "scan_frames": [
+    1114,
+    1327
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 7,
    "frames": [
-    1370,
-    1565
+    1357,
+    1576
    ],
    "kind": "subtitle",
    "box": [
@@ -207,13 +249,19 @@
     ]
    ],
    "peak": 1473,
-   "en": "Radio interference cut off our contact with Earth,\nand we could not warn anyone of the danger."
+   "en": "Radio interference cut off our contact with Earth,\nand we could not warn anyone of the danger.",
+   "scan_frames": [
+    1370,
+    1565
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 8,
    "frames": [
-    1588,
-    1718
+    1576,
+    1731
    ],
    "kind": "subtitle",
    "box": [
@@ -233,7 +281,13 @@
     ]
    ],
    "peak": 1707,
-   "en": "This plan had to be stopped,\nno matter what it took..."
+   "en": "This plan had to be stopped,\nno matter what it took...",
+   "scan_frames": [
+    1588,
+    1718
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   }
  ]
 }

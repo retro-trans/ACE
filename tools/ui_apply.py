@@ -130,6 +130,8 @@ def patch_small_font(ccm, tm2, name):
     f = Font(ccm, tm2)
     start = reclaim(f, ul.keep_chars(name))
     add_english(f, start=start)
+    from english_fonts import compact
+    compact(f)
     new_ccm, new_tm2 = f.ccm_bytes(), f.tm2_bytes()
     require(len(new_tm2) == len(tm2) and new_tm2[:32] == tm2[:32], 'Small-font atlas header/size changed')
     check = Font(new_ccm, new_tm2)

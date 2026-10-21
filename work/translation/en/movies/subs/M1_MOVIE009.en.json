@@ -4,8 +4,8 @@
   {
    "id": 0,
    "frames": [
-    19,
-    134
+    0,
+    153
    ],
    "kind": "title",
    "box": [
@@ -25,13 +25,19 @@
     ]
    ],
    "peak": 31,
-   "en": "— Formerly of Poseidal's Thirteen\nGavlet Gablae —"
+   "en": "— Formerly of Poseidal's Thirteen\nGavlet Gablae —",
+   "scan_frames": [
+    19,
+    134
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 1,
    "frames": [
-    183,
-    351
+    170,
+    364
    ],
    "kind": "subtitle",
    "box": [
@@ -47,13 +53,19 @@
     ]
    ],
    "peak": 199,
-   "en": "The business at Palata Star, you say...?\nNow there is a memory I can never forget."
+   "en": "The business at Palata Star, you say...?\nNow there is a memory I can never forget.",
+   "scan_frames": [
+    183,
+    351
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 2,
    "frames": [
-    378,
-    542
+    365,
+    555
    ],
    "kind": "subtitle",
    "box": [
@@ -69,13 +81,19 @@
     ]
    ],
    "peak": 395,
-   "en": "Being tracked down by them,\nlosing the battle... it was all a nightmare."
+   "en": "Being tracked down by them,\nlosing the battle... it was all a nightmare.",
+   "scan_frames": [
+    378,
+    542
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 3,
    "frames": [
-    586,
-    791
+    573,
+    804
    ],
    "kind": "subtitle",
    "box": [
@@ -91,13 +109,19 @@
     ]
    ],
    "peak": 603,
-   "en": "Thanks to them, Nei made a fool of me afterward\nand I was ordered home. Utterly miserable!"
+   "en": "Thanks to them, Nei made a fool of me afterward\nand I was ordered home. Utterly miserable!",
+   "scan_frames": [
+    586,
+    791
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 4,
    "frames": [
-    828,
-    951
+    815,
+    964
    ],
    "kind": "subtitle",
    "box": [
@@ -113,13 +137,19 @@
     ]
    ],
    "peak": 840,
-   "en": "I lost Lady Poseidal's trust as well,\nand it galled me beyond words."
+   "en": "I lost Lady Poseidal's trust as well,\nand it galled me beyond words.",
+   "scan_frames": [
+    828,
+    951
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 5,
    "frames": [
-    987,
-    1219
+    974,
+    1232
    ],
    "kind": "subtitle",
    "box": [
@@ -135,13 +165,19 @@
     ]
    ],
    "peak": 1003,
-   "en": "Even so, I did not dislike them.\nThere was a certain conviction in what they did."
+   "en": "Even so, I did not dislike them.\nThere was a certain conviction in what they did.",
+   "scan_frames": [
+    987,
+    1219
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 6,
    "frames": [
-    1246,
-    1476
+    1233,
+    1489
    ],
    "kind": "subtitle",
    "box": [
@@ -157,13 +193,19 @@
     ]
    ],
    "peak": 1261,
-   "en": "They held to a belief that sounds simple, yet is\nterribly hard: always seek the best answer."
+   "en": "They held to a belief that sounds simple, yet is\nterribly hard: always seek the best answer.",
+   "scan_frames": [
+    1246,
+    1476
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 7,
    "frames": [
-    1505,
-    1659
+    1492,
+    1672
    ],
    "kind": "subtitle",
    "box": [
@@ -179,13 +221,19 @@
     ]
    ],
    "peak": 1597,
-   "en": "And even I could not claim\nto feel no sympathy for that belief."
+   "en": "And even I could not claim\nto feel no sympathy for that belief.",
+   "scan_frames": [
+    1505,
+    1659
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 8,
    "frames": [
-    1685,
-    1792
+    1672,
+    1805
    ],
    "kind": "subtitle",
    "box": [
@@ -201,7 +249,13 @@
     ]
    ],
    "peak": 1714,
-   "en": "Though now, it all rings rather hollow."
+   "en": "Though now, it all rings rather hollow.",
+   "scan_frames": [
+    1685,
+    1792
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   }
  ]
 }

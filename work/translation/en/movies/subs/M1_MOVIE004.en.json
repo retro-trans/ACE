@@ -4,8 +4,8 @@
   {
    "id": 0,
    "frames": [
-    19,
-    134
+    0,
+    153
    ],
    "kind": "title",
    "box": [
@@ -25,13 +25,19 @@
     ]
    ],
    "peak": 37,
-   "en": "— Ra Cailum Medical Crew\nAnna Stephanie —"
+   "en": "— Ra Cailum Medical Crew\nAnna Stephanie —",
+   "scan_frames": [
+    19,
+    134
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 1,
    "frames": [
-    182,
-    402
+    169,
+    415
    ],
    "kind": "subtitle",
    "box": [
@@ -51,13 +57,19 @@
     ]
    ],
    "peak": 279,
-   "en": "There was an explosion so loud it hurt my ears.\nI'll never forget that blinding flash and the shaking."
+   "en": "There was an explosion so loud it hurt my ears.\nI'll never forget that blinding flash and the shaking.",
+   "scan_frames": [
+    182,
+    402
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 2,
    "frames": [
-    441,
-    564
+    428,
+    576
    ],
    "kind": "subtitle",
    "box": [
@@ -77,13 +89,19 @@
     ]
    ],
    "peak": 480,
-   "en": "It was a shock to learn that our own military\nhad built something like that, but—"
+   "en": "It was a shock to learn that our own military\nhad built something like that, but—",
+   "scan_frames": [
+    441,
+    564
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 3,
    "frames": [
-    588,
-    784
+    576,
+    797
    ],
    "kind": "subtitle",
    "box": [
@@ -103,13 +121,19 @@
     ]
    ],
    "peak": 623,
-   "en": "what scared me even more was that something\nso terrible existed at all."
+   "en": "what scared me even more was that something\nso terrible existed at all.",
+   "scan_frames": [
+    588,
+    784
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 4,
    "frames": [
-    822,
-    951
+    809,
+    964
    ],
    "kind": "subtitle",
    "box": [
@@ -129,13 +153,19 @@
     ]
    ],
    "peak": 905,
-   "en": "What might happen if it were used\nwith malicious intent—"
+   "en": "What might happen if it were used\nwith malicious intent—",
+   "scan_frames": [
+    822,
+    951
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 5,
    "frames": [
-    995,
-    1112
+    982,
+    1125
    ],
    "kind": "subtitle",
    "box": [
@@ -151,7 +181,13 @@
     ]
    ],
    "peak": 1022,
-   "en": "back then, I couldn't even begin to imagine."
+   "en": "back then, I couldn't even begin to imagine.",
+   "scan_frames": [
+    995,
+    1112
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   }
  ]
 }

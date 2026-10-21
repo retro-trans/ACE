@@ -4,8 +4,8 @@
   {
    "id": 0,
    "frames": [
-    19,
-    134
+    0,
+    153
    ],
    "kind": "title",
    "box": [
@@ -25,13 +25,19 @@
     ]
    ],
    "peak": 40,
-   "en": "— Neo Zeon Supreme Leader\nChar Aznable —"
+   "en": "— Neo Zeon Supreme Leader\nChar Aznable —",
+   "scan_frames": [
+    19,
+    134
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 1,
    "frames": [
-    183,
-    339
+    170,
+    352
    ],
    "kind": "subtitle",
    "box": [
@@ -51,13 +57,19 @@
     ]
    ],
    "peak": 294,
-   "en": "Those whose souls are bound by Earth's gravity\nhave a long history of aggression."
+   "en": "Those whose souls are bound by Earth's gravity\nhave a long history of aggression.",
+   "scan_frames": [
+    183,
+    339
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 2,
    "frames": [
-    373,
-    494
+    360,
+    505
    ],
    "kind": "subtitle",
    "box": [
@@ -77,13 +89,19 @@
     ]
    ],
    "peak": 381,
-   "en": "I will not deny that it was the UCE\nthat shielded Earth from its enemies' onslaught."
+   "en": "I will not deny that it was the UCE\nthat shielded Earth from its enemies' onslaught.",
+   "scan_frames": [
+    373,
+    494
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 3,
    "frames": [
-    517,
-    710
+    505,
+    723
    ],
    "kind": "subtitle",
    "box": [
@@ -103,13 +121,19 @@
     ]
    ],
    "peak": 537,
-   "en": "But as a result, the UCE grew arrogant,\nand some, like OZ, came to seek dictatorship."
+   "en": "But as a result, the UCE grew arrogant,\nand some, like OZ, came to seek dictatorship.",
+   "scan_frames": [
+    517,
+    710
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 4,
    "frames": [
-    742,
-    935
+    729,
+    947
    ],
    "kind": "subtitle",
    "box": [
@@ -129,13 +153,19 @@
     ]
    ],
    "peak": 768,
-   "en": "Feeding on the corrupt UCE, they wage endless war,\nand space now overflows with refugees."
+   "en": "Feeding on the corrupt UCE, they wage endless war,\nand space now overflows with refugees.",
+   "scan_frames": [
+    742,
+    935
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 5,
    "frames": [
-    959,
-    1138
+    947,
+    1150
    ],
    "kind": "subtitle",
    "box": [
@@ -155,13 +185,19 @@
     ]
    ],
    "peak": 981,
-   "en": "I became convinced that mankind\nmust never again repeat its wars."
+   "en": "I became convinced that mankind\nmust never again repeat its wars.",
+   "scan_frames": [
+    959,
+    1138
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 6,
    "frames": [
-    1162,
-    1353
+    1150,
+    1366
    ],
    "kind": "subtitle",
    "box": [
@@ -181,7 +217,13 @@
     ]
    ],
    "peak": 1320,
-   "en": "To that end, I resolved to purge those\nwho are the source of war in the Earth Sphere."
+   "en": "To that end, I resolved to purge those\nwho are the source of war in the Earth Sphere.",
+   "scan_frames": [
+    1162,
+    1353
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   }
  ]
 }

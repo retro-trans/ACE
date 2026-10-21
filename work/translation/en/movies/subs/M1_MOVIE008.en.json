@@ -4,8 +4,8 @@
   {
    "id": 0,
    "frames": [
-    19,
-    134
+    0,
+    153
    ],
    "kind": "title",
    "box": [
@@ -25,13 +25,19 @@
     ]
    ],
    "peak": 37,
-   "en": "— Ra Cailum Medical Crew\nAnna Stephanie —"
+   "en": "— Ra Cailum Medical Crew\nAnna Stephanie —",
+   "scan_frames": [
+    19,
+    134
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 1,
    "frames": [
-    182,
-    346
+    169,
+    359
    ],
    "kind": "subtitle",
    "box": [
@@ -51,13 +57,19 @@
     ]
    ],
    "peak": 294,
-   "en": "Everything I experienced in space\nhad started to leave me confused."
+   "en": "Everything I experienced in space\nhad started to leave me confused.",
+   "scan_frames": [
+    182,
+    346
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 2,
    "frames": [
-    382,
-    481
+    369,
+    494
    ],
    "kind": "subtitle",
    "box": [
@@ -73,13 +85,19 @@
     ]
    ],
    "peak": 399,
-   "en": "What was right, and what wasn't—"
+   "en": "What was right, and what wasn't—",
+   "scan_frames": [
+    382,
+    481
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 3,
    "frames": [
-    511,
-    609
+    498,
+    622
    ],
    "kind": "subtitle",
    "box": [
@@ -99,13 +117,19 @@
     ]
    ],
    "peak": 581,
-   "en": "I learned that it couldn't\nbe decided so simply."
+   "en": "I learned that it couldn't\nbe decided so simply.",
+   "scan_frames": [
+    511,
+    609
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 4,
    "frames": [
-    654,
-    844
+    641,
+    857
    ],
    "kind": "subtitle",
    "box": [
@@ -125,13 +149,19 @@
     ]
    ],
    "peak": 767,
-   "en": "Everyone around me was fighting desperately,\nand I no longer knew if that was really right."
+   "en": "Everyone around me was fighting desperately,\nand I no longer knew if that was really right.",
+   "scan_frames": [
+    654,
+    844
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 5,
    "frames": [
-    895,
-    1005
+    882,
+    1018
    ],
    "kind": "subtitle",
    "box": [
@@ -147,13 +177,19 @@
     ]
    ],
    "peak": 906,
-   "en": "But we couldn't stop fighting."
+   "en": "But we couldn't stop fighting.",
+   "scan_frames": [
+    895,
+    1005
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 6,
    "frames": [
-    1032,
-    1151
+    1019,
+    1164
    ],
    "kind": "subtitle",
    "box": [
@@ -169,13 +205,19 @@
     ]
    ],
    "peak": 1063,
-   "en": "Still, if we didn't have to fight, it would be better—"
+   "en": "Still, if we didn't have to fight, it would be better—",
+   "scan_frames": [
+    1032,
+    1151
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 7,
    "frames": [
-    1184,
-    1361
+    1171,
+    1374
    ],
    "kind": "subtitle",
    "box": [
@@ -195,7 +237,13 @@
     ]
    ],
    "peak": 1192,
-   "en": "is it because I'm weak that I couldn't\nhelp but think so?"
+   "en": "is it because I'm weak that I couldn't\nhelp but think so?",
+   "scan_frames": [
+    1184,
+    1361
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   }
  ]
 }

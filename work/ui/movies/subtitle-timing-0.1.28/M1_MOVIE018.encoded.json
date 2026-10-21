@@ -1,0 +1,52 @@
+{
+  "movie": "M1_MOVIE018",
+  "frames": 1065,
+  "unique_edge_frames_checked": 207,
+  "cards": [
+    {
+      "card": 5,
+      "frames_checked": 44,
+      "source_text_frames": 36,
+      "worst_residual_pixels": 0,
+      "worst_frame": null
+    },
+    {
+      "card": 0,
+      "frames_checked": 34,
+      "source_text_frames": 26,
+      "worst_residual_pixels": 0,
+      "worst_frame": null
+    },
+    {
+      "card": 1,
+      "frames_checked": 34,
+      "source_text_frames": 25,
+      "worst_residual_pixels": 0,
+      "worst_frame": null
+    },
+    {
+      "card": 2,
+      "frames_checked": 32,
+      "source_text_frames": 1,
+      "worst_residual_pixels": 0,
+      "worst_frame": null
+    },
+    {
+      "card": 3,
+      "frames_checked": 33,
+      "source_text_frames": 25,
+      "worst_residual_pixels": 0,
+      "worst_frame": null
+    },
+    {
+      "card": 4,
+      "frames_checked": 34,
+      "source_text_frames": 25,
+      "worst_residual_pixels": 0,
+      "worst_frame": null
+    }
+  ],
+  "failures": [],
+  "encoded_sha256": "6fa31653941905f303abff3f6dffbf47437294068cec100562e4c87c146d4d14",
+  "gameplay_verified": false
+}

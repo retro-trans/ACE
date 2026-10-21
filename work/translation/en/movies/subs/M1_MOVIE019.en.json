@@ -4,8 +4,8 @@
   {
    "id": 0,
    "frames": [
-    19,
-    134
+    0,
+    153
    ],
    "kind": "title",
    "box": [
@@ -25,13 +25,19 @@
     ]
    ],
    "peak": 37,
-   "en": "— Former UCE Representative\nRelena Peacecraft —"
+   "en": "— Former UCE Representative\nRelena Peacecraft —",
+   "scan_frames": [
+    19,
+    134
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 1,
    "frames": [
-    182,
-    330
+    169,
+    343
    ],
    "kind": "subtitle",
    "box": [
@@ -51,13 +57,19 @@
     ]
    ],
    "peak": 196,
-   "en": "Battle after battle claimed countless lives,\nand at last the war came to an end."
+   "en": "Battle after battle claimed countless lives,\nand at last the war came to an end.",
+   "scan_frames": [
+    182,
+    330
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 2,
    "frames": [
-    377,
-    516
+    364,
+    528
    ],
    "kind": "subtitle",
    "box": [
@@ -77,13 +89,19 @@
     ]
    ],
    "peak": 385,
-   "en": "To protect the right to live,\na right that belongs to every person,"
+   "en": "To protect the right to live,\na right that belongs to every person,",
+   "scan_frames": [
+    377,
+    516
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 3,
    "frames": [
-    541,
-    713
+    528,
+    726
    ],
    "kind": "subtitle",
    "box": [
@@ -103,13 +121,19 @@
     ]
    ],
    "peak": 578,
-   "en": "I have taken up that work\nas the new representative of the UCE."
+   "en": "I have taken up that work\nas the new representative of the UCE.",
+   "scan_frames": [
+    541,
+    713
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 4,
    "frames": [
-    770,
-    925
+    757,
+    938
    ],
    "kind": "subtitle",
    "box": [
@@ -129,13 +153,19 @@
     ]
    ],
    "peak": 785,
-   "en": "Why do people fight?\nWhy do they not understand one another?"
+   "en": "Why do people fight?\nWhy do they not understand one another?",
+   "scan_frames": [
+    770,
+    925
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 5,
    "frames": [
-    974,
-    1138
+    961,
+    1151
    ],
    "kind": "subtitle",
    "box": [
@@ -155,13 +185,19 @@
     ]
    ],
    "peak": 1076,
-   "en": "If war is never to happen again,\nwe must come to understand one another."
+   "en": "If war is never to happen again,\nwe must come to understand one another.",
+   "scan_frames": [
+    974,
+    1138
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 6,
    "frames": [
-    1181,
-    1361
+    1168,
+    1374
    ],
    "kind": "subtitle",
    "box": [
@@ -181,13 +217,19 @@
     ]
    ],
    "peak": 1319,
-   "en": "To that end, I publicly declared\nthat we would take in the space refugees."
+   "en": "To that end, I publicly declared\nthat we would take in the space refugees.",
+   "scan_frames": [
+    1181,
+    1361
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 7,
    "frames": [
-    1395,
-    1562
+    1382,
+    1575
    ],
    "kind": "subtitle",
    "box": [
@@ -207,13 +249,19 @@
     ]
    ],
    "peak": 1460,
-   "en": "I promised every refugee a life\nin which they need not fear tomorrow."
+   "en": "I promised every refugee a life\nin which they need not fear tomorrow.",
+   "scan_frames": [
+    1395,
+    1562
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 8,
    "frames": [
-    1610,
-    1746
+    1597,
+    1759
    ],
    "kind": "subtitle",
    "box": [
@@ -233,7 +281,13 @@
     ]
    ],
    "peak": 1721,
-   "en": "At the time, I believed\nthat would be enough to make it work."
+   "en": "At the time, I believed\nthat would be enough to make it work.",
+   "scan_frames": [
+    1610,
+    1746
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   }
  ]
 }

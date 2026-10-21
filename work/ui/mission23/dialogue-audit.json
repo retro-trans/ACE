@@ -1,0 +1,10 @@
+{
+  "public_version": "0.1.26",
+  "campaign_mission": 23,
+  "internal_mission": "025",
+  "rows_checked": 70,
+  "control_tokens_preserved": true,
+  "released_text_matches_translation_sources": true,
+  "layout_problems": [],
+  "root_cause_confirmed": false
+}

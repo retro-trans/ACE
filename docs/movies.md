@@ -1,6 +1,28 @@
 # Movies (MOVIE0/*.PSS)
 
-## Current scope: 0.1.24
+## Current scope: 0.1.28
+
+Local 0.1.28 fixes faint Japanese flashes at both ends of the 171 subtitle/title cards in
+all 22 story movies. The old scan used bright strokes, leaving roughly 11 subtitle frames
+or 17 title frames at each edge uncovered. `tools/subtitle_timing.py` follows the original
+lettering down to Y>20 on black Y=16, using unique peak-lettering pixels to distinguish
+adjacent cards. A two-frame guard covers the faintest edge; short blank gaps are shared
+without overlapping erase ranges. Original scan ranges are retained as `scan_frames` so
+the operation is repeatable and subtitle regeneration preserves the correction.
+
+The `fade_measure: ink_rows` setting measures English opacity only on lettering rows.
+The older expanded region included the moving picture just above the subtitle bar, which
+could keep English visible even when the original text was absent. This setting is limited
+to the story cards; opening and ending rendering is unchanged.
+
+`tools/verify_subtitle_fades.py` decodes original and rebuilt movies and checks every newly
+covered fade edge for remaining original strokes outside English glyphs and shadows.
+Timing and encoded-frame reports are under `work/ui/movies/subtitle-timing-0.1.28/`.
+These are automated decoded-video checks, not emulator playback confirmation.
+The 0.1.28 rebuilt movies passed all 5,849 unique fade-edge frame checks across 171
+cards, with zero failures. The reported M1_MOVIE011 card 5 was also visually checked:
+English now starts with the faint source fade at frame 709 and fades out through 881;
+adjacent blank frames 708 and 882 remain blank.
 
 On 2026-10-21 the user requested restoring all 22 translated story cutscenes. Their existing specs and
 English-only copies are active again directly under `work/translation/en/movies/`. Cached translated PSS
@@ -9,15 +31,18 @@ applies. All three MOVIE0 translations, including the selected ending overlay an
 MOVIE005 stays original. Build without `--movies` to include all 25 active specs:
 
 ```text
-python tools/build.py 0.1.24
-python tools/build.py 0.1.24 --write
-python tools/verify_movie_scope.py work/output/ACE-EN-0.1.24.iso
-python tools/verify_story_restore.py work/output/ACE-EN-0.1.24.iso --write
+python tools/subtitle_timing.py --write
+python tools/verify_subtitle_fades.py
+python tools/build.py 0.1.28 --write
+python tools/verify_movie_scope.py work/output/ACE-EN-0.1.28.iso
+python tools/verify_story_restore.py work/output/ACE-EN-0.1.28.iso --baseline 0.1.26 --write
 ```
 
 The verifier checks all 25 movie hashes, packet positions and unchanged audio/nonvideo bytes. When verifying
 historical builds 0.1.16-0.1.23, add `--original-story` to the old verification commands below.
-`verify_story_restore.py` compares game resources against 0.1.23, allowing only the automatic title-version
+After changing timing, rebuild each `M1_MOVIE001` through `M1_MOVIE022` with
+`python tools/movie_text.py build <movie>` before running the checks/build above.
+`verify_story_restore.py` compares game resources against the selected baseline (default 0.1.23), allowing only the automatic title-version
 texture update. It also requires identical opening/ending movie hashes and unchanged other disc files.
 
 The MOVIE0 directory has four FMV movies (MPEG-2 video at 512x448, 29.97 fps, plus 16-bit PCM audio in private

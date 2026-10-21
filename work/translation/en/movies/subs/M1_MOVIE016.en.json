@@ -4,8 +4,8 @@
   {
    "id": 0,
    "frames": [
-    20,
-    135
+    1,
+    154
    ],
    "kind": "title",
    "box": [
@@ -25,13 +25,19 @@
     ]
    ],
    "peak": 37,
-   "en": "— Ra Cailum Medical Crew\nAnna Stephanie —"
+   "en": "— Ra Cailum Medical Crew\nAnna Stephanie —",
+   "scan_frames": [
+    20,
+    135
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 1,
    "frames": [
-    183,
-    352
+    170,
+    365
    ],
    "kind": "subtitle",
    "box": [
@@ -47,13 +53,19 @@
     ]
    ],
    "peak": 294,
-   "en": "Char Aznable.\nHis suffering was not so different from ours."
+   "en": "Char Aznable.\nHis suffering was not so different from ours.",
+   "scan_frames": [
+    183,
+    352
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 2,
    "frames": [
-    385,
-    514
+    372,
+    527
    ],
    "kind": "subtitle",
    "box": [
@@ -69,13 +81,19 @@
     ]
    ],
    "peak": 477,
-   "en": "What can be done about people\nwho fight the same wars over and over—"
+   "en": "What can be done about people\nwho fight the same wars over and over—",
+   "scan_frames": [
+    385,
+    514
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 3,
    "frames": [
-    541,
-    818
+    528,
+    829
    ],
    "kind": "subtitle",
    "box": [
@@ -91,13 +109,19 @@
     ]
    ],
    "peak": 624,
-   "en": "He was a man who longed for humanity to evolve.\nPerhaps no one wanted peace more than he did."
+   "en": "He was a man who longed for humanity to evolve.\nPerhaps no one wanted peace more than he did.",
+   "scan_frames": [
+    541,
+    818
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 4,
    "frames": [
-    840,
-    950
+    829,
+    963
    ],
    "kind": "subtitle",
    "box": [
@@ -113,13 +137,19 @@
     ]
    ],
    "peak": 852,
-   "en": "He simply wanted change to come far too quickly."
+   "en": "He simply wanted change to come far too quickly.",
+   "scan_frames": [
+    840,
+    950
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 5,
    "frames": [
-    979,
-    1167
+    966,
+    1180
    ],
    "kind": "subtitle",
    "box": [
@@ -135,7 +165,13 @@
     ]
    ],
    "peak": 997,
-   "en": "Perhaps, from the moment we first met him,\nwe were destined to face each other."
+   "en": "Perhaps, from the moment we first met him,\nwe were destined to face each other.",
+   "scan_frames": [
+    979,
+    1167
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   }
  ]
 }

@@ -1,0 +1,128 @@
+{
+  "movie": "M1_MOVIE011",
+  "frames": 1096,
+  "cards": [
+    {
+      "card": 0,
+      "scan_frames": [
+        19,
+        134
+      ],
+      "visible_frames": [
+        2,
+        151
+      ],
+      "frames": [
+        0,
+        153
+      ],
+      "leading_frames": 17,
+      "trailing_frames": 17
+    },
+    {
+      "card": 1,
+      "scan_frames": [
+        182,
+        300
+      ],
+      "visible_frames": [
+        171,
+        310
+      ],
+      "frames": [
+        169,
+        312
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 10
+    },
+    {
+      "card": 2,
+      "scan_frames": [
+        333,
+        425
+      ],
+      "visible_frames": [
+        322,
+        436
+      ],
+      "frames": [
+        320,
+        438
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 3,
+      "scan_frames": [
+        465,
+        577
+      ],
+      "visible_frames": [
+        454,
+        588
+      ],
+      "frames": [
+        452,
+        590
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 4,
+      "scan_frames": [
+        604,
+        686
+      ],
+      "visible_frames": [
+        593,
+        697
+      ],
+      "frames": [
+        591,
+        699
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 5,
+      "scan_frames": [
+        720,
+        871
+      ],
+      "visible_frames": [
+        709,
+        882
+      ],
+      "frames": [
+        707,
+        883
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 6,
+      "scan_frames": [
+        896,
+        1024
+      ],
+      "visible_frames": [
+        885,
+        1035
+      ],
+      "frames": [
+        883,
+        1037
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    }
+  ],
+  "threshold_y": 20,
+  "minimum_pixels": 24,
+  "guard_frames": 2
+}

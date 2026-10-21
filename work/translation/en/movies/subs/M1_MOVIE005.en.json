@@ -4,8 +4,8 @@
   {
    "id": 0,
    "frames": [
-    183,
-    315
+    170,
+    328
    ],
    "kind": "subtitle",
    "box": [
@@ -25,13 +25,19 @@
     ]
    ],
    "peak": 208,
-   "en": "My first impression of them\nwasn't a very good one."
+   "en": "My first impression of them\nwasn't a very good one.",
+   "scan_frames": [
+    183,
+    315
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 1,
    "frames": [
-    353,
-    507
+    340,
+    520
    ],
    "kind": "subtitle",
    "box": [
@@ -51,13 +57,19 @@
     ]
    ],
    "peak": 384,
-   "en": "I cannot accept the idea\nof settling everything by force."
+   "en": "I cannot accept the idea\nof settling everything by force.",
+   "scan_frames": [
+    353,
+    507
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 2,
    "frames": [
-    550,
-    682
+    537,
+    695
    ],
    "kind": "subtitle",
    "box": [
@@ -77,13 +89,19 @@
     ]
    ],
    "peak": 597,
-   "en": "Even so, since then,\nI have learned a great deal from them."
+   "en": "Even so, since then,\nI have learned a great deal from them.",
+   "scan_frames": [
+    550,
+    682
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 3,
    "frames": [
-    728,
-    872
+    715,
+    885
    ],
    "kind": "subtitle",
    "box": [
@@ -103,13 +121,19 @@
     ]
    ],
    "peak": 747,
-   "en": "Taking action for what you believe in,\nwithout regard for the danger—"
+   "en": "Taking action for what you believe in,\nwithout regard for the danger—",
+   "scan_frames": [
+    728,
+    872
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 4,
    "frames": [
-    909,
-    1075
+    896,
+    1088
    ],
    "kind": "subtitle",
    "box": [
@@ -129,13 +153,19 @@
     ]
    ],
    "peak": 981,
-   "en": "I realized that without it, a world\nfilled with war will never change."
+   "en": "I realized that without it, a world\nfilled with war will never change.",
+   "scan_frames": [
+    909,
+    1075
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 5,
    "frames": [
-    1138,
-    1323
+    1125,
+    1336
    ],
    "kind": "subtitle",
    "box": [
@@ -155,13 +185,19 @@
     ]
    ],
    "peak": 1251,
-   "en": "Still, my failure to stop my brother back then\nis one of my greatest regrets."
+   "en": "Still, my failure to stop my brother back then\nis one of my greatest regrets.",
+   "scan_frames": [
+    1138,
+    1323
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 6,
    "frames": [
-    1366,
-    1560
+    1353,
+    1573
    ],
    "kind": "subtitle",
    "box": [
@@ -181,13 +217,19 @@
     ]
    ],
    "peak": 1380,
-   "en": "I myself was the cause of that incident—\nthat is what I believe."
+   "en": "I myself was the cause of that incident—\nthat is what I believe.",
+   "scan_frames": [
+    1366,
+    1560
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 7,
    "frames": [
-    19,
-    134
+    0,
+    153
    ],
    "kind": "title",
    "box": [
@@ -207,7 +249,13 @@
     ]
    ],
    "peak": 76,
-   "en": "— Former UCE Representative\nRelena Peacecraft —"
+   "en": "— Former UCE Representative\nRelena Peacecraft —",
+   "scan_frames": [
+    19,
+    134
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   }
  ]
 }

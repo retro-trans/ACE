@@ -4,8 +4,8 @@
   {
    "id": 0,
    "frames": [
-    183,
-    298
+    170,
+    310
    ],
    "kind": "subtitle",
    "box": [
@@ -25,13 +25,19 @@
     ]
    ],
    "peak": 211,
-   "en": "The ship was fired up, determined to see\nthe pursuit mission through, but—"
+   "en": "The ship was fired up, determined to see\nthe pursuit mission through, but—",
+   "scan_frames": [
+    183,
+    298
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 1,
    "frames": [
-    321,
-    457
+    310,
+    470
    ],
    "kind": "subtitle",
    "box": [
@@ -51,13 +57,19 @@
     ]
    ],
    "peak": 387,
-   "en": "all I felt was unease,\neven though I had always loved space."
+   "en": "all I felt was unease,\neven though I had always loved space.",
+   "scan_frames": [
+    321,
+    457
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 2,
    "frames": [
-    494,
-    649
+    481,
+    660
    ],
    "kind": "subtitle",
    "box": [
@@ -77,13 +89,19 @@
     ]
    ],
    "peak": 603,
-   "en": "Still, I wanted badly to go.\nNot out of duty as a soldier, but—"
+   "en": "Still, I wanted badly to go.\nNot out of duty as a soldier, but—",
+   "scan_frames": [
+    494,
+    649
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 3,
    "frames": [
-    672,
-    845
+    660,
+    857
    ],
    "kind": "subtitle",
    "box": [
@@ -103,13 +121,19 @@
     ]
    ],
    "peak": 680,
-   "en": "for the man I met in Antarctica... Zechs.\nI wanted to stop him."
+   "en": "for the man I met in Antarctica... Zechs.\nI wanted to stop him.",
+   "scan_frames": [
+    672,
+    845
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 4,
    "frames": [
-    869,
-    985
+    857,
+    996
    ],
    "kind": "subtitle",
    "box": [
@@ -129,13 +153,19 @@
     ]
    ],
    "peak": 960,
-   "en": "He is always driven by his convictions.\nI knew stopping him would be difficult."
+   "en": "He is always driven by his convictions.\nI knew stopping him would be difficult.",
+   "scan_frames": [
+    869,
+    985
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 5,
    "frames": [
-    1008,
-    1174
+    996,
+    1186
    ],
    "kind": "subtitle",
    "box": [
@@ -155,13 +185,19 @@
     ]
    ],
    "peak": 1038,
-   "en": "Even so, I was prepared to do anything\nif it meant stopping him."
+   "en": "Even so, I was prepared to do anything\nif it meant stopping him.",
+   "scan_frames": [
+    1008,
+    1174
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 6,
    "frames": [
-    19,
-    134
+    0,
+    153
    ],
    "kind": "title",
    "box": [
@@ -181,7 +217,13 @@
     ]
    ],
    "peak": 76,
-   "en": "— Ra Cailum Operations Staff Officer\nLucrezia Noin —"
+   "en": "— Ra Cailum Operations Staff Officer\nLucrezia Noin —",
+   "scan_frames": [
+    19,
+    134
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   }
  ]
 }

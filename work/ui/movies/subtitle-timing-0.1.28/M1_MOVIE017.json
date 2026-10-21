@@ -1,0 +1,128 @@
+{
+  "movie": "M1_MOVIE017",
+  "frames": 1529,
+  "cards": [
+    {
+      "card": 0,
+      "scan_frames": [
+        19,
+        134
+      ],
+      "visible_frames": [
+        2,
+        151
+      ],
+      "frames": [
+        0,
+        153
+      ],
+      "leading_frames": 17,
+      "trailing_frames": 17
+    },
+    {
+      "card": 1,
+      "scan_frames": [
+        182,
+        396
+      ],
+      "visible_frames": [
+        171,
+        407
+      ],
+      "frames": [
+        169,
+        409
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 2,
+      "scan_frames": [
+        431,
+        574
+      ],
+      "visible_frames": [
+        420,
+        585
+      ],
+      "frames": [
+        418,
+        587
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 3,
+      "scan_frames": [
+        606,
+        761
+      ],
+      "visible_frames": [
+        595,
+        772
+      ],
+      "frames": [
+        593,
+        774
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 4,
+      "scan_frames": [
+        798,
+        1008
+      ],
+      "visible_frames": [
+        787,
+        1019
+      ],
+      "frames": [
+        785,
+        1021
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 5,
+      "scan_frames": [
+        1037,
+        1239
+      ],
+      "visible_frames": [
+        1026,
+        1250
+      ],
+      "frames": [
+        1024,
+        1252
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 6,
+      "scan_frames": [
+        1293,
+        1456
+      ],
+      "visible_frames": [
+        1282,
+        1467
+      ],
+      "frames": [
+        1280,
+        1469
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    }
+  ],
+  "threshold_y": 20,
+  "minimum_pixels": 24,
+  "guard_frames": 2
+}

@@ -1,0 +1,128 @@
+{
+  "movie": "M1_MOVIE014",
+  "frames": 1466,
+  "cards": [
+    {
+      "card": 0,
+      "scan_frames": [
+        19,
+        134
+      ],
+      "visible_frames": [
+        2,
+        151
+      ],
+      "frames": [
+        0,
+        153
+      ],
+      "leading_frames": 17,
+      "trailing_frames": 17
+    },
+    {
+      "card": 1,
+      "scan_frames": [
+        183,
+        339
+      ],
+      "visible_frames": [
+        172,
+        350
+      ],
+      "frames": [
+        170,
+        352
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 2,
+      "scan_frames": [
+        373,
+        494
+      ],
+      "visible_frames": [
+        362,
+        505
+      ],
+      "frames": [
+        360,
+        505
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 3,
+      "scan_frames": [
+        517,
+        710
+      ],
+      "visible_frames": [
+        506,
+        721
+      ],
+      "frames": [
+        505,
+        723
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 4,
+      "scan_frames": [
+        742,
+        935
+      ],
+      "visible_frames": [
+        731,
+        946
+      ],
+      "frames": [
+        729,
+        947
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 5,
+      "scan_frames": [
+        959,
+        1138
+      ],
+      "visible_frames": [
+        948,
+        1149
+      ],
+      "frames": [
+        947,
+        1150
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 6,
+      "scan_frames": [
+        1162,
+        1353
+      ],
+      "visible_frames": [
+        1151,
+        1364
+      ],
+      "frames": [
+        1150,
+        1366
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    }
+  ],
+  "threshold_y": 20,
+  "minimum_pixels": 24,
+  "guard_frames": 2
+}

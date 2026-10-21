@@ -1,4 +1,4 @@
-"""Check a story-restoration build against 0.1.23; --write saves the comparison report.
+"""Check a story-movie build against a baseline (default 0.1.23).
 
 Use verify_movie_scope.py separately to verify all on-disc movies and their soundtracks.
 """
@@ -16,14 +16,16 @@ from verify_movie_scope import range_hash
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('iso', type=Path)
+    parser.add_argument('--baseline', default='0.1.23')
     parser.add_argument('--write', action='store_true')
     args = parser.parse_args()
     current = json.loads(args.iso.with_suffix('.json').read_text(encoding='utf-8'))
-    prior_path = ROOT / 'work/output/ACE-EN-0.1.23.iso'
+    prior_path = ROOT / ('work/output/ACE-EN-' + args.baseline + '.iso')
     prior = json.loads(prior_path.with_suffix('.json').read_text(encoding='utf-8'))
     require(not current['movies_without_lyrics'], 'Lyrics must be included')
     for name, digest in prior['movies'].items():
-        require(current['movies'].get(name) == digest, 'Opening/ending movie changed: ' + name)
+        if name.startswith('/MOVIE0/'):
+            require(current['movies'].get(name) == digest, 'Opening/ending movie changed: ' + name)
     with open(SOURCE_ISO, 'rb') as source:
         db = database(source)
         original = db.read(next(e for e in db.entries if leaf(e['name']) == TEXTURE))

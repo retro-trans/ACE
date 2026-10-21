@@ -434,7 +434,7 @@ class StaticCard:
         self.area = (slice(y0 - 6, y1 + 6), slice(x0 - 6, x1 + 6))
         self.area_c = (slice((y0 - 6) // 2, (y1 + 7) // 2), slice((x0 - 6) // 2, (x1 + 7) // 2))
         key = hashlib.sha1(json.dumps([spec['frames'], spec['box'], spec['refs'], spec.get('combine'),
-                                       spec.get('ink_rows')]).encode()).hexdigest()[:12]
+                                       spec.get('ink_rows'), spec.get('fade_measure')]).encode()).hexdigest()[:12]
         cache = CACHE / ('%s_%d_%s.npz' % (movie, k, key))
         if cache.exists():
             z = np.load(cache)
@@ -455,11 +455,18 @@ class StaticCard:
             rows = np.zeros(H, bool)
             for r0, r1 in spec.get('ink_rows') or []:
                 rows[max(0, r0):min(H, r1)] = True
+            measure_ink = spec.get('fade_measure') == 'ink_rows'
+            require(not measure_ink or rows.any(), 'Ink fade measurement requires ink_rows')
             ink = np.zeros((H, W), bool)
             e = []
             for n, buf in frames(es, self.a, self.b):
                 Y = planes(buf)[0]
-                e.append(float(np.abs(Y[self.area] - self.bg[0][self.area]).mean()))
+                if measure_ink:
+                    # The expanded erase area may include the live picture above
+                    # a caption. Only the lettering rows should drive its fade.
+                    e.append(float(np.maximum(Y - self.bg[0], 0)[rows, x0:x1].mean()))
+                else:
+                    e.append(float(np.abs(Y[self.area] - self.bg[0][self.area]).mean()))
                 ink |= ((Y - self.bg[0]) > 20) & rows[:, None]
             ink[:, :x0 - 6] = False
             ink[:, x1 + 6:] = False

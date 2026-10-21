@@ -1,0 +1,111 @@
+{
+  "movie": "M1_MOVIE007",
+  "frames": 1264,
+  "cards": [
+    {
+      "card": 0,
+      "scan_frames": [
+        19,
+        134
+      ],
+      "visible_frames": [
+        2,
+        151
+      ],
+      "frames": [
+        0,
+        153
+      ],
+      "leading_frames": 17,
+      "trailing_frames": 17
+    },
+    {
+      "card": 1,
+      "scan_frames": [
+        183,
+        361
+      ],
+      "visible_frames": [
+        172,
+        372
+      ],
+      "frames": [
+        170,
+        374
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 2,
+      "scan_frames": [
+        387,
+        530
+      ],
+      "visible_frames": [
+        376,
+        541
+      ],
+      "frames": [
+        374,
+        543
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 3,
+      "scan_frames": [
+        572,
+        860
+      ],
+      "visible_frames": [
+        561,
+        871
+      ],
+      "frames": [
+        559,
+        873
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 4,
+      "scan_frames": [
+        899,
+        1001
+      ],
+      "visible_frames": [
+        888,
+        1012
+      ],
+      "frames": [
+        886,
+        1014
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 5,
+      "scan_frames": [
+        1040,
+        1191
+      ],
+      "visible_frames": [
+        1029,
+        1202
+      ],
+      "frames": [
+        1027,
+        1204
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    }
+  ],
+  "threshold_y": 20,
+  "minimum_pixels": 24,
+  "guard_frames": 2
+}

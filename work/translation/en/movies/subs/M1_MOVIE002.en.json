@@ -4,8 +4,8 @@
   {
    "id": 0,
    "frames": [
-    183,
-    332
+    170,
+    345
    ],
    "kind": "subtitle",
    "box": [
@@ -25,13 +25,19 @@
     ]
    ],
    "peak": 300,
-   "en": "At the time, I was at a UCE base,\nhelping out the military's medical team."
+   "en": "At the time, I was at a UCE base,\nhelping out the military's medical team.",
+   "scan_frames": [
+    183,
+    332
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 1,
    "frames": [
-    362,
-    548
+    349,
+    561
    ],
    "kind": "subtitle",
    "box": [
@@ -51,13 +57,19 @@
     ]
    ],
    "peak": 525,
-   "en": "It was wartime, and civilians helping the military\nwasn't all that unusual."
+   "en": "It was wartime, and civilians helping the military\nwasn't all that unusual.",
+   "scan_frames": [
+    362,
+    548
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 2,
    "frames": [
-    598,
-    736
+    585,
+    749
    ],
    "kind": "subtitle",
    "box": [
@@ -77,13 +89,19 @@
     ]
    ],
    "peak": 624,
-   "en": "I was working at the base\nwhen those alarms began to blare."
+   "en": "I was working at the base\nwhen those alarms began to blare.",
+   "scan_frames": [
+    598,
+    736
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 3,
    "frames": [
-    779,
-    927
+    766,
+    940
    ],
    "kind": "subtitle",
    "box": [
@@ -103,13 +121,19 @@
     ]
    ],
    "peak": 814,
-   "en": "I'll never forget how terrifying it was\nto see a battle up close for the first time."
+   "en": "I'll never forget how terrifying it was\nto see a battle up close for the first time.",
+   "scan_frames": [
+    779,
+    927
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 4,
    "frames": [
-    958,
-    1145
+    945,
+    1158
    ],
    "kind": "subtitle",
    "box": [
@@ -129,13 +153,19 @@
     ]
    ],
    "peak": 972,
-   "en": "After fleeing desperately with everyone else,\nthe next thing I knew, I was aboard this ship."
+   "en": "After fleeing desperately with everyone else,\nthe next thing I knew, I was aboard this ship.",
+   "scan_frames": [
+    958,
+    1145
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 5,
    "frames": [
-    1187,
-    1323
+    1174,
+    1334
    ],
    "kind": "subtitle",
    "box": [
@@ -155,13 +185,19 @@
     ]
    ],
    "peak": 1266,
-   "en": "The way the military went chasing the enemy\nwithout properly caring for the wounded—"
+   "en": "The way the military went chasing the enemy\nwithout properly caring for the wounded—",
+   "scan_frames": [
+    1187,
+    1323
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 6,
    "frames": [
-    1346,
-    1399
+    1334,
+    1412
    ],
    "kind": "subtitle",
    "box": [
@@ -177,13 +213,19 @@
     ]
    ],
    "peak": 1374,
-   "en": "it made me angry."
+   "en": "it made me angry.",
+   "scan_frames": [
+    1346,
+    1399
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 7,
    "frames": [
-    1437,
-    1544
+    1424,
+    1557
    ],
    "kind": "subtitle",
    "box": [
@@ -203,13 +245,19 @@
     ]
    ],
    "peak": 1455,
-   "en": "What could be worth chasing that badly?\nI wanted to know."
+   "en": "What could be worth chasing that badly?\nI wanted to know.",
+   "scan_frames": [
+    1437,
+    1544
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 8,
    "frames": [
-    1591,
-    1771
+    1578,
+    1784
    ],
    "kind": "subtitle",
    "box": [
@@ -229,13 +277,19 @@
     ]
    ],
    "peak": 1611,
-   "en": "But now, I can't help wishing\nI had never found out."
+   "en": "But now, I can't help wishing\nI had never found out.",
+   "scan_frames": [
+    1591,
+    1771
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 9,
    "frames": [
-    1812,
-    1958
+    1799,
+    1971
    ],
    "kind": "subtitle",
    "box": [
@@ -255,13 +309,19 @@
     ]
    ],
    "peak": 1824,
-   "en": "Then maybe we wouldn't have had to do\nwhat we did—"
+   "en": "Then maybe we wouldn't have had to do\nwhat we did—",
+   "scan_frames": [
+    1812,
+    1958
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 10,
    "frames": [
-    19,
-    134
+    1,
+    154
    ],
    "kind": "title",
    "box": [
@@ -281,7 +341,13 @@
     ]
    ],
    "peak": 76,
-   "en": "— Ra Cailum Medical Crew\nAnna Stephanie —"
+   "en": "— Ra Cailum Medical Crew\nAnna Stephanie —",
+   "scan_frames": [
+    19,
+    134
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   }
  ]
 }

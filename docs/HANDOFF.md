@@ -6,6 +6,63 @@ request**, releases must work with Retro Trans Tools). The user explicitly reque
 release 0.1.17 on 2026-10-15, using `binhlt0402` in `retro-trans`. Repository: https://github.com/retro-trans/ACE.
 Packaging and publication instructions are in `docs/RELEASING.md`.
 
+## Shared 4x fonts: local 0.1.29 (2026-10-22)
+
+The user reported blocks in multiple speaker names and lock-on labels, then requested
+removing Japanese glyphs to save space. `english_fonts.py` reclaims unused Japanese glyphs
+and compacts the maps/records. The two in-game fonts now use separate regions of the same
+1024x512 PSMT4 atlas at the existing dialogue GS base 0x2600. Their palettes remain separate.
+`build.py` changes only the HUD base word at EE 0x2a64d8, from 0xc00 to 0x2600. The larger
+PSMT4HH HUD allocation from 0.1.23 is superseded. Main menu atlases are reduced to 1024x512.
+Use `verify_shared_fonts.py`, not the historical standalone `verify_hud_hd.py`, for current
+builds. See `docs/shared_fonts_0.1.29.md`. Keep all 25 translated movies and lyrics.
+The user explicitly requested release 0.1.29 on 2026-10-22. Packaging/publication is
+authorized; desktop control remains unauthorized. See `docs/RELEASING.md`.
+Completed ISO: `work/output/ACE-EN-0.1.29.iso`, 3,357,147,136 bytes, SHA-256
+`02ad1831f30daf61348b24cdeb176e1be3bee019cfad7fefcac7a846844f7f6f`.
+The final font/scope comparison passed; all four in-game bundles are correct, other
+game data and all 25 movies/lyrics match 0.1.28 except the title version and intended
+font changes. Japanese-table scan: 0 tables/rows. Evidence and reconstructed previews:
+`work/ui/hud-speaker-0.1.29/`. Fresh boot plus a normal memory-card save is required for
+the user's runtime check; an old save state can restore the broken font/code.
+
+## Story subtitle fade correction: local 0.1.28 (2026-10-22)
+
+The user reported Japanese flashing before English in story movies. The bright-stroke scan
+missed faint fades: typically 11 frames per subtitle edge and 17 per title edge. All 171 cards
+in the 22 story movies now use measured low-contrast ranges with a two-frame guard, clipped
+in short gaps to prevent overlap. `tools/subtitle_timing.py --write` updates both the specs
+and source cards; `subtitle_spec.py` preserves this metadata during regeneration.
+`StaticCard` measures opacity on `ink_rows` for these cards, avoiding live-picture interference.
+`tools/verify_subtitle_fades.py` checks decoded edges for remaining source lettering.
+Evidence is in `work/ui/movies/subtitle-timing-0.1.28/`. The reported clip is `M1_MOVIE011`,
+card 5: bright scan [720,871), visible source [709,882). See `docs/movies.md`.
+All 22 rebuilt movies passed the encoded check: 171 cards, 5,849 unique edge frames,
+zero failures. The encoded comparison also confirms clean blank frames 708/882 in
+the reported clip. This is decoded-file verification, not emulator playback.
+Use the standard full build with all 25 translated movies and lyrics. This build retains
+English mission dialogue; do not apply the 0.1.27 diagnostic. No release was requested.
+Completed ISO: `work/output/ACE-EN-0.1.28.iso`, 3,357,147,136 bytes, SHA-256
+`c338b3476f280ac3658a592d389bedefb2733500b2960ca05e81091063be46c2`.
+Final resource comparison against 0.1.26 passed: only three title-version texture copies
+change outside the story movies; all English mission data, fonts, prior UI fixes and
+opening/ending movies match. Japanese-table inventory: 0 tables, 0 rows.
+Movie-scope verification passed for all 25 translated movies, including both lyric overlays:
+on-disc hashes match and original packet positions/audio/nonvideo bytes are unchanged.
+Final reports are `work/output/ACE-EN-0.1.28.movies.verify.json` and `.restore.verify.json`.
+
+## Mission 23 investigation (2026-10-22)
+
+The latest-public 0.1.26 player reported all enemies defeated but no mission end.
+Save: `incoming/ace_mission23.ps2`; campaign mission 23 maps to internal **025**, not 023.
+No cause or fix is confirmed. Released text preserves control tokens and passes existing
+layout checks; mission map/enemy/AI logic matches the Japanese original. The user asked
+to continue without desktop control. Do not resume UI automation without new permission.
+Local **0.1.27 dialogue diagnostic** restores only mission 025 dialogue to Japanese,
+retaining English objectives, other translations, movies and lyrics. Replay from a normal
+save and fresh boot to isolate dialogue effects. See `docs/mission23_investigation.md`.
+This is not a public release; no release request was made for this build.
+
 ## Release 0.1.26 (2026-10-21)
 
 The user explicitly requested a release of the current build. Published **0.1.26**, retaining

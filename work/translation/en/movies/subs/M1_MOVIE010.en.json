@@ -4,8 +4,8 @@
   {
    "id": 0,
    "frames": [
-    19,
-    134
+    0,
+    153
    ],
    "kind": "title",
    "box": [
@@ -21,13 +21,19 @@
     ]
    ],
    "peak": 31,
-   "en": "— Ra Cailum Operations Staff Officer\nLucrezia Noin —"
+   "en": "— Ra Cailum Operations Staff Officer\nLucrezia Noin —",
+   "scan_frames": [
+    19,
+    134
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 1,
    "frames": [
-    183,
-    320
+    170,
+    333
    ],
    "kind": "subtitle",
    "box": [
@@ -43,13 +49,19 @@
     ]
    ],
    "peak": 297,
-   "en": "When I was told the mission was over,\nthe first thing I felt was relief."
+   "en": "When I was told the mission was over,\nthe first thing I felt was relief.",
+   "scan_frames": [
+    183,
+    320
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 2,
    "frames": [
-    360,
-    502
+    347,
+    515
    ],
    "kind": "subtitle",
    "box": [
@@ -65,13 +77,19 @@
     ]
    ],
    "peak": 426,
-   "en": "Relief at having carried out a grave duty,\nand relief that the crisis had passed."
+   "en": "Relief at having carried out a grave duty,\nand relief that the crisis had passed.",
+   "scan_frames": [
+    360,
+    502
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 3,
    "frames": [
-    542,
-    745
+    529,
+    758
    ],
    "kind": "subtitle",
    "box": [
@@ -87,13 +105,19 @@
     ]
    ],
    "peak": 603,
-   "en": "Why had the UCE built such a thing?\nCould the organization I served truly be trusted?"
+   "en": "Why had the UCE built such a thing?\nCould the organization I served truly be trusted?",
+   "scan_frames": [
+    542,
+    745
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 4,
    "frames": [
-    802,
-    988
+    789,
+    1001
    ],
    "kind": "subtitle",
    "box": [
@@ -109,13 +133,19 @@
     ]
    ],
    "peak": 940,
-   "en": "Even with those doubts lingering in my mind,\nby telling myself it had all been for peace—"
+   "en": "Even with those doubts lingering in my mind,\nby telling myself it had all been for peace—",
+   "scan_frames": [
+    802,
+    988
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 5,
    "frames": [
-    1014,
-    1085
+    1001,
+    1098
    ],
    "kind": "subtitle",
    "box": [
@@ -131,13 +161,19 @@
     ]
    ],
    "peak": 1030,
-   "en": "I forced myself to accept it."
+   "en": "I forced myself to accept it.",
+   "scan_frames": [
+    1014,
+    1085
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 6,
    "frames": [
-    1134,
-    1239
+    1121,
+    1252
    ],
    "kind": "subtitle",
    "box": [
@@ -153,7 +189,13 @@
     ]
    ],
    "peak": 1204,
-   "en": "Back then, we knew nothing at all."
+   "en": "Back then, we knew nothing at all.",
+   "scan_frames": [
+    1134,
+    1239
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   }
  ]
 }

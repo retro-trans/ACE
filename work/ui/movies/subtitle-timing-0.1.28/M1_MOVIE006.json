@@ -1,0 +1,128 @@
+{
+  "movie": "M1_MOVIE006",
+  "frames": 1245,
+  "cards": [
+    {
+      "card": 0,
+      "scan_frames": [
+        183,
+        298
+      ],
+      "visible_frames": [
+        172,
+        309
+      ],
+      "frames": [
+        170,
+        310
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 1,
+      "scan_frames": [
+        321,
+        457
+      ],
+      "visible_frames": [
+        311,
+        468
+      ],
+      "frames": [
+        310,
+        470
+      ],
+      "leading_frames": 10,
+      "trailing_frames": 11
+    },
+    {
+      "card": 2,
+      "scan_frames": [
+        494,
+        649
+      ],
+      "visible_frames": [
+        483,
+        660
+      ],
+      "frames": [
+        481,
+        660
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 3,
+      "scan_frames": [
+        672,
+        845
+      ],
+      "visible_frames": [
+        661,
+        856
+      ],
+      "frames": [
+        660,
+        857
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 4,
+      "scan_frames": [
+        869,
+        985
+      ],
+      "visible_frames": [
+        858,
+        996
+      ],
+      "frames": [
+        857,
+        996
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 11
+    },
+    {
+      "card": 5,
+      "scan_frames": [
+        1008,
+        1174
+      ],
+      "visible_frames": [
+        997,
+        1184
+      ],
+      "frames": [
+        996,
+        1186
+      ],
+      "leading_frames": 11,
+      "trailing_frames": 10
+    },
+    {
+      "card": 6,
+      "scan_frames": [
+        19,
+        134
+      ],
+      "visible_frames": [
+        2,
+        151
+      ],
+      "frames": [
+        0,
+        153
+      ],
+      "leading_frames": 17,
+      "trailing_frames": 17
+    }
+  ],
+  "threshold_y": 20,
+  "minimum_pixels": 24,
+  "guard_frames": 2
+}

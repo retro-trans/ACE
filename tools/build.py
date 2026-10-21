@@ -113,6 +113,14 @@ def patch_elf(elf, report):
         require(len(enc) < slot, 'ELF string %r does not fit its %d-byte slot' % (new, slot))
         out[o:o + slot] = enc + bytes(slot - len(enc))
     report['elf_strings'] = [new for _, _, new in ELF_STRINGS]
+    if report.get('shared_ingame_font'):
+        # Resource 50051's fixed GS base, read by EE 0x1c45d0 from this table.
+        # Both font textures now contain the identical shared atlas. Keep their
+        # distinct CLUT addresses (50050: 0x3ff4, 50051: 0x3fff).
+        at = 0x2a64d8 - 0x100000 + 0x80
+        require(u32(out, at) == 0xc00, 'Unexpected HUD texture base')
+        struct.pack_into('<I', out, at, 0x2600)
+        report['hud_texture_base'] = {'address': '0x2a64d8', 'before': '0xc00', 'after': '0x2600'}
     return bytes(out)
 
 
@@ -146,7 +154,14 @@ def patch_dialogue_font(data, ui=None):
         o, _ = kids[ident]
         return data[o:o + u32(data, o + size_at)]
     repl = {}
-    repl[DIALOGUE_CCM], repl[DIALOGUE_TM2] = patch_font(child(DIALOGUE_CCM, 4), child(DIALOGUE_TM2, 0))
+    if not DIAG and ui is not None and ui.ready.get('hud13'):
+        from english_fonts import shared
+        from ui_layout import keep_chars
+        parts, _ = shared(child(DIALOGUE_CCM, 4), child(DIALOGUE_TM2, 0),
+                          child(HUD_CCM, 4), child(HUD_TM2, 0), keep_chars('hud13'))
+        repl.update(zip((DIALOGUE_CCM, DIALOGUE_TM2, HUD_CCM, HUD_TM2), parts))
+        return ui.unnamed_bnd(data, extra=repl)
+    repl[DIALOGUE_CCM], repl[DIALOGUE_TM2] = patch_font(child(DIALOGUE_CCM, 4), child(DIALOGUE_TM2, 0), keep_japanese=True)
     if ui is None:
         return unnamed_bnd_replace(data, repl)
     if ui.ready.get('hud13'):
@@ -245,7 +260,10 @@ def english_f205(original_rows, report):
     return rows
 
 
-def patch_font(ccm, tm2):
+def patch_font(ccm, tm2, keep_japanese=False):
+    if not keep_japanese:
+        from english_fonts import rebuild
+        return rebuild(ccm, tm2)
     f = Font(ccm, tm2)
     add_english(f)
     new_ccm, new_tm2 = f.ccm_bytes(), f.tm2_bytes()
@@ -324,6 +342,7 @@ def build_data(db, report):
     entries = db.entries
     changed = {}
     ui = UiText()
+    report['shared_ingame_font'] = bool(not DIAG and ui.ready.get('hud13'))
     tex = TextureText(report['version'])
     std = {e['name'].lower(): e for e in entries}
     sccm = std[r'\target\menu\font\tm2\f010.ccm']

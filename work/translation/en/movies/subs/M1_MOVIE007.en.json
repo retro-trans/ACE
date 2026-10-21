@@ -4,8 +4,8 @@
   {
    "id": 0,
    "frames": [
-    19,
-    134
+    0,
+    153
    ],
    "kind": "title",
    "box": [
@@ -25,13 +25,19 @@
     ]
    ],
    "peak": 31,
-   "en": "— United Space Force Major\nRuri Hoshino —"
+   "en": "— United Space Force Major\nRuri Hoshino —",
+   "scan_frames": [
+    19,
+    134
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 1,
    "frames": [
-    183,
-    361
+    170,
+    374
    ],
    "kind": "subtitle",
    "box": [
@@ -51,13 +57,19 @@
     ]
    ],
    "peak": 348,
-   "en": "They helped me many times.\nI'm still grateful to them."
+   "en": "They helped me many times.\nI'm still grateful to them.",
+   "scan_frames": [
+    183,
+    361
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 2,
    "frames": [
-    387,
-    530
+    374,
+    543
    ],
    "kind": "subtitle",
    "box": [
@@ -77,13 +89,19 @@
     ]
    ],
    "peak": 480,
-   "en": "So when they caused that incident,\nI was a little surprised."
+   "en": "So when they caused that incident,\nI was a little surprised.",
+   "scan_frames": [
+    387,
+    530
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 3,
    "frames": [
-    572,
-    860
+    559,
+    873
    ],
    "kind": "subtitle",
    "box": [
@@ -103,13 +121,19 @@
     ]
    ],
    "peak": 593,
-   "en": "But every event has many causes and reasons\nbehind it. It was the same with Akito."
+   "en": "But every event has many causes and reasons\nbehind it. It was the same with Akito.",
+   "scan_frames": [
+    572,
+    860
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 4,
    "frames": [
-    899,
-    1001
+    886,
+    1014
    ],
    "kind": "subtitle",
    "box": [
@@ -125,13 +149,19 @@
     ]
    ],
    "peak": 913,
-   "en": "That's why I still believe in them,"
+   "en": "That's why I still believe in them,",
+   "scan_frames": [
+    899,
+    1001
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   },
   {
    "id": 5,
    "frames": [
-    1040,
-    1191
+    1027,
+    1204
    ],
    "kind": "subtitle",
    "box": [
@@ -147,7 +177,13 @@
     ]
    ],
    "peak": 1054,
-   "en": "because they, too, are precious to me..."
+   "en": "because they, too, are precious to me...",
+   "scan_frames": [
+    1040,
+    1191
+   ],
+   "timing_revision": "faint-fades-v1",
+   "fade_measure": "ink_rows"
   }
  ]
 }
