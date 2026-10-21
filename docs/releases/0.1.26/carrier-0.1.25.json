@@ -1,0 +1,88 @@
+{
+ "version": "0.1.25",
+ "iso": "work\\output\\ACE-EN-0.1.25.iso",
+ "changed_resources": [
+  "\\target\\menu\\tm2\\t0403.tm2",
+  "\\target\\menu\\tm2\\t3105.tm2",
+  "\\target\\menu\\bnd\\mode_data\\MenuTitle.csc",
+  "\\target\\menu\\bnd\\mode_data\\MenuTitleIntro.csc",
+  "\\target\\menu\\bnd\\mode_data\\MenuCampaign.csc"
+ ],
+ "copies": {
+  "t0403.tm2": 2,
+  "t3105.tm2": 3
+ },
+ "stretch_strip_clean": true,
+ "mesh_uvs_verified": true,
+ "left_upgrade_labels_unchanged": true,
+ "iso_comparison_passed": true,
+ "runtime_verified": false,
+ "panel_labels": [
+  {
+   "box": [
+    21,
+    4,
+    90,
+    24
+   ],
+   "en": "Carrier Info",
+   "align": "left",
+   "erase_box": [
+    21,
+    4,
+    94,
+    24
+   ]
+  },
+  {
+   "box": [
+    14,
+    36,
+    86,
+    56
+   ],
+   "en": "Carrier",
+   "align": "left"
+  },
+  {
+   "box": [
+    14,
+    60,
+    86,
+    79
+   ],
+   "en": "Squad",
+   "align": "left"
+  },
+  {
+   "box": [
+    13,
+    85,
+    86,
+    103
+   ],
+   "en": "Units",
+   "align": "left"
+  },
+  {
+   "box": [
+    14,
+    109,
+    86,
+    128
+   ],
+   "en": "Repair Res.",
+   "align": "left"
+  },
+  {
+   "box": [
+    14,
+    132,
+    86,
+    152
+   ],
+   "en": "Repair Eff.",
+   "align": "left"
+  }
+ ]
+}

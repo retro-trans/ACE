@@ -1,0 +1,30 @@
+{
+  "candidate": true,
+  "game_id": "ace",
+  "version": "0.1.26",
+  "original_routes": [
+    {
+      "selection": "Latest",
+      "target": "0.1.26",
+      "patches": [
+        "ACE-English-0.1.26.xdelta"
+      ]
+    },
+    {
+      "selection": "0.1.26",
+      "target": "0.1.26",
+      "patches": [
+        "ACE-English-0.1.26.xdelta"
+      ]
+    },
+    {
+      "selection": "Next version only",
+      "target": "0.1.17",
+      "patches": [
+        "ACE-English-0.1.17.xdelta"
+      ]
+    }
+  ],
+  "current_image_noop": true,
+  "unknown_image_rejected": true
+}

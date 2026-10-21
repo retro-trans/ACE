@@ -1,0 +1,23 @@
+{
+  "version": "0.1.26",
+  "iso_sha256": "95b7fafe2b4c5ddbfbd276f1322cb4cc08479891af0b714db3520b481472244c",
+  "japanese_text_tables": 0,
+  "japanese_text_rows": 0,
+  "translated_movies": 25,
+  "translated_story_movies": 22,
+  "movies_byte_identical_to_verified_0_1_24": true,
+  "audio_and_nonvideo_unchanged": true,
+  "opening_karaoke_rows_passed": 31,
+  "ending_karaoke_rows_passed": 21,
+  "karaoke_layout_checked_in": "0.1.24",
+  "launch_texture_copies_verified": 3,
+  "title_texture_copies_verified": 3,
+  "comparison_chain": [
+    "0.1.24 to 0.1.25: carrier texture and title version only",
+    "0.1.25 to 0.1.26: launch texture and title version only"
+  ],
+  "mission_3_progression_fix_confirmed_in_play": true,
+  "latest_panels_runtime_verified": false,
+  "hud_4x_allocation_runtime_verified": false,
+  "full_playthrough_complete": false
+}

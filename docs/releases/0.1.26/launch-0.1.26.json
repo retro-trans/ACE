@@ -1,0 +1,110 @@
+{
+ "version": "0.1.26",
+ "iso": "work\\output\\ACE-EN-0.1.26.iso",
+ "changed_resources": [
+  "\\target\\menu\\tm2\\t0802.tm2",
+  "\\target\\menu\\tm2\\t3105.tm2",
+  "\\target\\menu\\bnd\\mode_data\\MenuTitle.csc",
+  "\\target\\menu\\bnd\\mode_data\\MenuTitleIntro.csc",
+  "\\target\\menu\\bnd\\mode_data\\MenuCampaign.csc",
+  "\\target\\menu\\bnd\\mode_data\\MenuFree.csc"
+ ],
+ "copies": {
+  "t0802.tm2": 3,
+  "t3105.tm2": 3
+ },
+ "uv_checks": [
+  {
+   "mesh": "b081.mnb",
+   "offset": 9120,
+   "uv_pixels": [
+    0.3891,
+    3.3229,
+    0.3891,
+    54.0186,
+    107.4253,
+    3.3229,
+    107.4253,
+    54.0186,
+    91.6326,
+    3.3229,
+    91.6326,
+    54.0186,
+    139.8067,
+    3.3229,
+    139.8067,
+    54.0186
+   ]
+  },
+  {
+   "mesh": "b081.mnb",
+   "offset": 9552,
+   "uv_pixels": [
+    0.128,
+    55.1885,
+    0.128,
+    106.4243,
+    93.0355,
+    55.1885,
+    93.0355,
+    106.4243,
+    91.0208,
+    55.1885,
+    91.0208,
+    106.4243,
+    139.1949,
+    55.1885,
+    139.1949,
+    106.4243
+   ]
+  },
+  {
+   "mesh": "b083.mnb",
+   "offset": 12576,
+   "uv_pixels": [
+    1.3082,
+    2.839,
+    1.3082,
+    54.5651,
+    96.7987,
+    2.839,
+    96.7987,
+    54.5651,
+    91.8451,
+    2.839,
+    91.8451,
+    54.5651,
+    139.177,
+    2.839,
+    139.177,
+    54.5651
+   ]
+  },
+  {
+   "mesh": "b083.mnb",
+   "offset": 12992,
+   "uv_pixels": [
+    0.9574,
+    54.8237,
+    0.9574,
+    106.6394,
+    88.087,
+    54.8237,
+    88.087,
+    106.6394,
+    140.1011,
+    106.6394,
+    140.1011,
+    54.8237,
+    92.7693,
+    106.6394,
+    92.7693,
+    54.8237
+   ]
+  }
+ ],
+ "stretch_strips_clean": true,
+ "other_atlas_labels_unchanged": true,
+ "iso_comparison_passed": true,
+ "runtime_verified": false
+}
