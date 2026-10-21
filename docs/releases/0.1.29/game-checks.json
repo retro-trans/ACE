@@ -1,0 +1,31 @@
+{
+  "version": "0.1.29",
+  "iso_sha256": "02ad1831f30daf61348b24cdeb176e1be3bee019cfad7fefcac7a846844f7f6f",
+  "japanese_text_tables": 0,
+  "japanese_text_rows": 0,
+  "translated_movies": 25,
+  "translated_story_movies": 22,
+  "movies_byte_identical_to_verified_0_1_28": true,
+  "audio_and_nonvideo_unchanged": true,
+  "subtitle_cards": 171,
+  "subtitle_fade_edge_frames": 5849,
+  "subtitle_fade_failures": 0,
+  "opening_karaoke_rows_passed": 31,
+  "ending_karaoke_rows_passed": 21,
+  "karaoke_layout_checked_in": "0.1.24 (song movies unchanged)",
+  "shared_font_bundles_verified": 4,
+  "font_copies_verified": 24,
+  "english_font_metrics_preserved": true,
+  "unused_japanese_glyphs_removed": true,
+  "main_menu_atlas": [
+    1024,
+    512
+  ],
+  "shared_in_game_atlas": [
+    1024,
+    512
+  ],
+  "shared_font_runtime_verified": false,
+  "mission_23_completion_issue_resolved": false,
+  "full_playthrough_complete": false
+}

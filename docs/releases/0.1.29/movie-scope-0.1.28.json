@@ -1,0 +1,164 @@
+{
+ "iso": "ACE-EN-0.1.28.iso",
+ "translated_movies": [
+  "/MOVIE0/MOVIE001.PSS",
+  "/MOVIE0/MOVIE002.PSS",
+  "/MOVIE0/MOVIE003.PSS",
+  "/MOVIE1/MOVIE001.PSS",
+  "/MOVIE1/MOVIE002.PSS",
+  "/MOVIE1/MOVIE003.PSS",
+  "/MOVIE1/MOVIE004.PSS",
+  "/MOVIE1/MOVIE005.PSS",
+  "/MOVIE1/MOVIE006.PSS",
+  "/MOVIE1/MOVIE007.PSS",
+  "/MOVIE1/MOVIE008.PSS",
+  "/MOVIE1/MOVIE009.PSS",
+  "/MOVIE1/MOVIE010.PSS",
+  "/MOVIE1/MOVIE011.PSS",
+  "/MOVIE1/MOVIE012.PSS",
+  "/MOVIE1/MOVIE013.PSS",
+  "/MOVIE1/MOVIE014.PSS",
+  "/MOVIE1/MOVIE015.PSS",
+  "/MOVIE1/MOVIE016.PSS",
+  "/MOVIE1/MOVIE017.PSS",
+  "/MOVIE1/MOVIE018.PSS",
+  "/MOVIE1/MOVIE019.PSS",
+  "/MOVIE1/MOVIE020.PSS",
+  "/MOVIE1/MOVIE021.PSS",
+  "/MOVIE1/MOVIE022.PSS"
+ ],
+ "original_story_movies": 0,
+ "translated_story_movies": 22,
+ "audio_and_nonvideo_unchanged": true,
+ "movies": {
+  "/MOVIE0/MOVIE001.PSS": {
+   "status": "translated",
+   "sha256": "91ea00eacb2919d097996ff04b2c1e62ec183f6f82621f0920df59eb5d9b93d0",
+   "nonvideo_sha256": "a01d6dd4e55be9dd81f2b5796cd34e02d676a2c1af86a83d47c10bcb44a9fd3e"
+  },
+  "/MOVIE0/MOVIE002.PSS": {
+   "status": "translated",
+   "sha256": "832fd92ddc20e999f9e1405be440d2c4473cd4cbe5f60fdf764ff8d52b23095d",
+   "nonvideo_sha256": "db7d89fc96d8571d9684a7f994fe18e9884cfe78273ffd65f659beff5e0110a2"
+  },
+  "/MOVIE0/MOVIE003.PSS": {
+   "status": "translated",
+   "sha256": "d7465ecdc16665714070b9748924f3f9be6aebc074d9e7da191fbc034d393616",
+   "nonvideo_sha256": "06cd828ed5e405691855f92aa7190e93a9c7e64819abc0b671065d2ae6546278"
+  },
+  "/MOVIE0/MOVIE005.PSS": {
+   "status": "original",
+   "sha256": "9ac26a2e788618cff607cc09c014e9dbb7a0c372eafafe08797d8305e47051b6"
+  },
+  "/MOVIE1/MOVIE001.PSS": {
+   "status": "translated",
+   "sha256": "326dd8384a96dcfe06c000d5660fb7c74f6a243c4b76cdab088ab42fb2441546",
+   "nonvideo_sha256": "13142faf08da6340cb8eef945f9ee7ec7616620f7aea50a73f4955acf0e95741"
+  },
+  "/MOVIE1/MOVIE002.PSS": {
+   "status": "translated",
+   "sha256": "6620fa4540252c3e4bb4d774c90dc898ab7dd760ce8991b77d179cbfba67e4c6",
+   "nonvideo_sha256": "0cae60671ad6eff27b130cab2801b6b65918749e5baca5d145ca411e082d8fba"
+  },
+  "/MOVIE1/MOVIE003.PSS": {
+   "status": "translated",
+   "sha256": "8c2e24e52a4844054b0f4d0d88f1bacda8bbe225d0e2b1c5a470260a51526231",
+   "nonvideo_sha256": "2e4cf1f638fb58adf34b87b9507a85214984215c12a9c49ba0d4bce68ed85b29"
+  },
+  "/MOVIE1/MOVIE004.PSS": {
+   "status": "translated",
+   "sha256": "8cae69e4403f674c17176109659f1466b30cf28e7f763378afbd23ca67a3e4c7",
+   "nonvideo_sha256": "bb1edf531812fa53cb044db382887e622070bf8ff60dbdf38df19380c2bcb953"
+  },
+  "/MOVIE1/MOVIE005.PSS": {
+   "status": "translated",
+   "sha256": "900d47e1c6f6b6198160ed0119ca5b42f1d1e844f1c27ac60f55c7cc83ab7c16",
+   "nonvideo_sha256": "9ee7c89b38969a555f8fd01e770e78d722356328d689aedc6b1784019cdff259"
+  },
+  "/MOVIE1/MOVIE006.PSS": {
+   "status": "translated",
+   "sha256": "4390e5bb4dc5db4d959b43df816ad4450945f45602f658518b690112f9bd2a1c",
+   "nonvideo_sha256": "e27642794aa3019730a7b0ded0c125d544809303eec7ee489868f4fea9b87599"
+  },
+  "/MOVIE1/MOVIE007.PSS": {
+   "status": "translated",
+   "sha256": "97506ca6e5c188a2624031fda186c5e5bec75a7aa43a7b0bd1d7472d11abcce7",
+   "nonvideo_sha256": "1bca6ded7671e67ad7a923bee782da99307fb8317b5514e78f7d39ff8b66b01e"
+  },
+  "/MOVIE1/MOVIE008.PSS": {
+   "status": "translated",
+   "sha256": "2e5114120444072bd957e9b4d742023796f4447fa171a05513805a15c810e37a",
+   "nonvideo_sha256": "7b331fd493e0ee9934df470a71aae6c9f531183494432f0d03e5b375de9bac88"
+  },
+  "/MOVIE1/MOVIE009.PSS": {
+   "status": "translated",
+   "sha256": "6a88813b0b2dcef395d85f3373943299d7c7aedd51339781f14bdea6003d514f",
+   "nonvideo_sha256": "2f6bd0cdb1588f694efc39b650e0d1bc379b3dee09a83e46a729cb9f4b5fdfc8"
+  },
+  "/MOVIE1/MOVIE010.PSS": {
+   "status": "translated",
+   "sha256": "faab0ed7b04378e9f50bd14234e70952d4876d747860ba8a7d0e8cd18857cefb",
+   "nonvideo_sha256": "ce24d4aa6d7b371bad7a3a9451d843148d63c22a7c663a09fb4ba0d48c9bbb37"
+  },
+  "/MOVIE1/MOVIE011.PSS": {
+   "status": "translated",
+   "sha256": "62f5ecdc03078fc054ce94e4e51a276aeb5b70416ab19d538ec025a7c89956e5",
+   "nonvideo_sha256": "d92174344c4083dd03e7c6244a6f6e3d13c89238169db75fe8ad12c77bee4e2a"
+  },
+  "/MOVIE1/MOVIE012.PSS": {
+   "status": "translated",
+   "sha256": "246f24ad161151cacda98a4495d90b84c8aa75f7c1c0ff05ec4d8520607f8891",
+   "nonvideo_sha256": "4f1609623c2c48bea0584e55ca6c801540c2a73988f5b4956f241f1db1c63b2d"
+  },
+  "/MOVIE1/MOVIE013.PSS": {
+   "status": "translated",
+   "sha256": "2147a4d2bbd5ea0ddbfb7c34a8afd5acd8be4d61820b5aa226bc9f045096733d",
+   "nonvideo_sha256": "f72a376d138c4ad4609785fa7ba9f4385d7781dc44865a4e0c7d56c521144549"
+  },
+  "/MOVIE1/MOVIE014.PSS": {
+   "status": "translated",
+   "sha256": "1ec4f9b8e12ea3f58621082be83c6e9952bb4efb9b6751b3f56c080d03024e2e",
+   "nonvideo_sha256": "d8bc3720aa6a5a7bac89c43597cb27a1239686dbb13f8dc6e8501d60d4a9dca4"
+  },
+  "/MOVIE1/MOVIE015.PSS": {
+   "status": "translated",
+   "sha256": "7f87a961305ffb6a1a9c44f10f78eabffb0eb0d57a26131b8505d6c1e1c6f903",
+   "nonvideo_sha256": "4f139b544872eb07d9415fc42f7ef919ca04000986c476855fbc266e5c1bbaa3"
+  },
+  "/MOVIE1/MOVIE016.PSS": {
+   "status": "translated",
+   "sha256": "dee9ab219bfb9ccfd27982abc7466f109161d7bd232302edf4367c43a3ed9faf",
+   "nonvideo_sha256": "bb5cb7ada134207f95c5a977dfa97c5ce8efb5f68dc0af1cd6eb8399f02fd6fc"
+  },
+  "/MOVIE1/MOVIE017.PSS": {
+   "status": "translated",
+   "sha256": "d82a4dbd1ef96a8f7bf9ef7355b166bc66affdedb4853950670397b74fabf2bb",
+   "nonvideo_sha256": "b94ffc8f814d35ab2588064618f5b6826750134247d1ea1e3a0775f4c9c1110a"
+  },
+  "/MOVIE1/MOVIE018.PSS": {
+   "status": "translated",
+   "sha256": "6fa31653941905f303abff3f6dffbf47437294068cec100562e4c87c146d4d14",
+   "nonvideo_sha256": "4836d622251c7229efedebbbeff2431e3ed3907d7351012add8bc9097c634be2"
+  },
+  "/MOVIE1/MOVIE019.PSS": {
+   "status": "translated",
+   "sha256": "cef617d9fa1512fb676908775e0da894ae5e00515d464dddf3077ec4a0b89fe5",
+   "nonvideo_sha256": "7920afb30110934b271a7d58cbf7be19ebc95adfd450df795f1ed6c94680151a"
+  },
+  "/MOVIE1/MOVIE020.PSS": {
+   "status": "translated",
+   "sha256": "6f2d4b1d55a3cc4c7dfca6a3579ae93a9563a977d5ebcbb435fbcf6b53e1f010",
+   "nonvideo_sha256": "905fc9ab7c5abf6b4d3ab95acc42a2362a0082de95bc0f72dd9fcd8d58e8d82a"
+  },
+  "/MOVIE1/MOVIE021.PSS": {
+   "status": "translated",
+   "sha256": "75d7895423cce405d30d36618d1c3c2e70800977955e771c7354205179a10c88",
+   "nonvideo_sha256": "389644f237d06256d4108d6496b79b013e0905a4b69584a8e12adc64ba94cc62"
+  },
+  "/MOVIE1/MOVIE022.PSS": {
+   "status": "translated",
+   "sha256": "e8cfb8d8c6367ed608c82518a45a9459d080994f2a87d190b3b74cc0c93e11ca",
+   "nonvideo_sha256": "2c3452b36900d2cb41f0b7987e67d4793ab68fdd29835356d2032c41ae4d7b1f"
+  }
+ }
+}
