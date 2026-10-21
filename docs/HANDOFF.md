@@ -6,13 +6,17 @@ request**, releases must work with Retro Trans Tools). The user explicitly reque
 release 0.1.17 on 2026-10-15, using `binhlt0402` in `retro-trans`. Repository: https://github.com/retro-trans/ACE.
 Packaging and publication instructions are in `docs/RELEASING.md`.
 
-## Release 0.1.26 authorization (2026-10-21)
+## Release 0.1.26 (2026-10-21)
 
-The user explicitly requested a release of the current build. Package and publish **0.1.26**, retaining
+The user explicitly requested a release of the current build. Published **0.1.26**, retaining
 lyrics and all 22 restored story movies. The discussion of "upstairs" only explained the idiom; that dialogue
 was not edited and is unchanged in this build. Release notes: `docs/releases/RELEASE_NOTES_0.1.26.md`.
-Packaging/publication are in progress. Preserve the documented distinction between automated checks and
-outstanding gameplay verification, especially the expanded 4x HUD font allocation.
+Release: https://github.com/retro-trans/ACE/releases/tag/v0.1.26. Packaging passed the full encode/decode
+round trip and candidate Retro Trans routing checks. All four uploaded sizes and SHA-256 digests match.
+Retro Trans catalog refresh run: `39595847574` succeeded. Public Latest and explicit-version routing select
+0.1.26; current-image no-op and unknown-image rejection passed. Publication evidence is under
+`docs/releases/0.1.26/`. Preserve the documented distinction between automated checks and outstanding
+gameplay verification, especially the expanded 4x HUD font allocation.
 
 ## Launch information panels (2026-10-21)
 
@@ -28,7 +32,8 @@ Completed ISO: `work/output/ACE-EN-0.1.26.iso`, 3,357,147,136 bytes, SHA-256
 Final comparison passed: three launch texture copies (standalone, MenuCampaign, MenuFree) and three title
 version copies match; all other resources and disc files, including movies/audio and the carrier fix, match
 0.1.25. Japanese-table inventory: 0 tables, 0 rows. Evidence: `work/ui/launch-panel-0.1.26/verification.json`.
-In-game confirmation remains necessary. No release was requested. See `docs/launch_panel_0.1.26.md`.
+In-game confirmation remains necessary. Release was subsequently requested; see the release section above.
+See `docs/launch_panel_0.1.26.md`.
 
 ## Carrier information panel (2026-10-21)
 

@@ -1,10 +1,14 @@
 # Changelog
 
-## 0.1.26 - 2026-10-21 (local test build, not released)
+## 0.1.26 - 2026-10-21 (released)
 
 Output: `work/output/ACE-EN-0.1.26.iso` (3,357,147,136 bytes), SHA-256
 `95b7fafe2b4c5ddbfbd276f1322cb4cc08479891af0b714db3520b481472244c`.
 
+- Published as `v0.1.26` with explicit user authorization. Includes opening/ending lyrics and all 22 restored
+  story movies. Full patch round trip passed; all four uploaded asset sizes and SHA-256 digests match.
+  Release: https://github.com/retro-trans/ACE/releases/tag/v0.1.26. Evidence: `docs/releases/0.1.26/`.
+- Retro Trans catalog refresh succeeded; public Latest and explicit 0.1.26 routes select the verified patch.
 - Fixes the repeated fragment beside `Resources` and stretched line after `Repair Eff.` on Launch Setting.
   Both headings now fit inside the fixed texture area in the launch and unit setup layouts.
 - Preserves the complete wording, percentage symbol and other atlas labels. Retains the carrier-panel fix,
