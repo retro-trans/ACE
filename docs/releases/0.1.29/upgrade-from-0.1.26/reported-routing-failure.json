@@ -1,0 +1,15 @@
+{
+  "source_version": "0.1.26",
+  "target_version": "0.1.29",
+  "before": [
+    {
+      "selection": "Latest",
+      "target": "0.1.26",
+      "patch_count": 0
+    },
+    {
+      "selection": "0.1.29",
+      "error": "No compatible path to this version. Select its required source or the original binary."
+    }
+  ]
+}

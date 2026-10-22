@@ -2,13 +2,14 @@ English fan translation of **Another Century's Episode** for PS2 (**Japan, SLPS-
 
 ### Apply
 
-**Recommended:** Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools). Click **Refresh catalog**, open **Automatic**, select your original Japanese ISO, choose **English** and **0.1.29** (or **Latest**), and select a new output filename.
+**Recommended:** Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools). Click **Refresh catalog**, open **Automatic**, select your original Japanese ISO or public **0.1.26 English ISO**, choose **English** and **0.1.29** (or **Latest**), and select a new output filename.
 
 **Manual patching:** Use [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher) or xdelta3:
 
 | Source image | Patch |
 | --- | --- |
 | Original Japanese SLPS-25394 ISO | `ACE-English-0.1.29.xdelta` |
+| Public 0.1.26 English ISO | `ACE-English-0.1.26-to-0.1.29.xdelta` |
 
 ```text
 xdelta3 -d -s "Another Century's Episode (Japan).iso" ACE-English-0.1.29.xdelta "ACE English 0.1.29.iso"
@@ -18,7 +19,9 @@ Original image: **3,357,147,136 bytes**, SHA-256 `7ea891fddbbc3f560330e7c8ecc74e
 
 Release output: **3,357,147,136 bytes**, SHA-256 `02ad1831f30daf61348b24cdeb176e1be3bee019cfad7fefcac7a846844f7f6f`.
 
-This is a full patch from the original Japanese disc. When upgrading, apply it to your original ISO again; earlier English images are not patch inputs. Retro Trans handles supported DVD CHD extraction; manual patchers require the unpacked ISO.
+The upgrade patch accepts the public 0.1.26 English ISO: **3,357,147,136 bytes**, SHA-256 `95b7fafe2b4c5ddbfbd276f1322cb4cc08479891af0b714db3520b481472244c`. It produces exactly the same 0.1.29 output as the full patch. Other English versions and local test builds require the full patch applied to the original Japanese ISO. Retro Trans handles supported DVD CHD extraction; manual patchers require the unpacked ISO.
+
+The 0.1.26 upgrade route was added after the initial publication to correct missing Automatic upgrade support. Existing full-patch bytes and the 0.1.29 game image are unchanged.
 
 `BUILD-MANIFEST.json` records the exact source, output and patch identities. `VALIDATION.json` records the full patch round trip, and `SHA256SUMS.txt` covers the downloads.
 

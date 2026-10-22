@@ -1,0 +1,26 @@
+{
+  "game_id": "ace",
+  "game_name": "Another Century's Episode",
+  "platform": "PS2",
+  "version": "0.1.29",
+  "source_commit": "009da80a6b7c18f71ec0da922cf9041ff9c9570d",
+  "schema_version": 1,
+  "patches": [
+    {
+      "patch": "ACE-English-0.1.29.xdelta",
+      "edition": "English",
+      "language": "en",
+      "source_version": "original",
+      "source_format": "iso",
+      "target_format": "iso",
+      "source_sha256": "7ea891fddbbc3f560330e7c8ecc74e36d2f1137cd1907abf0af3158171b3e3e9",
+      "source_bytes": 3357147136,
+      "target_sha256": "02ad1831f30daf61348b24cdeb176e1be3bee019cfad7fefcac7a846844f7f6f",
+      "target_bytes": 3357147136,
+      "patch_sha256": "5f8170cba51dba21ee89218394cc14edf38f7b77bee7333804c2581c2ab65a5f",
+      "patch_bytes": 890566619,
+      "source_sha1": "ad45ab6db4d1a391a5c391ce14bc40f2e2cdf524",
+      "target_sha1": "f5ba839f314d4e0905d215e0c49ac732d9f5a7d4"
+    }
+  ]
+}

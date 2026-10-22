@@ -2,8 +2,18 @@
 
 ## 0.1.29 - 2026-10-22
 
+Release packaging repair: adds `ACE-English-0.1.26-to-0.1.29.xdelta` so an existing
+public 0.1.26 image can upgrade directly through Retro Trans. The initial release
+provided only an original-disc patch, causing Latest to remain on 0.1.26.
+The game image and original-disc patch remain unchanged. The 92,975,382-byte
+upgrade passed a full round-trip check and public Latest/explicit/Next version route checks.
+Catalog refresh run `39703037475` succeeded; all five uploaded assets passed size/hash checks.
+`tools/add_release_upgrade.py` builds the additional route; future releases must
+include and check an upgrade from the previous public version. Initial release
+metadata is preserved under `docs/releases/0.1.29/initial-publication/`.
+
 Published: https://github.com/retro-trans/ACE/releases/tag/v0.1.29.
-The patch passed a full decode and output checksum comparison. All four uploaded
+The patch passed a full decode and output checksum comparison. Uploaded
 assets match the local verified package; release evidence is in `docs/releases/0.1.29/`.
 Retro Trans catalog refresh and public Latest/explicit-version routing checks passed.
 

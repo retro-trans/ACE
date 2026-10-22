@@ -21,6 +21,22 @@
       "patch_bytes": 890566619,
       "source_sha1": "ad45ab6db4d1a391a5c391ce14bc40f2e2cdf524",
       "target_sha1": "f5ba839f314d4e0905d215e0c49ac732d9f5a7d4"
+    },
+    {
+      "patch": "ACE-English-0.1.26-to-0.1.29.xdelta",
+      "edition": "English",
+      "language": "en",
+      "source_version": "0.1.26",
+      "source_format": "iso",
+      "target_format": "iso",
+      "source_sha256": "95b7fafe2b4c5ddbfbd276f1322cb4cc08479891af0b714db3520b481472244c",
+      "source_bytes": 3357147136,
+      "target_sha256": "02ad1831f30daf61348b24cdeb176e1be3bee019cfad7fefcac7a846844f7f6f",
+      "target_bytes": 3357147136,
+      "patch_sha256": "97bdee506d7368b0adee01e2fefd0fc92cb065398eca4435c03f251f537afbf3",
+      "patch_bytes": 92975382,
+      "source_sha1": "d0e2cebd8ff38b2f9941236c57439d2522406d54",
+      "target_sha1": "f5ba839f314d4e0905d215e0c49ac732d9f5a7d4"
     }
   ]
 }

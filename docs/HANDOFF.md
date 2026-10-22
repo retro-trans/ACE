@@ -8,11 +8,29 @@ Packaging and publication instructions are in `docs/RELEASING.md`.
 
 ## Shared 4x fonts: released 0.1.29 (2026-10-22)
 
+Upgrade repair (2026-10-22): the initial release only included an original-disc
+patch, so Retro Trans Latest stayed on 0.1.26 and explicit 0.1.29 had no path.
+The user's report authorized repairing this existing release. Added
+`ACE-English-0.1.26-to-0.1.29.xdelta` (92,975,382 bytes), fully round-tripped from
+the published 0.1.26 ISO to the identical published 0.1.29 output. Both patch
+entries preserve the published game identities; the original full-patch asset
+ID, URL, bytes and checksum remain unchanged. The package now has five assets.
+Augmented local package: `work/output/release-0.1.29-upgrade-from-0.1.26/`.
+Initial metadata/checks: `docs/releases/0.1.29/initial-publication/`; repair
+evidence: `docs/releases/0.1.29/upgrade-from-0.1.26/`. Use
+`tools/add_release_upgrade.py` and `verify_release_routes.py --upgrade-from`
+for future release upgrades. Canonical metadata under `docs/releases/0.1.29/`
+now describes both routes.
+Catalog refresh run `39703037475` succeeded. Public catalog checks confirm
+Latest, explicit 0.1.29 and Next version only all upgrade 0.1.26 directly to
+0.1.29; the original-disc routes, current-image no-op and unknown-image rejection
+also pass. The user should click Refresh catalog and reselect the 0.1.26 ISO.
+
 Published: https://github.com/retro-trans/ACE/releases/tag/v0.1.29.
 Source commit: `009da80a6b7c18f71ec0da922cf9041ff9c9570d`; release metadata commit:
-`e4d6bf2`. The four-asset package passed a full round trip and uploaded size/SHA-256
+`e4d6bf2`. The initial four-asset package passed a full round trip and uploaded size/SHA-256
 checks. Canonical package and validation evidence: `docs/releases/0.1.29/`.
-Retro Trans catalog refresh run `39665115701` succeeded. The public catalog routes
+Initial Retro Trans catalog refresh run `39665115701` succeeded. The public catalog routes
 both Latest and explicit 0.1.29 from the original Japanese ISO to this release;
 already-current images are a no-op and unknown images are rejected. Reports:
 `catalog-workflow.json`, `public-routes.json`, and `uploaded-assets.json` in that folder.

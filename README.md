@@ -7,7 +7,7 @@ English fan translation of **Another Century's Episode** for PlayStation 2 (**Ja
 Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools) for automatic patching:
 
 1. Update Retro Trans, click **Refresh catalog**, and open **Automatic**.
-2. Select your original Japanese ISO, then **Another Century's Episode**, **English**.
+2. Select your original Japanese ISO or your public **0.1.26 English ISO**, then **Another Century's Episode**, **English**.
 3. Leave Target on **Latest**, choose a new output filename, and apply the patch. The app downloads the matching patch and verifies the result.
 
 See [Releases](https://github.com/retro-trans/ACE/releases) for changes, checksums and known limitations. **Boot the patched image fresh and load a normal memory-card save.** Older save states can restore old text and layout data.
@@ -26,7 +26,9 @@ For manual patching:
 
 4. Verify the output: **3,357,147,136 bytes**, SHA-256 `02ad1831f30daf61348b24cdeb176e1be3bee019cfad7fefcac7a846844f7f6f`.
 
-The manifest and validation report accompany every patch. This release requires the original Japanese image; earlier English releases and local test builds are not patch inputs. Apply it to your original disc image again when upgrading.
+To upgrade an existing **0.1.26 English ISO**, refresh the Retro Trans catalog and choose **Latest** or **0.1.29**. For manual upgrading, use `ACE-English-0.1.26-to-0.1.29.xdelta` with that ISO. Its required source SHA-256 is `95b7fafe2b4c5ddbfbd276f1322cb4cc08479891af0b714db3520b481472244c` (3,357,147,136 bytes). Both routes produce the same verified 0.1.29 image.
+
+The manifest and validation report accompany every patch. Other English versions and local test builds are not direct patch inputs; use the original Japanese disc image for those.
 
 ## Included in 0.1.29
 

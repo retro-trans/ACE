@@ -1,11 +1,25 @@
 {
   "assets": [
     {
+      "apiUrl": "https://api.github.com/repos/retro-trans/ACE/releases/assets/664261091",
+      "contentType": "application/octet-stream",
+      "createdAt": "2026-10-22T00:58:30Z",
+      "digest": "sha256:97bdee506d7368b0adee01e2fefd0fc92cb065398eca4435c03f251f537afbf3",
+      "downloadCount": 0,
+      "id": "RA_kwDOVJuZ584nl9Hj",
+      "label": "",
+      "name": "ACE-English-0.1.26-to-0.1.29.xdelta",
+      "size": 92975382,
+      "state": "uploaded",
+      "updatedAt": "2026-10-22T00:58:37Z",
+      "url": "https://github.com/retro-trans/ACE/releases/download/v0.1.29/ACE-English-0.1.26-to-0.1.29.xdelta"
+    },
+    {
       "apiUrl": "https://api.github.com/repos/retro-trans/ACE/releases/assets/663608589",
       "contentType": "application/octet-stream",
       "createdAt": "2026-10-21T19:48:05Z",
       "digest": "sha256:5f8170cba51dba21ee89218394cc14edf38f7b77bee7333804c2581c2ab65a5f",
-      "downloadCount": 0,
+      "downloadCount": 7,
       "id": "RA_kwDOVJuZ584njd0N",
       "label": "",
       "name": "ACE-English-0.1.29.xdelta",
@@ -15,45 +29,45 @@
       "url": "https://github.com/retro-trans/ACE/releases/download/v0.1.29/ACE-English-0.1.29.xdelta"
     },
     {
-      "apiUrl": "https://api.github.com/repos/retro-trans/ACE/releases/assets/663613213",
+      "apiUrl": "https://api.github.com/repos/retro-trans/ACE/releases/assets/664262119",
       "contentType": "application/json",
-      "createdAt": "2026-10-21T19:49:54Z",
-      "digest": "sha256:fdf16cd626eccfb9c8346c3b0765be4a3d75f6d54127761493bbc704450e01df",
+      "createdAt": "2026-10-22T00:59:04Z",
+      "digest": "sha256:948ff9fac7ab290026bbda6ab6ad2a4c26f905e8b3e20a958a2c353468bcd2f3",
       "downloadCount": 0,
-      "id": "RA_kwDOVJuZ584nje8d",
+      "id": "RA_kwDOVJuZ584nl9Xn",
       "label": "",
       "name": "BUILD-MANIFEST.json",
-      "size": 922,
+      "size": 1635,
       "state": "uploaded",
-      "updatedAt": "2026-10-21T19:49:54Z",
+      "updatedAt": "2026-10-22T00:59:04Z",
       "url": "https://github.com/retro-trans/ACE/releases/download/v0.1.29/BUILD-MANIFEST.json"
     },
     {
-      "apiUrl": "https://api.github.com/repos/retro-trans/ACE/releases/assets/663608588",
+      "apiUrl": "https://api.github.com/repos/retro-trans/ACE/releases/assets/664261703",
       "contentType": "text/plain; charset=utf-8",
-      "createdAt": "2026-10-21T19:48:05Z",
-      "digest": "sha256:b0a67c0d2ab1572e8b3bc568d92a47a836b28fd391ef5ce795f2dc28e33d735c",
+      "createdAt": "2026-10-22T00:58:52Z",
+      "digest": "sha256:f2e76bc479cf4bc5aa815de149264f1160b18867028b94f19f6ec361c004e72b",
       "downloadCount": 0,
-      "id": "RA_kwDOVJuZ584njd0M",
+      "id": "RA_kwDOVJuZ584nl9RH",
       "label": "",
       "name": "SHA256SUMS.txt",
-      "size": 263,
+      "size": 366,
       "state": "uploaded",
-      "updatedAt": "2026-10-21T19:48:05Z",
+      "updatedAt": "2026-10-22T00:58:52Z",
       "url": "https://github.com/retro-trans/ACE/releases/download/v0.1.29/SHA256SUMS.txt"
     },
     {
-      "apiUrl": "https://api.github.com/repos/retro-trans/ACE/releases/assets/663608587",
+      "apiUrl": "https://api.github.com/repos/retro-trans/ACE/releases/assets/664261698",
       "contentType": "application/json",
-      "createdAt": "2026-10-21T19:48:05Z",
-      "digest": "sha256:bbb025d0671d544c0f6b1f48faaabe33a36387662fcb37e29329ec18849ba9fd",
+      "createdAt": "2026-10-22T00:58:52Z",
+      "digest": "sha256:bb270220999e770ecb2804447d6cf5a21867a8621b4644872401975506a7060f",
       "downloadCount": 0,
-      "id": "RA_kwDOVJuZ584njd0L",
+      "id": "RA_kwDOVJuZ584nl9RC",
       "label": "",
       "name": "VALIDATION.json",
-      "size": 315,
+      "size": 506,
       "state": "uploaded",
-      "updatedAt": "2026-10-21T19:48:05Z",
+      "updatedAt": "2026-10-22T00:58:52Z",
       "url": "https://github.com/retro-trans/ACE/releases/download/v0.1.29/VALIDATION.json"
     }
   ],
@@ -63,5 +77,6 @@
   "publishedAt": "2026-10-21T19:50:18Z",
   "tagName": "v0.1.29",
   "url": "https://github.com/retro-trans/ACE/releases/tag/v0.1.29",
-  "all_assets_verified": true
+  "all_assets_verified": true,
+  "original_patch_asset_unchanged": true
 }
