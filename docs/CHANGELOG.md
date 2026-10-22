@@ -2,6 +2,9 @@
 
 ## 0.1.29 - 2026-10-22
 
+Credits correction: use the project lead's Discord nickname **pow** in the README
+and published release acknowledgements. Game and patch files are unchanged.
+
 Release packaging repair: adds `ACE-English-0.1.26-to-0.1.29.xdelta` so an existing
 public 0.1.26 image can upgrade directly through Retro Trans. The initial release
 provided only an original-disc patch, causing Latest to remain on 0.1.26.

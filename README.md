@@ -75,7 +75,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md), [the handoff](docs/HANDOFF.md), [dialogu
 
 | Role | Contributor |
 | --- | --- |
-| Project lead and initial playtesting | [binhlt0402](https://github.com/binhlt0402) |
+| Project lead and initial playtesting | pow |
 
 Tools build on work from [ACE-3](https://github.com/retro-trans/ACE-3). See [third-party notices](THIRD_PARTY_NOTICES.md).
 

@@ -52,7 +52,7 @@ This is a **machine translation**, produced with large language models and revie
 
 ### Acknowledgements
 
-- **Project lead and playtesting:** [binhlt0402](https://github.com/binhlt0402)
+- **Project lead and playtesting:** pow
 - Tools and release structure build on [ACE-3](https://github.com/retro-trans/ACE-3) and [Retro Trans Tools](https://github.com/retro-trans/retro-trans-tools).
 
 ### Source code

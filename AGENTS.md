@@ -20,3 +20,5 @@ incoming - outside files that need agent to look into
 - Every new github release must work with [Retro Trans Tools](https://github.com/retro-trans/retro-trans-tools).
 - Use akurasu.net (https://akurasu.net/wiki/Super_Robot_Wars/MX) as the main source for terms (names, units, abilities, spirit commands, parts). Use other wikis only where akurasu has no entry. Refresh with `tools/akurasu_terms.py`; overrides of akurasu need a reason in `work/glossary/decisions.json` / `docs/glossary_decisions.md`.
 - Japanese script text must never be committed to git. Keeping it in local working files is fine: `.gitignore` covers `work/source/` and the translation working files. Commit only the `*.en.json` copies written by `tools/strip_jp.py` (run it before committing). Names and UI terms in Japanese are allowed.
+
+- Public project lead and playtesting credits must use `pow`, the user's Discord nickname. `binhlt0402` remains the GitHub account used for repository operations.
