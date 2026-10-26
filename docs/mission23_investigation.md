@@ -1,5 +1,65 @@
 # Mission 23 does not finish (2026-10-22)
 
+## Saved-state finding and 0.1.32 (2026-10-26)
+
+The user's subsequent selection screenshot confirms campaign 39, Mop Up
+Remnants. The new 0.1.31 hang state also contains internal-044 resources.
+Analysis found a concrete operator drawing-buffer overflow: row 69 has 53
+ASCII glyphs, but its allocation holds only 50. It overwrote 336 bytes of heap
+data and left a malformed GIF packet while the CPU waits for VIF1.
+`docs/dialogue_buffer_0.1.32.md` records addresses, code and numeric evidence.
+
+0.1.32 expands the operator allocation to 128 glyphs, retaining existing text
+limits and all other game content. The earlier 54-byte check was insufficient;
+the passing checks below did not rule out this separate drawing-buffer bug.
+025 also has operator rows beyond the original capacity, so the correction is
+relevant to the original report. Neither mission's completion has been verified.
+The earlier Jeril screenshot still does not match the latest 044 evidence;
+no state from that post-retreat stall is available. Do not dismiss the user's
+confirmed selection or assert a mission-event fix without a replay.
+
+## Follow-up: Jeril retreat on 0.1.30 (2026-10-26)
+
+pow reported an idle enemy who retreats after taking damage, saying
+"Tch, that's enough for today!", followed by no further spawns/completion.
+The user identified the mission as campaign 39, Southern Arabian Peninsula:
+Mop Up Remnants, and confirmed version 0.1.30. Fresh-boot versus save-state
+loading was not established for this report.
+
+The exact screenshot line occurs only in internal mission **025**, row **27**
+(campaign 23, Investigate Enemy Base). The screenshot displays speaker Jeril.
+Internal mission **044** (campaign 39) has no such line and its objectives name
+Zakaal. The subsequent title screenshot confirms campaign 39; the newer hang
+state also confirms internal 044. The earlier screenshot mismatch is unresolved.
+
+Checks against the actual 0.1.30 ISO:
+
+- Internal 025: all 70 translated rows match the working translation, row IDs
+  and control tokens match the original, and existing layout checks pass.
+- Internal 044: the same checks pass for all 105 rows.
+- 556 resources match the original byte for byte: all 550 common AI logic
+  resources plus the map SRC/CSC and enemy bundle for each candidate mission.
+- Row 27 is 29 visible bytes, including neither a line break nor a changed
+  control sequence. Earlier dialogue could still affect runtime state; the
+  static checks do not establish a cause or exclude an undiscovered limit.
+
+Evidence: `work/ui/mission23/retreat-0.1.30-audit.json`. Read-only extracts and
+disassembly are in ignored `work/source/mission-stall/`. The existing submitted
+memory card remains unchanged; no new save was present in `incoming`.
+
+No mission fix or new diagnostic ISO was produced for this follow-up. 0.1.31
+only corrects HUD font refreshing and is not a confirmed mission-stall fix.
+Next useful evidence is a PCSX2 save state captured while the mission is stuck,
+so the message/event state can be inspected without desktop control. The prior
+0.1.27 Japanese-dialogue diagnostic is based on 0.1.26; do not blindly restore
+Japanese text into the newer Japanese-free font builds.
+
+Reference cross-checks: [mission 23 walkthrough](https://www.gramxs.com/ace/mission23.html),
+[mission 39 walkthrough](https://www.gramxs.com/ace/mission39.html), and
+[Akurasu flow chart](https://akurasu.net/wiki/Another_Century%27s_Episode/Flow_Chart).
+
+## Original report and investigation
+
 The reported player defeated all enemies but the mission did not end on the latest
 public build, **0.1.26**. The supplied file is `incoming/ace_mission23.ps2`.
 The cause is **not confirmed**. No gameplay reproduction or fix is claimed.

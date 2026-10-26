@@ -113,6 +113,8 @@ def patch_elf(elf, report):
         require(len(enc) < slot, 'ELF string %r does not fit its %d-byte slot' % (new, slot))
         out[o:o + slot] = enc + bytes(slot - len(enc))
     report['elf_strings'] = [new for _, _, new in ELF_STRINGS]
+    from dialogue_buffer import patch as patch_dialogue_buffer
+    patch_dialogue_buffer(out, report)
     if report.get('shared_ingame_font'):
         # Resource 50051's fixed GS base, read by EE 0x1c45d0 from this table.
         # Both font textures now contain the identical shared atlas. Keep their

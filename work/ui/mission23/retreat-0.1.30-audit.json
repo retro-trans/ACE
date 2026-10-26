@@ -1,0 +1,64 @@
+{
+  "version": "0.1.30",
+  "reported_campaign_mission": 39,
+  "screenshot_matching_campaign_mission": 23,
+  "screenshot_internal_mission": "025",
+  "screenshot_row": 27,
+  "root_cause_confirmed": false,
+  "missions": [
+    {
+      "internal_mission": "025",
+      "rows_checked": 70,
+      "control_tokens_preserved": true,
+      "build_matches_sources": true,
+      "layout_problems": [],
+      "retreat_line_matches": [
+        27
+      ]
+    },
+    {
+      "internal_mission": "044",
+      "rows_checked": 105,
+      "control_tokens_preserved": true,
+      "build_matches_sources": true,
+      "layout_problems": [],
+      "retreat_line_matches": []
+    }
+  ],
+  "logic_comparison": {
+    "baseline": "0.1.30",
+    "logic_resources_identical": 556,
+    "mission_resources": [
+      {
+        "name": "\\target\\map\\map025.src",
+        "size": 2678224,
+        "header": "50524d00f01a00000000000000000000000000000000000000000000000000000000008000000080"
+      },
+      {
+        "name": "\\target\\map\\map044.src",
+        "size": 2765952,
+        "header": "50524d00f01a00000000000000000000000000000000000000000000000000000000008000000080"
+      },
+      {
+        "name": "\\target\\map\\map025.csc",
+        "size": 1469136,
+        "header": "000100000028ddd0000000008050524d00f01a00006fed006b80020a02833f030902ef006f5704af"
+      },
+      {
+        "name": "\\target\\map\\map044.csc",
+        "size": 1520928,
+        "header": "00010000002a3480000000008050524d00f01a00006fed006b80020a02833f030902ef006f9704af"
+      },
+      {
+        "name": "\\target\\map\\m025\\ene\\EnemyList.bnd",
+        "size": 238544,
+        "header": "424e4400d0a303000300000000000000000000004000000001000000e0ef000002000000c0f10000"
+      },
+      {
+        "name": "\\target\\map\\m044\\ene\\EnemyList.bnd",
+        "size": 741648,
+        "header": "424e440010510b000400000000000000000000004000000001000000c0a900000200000080ac0000"
+      }
+    ]
+  }
+}

@@ -135,6 +135,9 @@ def verify(iso, version):
                     at = file_offset(address)
                     require(u32(aa, at) == instruction and u32(bb, at) == 0, 'Wrong HUD frame refresh gate')
                     struct.pack_into('<I', allowed, at, 0)
+                from dialogue_buffer import patch as patch_dialogue_buffer, verify as verify_dialogue_buffer
+                patch_dialogue_buffer(allowed, {})
+                report['operator_drawing_buffer'] = verify_dialogue_buffer(bb)
                 require(bb == allowed, 'Unrelated executable change')
                 report['hud_upload_transfers'] = check_calls(bb, expected['Fe1p.bnd'][50051])
                 report['hud_frame_refresh'] = check_refresh(bb, expected['Fe1p.bnd'][50050])

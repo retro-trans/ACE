@@ -27,12 +27,15 @@ from vwf_font import add_english, render
 # 128 fits the 132-byte typing buffer found in the code, but the operator window crashed on a buffer that is not
 # that one, so the radio window is held to what is proven in play (93 bytes, mission 1 row 15; Japanese max 83).
 LINE_WIDTH, MAX_LINES, MAX_BYTES = 400, 2, 93
-# Operator window: a row of 57 visible bytes crashed the game in play (mission 1 row 69, build 0.1.10), 56 bytes
-# played fine and the Japanese never exceeds 52; 54 keeps a margin under the proven size.
+# Historical visual limits, retained to avoid reflowing translations. The earlier
+# 54-byte empirical limit was NOT memory safe: a 0.1.31 saved state proves that
+# 53 ASCII glyphs overrun the separate 50-glyph drawing buffer by 336 bytes.
+# dialogue_buffer.py enlarges that allocation to 128 glyphs in 0.1.32. These
+# layout limits remain stricter than both the drawing and typewriter capacities.
 OP_MAX_BYTES = 54
-# Operator rows with a <cs(n)> speaker colour: the colour code shares the same buffer (about 10 bytes), so the text
-# is held to the Japanese maximum for these rows, 46 bytes. A 53-byte row stalled mission 3's script (row 21,
-# build 0.1.19; found by bisecting with diagnostic builds).
+# Retain the historical 46-byte limit for coloured operator rows. The suspected
+# extra colour-code overhead was not proved; the known 50-glyph drawing limit
+# can also explain the 53-byte mission-3 row-21 stall seen in 0.1.19.
 OP_CS_MAX_BYTES = 46
 # Objective and failure labels (rows 1-9 without tokens) are drawn on the HUD; their buffer is not located, so they
 # are held to the Japanese maximum (28 bytes).

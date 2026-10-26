@@ -6,6 +6,44 @@ request**, releases must work with Retro Trans Tools). The user explicitly reque
 release 0.1.17 on 2026-10-15, using `binhlt0402` in `retro-trans`. Repository: https://github.com/retro-trans/ACE.
 Packaging and publication instructions are in `docs/RELEASING.md`.
 
+## Dialogue drawing overflow: local 0.1.32 (2026-10-26)
+
+pow supplied the mission-selection screenshot confirming campaign 39, Southern
+Arabian Peninsula: Mop Up Remnants, and reported a hang on gaining control in
+0.1.31. Their PCSX2 2.8.2 slot-1 state was copied read-only from the default
+Documents/PCSX2/sstates folder into ignored `work/source/hang-0.1.31/`.
+No desktop/emulator controls were used. The saved EE code confirms 0.1.31;
+loaded voice/model resources identify internal 044 (campaign 39).
+
+Concrete cause found: the operator drawing packet is allocated for **50 glyphs**
+at EE 0x2018dc, but the renderer draws the full typed length. The saved current
+message (044 row 69) has 53 ASCII glyphs. Its widget reserved 5,776 bytes and
+emitted 6,112: a **336-byte heap overrun**. The saved GIF packet contains a
+malformed tag from neighbouring game data, asking for 0x425000 bytes, while the
+CPU waits for VIF1 at 0x13d5f0. The previous empirical 54-byte operator limit
+was not memory safe. This evidence does not identify the frame-refresh change
+as the cause; the 50-glyph allocation was unchanged in older builds too.
+
+0.1.32 changes only that allocation immediate to 128 glyphs (14,512 bytes,
+8,736 extra bytes per widget), besides the title version stamp. Keep the
+existing text/layout limits, 4x fonts, all movies and lyrics. Tools:
+`dialogue_buffer.py`, `verify_dialogue_buffer.py`; evidence under
+`work/ui/dialogue-buffer-0.1.32/`. See `docs/dialogue_buffer_0.1.32.md`.
+Local ISO built: `work/output/ACE-EN-0.1.32.iso` (3,357,147,136 bytes), SHA-256
+`72d807e7b9e8f02f54b2ff3f491ed0fdb60c4cbf15dabdb81a0195217b248f73`.
+Build resource/movie readbacks and disc-layout checks passed. The finished ISO
+passes the saved-state allocation audit and direct 0.1.31 scope comparison:
+only EE 0x2018dc and three title stamps change; all other resources/files,
+including every movie, match. No release requested. A fresh boot and normal
+memory-card load are needed for the runtime retest: the hanging state retains
+old allocation sizes and already damaged heap data.
+
+The earlier 0.1.30 Jeril screenshot's exact line still maps to 025, unlike the
+new menu/state evidence for 044. Do not dismiss the user's mission number.
+The overflow also affects over-50-glyph operator rows in 025 and may explain
+its stalls, but no saved state of the earlier post-retreat stall was supplied.
+Mission completion remains unverified; do not claim both stalls solved.
+
 ## HUD frame refresh: local 0.1.31 (2026-10-26)
 
 pow confirmed the warning banners remain scrambled after a fresh boot of
@@ -117,6 +155,17 @@ on-disc hashes match and original packet positions/audio/nonvideo bytes are unch
 Final reports are `work/output/ACE-EN-0.1.28.movies.verify.json` and `.restore.verify.json`.
 
 ## Mission 23 investigation (2026-10-22)
+
+Follow-up 2026-10-26: pow reports an idle Jeril retreating with "Tch, that's
+enough for today!" on **0.1.30**, then no spawns/completion. They called it
+mission 39, but the exact line is internal 025 row 27 (campaign 23); internal
+044/campaign 39 has no matching line and names Zakaal. The subsequent selection
+screenshot and 0.1.31 saved state confirm 044; the earlier screenshot mismatch
+remains unexplained. Actual 0.1.30 checks pass for all 70/105 rows in 025/044, and 556
+logic/map/enemy resources match the original. Those checks missed the drawing
+buffer overflow now proved by the 0.1.31 hang state (see above). Completion after
+the earlier retreat is still unverified. See `docs/mission23_investigation.md` and
+`work/ui/mission23/retreat-0.1.30-audit.json`. Existing incoming card unchanged.
 
 The latest-public 0.1.26 player reported all enemies defeated but no mission end.
 Save: `incoming/ace_mission23.ps2`; campaign mission 23 maps to internal **025**, not 023.

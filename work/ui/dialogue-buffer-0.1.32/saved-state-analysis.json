@@ -1,0 +1,1383 @@
+{
+  "glyph_capacity": 128,
+  "allocated_bytes": 14512,
+  "reported_53_glyph_bytes": 6112,
+  "original_overflow_bytes": 336,
+  "runtime_verified": false,
+  "rows_checked": 3235,
+  "maximum_visible_bytes": 93,
+  "operator_rows_over_original_capacity": [
+    {
+      "mission": "001",
+      "row": 18,
+      "bytes": 52
+    },
+    {
+      "mission": "001",
+      "row": 20,
+      "bytes": 53
+    },
+    {
+      "mission": "001",
+      "row": 30,
+      "bytes": 52
+    },
+    {
+      "mission": "001",
+      "row": 42,
+      "bytes": 53
+    },
+    {
+      "mission": "001",
+      "row": 43,
+      "bytes": 52
+    },
+    {
+      "mission": "001",
+      "row": 46,
+      "bytes": 51
+    },
+    {
+      "mission": "001",
+      "row": 58,
+      "bytes": 51
+    },
+    {
+      "mission": "001",
+      "row": 61,
+      "bytes": 52
+    },
+    {
+      "mission": "001",
+      "row": 62,
+      "bytes": 53
+    },
+    {
+      "mission": "001",
+      "row": 63,
+      "bytes": 53
+    },
+    {
+      "mission": "001",
+      "row": 73,
+      "bytes": 52
+    },
+    {
+      "mission": "001",
+      "row": 78,
+      "bytes": 53
+    },
+    {
+      "mission": "001",
+      "row": 80,
+      "bytes": 52
+    },
+    {
+      "mission": "002",
+      "row": 14,
+      "bytes": 52
+    },
+    {
+      "mission": "002",
+      "row": 21,
+      "bytes": 52
+    },
+    {
+      "mission": "002",
+      "row": 27,
+      "bytes": 52
+    },
+    {
+      "mission": "003",
+      "row": 12,
+      "bytes": 54
+    },
+    {
+      "mission": "003",
+      "row": 28,
+      "bytes": 52
+    },
+    {
+      "mission": "003",
+      "row": 49,
+      "bytes": 52
+    },
+    {
+      "mission": "004",
+      "row": 52,
+      "bytes": 53
+    },
+    {
+      "mission": "004",
+      "row": 58,
+      "bytes": 51
+    },
+    {
+      "mission": "004",
+      "row": 59,
+      "bytes": 51
+    },
+    {
+      "mission": "005",
+      "row": 21,
+      "bytes": 53
+    },
+    {
+      "mission": "005",
+      "row": 32,
+      "bytes": 52
+    },
+    {
+      "mission": "005",
+      "row": 34,
+      "bytes": 51
+    },
+    {
+      "mission": "005",
+      "row": 50,
+      "bytes": 53
+    },
+    {
+      "mission": "005",
+      "row": 51,
+      "bytes": 54
+    },
+    {
+      "mission": "005",
+      "row": 52,
+      "bytes": 53
+    },
+    {
+      "mission": "005",
+      "row": 53,
+      "bytes": 52
+    },
+    {
+      "mission": "005",
+      "row": 55,
+      "bytes": 52
+    },
+    {
+      "mission": "005",
+      "row": 57,
+      "bytes": 53
+    },
+    {
+      "mission": "005",
+      "row": 58,
+      "bytes": 53
+    },
+    {
+      "mission": "005",
+      "row": 59,
+      "bytes": 53
+    },
+    {
+      "mission": "005",
+      "row": 75,
+      "bytes": 51
+    },
+    {
+      "mission": "006",
+      "row": 14,
+      "bytes": 54
+    },
+    {
+      "mission": "006",
+      "row": 16,
+      "bytes": 53
+    },
+    {
+      "mission": "006",
+      "row": 18,
+      "bytes": 53
+    },
+    {
+      "mission": "006",
+      "row": 60,
+      "bytes": 51
+    },
+    {
+      "mission": "006",
+      "row": 62,
+      "bytes": 51
+    },
+    {
+      "mission": "006",
+      "row": 65,
+      "bytes": 53
+    },
+    {
+      "mission": "006",
+      "row": 67,
+      "bytes": 54
+    },
+    {
+      "mission": "006",
+      "row": 70,
+      "bytes": 51
+    },
+    {
+      "mission": "006",
+      "row": 72,
+      "bytes": 52
+    },
+    {
+      "mission": "006",
+      "row": 79,
+      "bytes": 54
+    },
+    {
+      "mission": "007",
+      "row": 22,
+      "bytes": 53
+    },
+    {
+      "mission": "007",
+      "row": 70,
+      "bytes": 51
+    },
+    {
+      "mission": "008",
+      "row": 72,
+      "bytes": 51
+    },
+    {
+      "mission": "008",
+      "row": 78,
+      "bytes": 54
+    },
+    {
+      "mission": "008",
+      "row": 90,
+      "bytes": 51
+    },
+    {
+      "mission": "008",
+      "row": 92,
+      "bytes": 51
+    },
+    {
+      "mission": "008",
+      "row": 93,
+      "bytes": 52
+    },
+    {
+      "mission": "008",
+      "row": 94,
+      "bytes": 53
+    },
+    {
+      "mission": "008",
+      "row": 95,
+      "bytes": 52
+    },
+    {
+      "mission": "008",
+      "row": 97,
+      "bytes": 54
+    },
+    {
+      "mission": "008",
+      "row": 99,
+      "bytes": 51
+    },
+    {
+      "mission": "009",
+      "row": 15,
+      "bytes": 53
+    },
+    {
+      "mission": "009",
+      "row": 109,
+      "bytes": 54
+    },
+    {
+      "mission": "009",
+      "row": 116,
+      "bytes": 51
+    },
+    {
+      "mission": "010",
+      "row": 11,
+      "bytes": 53
+    },
+    {
+      "mission": "010",
+      "row": 17,
+      "bytes": 51
+    },
+    {
+      "mission": "010",
+      "row": 22,
+      "bytes": 52
+    },
+    {
+      "mission": "010",
+      "row": 70,
+      "bytes": 52
+    },
+    {
+      "mission": "010",
+      "row": 87,
+      "bytes": 54
+    },
+    {
+      "mission": "010",
+      "row": 88,
+      "bytes": 52
+    },
+    {
+      "mission": "010",
+      "row": 95,
+      "bytes": 51
+    },
+    {
+      "mission": "010",
+      "row": 99,
+      "bytes": 53
+    },
+    {
+      "mission": "012",
+      "row": 32,
+      "bytes": 51
+    },
+    {
+      "mission": "012",
+      "row": 81,
+      "bytes": 51
+    },
+    {
+      "mission": "012",
+      "row": 100,
+      "bytes": 51
+    },
+    {
+      "mission": "014",
+      "row": 42,
+      "bytes": 54
+    },
+    {
+      "mission": "015",
+      "row": 37,
+      "bytes": 53
+    },
+    {
+      "mission": "015",
+      "row": 74,
+      "bytes": 54
+    },
+    {
+      "mission": "015",
+      "row": 93,
+      "bytes": 52
+    },
+    {
+      "mission": "015",
+      "row": 98,
+      "bytes": 53
+    },
+    {
+      "mission": "015",
+      "row": 100,
+      "bytes": 53
+    },
+    {
+      "mission": "016",
+      "row": 13,
+      "bytes": 52
+    },
+    {
+      "mission": "016",
+      "row": 14,
+      "bytes": 53
+    },
+    {
+      "mission": "016",
+      "row": 15,
+      "bytes": 52
+    },
+    {
+      "mission": "016",
+      "row": 17,
+      "bytes": 52
+    },
+    {
+      "mission": "016",
+      "row": 30,
+      "bytes": 53
+    },
+    {
+      "mission": "016",
+      "row": 40,
+      "bytes": 51
+    },
+    {
+      "mission": "016",
+      "row": 43,
+      "bytes": 51
+    },
+    {
+      "mission": "016",
+      "row": 45,
+      "bytes": 53
+    },
+    {
+      "mission": "016",
+      "row": 47,
+      "bytes": 52
+    },
+    {
+      "mission": "016",
+      "row": 49,
+      "bytes": 54
+    },
+    {
+      "mission": "017",
+      "row": 11,
+      "bytes": 52
+    },
+    {
+      "mission": "017",
+      "row": 12,
+      "bytes": 53
+    },
+    {
+      "mission": "017",
+      "row": 14,
+      "bytes": 53
+    },
+    {
+      "mission": "017",
+      "row": 16,
+      "bytes": 52
+    },
+    {
+      "mission": "017",
+      "row": 50,
+      "bytes": 51
+    },
+    {
+      "mission": "017",
+      "row": 52,
+      "bytes": 54
+    },
+    {
+      "mission": "017",
+      "row": 53,
+      "bytes": 52
+    },
+    {
+      "mission": "017",
+      "row": 54,
+      "bytes": 51
+    },
+    {
+      "mission": "017",
+      "row": 57,
+      "bytes": 53
+    },
+    {
+      "mission": "019",
+      "row": 15,
+      "bytes": 54
+    },
+    {
+      "mission": "019",
+      "row": 22,
+      "bytes": 53
+    },
+    {
+      "mission": "019",
+      "row": 37,
+      "bytes": 54
+    },
+    {
+      "mission": "020",
+      "row": 14,
+      "bytes": 51
+    },
+    {
+      "mission": "020",
+      "row": 16,
+      "bytes": 51
+    },
+    {
+      "mission": "020",
+      "row": 121,
+      "bytes": 52
+    },
+    {
+      "mission": "020",
+      "row": 125,
+      "bytes": 53
+    },
+    {
+      "mission": "020",
+      "row": 128,
+      "bytes": 52
+    },
+    {
+      "mission": "021",
+      "row": 43,
+      "bytes": 51
+    },
+    {
+      "mission": "021",
+      "row": 62,
+      "bytes": 51
+    },
+    {
+      "mission": "021",
+      "row": 100,
+      "bytes": 53
+    },
+    {
+      "mission": "021",
+      "row": 111,
+      "bytes": 54
+    },
+    {
+      "mission": "021",
+      "row": 112,
+      "bytes": 52
+    },
+    {
+      "mission": "021",
+      "row": 113,
+      "bytes": 54
+    },
+    {
+      "mission": "021",
+      "row": 114,
+      "bytes": 53
+    },
+    {
+      "mission": "021",
+      "row": 115,
+      "bytes": 53
+    },
+    {
+      "mission": "021",
+      "row": 116,
+      "bytes": 53
+    },
+    {
+      "mission": "021",
+      "row": 118,
+      "bytes": 52
+    },
+    {
+      "mission": "021",
+      "row": 119,
+      "bytes": 52
+    },
+    {
+      "mission": "021",
+      "row": 120,
+      "bytes": 53
+    },
+    {
+      "mission": "021",
+      "row": 126,
+      "bytes": 51
+    },
+    {
+      "mission": "022",
+      "row": 21,
+      "bytes": 52
+    },
+    {
+      "mission": "022",
+      "row": 22,
+      "bytes": 53
+    },
+    {
+      "mission": "022",
+      "row": 27,
+      "bytes": 53
+    },
+    {
+      "mission": "022",
+      "row": 30,
+      "bytes": 53
+    },
+    {
+      "mission": "022",
+      "row": 79,
+      "bytes": 52
+    },
+    {
+      "mission": "022",
+      "row": 105,
+      "bytes": 53
+    },
+    {
+      "mission": "022",
+      "row": 111,
+      "bytes": 54
+    },
+    {
+      "mission": "022",
+      "row": 112,
+      "bytes": 52
+    },
+    {
+      "mission": "022",
+      "row": 114,
+      "bytes": 54
+    },
+    {
+      "mission": "022",
+      "row": 116,
+      "bytes": 54
+    },
+    {
+      "mission": "022",
+      "row": 118,
+      "bytes": 54
+    },
+    {
+      "mission": "022",
+      "row": 119,
+      "bytes": 54
+    },
+    {
+      "mission": "022",
+      "row": 120,
+      "bytes": 54
+    },
+    {
+      "mission": "023",
+      "row": 13,
+      "bytes": 54
+    },
+    {
+      "mission": "023",
+      "row": 15,
+      "bytes": 51
+    },
+    {
+      "mission": "023",
+      "row": 38,
+      "bytes": 54
+    },
+    {
+      "mission": "024",
+      "row": 15,
+      "bytes": 53
+    },
+    {
+      "mission": "024",
+      "row": 63,
+      "bytes": 51
+    },
+    {
+      "mission": "024",
+      "row": 67,
+      "bytes": 51
+    },
+    {
+      "mission": "025",
+      "row": 23,
+      "bytes": 53
+    },
+    {
+      "mission": "025",
+      "row": 31,
+      "bytes": 52
+    },
+    {
+      "mission": "025",
+      "row": 50,
+      "bytes": 51
+    },
+    {
+      "mission": "025",
+      "row": 57,
+      "bytes": 51
+    },
+    {
+      "mission": "025",
+      "row": 78,
+      "bytes": 54
+    },
+    {
+      "mission": "026",
+      "row": 11,
+      "bytes": 53
+    },
+    {
+      "mission": "026",
+      "row": 12,
+      "bytes": 52
+    },
+    {
+      "mission": "026",
+      "row": 36,
+      "bytes": 51
+    },
+    {
+      "mission": "027",
+      "row": 22,
+      "bytes": 54
+    },
+    {
+      "mission": "027",
+      "row": 26,
+      "bytes": 52
+    },
+    {
+      "mission": "027",
+      "row": 35,
+      "bytes": 54
+    },
+    {
+      "mission": "027",
+      "row": 60,
+      "bytes": 51
+    },
+    {
+      "mission": "027",
+      "row": 64,
+      "bytes": 52
+    },
+    {
+      "mission": "027",
+      "row": 65,
+      "bytes": 54
+    },
+    {
+      "mission": "027",
+      "row": 66,
+      "bytes": 54
+    },
+    {
+      "mission": "027",
+      "row": 85,
+      "bytes": 51
+    },
+    {
+      "mission": "027",
+      "row": 102,
+      "bytes": 53
+    },
+    {
+      "mission": "028",
+      "row": 13,
+      "bytes": 54
+    },
+    {
+      "mission": "028",
+      "row": 15,
+      "bytes": 53
+    },
+    {
+      "mission": "028",
+      "row": 42,
+      "bytes": 54
+    },
+    {
+      "mission": "028",
+      "row": 44,
+      "bytes": 51
+    },
+    {
+      "mission": "028",
+      "row": 46,
+      "bytes": 52
+    },
+    {
+      "mission": "028",
+      "row": 48,
+      "bytes": 52
+    },
+    {
+      "mission": "028",
+      "row": 49,
+      "bytes": 54
+    },
+    {
+      "mission": "029",
+      "row": 85,
+      "bytes": 53
+    },
+    {
+      "mission": "029",
+      "row": 129,
+      "bytes": 54
+    },
+    {
+      "mission": "030",
+      "row": 14,
+      "bytes": 51
+    },
+    {
+      "mission": "030",
+      "row": 25,
+      "bytes": 53
+    },
+    {
+      "mission": "030",
+      "row": 27,
+      "bytes": 52
+    },
+    {
+      "mission": "030",
+      "row": 41,
+      "bytes": 53
+    },
+    {
+      "mission": "030",
+      "row": 43,
+      "bytes": 53
+    },
+    {
+      "mission": "030",
+      "row": 81,
+      "bytes": 52
+    },
+    {
+      "mission": "031",
+      "row": 21,
+      "bytes": 53
+    },
+    {
+      "mission": "031",
+      "row": 41,
+      "bytes": 51
+    },
+    {
+      "mission": "031",
+      "row": 81,
+      "bytes": 52
+    },
+    {
+      "mission": "031",
+      "row": 83,
+      "bytes": 52
+    },
+    {
+      "mission": "031",
+      "row": 153,
+      "bytes": 54
+    },
+    {
+      "mission": "031",
+      "row": 158,
+      "bytes": 51
+    },
+    {
+      "mission": "032",
+      "row": 12,
+      "bytes": 54
+    },
+    {
+      "mission": "032",
+      "row": 15,
+      "bytes": 53
+    },
+    {
+      "mission": "032",
+      "row": 53,
+      "bytes": 52
+    },
+    {
+      "mission": "032",
+      "row": 62,
+      "bytes": 51
+    },
+    {
+      "mission": "032",
+      "row": 74,
+      "bytes": 51
+    },
+    {
+      "mission": "032",
+      "row": 109,
+      "bytes": 54
+    },
+    {
+      "mission": "034",
+      "row": 10,
+      "bytes": 51
+    },
+    {
+      "mission": "034",
+      "row": 13,
+      "bytes": 53
+    },
+    {
+      "mission": "034",
+      "row": 17,
+      "bytes": 53
+    },
+    {
+      "mission": "034",
+      "row": 20,
+      "bytes": 53
+    },
+    {
+      "mission": "034",
+      "row": 32,
+      "bytes": 53
+    },
+    {
+      "mission": "034",
+      "row": 33,
+      "bytes": 53
+    },
+    {
+      "mission": "034",
+      "row": 51,
+      "bytes": 52
+    },
+    {
+      "mission": "034",
+      "row": 52,
+      "bytes": 54
+    },
+    {
+      "mission": "034",
+      "row": 53,
+      "bytes": 51
+    },
+    {
+      "mission": "034",
+      "row": 54,
+      "bytes": 51
+    },
+    {
+      "mission": "034",
+      "row": 55,
+      "bytes": 54
+    },
+    {
+      "mission": "034",
+      "row": 57,
+      "bytes": 51
+    },
+    {
+      "mission": "034",
+      "row": 59,
+      "bytes": 54
+    },
+    {
+      "mission": "034",
+      "row": 68,
+      "bytes": 54
+    },
+    {
+      "mission": "037",
+      "row": 57,
+      "bytes": 52
+    },
+    {
+      "mission": "037",
+      "row": 63,
+      "bytes": 52
+    },
+    {
+      "mission": "037",
+      "row": 83,
+      "bytes": 51
+    },
+    {
+      "mission": "037",
+      "row": 90,
+      "bytes": 53
+    },
+    {
+      "mission": "037",
+      "row": 119,
+      "bytes": 54
+    },
+    {
+      "mission": "037",
+      "row": 128,
+      "bytes": 51
+    },
+    {
+      "mission": "038",
+      "row": 14,
+      "bytes": 52
+    },
+    {
+      "mission": "039",
+      "row": 71,
+      "bytes": 53
+    },
+    {
+      "mission": "039",
+      "row": 82,
+      "bytes": 51
+    },
+    {
+      "mission": "039",
+      "row": 101,
+      "bytes": 53
+    },
+    {
+      "mission": "039",
+      "row": 102,
+      "bytes": 52
+    },
+    {
+      "mission": "039",
+      "row": 103,
+      "bytes": 52
+    },
+    {
+      "mission": "039",
+      "row": 106,
+      "bytes": 53
+    },
+    {
+      "mission": "039",
+      "row": 108,
+      "bytes": 53
+    },
+    {
+      "mission": "039",
+      "row": 109,
+      "bytes": 51
+    },
+    {
+      "mission": "039",
+      "row": 110,
+      "bytes": 52
+    },
+    {
+      "mission": "039",
+      "row": 119,
+      "bytes": 54
+    },
+    {
+      "mission": "039",
+      "row": 151,
+      "bytes": 53
+    },
+    {
+      "mission": "040",
+      "row": 13,
+      "bytes": 53
+    },
+    {
+      "mission": "040",
+      "row": 14,
+      "bytes": 52
+    },
+    {
+      "mission": "040",
+      "row": 72,
+      "bytes": 54
+    },
+    {
+      "mission": "040",
+      "row": 113,
+      "bytes": 51
+    },
+    {
+      "mission": "040",
+      "row": 118,
+      "bytes": 53
+    },
+    {
+      "mission": "041",
+      "row": 15,
+      "bytes": 53
+    },
+    {
+      "mission": "041",
+      "row": 20,
+      "bytes": 51
+    },
+    {
+      "mission": "041",
+      "row": 42,
+      "bytes": 51
+    },
+    {
+      "mission": "041",
+      "row": 49,
+      "bytes": 51
+    },
+    {
+      "mission": "042",
+      "row": 11,
+      "bytes": 51
+    },
+    {
+      "mission": "042",
+      "row": 12,
+      "bytes": 53
+    },
+    {
+      "mission": "042",
+      "row": 18,
+      "bytes": 53
+    },
+    {
+      "mission": "042",
+      "row": 49,
+      "bytes": 51
+    },
+    {
+      "mission": "042",
+      "row": 50,
+      "bytes": 51
+    },
+    {
+      "mission": "042",
+      "row": 52,
+      "bytes": 54
+    },
+    {
+      "mission": "042",
+      "row": 53,
+      "bytes": 52
+    },
+    {
+      "mission": "042",
+      "row": 54,
+      "bytes": 54
+    },
+    {
+      "mission": "042",
+      "row": 55,
+      "bytes": 54
+    },
+    {
+      "mission": "042",
+      "row": 57,
+      "bytes": 54
+    },
+    {
+      "mission": "042",
+      "row": 58,
+      "bytes": 54
+    },
+    {
+      "mission": "042",
+      "row": 59,
+      "bytes": 54
+    },
+    {
+      "mission": "043",
+      "row": 68,
+      "bytes": 54
+    },
+    {
+      "mission": "043",
+      "row": 71,
+      "bytes": 52
+    },
+    {
+      "mission": "043",
+      "row": 77,
+      "bytes": 51
+    },
+    {
+      "mission": "043",
+      "row": 78,
+      "bytes": 54
+    },
+    {
+      "mission": "043",
+      "row": 79,
+      "bytes": 51
+    },
+    {
+      "mission": "043",
+      "row": 98,
+      "bytes": 53
+    },
+    {
+      "mission": "044",
+      "row": 18,
+      "bytes": 53
+    },
+    {
+      "mission": "044",
+      "row": 50,
+      "bytes": 53
+    },
+    {
+      "mission": "044",
+      "row": 61,
+      "bytes": 53
+    },
+    {
+      "mission": "044",
+      "row": 62,
+      "bytes": 52
+    },
+    {
+      "mission": "044",
+      "row": 63,
+      "bytes": 54
+    },
+    {
+      "mission": "044",
+      "row": 67,
+      "bytes": 51
+    },
+    {
+      "mission": "044",
+      "row": 69,
+      "bytes": 53
+    },
+    {
+      "mission": "045",
+      "row": 14,
+      "bytes": 53
+    },
+    {
+      "mission": "045",
+      "row": 29,
+      "bytes": 51
+    },
+    {
+      "mission": "045",
+      "row": 30,
+      "bytes": 54
+    },
+    {
+      "mission": "045",
+      "row": 32,
+      "bytes": 54
+    },
+    {
+      "mission": "045",
+      "row": 51,
+      "bytes": 51
+    },
+    {
+      "mission": "045",
+      "row": 65,
+      "bytes": 51
+    },
+    {
+      "mission": "045",
+      "row": 69,
+      "bytes": 52
+    },
+    {
+      "mission": "046",
+      "row": 16,
+      "bytes": 52
+    },
+    {
+      "mission": "046",
+      "row": 71,
+      "bytes": 51
+    },
+    {
+      "mission": "046",
+      "row": 73,
+      "bytes": 53
+    },
+    {
+      "mission": "046",
+      "row": 74,
+      "bytes": 52
+    },
+    {
+      "mission": "046",
+      "row": 75,
+      "bytes": 52
+    },
+    {
+      "mission": "046",
+      "row": 76,
+      "bytes": 52
+    },
+    {
+      "mission": "046",
+      "row": 78,
+      "bytes": 53
+    },
+    {
+      "mission": "046",
+      "row": 79,
+      "bytes": 52
+    },
+    {
+      "mission": "046",
+      "row": 80,
+      "bytes": 53
+    },
+    {
+      "mission": "048",
+      "row": 31,
+      "bytes": 53
+    },
+    {
+      "mission": "048",
+      "row": 33,
+      "bytes": 51
+    },
+    {
+      "mission": "048",
+      "row": 52,
+      "bytes": 52
+    },
+    {
+      "mission": "048",
+      "row": 137,
+      "bytes": 52
+    },
+    {
+      "mission": "049",
+      "row": 18,
+      "bytes": 53
+    },
+    {
+      "mission": "049",
+      "row": 63,
+      "bytes": 53
+    },
+    {
+      "mission": "049",
+      "row": 67,
+      "bytes": 51
+    },
+    {
+      "mission": "049",
+      "row": 68,
+      "bytes": 53
+    },
+    {
+      "mission": "050",
+      "row": 11,
+      "bytes": 52
+    },
+    {
+      "mission": "090",
+      "row": 40,
+      "bytes": 51
+    },
+    {
+      "mission": "090",
+      "row": 64,
+      "bytes": 53
+    }
+  ],
+  "reported_state": {
+    "ee_pc": "0x13d5f0",
+    "mission": "044",
+    "message_id": 69,
+    "ram_sha256": "a8f5de3baa1b479fc141b11b9baa9bf8ce62e17455a2d7567739dc865b40c3d7",
+    "text_sha256": "b6b90041313f1435fccc42f918e7b4e0baa1d0754004915cd61f7b47cb4d99e4",
+    "typed_glyphs": 53,
+    "widget": "0x1707fd0",
+    "packet": "0x1751900",
+    "allocated_bytes": 5776,
+    "emitted_bytes": 6112,
+    "overwritten_bytes": 336,
+    "malformed_tag_offset": "0x17d0",
+    "malformed_tag_requested_bytes": 4345856,
+    "vif1_chcr": "0x10000155",
+    "gif_stat": "0xe80"
+  }
+}

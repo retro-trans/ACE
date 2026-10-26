@@ -1,5 +1,24 @@
 # Changelog
 
+## 0.1.32 - 2026-10-26 (local test build, not released)
+
+- Fixes an undersized operator-dialogue drawing buffer exposed by the saved
+  mission 39 hang. The game reserved space for 50 glyphs but drew a 53-character
+  English message, overwriting 336 bytes of neighbouring heap data. The saved
+  graphics packet then requested megabytes of unrelated data and stalled.
+- Expands that one allocation to 128 glyphs. Existing translation/layout limits
+  remain unchanged. Retains the 4x fonts, movie subtitles, karaoke and lyrics.
+- Adds a saved-memory regression check and a translation-budget audit. These
+  verify the overflow and increased capacity; mission completion still needs
+  a fresh-boot gameplay test. Do not resume the already-corrupted save state.
+- This also removes the same allocation hazard from earlier missions; it does
+  not establish that the previously reported post-retreat stalls are resolved.
+  See `docs/dialogue_buffer_0.1.32.md`. No release requested.
+- Finished ISO passes the allocation audit and full comparison to 0.1.31:
+  only EE 0x2018dc and three title stamps change; all other resources/files
+  match, including movies and lyrics. Local ISO SHA-256:
+  `72d807e7b9e8f02f54b2ff3f491ed0fdb60c4cbf15dabdb81a0195217b248f73`.
+
 ## 0.1.31 - 2026-10-26 (local test build, not released)
 
 - Addresses scrambled warning banners reported after a fresh boot of 0.1.30.

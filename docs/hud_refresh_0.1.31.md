@@ -1,5 +1,11 @@
 # Shared HUD font refresh (0.1.31)
 
+Follow-up: pow reported a mission-start hang in this build. The saved state
+proves a separate operator drawing-buffer overflow (53 glyphs into a 50-glyph
+allocation), corrected in 0.1.32. See `docs/dialogue_buffer_0.1.32.md`. The
+frame-refresh change is retained; its gameplay/performance confirmation remains
+pending. The saved hang alone does not implicate the refresh branches.
+
 On 2026-10-26 pow supplied a screenshot of scrambled red/orange warning banners
 and confirmed a fresh boot of local 0.1.30. Its two corrected startup transfers
 were necessary but insufficient. No desktop or emulator was controlled.
