@@ -12,7 +12,8 @@ from verify_hud_warning import database, child, font_bytes, glyph_signature
 from vwf_font import render
 from title_stamp import TEXTURE, stamp_texture
 from texture_text import SPEC, apply_spec
-from font_upload import HUD_UPLOAD_CALLS, LINEAR_UPLOAD, SWIZZLED_UPLOAD, file_offset, jal, check_calls
+from font_upload import HUD_UPLOAD_CALLS, HUD_REFRESH_GATES, LINEAR_UPLOAD, SWIZZLED_UPLOAD, file_offset, jal, check_calls
+from font_refresh import check_refresh
 
 
 def leaf(name):
@@ -130,8 +131,13 @@ def verify(iso, version):
                     require(u32(aa, at) == jal(LINEAR_UPLOAD) and u32(bb, at) == jal(SWIZZLED_UPLOAD),
                             'Wrong HUD startup upload call')
                     struct.pack_into('<I', allowed, at, jal(SWIZZLED_UPLOAD))
+                for address, instruction in HUD_REFRESH_GATES.items():
+                    at = file_offset(address)
+                    require(u32(aa, at) == instruction and u32(bb, at) == 0, 'Wrong HUD frame refresh gate')
+                    struct.pack_into('<I', allowed, at, 0)
                 require(bb == allowed, 'Unrelated executable change')
                 report['hud_upload_transfers'] = check_calls(bb, expected['Fe1p.bnd'][50051])
+                report['hud_frame_refresh'] = check_refresh(bb, expected['Fe1p.bnd'][50050])
                 require(struct.unpack_from('<4I', bb, offset - 8) == (0x2600, 0x3ff4, 0x2600, 0x3fff),
                         'Shared base/palettes differ')
             else:

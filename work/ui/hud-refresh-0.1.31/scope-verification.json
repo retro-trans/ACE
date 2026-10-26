@@ -1,0 +1,17 @@
+{
+  "baseline": "E:\\Projects\\ACE\\work\\output\\ACE-EN-0.1.30.iso",
+  "target": "E:\\Projects\\ACE\\work\\output\\ACE-EN-0.1.31.iso",
+  "changed_resources": [
+    "\\target\\menu\\tm2\\t3105.tm2",
+    "\\target\\menu\\bnd\\mode_data\\MenuTitle.csc",
+    "\\target\\menu\\bnd\\mode_data\\MenuTitleIntro.csc"
+  ],
+  "executable_changes": [
+    "0x1e1ac8",
+    "0x1e1b58"
+  ],
+  "font_bytes_identical": true,
+  "other_resources_identical": true,
+  "movies_and_lyrics_unchanged": true,
+  "runtime_verified": false
+}

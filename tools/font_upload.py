@@ -10,6 +10,9 @@ from ace_formats import require, u32
 LINEAR_UPLOAD = 0x17c530
 SWIZZLED_UPLOAD = 0x17d1d0
 HUD_UPLOAD_CALLS = (0x1e165c, 0x1e17ec)
+# These branches skip the shared atlas reload when no dialogue is active.
+# Its 0x2600 allocation is reused by scene textures, unlike the stock HUD slot.
+HUD_REFRESH_GATES = {0x1e1ac8: 0x10400005, 0x1e1b58: 0x10400007}
 
 
 def file_offset(address):
@@ -20,13 +23,15 @@ def jal(address):
     return 0x0c000000 | (address >> 2)
 
 
-def first_transfer(elf, texture, entry):
+def first_transfer(elf, texture, entry, arguments=None):
     """Trace actual EE instructions through their first GS transfer setup call."""
     memory = bytearray(0x2000000)
     memory[0x100000:0x100000 + len(elf) - 0x80] = elf[0x80:]
     memory[0x400000:0x400000 + len(texture)] = texture
     r = [0] * 32
     r[4], r[29] = 0x400000, 0x1fff000
+    for register, value in (arguments or {}).items():
+        r[register] = value
     pc, pending, trace = entry, None, []
     mask = (1 << 64) - 1
 
@@ -60,9 +65,11 @@ def first_transfer(elf, texture, entry):
         elif op == 3:
             r[31] = pc + 8
             pending = (pc & 0xf0000000) | ((word & 0x3ffffff) << 2)
-        elif op in (0x24, 0x25, 0x37):  # lbu/lhu/ld
-            size = {0x24: 1, 0x25: 2, 0x37: 8}[op]
+        elif op in (0x23, 0x24, 0x25, 0x37):  # lw/lbu/lhu/ld
+            size = {0x23: 4, 0x24: 1, 0x25: 2, 0x37: 8}[op]
             r[rt] = int.from_bytes(memory[address:address + size], 'little')
+            if op == 0x23:
+                r[rt] = signed(r[rt], 32)
         elif op in (0x3f, 0x1f):  # sd/sq (saved upper halves unused before first call)
             size = 8 if op == 0x3f else 16
             memory[address:address + size] = r[rt].to_bytes(size, 'little')

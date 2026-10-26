@@ -1,5 +1,24 @@
 # Changelog
 
+## 0.1.31 - 2026-10-26 (local test build, not released)
+
+- Addresses scrambled warning banners reported after a fresh boot of 0.1.30.
+  The shared atlas was refreshed only while dialogue was active, although its
+  GS allocation is reused. Both 1P and 2P now reload it for every HUD frame.
+- Changes two conditional branches; retains the existing upload routines,
+  synchronization and null-resource guards. All font pixels, glyph maps,
+  English metrics, palettes, translations, movies and lyrics are retained.
+- Adds actual-instruction frame-gate checks for 16 combinations of play mode,
+  dialogue state, status flag and resource presence. Quiet frames reproduce
+  the missing refresh before the fix. Both transfer descriptors are traced.
+- Offline checks do not replace a fresh-boot gameplay/performance check.
+  No release requested. See `docs/hud_refresh_0.1.31.md`.
+- Local ISO: `work/output/ACE-EN-0.1.31.iso`, SHA-256
+  `65a238825b9e7b1cfe8cb51dffd61261bc27f01b71ee588746e29b63ac03f43d`.
+- Final font/frame checks and direct comparison to 0.1.30 passed. Only two
+  branch words and three title-stamp copies change; font bytes, all other
+  resources and the 25 movie hashes (including lyrics) are identical.
+
 ## 0.1.30 - 2026-10-26 (local test build, not released)
 
 - Corrects two HUD font startup calls that still used the linear uploader for

@@ -6,6 +6,26 @@ request**, releases must work with Retro Trans Tools). The user explicitly reque
 release 0.1.17 on 2026-10-15, using `binhlt0402` in `retro-trans`. Repository: https://github.com/retro-trans/ACE.
 Packaging and publication instructions are in `docs/RELEASING.md`.
 
+## HUD frame refresh: local 0.1.31 (2026-10-26)
+
+pow confirmed the warning banners remain scrambled after a fresh boot of
+0.1.30. Startup upload correction alone was insufficient: the shared 0x2600
+allocation is transient, but the HUD preparation paths reload the dialogue
+atlas only when dialogue/status conditions are true. `build.py` now NOPs the
+skip branches at EE 0x1e1ac8 (1P) and 0x1e1b58 (2P), retaining the existing
+prepared/direct transfers and null-resource guards. No font data changes.
+`tools/font_refresh.py` traces the real branch instructions for 16 scenarios;
+0.1.30 quiet frames miss both reloads, and the patched paths refresh every
+frame with a valid resource. Both upload descriptors are checked. See
+`docs/hud_refresh_0.1.31.md`, `work/ui/hud-refresh-0.1.31/frame-trace.json`.
+In-game confirmation/performance remain unverified. No desktop control or
+release authorized. Keep all translated movies and lyrics.
+Local ISO: `work/output/ACE-EN-0.1.31.iso` (3,357,147,136 bytes), SHA-256
+`65a238825b9e7b1cfe8cb51dffd61261bc27f01b71ee588746e29b63ac03f43d`.
+Final font/frame and direct 0.1.30 scope comparisons passed: only two branch
+words and three title-stamp copies differ. Font bytes, other game resources,
+all 25 movies and lyrics are identical. No runtime confirmation yet.
+
 ## HUD upload correction: local 0.1.30 (2026-10-26)
 
 pow confirmed the scrambled lock-on name occurs in 0.1.29 after a fresh boot.

@@ -1,5 +1,9 @@
 # HUD font upload correction (0.1.30)
 
+**Follow-up:** pow confirmed scrambled warning banners after a fresh boot of
+this build. Correct startup transfers alone did not maintain the atlas during
+gameplay. See `hud_refresh_0.1.31.md` for the missing per-frame refresh.
+
 On 2026-10-26, pow reported a scrambled enemy name in the lock-on label and
 confirmed this was 0.1.29 after a fresh boot, not an old emulator save state.
 The preceding static atlas checks did not cover the game's upload call sites.

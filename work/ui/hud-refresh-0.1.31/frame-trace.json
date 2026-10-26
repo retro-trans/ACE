@@ -1,0 +1,193 @@
+{
+  "scenarios": [
+    {
+      "mode": "1P",
+      "dialogue": false,
+      "flag": false,
+      "resource_present": false,
+      "uploads": []
+    },
+    {
+      "mode": "1P",
+      "dialogue": false,
+      "flag": false,
+      "resource_present": true,
+      "uploads": [
+        {
+          "target": "0x17d030",
+          "resource": 4194304,
+          "descriptor": 5242880
+        }
+      ]
+    },
+    {
+      "mode": "1P",
+      "dialogue": false,
+      "flag": true,
+      "resource_present": false,
+      "uploads": []
+    },
+    {
+      "mode": "1P",
+      "dialogue": false,
+      "flag": true,
+      "resource_present": true,
+      "uploads": [
+        {
+          "target": "0x17d030",
+          "resource": 4194304,
+          "descriptor": 5242880
+        }
+      ]
+    },
+    {
+      "mode": "1P",
+      "dialogue": true,
+      "flag": false,
+      "resource_present": false,
+      "uploads": []
+    },
+    {
+      "mode": "1P",
+      "dialogue": true,
+      "flag": false,
+      "resource_present": true,
+      "uploads": [
+        {
+          "target": "0x17d030",
+          "resource": 4194304,
+          "descriptor": 5242880
+        }
+      ]
+    },
+    {
+      "mode": "1P",
+      "dialogue": true,
+      "flag": true,
+      "resource_present": false,
+      "uploads": []
+    },
+    {
+      "mode": "1P",
+      "dialogue": true,
+      "flag": true,
+      "resource_present": true,
+      "uploads": [
+        {
+          "target": "0x17d030",
+          "resource": 4194304,
+          "descriptor": 5242880
+        }
+      ]
+    },
+    {
+      "mode": "2P",
+      "dialogue": false,
+      "flag": false,
+      "resource_present": false,
+      "uploads": []
+    },
+    {
+      "mode": "2P",
+      "dialogue": false,
+      "flag": false,
+      "resource_present": true,
+      "uploads": [
+        {
+          "target": "0x17d1d0",
+          "resource": 4194304,
+          "descriptor": null
+        }
+      ]
+    },
+    {
+      "mode": "2P",
+      "dialogue": false,
+      "flag": true,
+      "resource_present": false,
+      "uploads": []
+    },
+    {
+      "mode": "2P",
+      "dialogue": false,
+      "flag": true,
+      "resource_present": true,
+      "uploads": [
+        {
+          "target": "0x17d1d0",
+          "resource": 4194304,
+          "descriptor": null
+        }
+      ]
+    },
+    {
+      "mode": "2P",
+      "dialogue": true,
+      "flag": false,
+      "resource_present": false,
+      "uploads": []
+    },
+    {
+      "mode": "2P",
+      "dialogue": true,
+      "flag": false,
+      "resource_present": true,
+      "uploads": [
+        {
+          "target": "0x17d1d0",
+          "resource": 4194304,
+          "descriptor": null
+        }
+      ]
+    },
+    {
+      "mode": "2P",
+      "dialogue": true,
+      "flag": true,
+      "resource_present": false,
+      "uploads": []
+    },
+    {
+      "mode": "2P",
+      "dialogue": true,
+      "flag": true,
+      "resource_present": true,
+      "uploads": [
+        {
+          "target": "0x17d1d0",
+          "resource": 4194304,
+          "descriptor": null
+        }
+      ]
+    }
+  ],
+  "transfer_descriptors": [
+    {
+      "entry": "0x17d4d0",
+      "base": 9728,
+      "buffer_width": 8,
+      "psm": 0,
+      "x": 0,
+      "y": 0,
+      "width": 512,
+      "height": 128,
+      "instructions": 48
+    },
+    {
+      "entry": "0x17d1d0",
+      "base": 9728,
+      "buffer_width": 8,
+      "psm": 0,
+      "x": 0,
+      "y": 0,
+      "width": 512,
+      "height": 128,
+      "instructions": 45
+    }
+  ],
+  "runtime_verified": false,
+  "before": {
+    "1P": [],
+    "2P": []
+  }
+}

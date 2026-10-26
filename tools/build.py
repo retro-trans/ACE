@@ -124,13 +124,23 @@ def patch_elf(elf, report):
         # The two mission startup paths explicitly call the linear uploader,
         # regardless of the TM2 mode field. Shared 4x fonts use mode-1 storage;
         # they must take the same PSMCT32 transfer path as the dialogue font.
-        from font_upload import HUD_UPLOAD_CALLS, LINEAR_UPLOAD, SWIZZLED_UPLOAD, file_offset, jal
+        from font_upload import HUD_UPLOAD_CALLS, HUD_REFRESH_GATES, LINEAR_UPLOAD, SWIZZLED_UPLOAD, file_offset, jal
         for address in HUD_UPLOAD_CALLS:
             at = file_offset(address)
             require(u32(out, at) == jal(LINEAR_UPLOAD), 'Unexpected HUD upload call')
             struct.pack_into('<I', out, at, jal(SWIZZLED_UPLOAD))
         report['hud_upload_calls'] = {'addresses': [hex(a) for a in HUD_UPLOAD_CALLS],
                                       'before': hex(LINEAR_UPLOAD), 'after': hex(SWIZZLED_UPLOAD)}
+        # The dialogue allocation is scratch VRAM. Refresh its shared pixels
+        # every HUD frame, including warnings/target names with no dialogue.
+        # Keep the existing prepared transfer (1P), direct transfer (2P),
+        # null-resource guards, synchronization and palette handling.
+        for address, expected in HUD_REFRESH_GATES.items():
+            at = file_offset(address)
+            require(u32(out, at) == expected, 'Unexpected HUD refresh gate')
+            struct.pack_into('<I', out, at, 0)
+        report['hud_frame_refresh'] = {'gate_addresses': [hex(a) for a in HUD_REFRESH_GATES],
+                                       'condition': 'every HUD frame, even without dialogue'}
     return bytes(out)
 
 
