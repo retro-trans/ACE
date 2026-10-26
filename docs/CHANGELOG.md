@@ -1,5 +1,21 @@
 # Changelog
 
+## 0.1.30 - 2026-10-26 (local test build, not released)
+
+- Corrects two HUD font startup calls that still used the linear uploader for
+  0.1.29's swizzled 4x font. The user confirmed scrambled target names after a
+  fresh boot. Both calls now use the existing dialogue-format upload routine.
+- Preserves the 4x glyphs, English spacing, Japanese glyph cleanup, palettes,
+  movie subtitles and both songs' lyrics. No mission script or logic changes.
+- Adds instruction-level upload checks that reject the 0.1.29 path and verify
+  both corrected paths. See `docs/hud_upload_0.1.30.md`. In-game confirmation
+  remains required; this does not claim to fix mission 23.
+- Final local ISO and scope checks passed: only the two executable calls and
+  three title-version copies differ from 0.1.29. Fonts, mission resources and
+  all 25 movies/lyrics are unchanged; Japanese-table inventory is zero.
+  Output: `work/output/ACE-EN-0.1.30.iso`, SHA-256
+  `f608d4e320e5d95506ed3f950640d99a6d371f69c0c0285d89adfb2a27d1efa0`.
+
 ## 0.1.29 - 2026-10-22
 
 Credits correction: use the project lead's Discord nickname **pow** in the README

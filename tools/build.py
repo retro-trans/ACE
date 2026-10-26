@@ -121,6 +121,16 @@ def patch_elf(elf, report):
         require(u32(out, at) == 0xc00, 'Unexpected HUD texture base')
         struct.pack_into('<I', out, at, 0x2600)
         report['hud_texture_base'] = {'address': '0x2a64d8', 'before': '0xc00', 'after': '0x2600'}
+        # The two mission startup paths explicitly call the linear uploader,
+        # regardless of the TM2 mode field. Shared 4x fonts use mode-1 storage;
+        # they must take the same PSMCT32 transfer path as the dialogue font.
+        from font_upload import HUD_UPLOAD_CALLS, LINEAR_UPLOAD, SWIZZLED_UPLOAD, file_offset, jal
+        for address in HUD_UPLOAD_CALLS:
+            at = file_offset(address)
+            require(u32(out, at) == jal(LINEAR_UPLOAD), 'Unexpected HUD upload call')
+            struct.pack_into('<I', out, at, jal(SWIZZLED_UPLOAD))
+        report['hud_upload_calls'] = {'addresses': [hex(a) for a in HUD_UPLOAD_CALLS],
+                                      'before': hex(LINEAR_UPLOAD), 'after': hex(SWIZZLED_UPLOAD)}
     return bytes(out)
 
 

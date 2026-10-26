@@ -12,6 +12,7 @@ from verify_hud_warning import database, child, font_bytes, glyph_signature
 from vwf_font import render
 from title_stamp import TEXTURE, stamp_texture
 from texture_text import SPEC, apply_spec
+from font_upload import HUD_UPLOAD_CALLS, LINEAR_UPLOAD, SWIZZLED_UPLOAD, file_offset, jal, check_calls
 
 
 def leaf(name):
@@ -36,7 +37,8 @@ def font_check(new, old):
 
 def verify(iso, version):
     baseline = ROOT / 'work/output/ACE-EN-0.1.28.iso'
-    current = json.loads(iso.with_suffix('.json').read_text())
+    current = json.loads(iso.with_suffix('.json').read_text(encoding='utf-8'))
+    version = version or current['version']
     prior = json.loads(baseline.with_suffix('.json').read_text())
     require(current['movies'] == prior['movies'] and not current['movies_without_lyrics'], 'Movies/lyrics changed')
     require(current['shared_ingame_font'], 'Shared font not enabled')
@@ -123,7 +125,13 @@ def verify(iso, version):
                 offset = 0x2a64d8 - 0x100000 + 0x80
                 require(u32(aa, offset) == 0xc00 and u32(bb, offset) == 0x2600, 'Wrong fixed GS base')
                 allowed = bytearray(aa); struct.pack_into('<I', allowed, offset, 0x2600)
+                for address in HUD_UPLOAD_CALLS:
+                    at = file_offset(address)
+                    require(u32(aa, at) == jal(LINEAR_UPLOAD) and u32(bb, at) == jal(SWIZZLED_UPLOAD),
+                            'Wrong HUD startup upload call')
+                    struct.pack_into('<I', allowed, at, jal(SWIZZLED_UPLOAD))
                 require(bb == allowed, 'Unrelated executable change')
+                report['hud_upload_transfers'] = check_calls(bb, expected['Fe1p.bnd'][50051])
                 require(struct.unpack_from('<4I', bb, offset - 8) == (0x2600, 0x3ff4, 0x2600, 0x3fff),
                         'Shared base/palettes differ')
             else:
@@ -140,6 +148,6 @@ def verify(iso, version):
 if __name__ == '__main__':
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument('iso', type=Path)
-    ap.add_argument('--version', default='0.1.29')
+    ap.add_argument('--version', help='Defaults to the ISO build report version')
     args = ap.parse_args()
     verify(args.iso, args.version)

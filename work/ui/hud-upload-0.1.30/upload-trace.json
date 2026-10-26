@@ -1,0 +1,43 @@
+{
+  "reported_build": "0.1.29",
+  "user_confirmed_fresh_boot": true,
+  "regression": "HUD uploader interprets swizzled font as linear texels at 0x1e165c: {'entry': '0x17c530', 'base': 9728, 'buffer_width': 16, 'psm': 20, 'x': 0, 'y': 0, 'width': 1024, 'height': 256, 'instructions': 58}",
+  "corrected_transfer_setup": [
+    {
+      "call_site": "0x1e165c",
+      "entry": "0x17d1d0",
+      "base": 9728,
+      "buffer_width": 8,
+      "psm": 0,
+      "x": 0,
+      "y": 0,
+      "width": 512,
+      "height": 128,
+      "instructions": 45
+    },
+    {
+      "call_site": "0x1e17ec",
+      "entry": "0x17d1d0",
+      "base": 9728,
+      "buffer_width": 8,
+      "psm": 0,
+      "x": 0,
+      "y": 0,
+      "width": 512,
+      "height": 128,
+      "instructions": 45
+    }
+  ],
+  "runtime_verified": false,
+  "stock_linear_control": {
+    "entry": "0x17c530",
+    "base": 0,
+    "buffer_width": 4,
+    "psm": 44,
+    "x": 0,
+    "y": 0,
+    "width": 256,
+    "height": 128,
+    "instructions": 54
+  }
+}

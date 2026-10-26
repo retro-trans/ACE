@@ -1,5 +1,11 @@
 # Shared English fonts (0.1.29)
 
+**Follow-up:** On 2026-10-26 the user confirmed scrambled target names after a
+fresh boot of 0.1.29. The HUD's startup upload calls were still interpreting
+the new swizzled bytes as linear texels. See `hud_upload_0.1.30.md` for the
+correction and instruction-level checks. The static proofs below did not cover
+that runtime path.
+
 The user reported blocks in multiple radio speaker names and in lock-on labels after
 the 4x HUD change, then requested removal of Japanese glyphs. No emulator was controlled.
 This build addresses the expanded HUD texture's memory use; runtime confirmation remains

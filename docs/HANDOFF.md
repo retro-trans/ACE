@@ -6,6 +6,24 @@ request**, releases must work with Retro Trans Tools). The user explicitly reque
 release 0.1.17 on 2026-10-15, using `binhlt0402` in `retro-trans`. Repository: https://github.com/retro-trans/ACE.
 Packaging and publication instructions are in `docs/RELEASING.md`.
 
+## HUD upload correction: local 0.1.30 (2026-10-26)
+
+pow confirmed the scrambled lock-on name occurs in 0.1.29 after a fresh boot.
+The HUD startup calls at EE 0x1e165c and 0x1e17ec still called the linear
+uploader 0x17c530, which ignores the mode word and misinterprets the new
+swizzled texture data. `build.py` now changes both JALs to 0x17d1d0 when shared
+fonts are enabled. No atlas/metrics/palette changes are needed. The instruction
+trace in `tools/font_upload.py` rejects the 0.1.29 path and checks the correct
+512x128 PSMCT32 transfer for both corrected calls. `verify_shared_fonts.py`
+includes these checks. See `docs/hud_upload_0.1.30.md` and evidence under
+`work/ui/hud-upload-0.1.30/`. Local testing only: no release requested, no
+desktop control. User gameplay confirmation is still required.
+Completed ISO: `work/output/ACE-EN-0.1.30.iso` (3,357,147,136 bytes), SHA-256
+`f608d4e320e5d95506ed3f950640d99a6d371f69c0c0285d89adfb2a27d1efa0`.
+Font/upload checks and Japanese-table scan (0 tables/rows) passed. Direct comparison
+with 0.1.29 confirms only the two executable calls and three title-stamp copies
+changed; all fonts, mission data, 25 movie hashes and both lyrics are unchanged.
+
 ## Shared 4x fonts: released 0.1.29 (2026-10-22)
 
 Upgrade repair (2026-10-22): the initial release only included an original-disc

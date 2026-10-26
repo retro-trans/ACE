@@ -1,0 +1,69 @@
+{
+  "atlas": [
+    1024,
+    512
+  ],
+  "format": "PSMT4",
+  "texels_per_unit": 4,
+  "dialogue_rows": [
+    22,
+    242
+  ],
+  "hud_rows": [
+    259,
+    419
+  ],
+  "shared_gpu_bytes": 262144,
+  "separate_palettes": true,
+  "japanese_glyphs": 0,
+  "runtime_verified": false,
+  "hud_upload_transfers": [
+    {
+      "call_site": "0x1e165c",
+      "entry": "0x17d1d0",
+      "base": 9728,
+      "buffer_width": 8,
+      "psm": 0,
+      "x": 0,
+      "y": 0,
+      "width": 512,
+      "height": 128,
+      "instructions": 45
+    },
+    {
+      "call_site": "0x1e17ec",
+      "entry": "0x17d1d0",
+      "base": 9728,
+      "buffer_width": 8,
+      "psm": 0,
+      "x": 0,
+      "y": 0,
+      "width": 512,
+      "height": 128,
+      "instructions": 45
+    }
+  ],
+  "version": "0.1.30",
+  "iso": "work\\output\\ACE-EN-0.1.30.iso",
+  "hud_copies": 4,
+  "fonts_checked": 24,
+  "movies_and_lyrics_unchanged": true,
+  "changed_resources": [
+    "\\target\\menu\\tm2\\t3105.tm2",
+    "\\target\\menu\\font\\tm2\\f010.tm2",
+    "\\target\\menu\\font\\tm2\\f005.ccm",
+    "\\target\\menu\\font\\tm2\\f010.ccm",
+    "\\target\\fe\\InGame\\param\\Fe1p.bnd",
+    "\\target\\fe\\InGame\\param\\Fe2p.bnd",
+    "\\target\\fe\\InGame\\param\\Fe1p.bnd",
+    "\\target\\fe\\InGame\\param\\Fe2p.bnd",
+    "\\target\\menu\\bnd\\mode_data\\MenuTitle.csc",
+    "\\target\\menu\\bnd\\mode_data\\MenuIntro.csc",
+    "\\target\\menu\\bnd\\mode_data\\MenuTitleIntro.csc",
+    "\\target\\menu\\bnd\\mode_data\\MenuCampaign.csc",
+    "\\target\\menu\\bnd\\mode_data\\MenuFree.csc",
+    "\\target\\menu\\bnd\\mode_data\\MenuMulti.csc",
+    "\\target\\menu\\bnd\\mode_data\\MenuEnding.csc"
+  ],
+  "iso_comparison_passed": true
+}

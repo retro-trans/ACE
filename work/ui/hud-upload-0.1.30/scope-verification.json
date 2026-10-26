@@ -1,0 +1,19 @@
+{
+  "version": "0.1.30",
+  "baseline": "0.1.29",
+  "sha256": "f608d4e320e5d95506ed3f950640d99a6d371f69c0c0285d89adfb2a27d1efa0",
+  "changed_resources": [
+    "\\target\\menu\\tm2\\t3105.tm2",
+    "\\target\\menu\\bnd\\mode_data\\MenuTitle.csc",
+    "\\target\\menu\\bnd\\mode_data\\MenuTitleIntro.csc"
+  ],
+  "executable_changed_words": [
+    "0x1e165c",
+    "0x1e17ec"
+  ],
+  "all_font_bytes_unchanged": true,
+  "all_other_game_resources_unchanged": true,
+  "all_25_movie_hashes_unchanged": true,
+  "lyrics_included": true,
+  "runtime_verified": false
+}
