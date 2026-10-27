@@ -1,0 +1,78 @@
+{
+  "candidate": false,
+  "game_id": "ace",
+  "version": "0.1.32",
+  "original_routes": [
+    {
+      "selection": "Latest",
+      "target": "0.1.32",
+      "patches": [
+        "ACE-English-0.1.32.xdelta"
+      ]
+    },
+    {
+      "selection": "0.1.32",
+      "target": "0.1.32",
+      "patches": [
+        "ACE-English-0.1.32.xdelta"
+      ]
+    },
+    {
+      "selection": "Next version only",
+      "target": "0.1.17",
+      "patches": [
+        "ACE-English-0.1.17.xdelta"
+      ]
+    }
+  ],
+  "upgrade_routes": [
+    {
+      "source": "0.1.29",
+      "selection": "Latest",
+      "target": "0.1.32",
+      "patches": [
+        "ACE-English-0.1.29-to-0.1.32.xdelta"
+      ]
+    },
+    {
+      "source": "0.1.29",
+      "selection": "0.1.32",
+      "target": "0.1.32",
+      "patches": [
+        "ACE-English-0.1.29-to-0.1.32.xdelta"
+      ]
+    },
+    {
+      "source": "0.1.29",
+      "selection": "Next version only",
+      "target": "0.1.32",
+      "patches": [
+        "ACE-English-0.1.29-to-0.1.32.xdelta"
+      ]
+    }
+  ],
+  "existing_identities_preserved": true,
+  "current_image_noop": true,
+  "unknown_image_rejected": true,
+  "older_public_upgrade_routes": [
+    {
+      "source": "0.1.26",
+      "selection": "Latest",
+      "target": "0.1.32",
+      "patches": [
+        "ACE-English-0.1.26-to-0.1.29.xdelta",
+        "ACE-English-0.1.29-to-0.1.32.xdelta"
+      ]
+    },
+    {
+      "source": "0.1.26",
+      "selection": "0.1.32",
+      "target": "0.1.32",
+      "patches": [
+        "ACE-English-0.1.26-to-0.1.29.xdelta",
+        "ACE-English-0.1.29-to-0.1.32.xdelta"
+      ]
+    }
+  ],
+  "previous_catalog_identities_immutable": true
+}

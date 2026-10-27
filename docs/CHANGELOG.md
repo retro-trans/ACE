@@ -8,8 +8,16 @@
   risk; the reported runtime microstutter remains unconfirmed. Save findings
   and a short reference clip. No stutter fix or release is claimed.
 
-## 0.1.32 - 2026-10-27 (release preparation; built 2026-10-26)
+## 0.1.32 - 2026-10-27 (released; built 2026-10-26)
 
+- Published with explicit authorization as `v0.1.32`. Both the original-disc
+  patch and direct public-0.1.29 upgrade passed full reconstruction checks.
+  All five uploaded asset sizes and SHA-256 digests match the verified package.
+  Opening/ending lyrics and all translated movies are included. This release
+  does not claim verified mission completion or a credit-stutter fix.
+- Retro Trans catalog refresh `40456417631` succeeded. Public discovery checks
+  pass for original-disc and direct 0.1.29 upgrades, plus the existing two-step
+  route from 0.1.26. Earlier release identities remain unchanged.
 - Documentation correction: pow confirmed the earlier Jeril retreat screenshot
   was mission 23, matching internal 025. Keep its unverified completion issue
   separate from the newer internal-044 hang-state evidence. No build change.

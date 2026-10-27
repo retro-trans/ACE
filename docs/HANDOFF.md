@@ -6,12 +6,24 @@ request**, releases must work with Retro Trans Tools). The user explicitly reque
 release 0.1.17 on 2026-10-15, using `binhlt0402` in `retro-trans`. Repository: https://github.com/retro-trans/ACE.
 Packaging and publication instructions are in `docs/RELEASING.md`.
 
-## Release 0.1.32 authorized (2026-10-27)
+## Release 0.1.32 published (2026-10-27)
 
-pow explicitly requested a release. Publish the existing verified 0.1.32 ISO,
-including all movies/lyrics, with original-disc and public-0.1.29 upgrade patches.
-Document unverified mission completion and the unresolved credit stutter.
-No game bytes have changed since the local build. See `docs/RELEASING.md`.
+pow explicitly requested this release. Published the existing verified 0.1.32
+ISO, including all movies/lyrics, with original-disc and public-0.1.29 upgrade
+patches. Both passed full reconstruction checks; all five uploaded asset sizes
+and SHA-256 digests match the local package. Source/tag commit:
+`5c8fef3b3ef9990d6a77436ebb89a2ac9f16e187`.
+Release: https://github.com/retro-trans/ACE/releases/tag/v0.1.32.
+Package: `work/output/release-0.1.32-upgrade-from-0.1.29/`.
+Canonical metadata/evidence: `docs/releases/0.1.32/`. The direct upgrade is
+14,319 bytes; the original-disc patch is 890,566,740 bytes. No game bytes changed
+since the local build. Notes explicitly retain the unverified mission-completion
+and credit-stutter status. See `docs/RELEASING.md`.
+Retro Trans catalog refresh `40456417631` succeeded. Public catalog checks
+confirm original-disc Latest/specific-version routes, direct 0.1.29 upgrades
+for Latest/specific/Next, and the existing 0.1.26 -> 0.1.29 -> 0.1.32 chain.
+Current-image no-op, unknown-image rejection and prior catalog identities pass.
+Users should refresh the catalog, select their ISO and choose Latest.
 
 ## Credit-roll stutter investigation (2026-10-27)
 
