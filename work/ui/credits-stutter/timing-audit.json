@@ -1,0 +1,75 @@
+{
+  "original": {
+    "file": "work\\source\\movies\\MOVIE002.PSS",
+    "picture_count": 14342,
+    "gop_count": 797,
+    "display_indices_complete": true,
+    "pts_bases": {
+      "3877": 14342
+    },
+    "dts_bases": {
+      "874": 4782
+    },
+    "missing_pts": 0,
+    "picture_extensions": {
+      "top_field_first=0 repeat_first_field=0 progressive_frame=1 picture_structure=11": 14342
+    },
+    "decoded_frame_count": 14342,
+    "decoded_pts_deltas": {
+      "3003": 14341
+    },
+    "repeat_picture_counts": {
+      "0": 14342
+    },
+    "nonvideo_sha256": "db7d89fc96d8571d9684a7f994fe18e9884cfe78273ffd65f659beff5e0110a2",
+    "picture_starts_after_decode_time": [],
+    "scr_note": "SCR is the pack clock, not measured disc arrival or emulator presentation time. No end-of-picture lateness is inferred from padding or the next picture start."
+  },
+  "translated": {
+    "file": "work\\output\\movies\\MOVIE002.PSS",
+    "picture_count": 14342,
+    "gop_count": 797,
+    "display_indices_complete": true,
+    "pts_bases": {
+      "3877": 14342
+    },
+    "dts_bases": {
+      "874": 5422
+    },
+    "missing_pts": 0,
+    "picture_extensions": {
+      "top_field_first=0 repeat_first_field=0 progressive_frame=1 picture_structure=11": 14342
+    },
+    "decoded_frame_count": 14342,
+    "decoded_pts_deltas": {
+      "3003": 14341
+    },
+    "repeat_picture_counts": {
+      "0": 14342
+    },
+    "nonvideo_sha256": "db7d89fc96d8571d9684a7f994fe18e9884cfe78273ffd65f659beff5e0110a2",
+    "picture_starts_after_decode_time": [
+      {
+        "display_frame": 4919,
+        "seconds": 164.130633,
+        "picture_type": "B",
+        "start_after_decode_time_ms": 23.655555555555555
+      },
+      {
+        "display_frame": 4922,
+        "seconds": 164.230733,
+        "picture_type": "B",
+        "start_after_decode_time_ms": 21.366666666666667
+      }
+    ],
+    "scr_note": "SCR is the pack clock, not measured disc arrival or emulator presentation time. No end-of-picture lateness is inferred from padding or the next picture start."
+  },
+  "checks": {
+    "same_frame_count": true,
+    "same_nonvideo_bytes": true,
+    "same_timestamp_bases": true,
+    "constant_cadence_both": true,
+    "complete_frames_both": true
+  },
+  "runtime_verified": false
+}

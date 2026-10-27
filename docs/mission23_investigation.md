@@ -14,23 +14,25 @@ limits and all other game content. The earlier 54-byte check was insufficient;
 the passing checks below did not rule out this separate drawing-buffer bug.
 025 also has operator rows beyond the original capacity, so the correction is
 relevant to the original report. Neither mission's completion has been verified.
-The earlier Jeril screenshot still does not match the latest 044 evidence;
-no state from that post-retreat stall is available. Do not dismiss the user's
-confirmed selection or assert a mission-event fix without a replay.
+pow has now confirmed the earlier Jeril screenshot was mission 23, resolving
+its identification. Keep that post-retreat report separate from the newer
+044 hang state. No state from the post-retreat stall is available, and no
+mission-event fix is established without a replay.
 
 ## Follow-up: Jeril retreat on 0.1.30 (2026-10-26)
 
 pow reported an idle enemy who retreats after taking damage, saying
 "Tch, that's enough for today!", followed by no further spawns/completion.
-The user identified the mission as campaign 39, Southern Arabian Peninsula:
-Mop Up Remnants, and confirmed version 0.1.30. Fresh-boot versus save-state
-loading was not established for this report.
+The user initially identified the mission as campaign 39, then corrected it
+to **campaign 23** on 2026-10-26. Version 0.1.30 was confirmed. Fresh-boot
+versus save-state loading was not established for this report.
 
 The exact screenshot line occurs only in internal mission **025**, row **27**
 (campaign 23, Investigate Enemy Base). The screenshot displays speaker Jeril.
 Internal mission **044** (campaign 39) has no such line and its objectives name
 Zakaal. The subsequent title screenshot confirms campaign 39; the newer hang
-state also confirms internal 044. The earlier screenshot mismatch is unresolved.
+state also confirms internal 044. The user's correction resolves the earlier
+Jeril screenshot identification as mission 23; these are separate reports.
 
 Checks against the actual 0.1.30 ISO:
 

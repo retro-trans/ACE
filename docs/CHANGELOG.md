@@ -1,7 +1,18 @@
 # Changelog
 
-## 0.1.32 - 2026-10-26 (local test build, not released)
+## Investigation - 2026-10-27 (no build change)
 
+- Inspect the supplied ending save state without desktop control and add a
+  full-movie cadence/packet-clock audit. All 14,342 ending frames and unchanged
+  audio pass offline checks. Two picture starts near 2:44 show a scheduling
+  risk; the reported runtime microstutter remains unconfirmed. Save findings
+  and a short reference clip. No stutter fix or release is claimed.
+
+## 0.1.32 - 2026-10-27 (release preparation; built 2026-10-26)
+
+- Documentation correction: pow confirmed the earlier Jeril retreat screenshot
+  was mission 23, matching internal 025. Keep its unverified completion issue
+  separate from the newer internal-044 hang-state evidence. No build change.
 - Fixes an undersized operator-dialogue drawing buffer exposed by the saved
   mission 39 hang. The game reserved space for 50 glyphs but drew a 53-character
   English message, overwriting 336 bytes of neighbouring heap data. The saved
@@ -13,7 +24,7 @@
   a fresh-boot gameplay test. Do not resume the already-corrupted save state.
 - This also removes the same allocation hazard from earlier missions; it does
   not establish that the previously reported post-retreat stalls are resolved.
-  See `docs/dialogue_buffer_0.1.32.md`. No release requested.
+  See `docs/dialogue_buffer_0.1.32.md`. Release explicitly requested on 2026-10-27.
 - Finished ISO passes the allocation audit and full comparison to 0.1.31:
   only EE 0x2018dc and three title stamps change; all other resources/files
   match, including movies and lyrics. Local ISO SHA-256:

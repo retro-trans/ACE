@@ -91,9 +91,10 @@ the old executable/allocation and already-corrupted heap.
 
 ## Earlier post-retreat report
 
-The earlier Jeril line from the 0.1.30 screenshot is present in internal 025,
-whereas the latest menu screenshot and hang state identify 044. That discrepancy
-remains unresolved. Both missions contain operator messages beyond the original
+pow confirmed on 2026-10-26 that the earlier Jeril screenshot from 0.1.30 was
+mission 23, matching its line in internal 025. This resolves the screenshot
+identification; the newer internal-044 hang state is separate evidence.
+Both missions contain operator messages beyond the original
 50-glyph capacity, so this bug is relevant to both investigations. Completion
 after Jeril's retreat still needs testing; no mission-event modification or
 claim of verified completion is justified by the available state.

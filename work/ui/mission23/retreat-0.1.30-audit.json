@@ -1,6 +1,9 @@
 {
   "version": "0.1.30",
-  "reported_campaign_mission": 39,
+  "initially_reported_campaign_mission": 39,
+  "reported_campaign_mission": 23,
+  "user_confirmed_campaign_mission": true,
+  "mission_correction_date": "2026-10-26",
   "screenshot_matching_campaign_mission": 23,
   "screenshot_internal_mission": "025",
   "screenshot_row": 27,

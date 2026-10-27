@@ -7,7 +7,7 @@ English fan translation of **Another Century's Episode** for PlayStation 2 (**Ja
 Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools) for automatic patching:
 
 1. Update Retro Trans, click **Refresh catalog**, and open **Automatic**.
-2. Select your original Japanese ISO or your public **0.1.26 English ISO**, then **Another Century's Episode**, **English**.
+2. Select your original Japanese ISO or your public **0.1.29 English ISO**, then **Another Century's Episode**, **English**.
 3. Leave Target on **Latest**, choose a new output filename, and apply the patch. The app downloads the matching patch and verifies the result.
 
 See [Releases](https://github.com/retro-trans/ACE/releases) for changes, checksums and known limitations. **Boot the patched image fresh and load a normal memory-card save.** Older save states can restore old text and layout data.
@@ -17,20 +17,20 @@ For manual patching:
 1. Dump your Japanese disc to an ISO. The full patch requires these exact source bytes:
    - `Another Century's Episode (Japan).iso` — **3,357,147,136 bytes**
    - SHA-256: `7ea891fddbbc3f560330e7c8ecc74e36d2f1137cd1907abf0af3158171b3e3e9`
-2. Download `ACE-English-0.1.29.xdelta` from [release 0.1.29](https://github.com/retro-trans/ACE/releases/tag/v0.1.29).
+2. Download `ACE-English-0.1.32.xdelta` from [release 0.1.32](https://github.com/retro-trans/ACE/releases/tag/v0.1.32).
 3. Apply it with [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher) or xdelta3:
 
    ```text
-   xdelta3 -d -s "Another Century's Episode (Japan).iso" ACE-English-0.1.29.xdelta "ACE English 0.1.29.iso"
+   xdelta3 -d -s "Another Century's Episode (Japan).iso" ACE-English-0.1.32.xdelta "ACE English 0.1.32.iso"
    ```
 
-4. Verify the output: **3,357,147,136 bytes**, SHA-256 `02ad1831f30daf61348b24cdeb176e1be3bee019cfad7fefcac7a846844f7f6f`.
+4. Verify the output: **3,357,147,136 bytes**, SHA-256 `72d807e7b9e8f02f54b2ff3f491ed0fdb60c4cbf15dabdb81a0195217b248f73`.
 
-To upgrade an existing **0.1.26 English ISO**, refresh the Retro Trans catalog and choose **Latest** or **0.1.29**. For manual upgrading, use `ACE-English-0.1.26-to-0.1.29.xdelta` with that ISO. Its required source SHA-256 is `95b7fafe2b4c5ddbfbd276f1322cb4cc08479891af0b714db3520b481472244c` (3,357,147,136 bytes). Both routes produce the same verified 0.1.29 image.
+To upgrade an existing **0.1.29 English ISO**, refresh the Retro Trans catalog and choose **Latest** or **0.1.32**. For manual upgrading, use `ACE-English-0.1.29-to-0.1.32.xdelta` with that ISO. Its required source SHA-256 is `02ad1831f30daf61348b24cdeb176e1be3bee019cfad7fefcac7a846844f7f6f` (3,357,147,136 bytes). Both routes produce the same verified 0.1.32 image.
 
-The manifest and validation report accompany every patch. Other English versions and local test builds are not direct patch inputs; use the original Japanese disc image for those.
+The manifest and validation report accompany every patch. Older supported public builds can upgrade through existing Retro Trans catalog routes. Local test builds are not direct patch inputs; use the original Japanese disc image for those.
 
-## Included in 0.1.29
+## Included in 0.1.32
 
 - English menus, help, unit and pilot names, objectives, briefings, mission dialogue, and the Terminology database.
 - English UI textures and variable-width fonts, with text constrained to the game’s measured buffer limits.
@@ -42,6 +42,8 @@ The manifest and validation report accompany every patch. Other English versions
 - English title cards and subtitles restored in all 22 story movies.
 - 4x dialogue, speaker-name and lock-on fonts sharing the existing dialogue texture allocation; unused Japanese glyphs removed and the main menu atlas reduced by half.
 - Corrected fades for all 171 cards in the 22 story movies, removing Japanese flashes around English subtitles.
+- Corrected HUD font startup uploads and refreshes on quiet gameplay frames.
+- Operator-dialogue drawing capacity expanded from 50 to 128 glyphs to prevent a confirmed memory overflow.
 - Version and retro-trans credit on the title screen.
 - Corrected carrier information and launch-panel labels, without split lettering or stretched bars.
 
@@ -49,9 +51,11 @@ MOVIE005 remains original. Original Japanese audio is preserved throughout, incl
 
 ## Release status
 
-**Further proofreading and a full playthrough are needed.** The mission 3 progression fix was confirmed in play. Mission 1 (including tutorial and aerial combat), mission 2’s briefing, the title screen and the save screen were confirmed in earlier local builds. The latest panel fixes, restored story movies, ending movie and remaining missions still need in-game review. The revised shared font allocation addresses reported speaker/lock-on corruption and passes file checks, but still needs fresh-boot gameplay confirmation. A reported mission 23 completion stall remains under investigation; this release does not claim to fix it.
+**Further proofreading and a full playthrough are needed.** The mission 3 progression fix was confirmed in play. Earlier builds had confirmation for mission 1, mission 2's briefing, the title screen and save screen. The operator drawing-buffer overflow is confirmed from saved memory and corrected, but fresh-boot gameplay testing is still needed. Mission 23 completion after Jeril retreats remains unverified. The HUD upload/refresh changes also need further appearance and performance checks.
 
-Automated checks verify the disc layout, rebuilt files, text limits, translated textures, karaoke layout, movie scope and unchanged movie audio. The patch is decoded locally and the complete result compared with the release image before publication. See the [changelog](docs/CHANGELOG.md) and [release records](docs/releases/0.1.29/).
+**Credit-roll microstuttering remains under investigation; 0.1.32 does not include a fix for it.** All movie and lyric data are retained from 0.1.29. Boot the patched ISO fresh and load a normal memory-card save: older emulator states restore old code and potentially corrupted memory.
+
+Automated checks verify the disc layout, rebuilt files, text limits, translated textures, karaoke layout, movie scope and unchanged movie audio. The patch is decoded locally and the complete result compared with the release image before publication. See the [changelog](docs/CHANGELOG.md) and [release records](docs/releases/0.1.32/).
 
 Four credit readings remain provisional: Mitsuo Hasegawa, Naoizumi Tazo, Rights In and Artprest. See [movie notes](docs/movies.md). Some fast-moving news-broadcast shots were re-encoded at lower quality to fit the original movie space.
 

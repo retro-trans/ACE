@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-27",
+  "input": "incoming\\ForPOWversion.p2s",
+  "bytes": 17788011,
+  "sha256": "70539c007fb60d025bdd096ad68f4a574ceefeb965996092c92f6a9960455049",
+  "emulator_version": "v2.9.146",
+  "code_words": {
+    "0x1e165c": "0xc05f14c",
+    "0x1e17ec": "0xc05f14c",
+    "0x1e1ac8": "0x10400005",
+    "0x1e1b58": "0x10400007",
+    "0x2a64d8": "0x2600",
+    "0x2018dc": "0x24040032"
+  },
+  "current_movie_match": {
+    "movie": "MOVIE002",
+    "ram_address": "0xad9080",
+    "pss_offset": 10551296,
+    "matched_bytes": 512,
+    "pack_clock_seconds": 11.0983
+  },
+  "state_preview": "work/source/credits-stutter/Screenshot.png",
+  "exact_patch_version_confirmed": false,
+  "new_font_refresh_present": false,
+  "runtime_replay_performed": false,
+  "user_audio_stutter_observation": "Not sure"
+}

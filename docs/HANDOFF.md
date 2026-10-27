@@ -6,6 +6,28 @@ request**, releases must work with Retro Trans Tools). The user explicitly reque
 release 0.1.17 on 2026-10-15, using `binhlt0402` in `retro-trans`. Repository: https://github.com/retro-trans/ACE.
 Packaging and publication instructions are in `docs/RELEASING.md`.
 
+## Release 0.1.32 authorized (2026-10-27)
+
+pow explicitly requested a release. Publish the existing verified 0.1.32 ISO,
+including all movies/lyrics, with original-disc and public-0.1.29 upgrade patches.
+Document unverified mission completion and the unresolved credit stutter.
+No game bytes have changed since the local build. See `docs/RELEASING.md`.
+
+## Credit-roll stutter investigation (2026-10-27)
+
+pow supplied `incoming/ForPOWversion.p2s` (PCSX2 2.9.146). Its screenshot and
+buffered PSS data identify MOVIE002 before the credits (pack clock about 11.1 s).
+The saved code lacks the 0.1.31 unconditional font refresh; exact build unknown.
+Offline comparison of the original/translated ending confirms all 14,342 frames,
+constant 30000/1001 cadence, no repeat flags and identical audio/nonvideo bytes.
+Two translated B-picture starts at 164.130633/164.230733 s are later than their
+decode clock; this is a packet-scheduling concern, not proof of the reported
+stutter or an explanation for persistent stuttering. No desktop control/replay,
+game changes, build or release. See `docs/credits_stutter_investigation.md`,
+`tools/verify_movie_timing.py`, and `work/ui/credits-stutter/`. Reference clip:
+`work/output/credits-stutter-reference-155s.mp4`. Runtime frame timing remains
+needed; pow is unsure whether audio also stutters.
+
 ## Dialogue drawing overflow: local 0.1.32 (2026-10-26)
 
 pow supplied the mission-selection screenshot confirming campaign 39, Southern
@@ -34,12 +56,13 @@ Local ISO built: `work/output/ACE-EN-0.1.32.iso` (3,357,147,136 bytes), SHA-256
 Build resource/movie readbacks and disc-layout checks passed. The finished ISO
 passes the saved-state allocation audit and direct 0.1.31 scope comparison:
 only EE 0x2018dc and three title stamps change; all other resources/files,
-including every movie, match. No release requested. A fresh boot and normal
+including every movie, match. Release requested on 2026-10-27. A fresh boot and normal
 memory-card load are needed for the runtime retest: the hanging state retains
 old allocation sizes and already damaged heap data.
 
-The earlier 0.1.30 Jeril screenshot's exact line still maps to 025, unlike the
-new menu/state evidence for 044. Do not dismiss the user's mission number.
+pow corrected the earlier 0.1.30 Jeril screenshot to campaign mission 23 on
+2026-10-26, matching internal 025 row 27. The screenshot identification is
+resolved; keep this report separate from the newer internal-044 hang state.
 The overflow also affects over-50-glyph operator rows in 025 and may explain
 its stalls, but no saved state of the earlier post-retreat stall was supplied.
 Mission completion remains unverified; do not claim both stalls solved.
@@ -157,11 +180,10 @@ Final reports are `work/output/ACE-EN-0.1.28.movies.verify.json` and `.restore.v
 ## Mission 23 investigation (2026-10-22)
 
 Follow-up 2026-10-26: pow reports an idle Jeril retreating with "Tch, that's
-enough for today!" on **0.1.30**, then no spawns/completion. They called it
-mission 39, but the exact line is internal 025 row 27 (campaign 23); internal
-044/campaign 39 has no matching line and names Zakaal. The subsequent selection
-screenshot and 0.1.31 saved state confirm 044; the earlier screenshot mismatch
-remains unexplained. Actual 0.1.30 checks pass for all 70/105 rows in 025/044, and 556
+enough for today!" on **0.1.30**, then no spawns/completion. pow subsequently
+corrected this screenshot to **mission 23**, matching internal 025 row 27.
+The newer 0.1.31 saved state contains internal-044/campaign-39 resources and
+is separate evidence. Actual 0.1.30 checks pass for all 70/105 rows in 025/044, and 556
 logic/map/enemy resources match the original. Those checks missed the drawing
 buffer overflow now proved by the 0.1.31 hang state (see above). Completion after
 the earlier retreat is still unverified. See `docs/mission23_investigation.md` and
