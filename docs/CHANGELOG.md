@@ -2,10 +2,13 @@
 
 ## 0.1.38 - 2026-10-28
 
-- Public release requested by pow. Includes all local changes from 0.1.33–0.1.37:
+- Public release requested by pow and published. Includes all local changes from 0.1.33–0.1.37:
   runtime story subtitles, lossless movie repacking, Slot Info labels, briefing
   conditions and lock-on name capacity. Retains English lyrics and karaoke.
-- Package original-disc and direct public 0.1.32 upgrade routes for Retro Trans.
+- Verified original-disc and direct public 0.1.32 upgrade patches for Retro Trans.
+  Full patch: 320,191,209 bytes (64% smaller than 0.1.32). Upgrade: 649,109,108
+  bytes, including restoration of original story movies. Both reconstruct the
+  complete target image; all five uploaded assets match local SHA-256 hashes.
 
 - Fix radio speaker names stopping after 12 characters (`Titans Soldi`). Raise
   the speaker draw/reveal count to the translation budget of 22 characters.

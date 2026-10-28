@@ -1,0 +1,80 @@
+{
+  "assets": [
+    {
+      "apiUrl": "https://api.github.com/repos/retro-trans/ACE/releases/assets/684899438",
+      "contentType": "application/octet-stream",
+      "createdAt": "2026-10-28T12:17:06Z",
+      "digest": "sha256:c3e476bbbb0b561d704bc8d3759b87fcba0baf921238fd6898ef482159e5446f",
+      "downloadCount": 0,
+      "id": "RA_kwDOVJuZ584o0rxu",
+      "label": "",
+      "name": "ACE-English-0.1.32-to-0.1.38.xdelta",
+      "size": 649109108,
+      "state": "uploaded",
+      "updatedAt": "2026-10-28T12:18:08Z",
+      "url": "https://github.com/retro-trans/ACE/releases/download/v0.1.38/ACE-English-0.1.32-to-0.1.38.xdelta"
+    },
+    {
+      "apiUrl": "https://api.github.com/repos/retro-trans/ACE/releases/assets/684886679",
+      "contentType": "application/octet-stream",
+      "createdAt": "2026-10-28T12:12:16Z",
+      "digest": "sha256:a0311d931b599d228100eb748cc0b129e0d9c94ac68dd5d2a1f22ef63ee2c832",
+      "downloadCount": 0,
+      "id": "RA_kwDOVJuZ584o0oqX",
+      "label": "",
+      "name": "ACE-English-0.1.38.xdelta",
+      "size": 320191209,
+      "state": "uploaded",
+      "updatedAt": "2026-10-28T12:12:46Z",
+      "url": "https://github.com/retro-trans/ACE/releases/download/v0.1.38/ACE-English-0.1.38.xdelta"
+    },
+    {
+      "apiUrl": "https://api.github.com/repos/retro-trans/ACE/releases/assets/684903671",
+      "contentType": "application/json",
+      "createdAt": "2026-10-28T12:18:25Z",
+      "digest": "sha256:bff04df9e5539b9ba52f2443bab7ee1a3ac3a9fe95bc24da365166c1c2ac3c8c",
+      "downloadCount": 0,
+      "id": "RA_kwDOVJuZ584o0sz3",
+      "label": "",
+      "name": "BUILD-MANIFEST.json",
+      "size": 1636,
+      "state": "uploaded",
+      "updatedAt": "2026-10-28T12:18:25Z",
+      "url": "https://github.com/retro-trans/ACE/releases/download/v0.1.38/BUILD-MANIFEST.json"
+    },
+    {
+      "apiUrl": "https://api.github.com/repos/retro-trans/ACE/releases/assets/684899441",
+      "contentType": "text/plain; charset=utf-8",
+      "createdAt": "2026-10-28T12:17:06Z",
+      "digest": "sha256:1aa0d7bcf40cf7534abb6bdb0764c38dd0157de5f41b775b8d8e312dae77a0cc",
+      "downloadCount": 0,
+      "id": "RA_kwDOVJuZ584o0rxx",
+      "label": "",
+      "name": "SHA256SUMS.txt",
+      "size": 366,
+      "state": "uploaded",
+      "updatedAt": "2026-10-28T12:17:06Z",
+      "url": "https://github.com/retro-trans/ACE/releases/download/v0.1.38/SHA256SUMS.txt"
+    },
+    {
+      "apiUrl": "https://api.github.com/repos/retro-trans/ACE/releases/assets/684899442",
+      "contentType": "application/json",
+      "createdAt": "2026-10-28T12:17:06Z",
+      "digest": "sha256:2254d63ef193cc3f9bd4d8476535de7606260c3195ea2a4815973c928ce4d346",
+      "downloadCount": 0,
+      "id": "RA_kwDOVJuZ584o0rxy",
+      "label": "",
+      "name": "VALIDATION.json",
+      "size": 506,
+      "state": "uploaded",
+      "updatedAt": "2026-10-28T12:17:06Z",
+      "url": "https://github.com/retro-trans/ACE/releases/download/v0.1.38/VALIDATION.json"
+    }
+  ],
+  "isDraft": false,
+  "isPrerelease": false,
+  "tagName": "v0.1.38",
+  "targetCommitish": "bf0e0cfe29a10b2f064496a8ff80ee62b21fb68a",
+  "url": "https://github.com/retro-trans/ACE/releases/tag/v0.1.38",
+  "all_asset_sizes_and_sha256_verified": true
+}

@@ -2,6 +2,8 @@
 
 English fan translation of **Another Century's Episode** for PlayStation 2 (**Japan, SLPS-25394**). Apply the downloadable xdelta patch to your own disc image. This repository contains translation text, glossaries, layout metadata and tools.
 
+Release **0.1.38** includes the movie pacing and clipped-name fixes. The original-disc patch is **320 MB** (about **64% smaller** than 0.1.32), with all translations and lyrics retained. The direct 0.1.32 upgrade is **649 MB** because it also restores the original story movies.
+
 ## Applying the patch
 
 Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools) for automatic patching:

@@ -1,15 +1,19 @@
 English fan translation of **Another Century's Episode** for PS2 (**Japan, SLPS-25394**). This release reduces patch size, improves movie playback and fixes clipped names and menu text. All translations and opening/ending lyrics are retained.
 
+The original-disc patch is **320 MB**, down from **891 MB** in 0.1.32 (about **64% smaller**).
+
 ### Apply
 
 **Recommended:** Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools). Click **Refresh catalog**, open **Automatic**, select your original Japanese ISO or public **0.1.32 English ISO**, choose **English** and **0.1.38** (or **Latest**), and select a new output filename. Older supported public builds can upgrade through existing catalog routes.
 
 **Manual patching:** Use [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher) or xdelta3:
 
-| Source image | Patch |
-| --- | --- |
-| Original Japanese SLPS-25394 ISO | `ACE-English-0.1.38.xdelta` |
-| Public 0.1.32 English ISO | `ACE-English-0.1.32-to-0.1.38.xdelta` |
+| Source image | Patch | Download |
+| --- | --- | --- |
+| Original Japanese SLPS-25394 ISO | `ACE-English-0.1.38.xdelta` | 320 MB |
+| Public 0.1.32 English ISO | `ACE-English-0.1.32-to-0.1.38.xdelta` | 649 MB |
+
+The upgrade is larger because it restores original story movies from the older re-encoded versions. If you have the original Japanese ISO available, that route uses the smaller download.
 
 ```text
 xdelta3 -d -s "Another Century's Episode (Japan).iso" ACE-English-0.1.38.xdelta "ACE English 0.1.38.iso"

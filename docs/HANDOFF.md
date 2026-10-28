@@ -6,6 +6,29 @@ request**, releases must work with Retro Trans Tools). The user explicitly reque
 release 0.1.17 on 2026-10-15, using `binhlt0402` in `retro-trans`. Repository: https://github.com/retro-trans/ACE.
 Packaging and publication instructions are in `docs/RELEASING.md`.
 
+## Release 0.1.38 published (2026-10-28)
+
+pow explicitly requested publication. Release:
+https://github.com/retro-trans/ACE/releases/tag/v0.1.38.
+Source/tag commit: `bf0e0cfe29a10b2f064496a8ff80ee62b21fb68a`.
+Includes local 0.1.33–0.1.38 changes: runtime story captions, movie pacing,
+Slot Info labels, single-line briefing conditions and full lock-on/speaker names.
+All lyrics and translations retained. The ISO bytes match the completed local
+0.1.38 build. Both patches passed full reconstruction and all five uploaded
+asset sizes/SHA-256 hashes match. Original-disc patch: 320,191,209 bytes;
+public-0.1.32 upgrade: 649,109,108 bytes. The upgrade is larger because it
+restores original MOVIE1 bytes from previously re-encoded story movies.
+Package: `work/output/release-0.1.38-upgrade-from-0.1.32/`.
+Canonical metadata/evidence: `docs/releases/0.1.38/`.
+Retro Trans catalog refresh `40686770179` succeeded. Downloaded public catalog
+checks confirm original-disc Latest/specific routes, direct 0.1.32 upgrades,
+and existing 0.1.26/0.1.29 upgrade chains. Old identities remain unchanged;
+current-image no-op and unknown-image rejection pass. Refresh the catalog
+and choose Latest in Automatic to install this release.
+Fresh boot and normal memory-card save required; new runtime captions and HUD
+name limits still need gameplay confirmation. Mission 23 completion remains
+unverified. Credits pacing improvement was measured in the isolated test only.
+
 ## Speaker-name cap: local 0.1.38 (2026-10-28)
 
 The screenshot shows `Titans Soldi`, the first 12 characters of `Titans Soldier`.
@@ -16,7 +39,7 @@ Font size comes separately through f12. Retain the existing 50-glyph allocation
 at 0x20153c, routed through 0x1d03b0 and 0x1c8950; no allocation change needed.
 Build with `python tools/build.py 0.1.38 --movie-overlay --movie-pacing --write`.
 The user explicitly requested publication of 0.1.38 on 2026-10-28.
-Release preparation is in progress; see docs/releases/RELEASE_NOTES_0.1.38.md.
+Published; see docs/releases/RELEASE_NOTES_0.1.38.md and the release record above.
 Fresh boot required to use the new executable.
 Completed ISO: `work/output/ACE-EN-0.1.38.iso`, SHA-256
 `43657b815725eb6007ef8e4fa3254dba385ff6eeaddaaad41b0dc68c68a46fa0`.
