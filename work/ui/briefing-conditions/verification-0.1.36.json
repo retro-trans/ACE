@@ -1,0 +1,49 @@
+{
+  "version": "0.1.36",
+  "baseline": "0.1.35",
+  "conditions": [
+    {
+      "table": "f007.fmg",
+      "row": 2,
+      "text": "Escort friendly warship",
+      "width": 182,
+      "max_width": 200,
+      "lines": 1
+    },
+    {
+      "table": "f016.fmg",
+      "row": 3,
+      "text": "40 percent city damage",
+      "width": 183,
+      "max_width": 200,
+      "lines": 1
+    },
+    {
+      "table": "f030.fmg",
+      "row": 2,
+      "text": "Ensure speech succeeds",
+      "width": 189,
+      "max_width": 200,
+      "lines": 1
+    }
+  ],
+  "verified_copies": {
+    "f007.fmg": 3,
+    "f016.fmg": 3,
+    "f030.fmg": 3,
+    "t3105.tm2": 3
+  },
+  "changed_resources": [
+    "\\target\\menu\\tm2\\t3105.tm2",
+    "\\target\\menu\\fmg\\f007.fmg",
+    "\\target\\menu\\fmg\\f016.fmg",
+    "\\target\\menu\\fmg\\f030.fmg",
+    "\\target\\menu\\bnd\\mode_data\\MenuTitle.csc",
+    "\\target\\menu\\bnd\\mode_data\\MenuTitleIntro.csc",
+    "\\target\\menu\\bnd\\mode_data\\MenuCampaign.csc",
+    "\\target\\menu\\bnd\\mode_data\\MenuFree.csc"
+  ],
+  "other_resources_identical": true,
+  "executable_and_all_movies_identical": true,
+  "runtime_verified": false
+}

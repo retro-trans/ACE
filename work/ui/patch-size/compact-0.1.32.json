@@ -1,0 +1,27 @@
+{
+  "version": "0.1.32",
+  "published_patch_bytes": 890566740,
+  "compact_patch_bytes": 887030447,
+  "bytes_saved": 3536293,
+  "percent_saved": 0.39708343475751695,
+  "encoder": "Retro Trans Tools bundled xdelta3 3.2.0",
+  "encode_arguments": [
+    "-e",
+    "-9",
+    "-D",
+    "-A",
+    "-B",
+    "134217728",
+    "-W",
+    "33554432",
+    "-I",
+    "0"
+  ],
+  "patch_sha256": "4d5c58e94667631a7cffefef57ec5a0485129335f6e8fbc91543183046e48d4d",
+  "decoded_sha256": "72d807e7b9e8f02f54b2ff3f491ed0fdb60c4cbf15dabdb81a0195217b248f73",
+  "decoded_bytes": 3357147136,
+  "roundtrip_verified": true,
+  "identical_to_public_0_1_32": true,
+  "published": false,
+  "original_patch_unchanged": true
+}

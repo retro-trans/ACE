@@ -1,0 +1,17 @@
+{
+  "version": "0.1.37",
+  "baseline": "0.1.36",
+  "conditions": [],
+  "verified_copies": {
+    "t3105.tm2": 3
+  },
+  "changed_resources": [
+    "\\target\\menu\\tm2\\t3105.tm2",
+    "\\target\\menu\\bnd\\mode_data\\MenuTitle.csc",
+    "\\target\\menu\\bnd\\mode_data\\MenuTitleIntro.csc"
+  ],
+  "other_resources_identical": true,
+  "executable_only_two_capacity_constants": true,
+  "all_movies_identical": true,
+  "runtime_verified": false
+}

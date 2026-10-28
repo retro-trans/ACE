@@ -1,0 +1,44 @@
+{
+  "version": "0.1.35",
+  "baseline": "0.1.34",
+  "labels": [
+    {
+      "text": "Power",
+      "atlas_box": [
+        207,
+        171,
+        227,
+        241
+      ],
+      "text_width": 49,
+      "slot_width": 70
+    },
+    {
+      "text": "Reload",
+      "atlas_box": [
+        228,
+        171,
+        247,
+        241
+      ],
+      "text_width": 50,
+      "slot_width": 70
+    }
+  ],
+  "changed_atlas_pixels": 1705,
+  "changed_resources": [
+    "\\target\\menu\\tm2\\t0804.tm2",
+    "\\target\\menu\\tm2\\t3105.tm2",
+    "\\target\\menu\\bnd\\mode_data\\MenuTitle.csc",
+    "\\target\\menu\\bnd\\mode_data\\MenuTitleIntro.csc",
+    "\\target\\menu\\bnd\\mode_data\\MenuCampaign.csc",
+    "\\target\\menu\\bnd\\mode_data\\MenuFree.csc"
+  ],
+  "verified_texture_copies": {
+    "t0804.tm2": 3,
+    "t3105.tm2": 3
+  },
+  "other_game_resources_unchanged": true,
+  "executable_and_all_movies_identical": true,
+  "runtime_verified": false
+}

@@ -17,6 +17,9 @@ spoken by the commanding officers. Project root: `E:\Projects\ACE`.
   * ids 2-4: HUD labels for the victory condition, defeat condition and secret objective. They must match the
     in-mission objective labels already translated in `work/translation/en/dialogue/mNNN.json` (rows 1-4) where
     the Japanese is the same.
+    Victory and defeat conditions (ids 2/3) must fit **one line of 200 font
+    units**: their briefing panels hide a second line. Secret objectives (id 4)
+    may use two lines. Shorten wording without dropping the objective's meaning.
   * ids 100+: the briefing, in order. ids 200+: the debriefing, in order. id 300: the line shown when the
     mission is failed.
 * The same mission's in-mission dialogue is already translated in `work/translation/en/dialogue/mNNN.json` (same

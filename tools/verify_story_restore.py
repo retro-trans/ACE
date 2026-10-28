@@ -25,7 +25,14 @@ def main():
     require(not current['movies_without_lyrics'], 'Lyrics must be included')
     for name, digest in prior['movies'].items():
         if name.startswith('/MOVIE0/'):
-            require(current['movies'].get(name) == digest, 'Opening/ending movie changed: ' + name)
+            pacing = current.get('movie_pacing', {}).get(name)
+            if pacing:
+                require(pacing['source_sha256'] == digest and
+                        pacing['sha256'] == current['movies'].get(name) and
+                        pacing.get('decoded_frames_verified', 0) > 0,
+                        'Opening/ending repack is not verified against the baseline: ' + name)
+            else:
+                require(current['movies'].get(name) == digest, 'Opening/ending movie changed: ' + name)
     with open(SOURCE_ISO, 'rb') as source:
         db = database(source)
         original = db.read(next(e for e in db.entries if leaf(e['name']) == TEXTURE))
@@ -59,12 +66,24 @@ def main():
             if name == '/DATA.BIN' or name.endswith('.PSS'):
                 continue
             other = bf[name]
+            if name == '/SLPS_253.94' and current.get('movie_overlay'):
+                import movie_overlay
+                old.seek(entry['offset'])
+                expected = old.read(entry['size'])
+                if not prior.get('movie_overlay'):
+                    expected = movie_overlay.patch_elf(expected, {})
+                new.seek(other['offset'])
+                require(new.read(other['size']) == expected, 'Unexpected executable change outside movie overlay')
+                continue
             require(entry['size'] == other['size'], 'File size changed: ' + name)
             require(range_hash(old, entry['offset'], entry['size']) ==
                     range_hash(new, other['offset'], other['size']), 'Unrelated disc file changed: ' + name)
             other_files.append(name)
     result = dict(iso=args.iso.name, baseline=prior_path.name, changed_resources=changed,
-                  other_game_data_unchanged=True, hud_font_unchanged=True, lyrics_movies_unchanged=True,
+                  other_game_data_unchanged=True, hud_font_unchanged=True,
+                  lyrics_movies_unchanged=not bool(current.get('movie_pacing')),
+                  lyrics_movie_pixels_preserved=True,
+                  movie_overlay=bool(current.get('movie_overlay')),
                   unchanged_disc_files=other_files, runtime_verified=False)
     print(json.dumps(result, indent=1))
     if args.write:

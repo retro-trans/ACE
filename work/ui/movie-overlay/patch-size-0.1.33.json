@@ -1,0 +1,14 @@
+{
+  "version": "0.1.33",
+  "baseline": "0.1.32",
+  "baseline_patch_bytes": 890566740,
+  "overlay_patch_bytes": 319280205,
+  "bytes_saved": 571286535,
+  "percent_saved": 64.1486493196456,
+  "patch_sha256": "a3d714b6ecda2309e5189da54ef766075f74cf73cbe50ca08a8d092d5f239818",
+  "target_sha256": "62f705bc67ae40539f8147ce4209f93617f17e725ebee389882568133acdc8c0",
+  "target_bytes": 3357147136,
+  "retro_trans_tools_roundtrip_verified": true,
+  "published": false,
+  "encoder": "Retro Trans Tools bundled xdelta3 3.2.0, default release settings"
+}

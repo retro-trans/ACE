@@ -1,0 +1,106 @@
+{
+  "glyphs_before": 12,
+  "glyphs_after": 24,
+  "bytes_before": 1520,
+  "bytes_after": 2864,
+  "sites": {
+    "allocation": "0x1d7228",
+    "drawing": "0x1d86dc"
+  },
+  "labels_checked": 104,
+  "affected": [
+    {
+      "text": "Ashura Temple",
+      "previously_visible": "Ashura Templ",
+      "glyphs": 13,
+      "width": 77
+    },
+    {
+      "text": "Ito Ganbatte Test",
+      "previously_visible": "Ito Ganbatte",
+      "glyphs": 17,
+      "width": 88
+    },
+    {
+      "text": "Calvary Temple",
+      "previously_visible": "Calvary Temp",
+      "glyphs": 14,
+      "width": 79
+    },
+    {
+      "text": "Psycho Gundam",
+      "previously_visible": "Psycho Gunda",
+      "glyphs": 13,
+      "width": 85
+    },
+    {
+      "text": "Psycho Gundam Mk-II",
+      "previously_visible": "Psycho Gunda",
+      "glyphs": 19,
+      "width": 113
+    },
+    {
+      "text": "Sub-Cannon 01",
+      "previously_visible": "Sub-Cannon 0",
+      "glyphs": 13,
+      "width": 80
+    },
+    {
+      "text": "Sub-Cannon 02",
+      "previously_visible": "Sub-Cannon 0",
+      "glyphs": 13,
+      "width": 80
+    },
+    {
+      "text": "Sub-Cannon 03",
+      "previously_visible": "Sub-Cannon 0",
+      "glyphs": 13,
+      "width": 80
+    },
+    {
+      "text": "Sub-Cannon 04",
+      "previously_visible": "Sub-Cannon 0",
+      "glyphs": 13,
+      "width": 80
+    },
+    {
+      "text": "Sub-Cannon 05",
+      "previously_visible": "Sub-Cannon 0",
+      "glyphs": 13,
+      "width": 80
+    },
+    {
+      "text": "Jonathan's Grancher",
+      "previously_visible": "Jonathan's G",
+      "glyphs": 19,
+      "width": 108
+    },
+    {
+      "text": "Poseidal Statue",
+      "previously_visible": "Poseidal Sta",
+      "glyphs": 15,
+      "width": 80
+    },
+    {
+      "text": "Reflector Bit",
+      "previously_visible": "Reflector Bi",
+      "glyphs": 13,
+      "width": 64
+    },
+    {
+      "text": "Chaff Grenade",
+      "previously_visible": "Chaff Grenad",
+      "glyphs": 13,
+      "width": 74
+    },
+    {
+      "text": "Control Panel",
+      "previously_visible": "Control Pane",
+      "glyphs": 13,
+      "width": 71
+    }
+  ],
+  "native_allocator_executed": true,
+  "font_size_unchanged": true,
+  "runtime_verified": false
+}

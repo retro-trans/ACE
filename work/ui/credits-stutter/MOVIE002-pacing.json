@@ -1,0 +1,16 @@
+{
+  "source": "work\\source\\movie-export-0.1.29\\MOVIE002.PSS",
+  "output": "work\\output\\movie-pacing\\MOVIE002.PSS",
+  "bytes": 453476356,
+  "stuffing_runs": 1191,
+  "video_stuffing_bytes_removed": 90879883,
+  "changed_video_packets": 23311,
+  "padding_only_packets": 21330,
+  "original_nonvideo_sha256": "db7d89fc96d8571d9684a7f994fe18e9884cfe78273ffd65f659beff5e0110a2",
+  "original_nonvideo_ranges_identical": true,
+  "reencoded_pictures": 0,
+  "source_sha256": "832fd92ddc20e999f9e1405be440d2c4473cd4cbe5f60fdf764ff8d52b23095d",
+  "sha256": "5ed620d8cdc3655f8f77850850edf0b96576d9fb58a9d57f53e08881da173b49",
+  "decoded_frames_verified": 14342,
+  "frame_md5_sha256": "b3db54180dc130fbafbc5bd4c879b2120034dd1cb8ccf23cdfcbad0488a47c4e"
+}

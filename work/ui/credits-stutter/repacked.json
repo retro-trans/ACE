@@ -1,0 +1,293 @@
+{
+  "emulator": "PCSX2 v2.8.2",
+  "game": "SLPS-25394",
+  "crc": "e8960172",
+  "elapsed_s": 180.00061950000236,
+  "samples": 32297,
+  "skipped_samples": 0,
+  "empty_queue_samples": 0,
+  "first_decoder_counter": [
+    7891008,
+    340
+  ],
+  "last_decoder_counter": [
+    7891008,
+    5568
+  ],
+  "final_counter_unchanged_ms": 5.647499987389892,
+  "maximum_poll_gap_ms": 934.2760000145063,
+  "decoder_counter_gaps_over_50ms": [
+    {
+      "at_s": 5.251168,
+      "gap_ms": 5250.549,
+      "counter_step": 1,
+      "queued": 2
+    },
+    {
+      "at_s": 5.637555,
+      "gap_ms": 386.387,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 7.005647,
+      "gap_ms": 50.413,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 7.205882,
+      "gap_ms": 50.611,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 7.405456,
+      "gap_ms": 50.711,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 10.308554,
+      "gap_ms": 50.292,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 10.408669,
+      "gap_ms": 50.194,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 12.811491,
+      "gap_ms": 50.296,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 13.012458,
+      "gap_ms": 50.496,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 13.330403,
+      "gap_ms": 68.313,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 13.712748,
+      "gap_ms": 51.104,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 14.811916,
+      "gap_ms": 50.06,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 15.814595,
+      "gap_ms": 50.247,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 16.41531,
+      "gap_ms": 50.321,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 17.432434,
+      "gap_ms": 63.981,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 18.321917,
+      "gap_ms": 50.959,
+      "counter_step": 1,
+      "queued": 2
+    },
+    {
+      "at_s": 18.751314,
+      "gap_ms": 50.798,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 18.818813,
+      "gap_ms": 50.463,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 19.252479,
+      "gap_ms": 50.239,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 20.552455,
+      "gap_ms": 50.086,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 39.170947,
+      "gap_ms": 950.498,
+      "counter_step": 28,
+      "queued": 1
+    },
+    {
+      "at_s": 40.314242,
+      "gap_ms": 194.263,
+      "counter_step": 5,
+      "queued": 1
+    },
+    {
+      "at_s": 83.094037,
+      "gap_ms": 61.401,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 86.819554,
+      "gap_ms": 50.209,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 88.052534,
+      "gap_ms": 50.159,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 91.623123,
+      "gap_ms": 50.06,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 95.727801,
+      "gap_ms": 50.166,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 95.927714,
+      "gap_ms": 50.296,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 96.02714,
+      "gap_ms": 50.087,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 96.327828,
+      "gap_ms": 50.532,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 96.428014,
+      "gap_ms": 50.537,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 97.228482,
+      "gap_ms": 50.006,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 98.629671,
+      "gap_ms": 50.381,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 98.730063,
+      "gap_ms": 50.367,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 98.830658,
+      "gap_ms": 50.436,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 98.930335,
+      "gap_ms": 50.138,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 99.829796,
+      "gap_ms": 50.031,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 102.138156,
+      "gap_ms": 51.489,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 102.734124,
+      "gap_ms": 50.179,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 103.635165,
+      "gap_ms": 50.305,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 104.8355,
+      "gap_ms": 50.402,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 105.15231,
+      "gap_ms": 60.986,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 105.940093,
+      "gap_ms": 50.811,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 106.045846,
+      "gap_ms": 53.703,
+      "counter_step": 1,
+      "queued": 1
+    },
+    {
+      "at_s": 110.249455,
+      "gap_ms": 55.238,
+      "counter_step": 1,
+      "queued": 1
+    }
+  ],
+  "error": null,
+  "limitation": "Read-only sampling, not a frame-present trace. Gaps include host scheduling and pauses; queue emptiness alone is not proof of starvation."
+}

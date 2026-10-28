@@ -115,6 +115,10 @@ def patch_elf(elf, report):
     report['elf_strings'] = [new for _, _, new in ELF_STRINGS]
     from dialogue_buffer import patch as patch_dialogue_buffer
     patch_dialogue_buffer(out, report)
+    from lockon_capacity import patch as patch_lockon_capacity
+    patch_lockon_capacity(out, report)
+    from speaker_capacity import patch as patch_speaker_capacity
+    patch_speaker_capacity(out, report)
     if report.get('shared_ingame_font'):
         # Resource 50051's fixed GS base, read by EE 0x1c45d0 from this table.
         # Both font textures now contain the identical shared atlas. Keep their
@@ -558,6 +562,9 @@ def write_iso(patches, tail, new_size, changed_payloads, out_path, report, other
     order = sorted(files, key=lambda k: files[k]['offset'])
     sizes = {k: files[k]['size'] for k in files}
     sizes['/DATA.BIN'] = new_size
+    for name, body in (other_files or {}).items():
+        if name == '/SLPS_253.94':
+            sizes[name] = body.stat().st_size if isinstance(body, Path) else len(body)
     wanted, shift = {}, 0
     for name in order:
         wanted[name] = {'offset': files[name]['offset'] + shift, 'size': sizes[name]}
@@ -621,12 +628,12 @@ def write_iso(patches, tail, new_size, changed_payloads, out_path, report, other
                 write_data_bin(src, dst, files[name], patches, tail)
                 require(dst.tell() == w['offset'] + new_size, 'DATA.BIN size mismatch')
             elif other_files and name in other_files and isinstance(other_files[name], Path):
-                # A rebuilt file on disk (the movies): streamed, same size.
-                require(other_files[name].stat().st_size == files[name]['size'], 'Replacement for %s changes its size' % name)
+                # Stream rebuilt files; only the executable may have a new size.
+                require(other_files[name].stat().st_size == sizes[name], 'Replacement for %s changes its planned size' % name)
                 with open(other_files[name], 'rb') as rf:
                     shutil.copyfileobj(rf, dst, 8 << 20)
             elif other_files and name in other_files:
-                require(len(other_files[name]) == files[name]['size'], 'Replacement for %s changes its size' % name)
+                require(len(other_files[name]) == sizes[name], 'Replacement for %s changes its planned size' % name)
                 dst.write(other_files[name])
             else:
                 src.seek(files[name]['offset'])
@@ -661,6 +668,9 @@ def write_iso(patches, tail, new_size, changed_payloads, out_path, report, other
                     h.update(block)
                     left -= len(block)
                 require(h.hexdigest() == sha256(src_path), 'Rebuilt file differs on disc: ' + name)
+            else:
+                f.seek(wanted[name]['offset'])
+                require(f.read(wanted[name]['size']) == src_path, 'Rebuilt file differs on disc: ' + name)
         # Spot-check untouched resources against the source disc.
         with open(SOURCE_ISO, 'rb') as s:
             sdb = DataBin(s, files['/DATA.BIN']['offset'], files['/DATA.BIN']['size'])
@@ -694,6 +704,10 @@ def main():
     ap.add_argument('version')
     ap.add_argument('--write', action='store_true')
     ap.add_argument('--movies', default=None, help='comma list of movie specs to include (default: all with a spec)')
+    ap.add_argument('--movie-overlay', action='store_true',
+                    help='local test: runtime story captions with original MOVIE1 video bytes')
+    ap.add_argument('--movie-pacing', action='store_true',
+                    help='use verified lossless movie repacks that avoid IPU zero-stuffing stalls')
     ap.add_argument('--no-lyrics', action='store_true',
                     help='public release: movies without the user-supplied song lyrics (karaoke left out)')
     ap.add_argument('--stock-missions', default='', help='diagnostic: comma list of mission numbers (e.g. 001) left untranslated')
@@ -706,6 +720,8 @@ def main():
     ap.add_argument('--no-cleanup', action='store_true',
                     help='diagnostic: stock ELF labels, no blanking of unused tables, no zeroing of moved slots')
     a = ap.parse_args()
+    require(not a.movie_overlay or (not a.movies and not a.no_lyrics),
+            'Runtime movie overlay builds retain all movie translations and lyrics')
     report = {'version': a.version}
     if a.stock_missions:
         DIAG['stock_missions'] = set(a.stock_missions.split(','))
@@ -731,6 +747,7 @@ def main():
         DIAG['rows'] = {mission: (include, ids)}
     if DIAG:
         report['diagnostic'] = {k: sorted(v) if isinstance(v, set) else str(v) for k, v in DIAG.items()}
+    require(not a.movie_overlay or not DIAG, 'Do not combine movie overlays with mission diagnostics')
     with open(SOURCE_ISO, 'rb') as f:
         rec = iso_files(f)['/DATA.BIN']
         patches, tail, new_size, _ = build_data(DataBin(f, rec['offset'], rec['size']), report)
@@ -746,11 +763,21 @@ def main():
         rec = iso_files(f)['/SLPS_253.94']
         f.seek(rec['offset'])
         elf = patch_elf(f.read(rec['size']), report)
+    if a.movie_overlay:
+        import movie_overlay
+        elf = movie_overlay.patch_elf(elf, report)
     import movie_text
     only = set(a.movies.split(',')) if a.movies else None
+    if a.movie_overlay:
+        only = {'MOVIE001', 'MOVIE002', 'MOVIE003'}
     movies = {} if DIAG else movie_text.ready(only, a.no_lyrics)      # diagnostic builds keep the stock movies
+    if a.movie_pacing:
+        require(not DIAG, 'Do not combine movie pacing with mission diagnostics')
+        import movie_pacing
+        movies = movie_pacing.ready(movies, report)
     report['movies_without_lyrics'] = bool(a.no_lyrics)
-    report['movies'] = {name: json.loads((path.with_suffix('.json')).read_text(encoding='utf-8'))['sha256']
+    report['movies'] = {name: (report['movie_pacing'][name]['sha256'] if a.movie_pacing else
+                              json.loads((path.with_suffix('.json')).read_text(encoding='utf-8'))['sha256'])
                         for name, path in movies.items()}
     write_iso(patches, tail, new_size, report['changed'], out, report, dict({'/SLPS_253.94': elf}, **movies))
     report['sha256'] = sha256(out)

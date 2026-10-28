@@ -6,6 +6,169 @@ request**, releases must work with Retro Trans Tools). The user explicitly reque
 release 0.1.17 on 2026-10-15, using `binhlt0402` in `retro-trans`. Repository: https://github.com/retro-trans/ACE.
 Packaging and publication instructions are in `docs/RELEASING.md`.
 
+## Speaker-name cap: local 0.1.38 (2026-10-28)
+
+The screenshot shows `Titans Soldi`, the first 12 characters of `Titans Soldier`.
+This is separate from the lock-on path. `tools/speaker_capacity.py` changes
+EE 0x201af0 from `addiu t1,zero,12` to 22 before the 0x26f1a0 draw wrapper.
+The wrapper passes t1 through 0x26faf0 to the character-reveal setter 0x1b2830.
+Font size comes separately through f12. Retain the existing 50-glyph allocation
+at 0x20153c, routed through 0x1d03b0 and 0x1c8950; no allocation change needed.
+Build with `python tools/build.py 0.1.38 --movie-overlay --movie-pacing --write`.
+The user explicitly requested publication of 0.1.38 on 2026-10-28.
+Release preparation is in progress; see docs/releases/RELEASE_NOTES_0.1.38.md.
+Fresh boot required to use the new executable.
+Completed ISO: `work/output/ACE-EN-0.1.38.iso`, SHA-256
+`43657b815725eb6007ef8e4fa3254dba385ff6eeaddaaad41b0dc68c68a46fa0`.
+`tools/verify_speaker_capacity.py --iso work/output/ACE-EN-0.1.38.iso --write`
+executes the original/patched 0x201a70 speaker wrapper in MIPS64 and confirms
+the count changes from 12 to 22 while the text pointer, HUD font selection and
+font size stay unchanged. All 69 speaker labels fit; 11 exceed the old count.
+Evidence and preview: `work/ui/speaker-capacity/`. Scoped ISO comparison with
+0.1.37 passes: only one executable immediate and three title stamps change;
+all other resources and all movies are identical. Live gameplay not checked.
+
+## Lock-on name cap: local 0.1.37 (2026-10-28)
+
+The screenshot shows `Jonathan's G`, exactly the first 12 characters of
+`Jonathan's Grancher`. Stock code caps allocation at EE 0x1d7228 and drawing
+at 0x1d86dc to 12 glyphs. `tools/lockon_capacity.py`
+raises both to 24, matching the existing ASCII byte cap. Font size at
+0x1d8620 remains 12; that argument calls a font scaling setter, not a count cap. Allocation via
+0x1c9220 rises from 1,520 to 2,864 bytes per target widget; do not raise only
+the draw limit. Call-site signatures are checked. Measurement determines the
+existing label geometry; no shared renderer or font change is needed.
+All 104 labels fit 156 units and 24 bytes; 15 exceed 12 characters, maximum 19.
+Build with `python tools/build.py 0.1.37 --movie-overlay --movie-pacing --write`.
+No release requested. Use a fresh boot because save states restore old code
+and the old drawing-buffer allocation.
+Completed ISO: `work/output/ACE-EN-0.1.37.iso`, SHA-256
+`b76c072844040a2e6ac8fedb13c4484754e1828f8d729b90510971cbd6f0532d`.
+`tools/verify_lockon_capacity.py --iso work/output/ACE-EN-0.1.37.iso --write`
+passes all 104 labels, executes the native allocation arithmetic in MIPS64,
+rejects mismatched allocation/draw caps, and confirms font size remains 12.
+Evidence and font-only preview: `work/ui/lockon-capacity/`. Scoped ISO comparison
+against 0.1.36 passes: only two executable capacity immediates and three title
+stamp copies change. All movies and other resources are identical. No live
+emulator verification; fresh-boot confirmation remains needed.
+
+## Briefing condition truncation: local 0.1.36 (2026-10-28)
+
+The Intercept E2 Launch screenshot displays only `Escort the`: f007 row 2
+was stored as `Escort the\nfriendly warship`, but the condition widget shows
+only the first line. Change it to `Escort friendly warship` (182 font units).
+Audit found two more wrapped victory/defeat labels: f016 row 3 is now
+`40 percent city damage` (183 units); f030 row 2 is `Ensure speech succeeds`
+(189 units). `briefing_layout.py` now validates ids 2/3 as one line, retaining
+the 200-unit width and 39-byte cap. Secret objectives remain two-line fields.
+All 801 translated briefing rows pass. Build with
+`python tools/build.py 0.1.36 --movie-overlay --movie-pacing --write`.
+No release requested; retain all 0.1.35 features.
+Completed ISO: `work/output/ACE-EN-0.1.36.iso`, SHA-256
+`b4a315474e49f3f77a92fcca85dba15de68da33bc0cecdb3fbcb23ff9145f9b5`.
+`work/ui/briefing-conditions/verification-0.1.36.json` confirms all nine FMG
+copies contain exactly the three intended row edits, plus three version-stamp
+copies. All other game resources, executable and movies match 0.1.35 byte for
+byte. Original wrapped labels fail the new validation; two-line secret labels
+still pass. No live emulator verification.
+
+## Slot Info labels: local 0.1.35 (2026-10-28)
+
+The reported Weapon rows ran into their stat bars. In `t0804.tm2`, shorten
+`Wpn Power`/`Wpn Reload` to `Power`/`Reload`; the Weapon heading supplies context.
+Keep the original atlas bounds, category labels, stat values and bars. Update
+the standalone texture and its Campaign/Free bundle copies through the normal
+texture build. The separate upgrade-menu labels in `t0703.tm2` are unchanged.
+Build with `python tools/build.py 0.1.35 --movie-overlay --movie-pacing --write`
+to retain all 0.1.34 movie improvements and lyrics. No release requested.
+Completed ISO: `work/output/ACE-EN-0.1.35.iso`, SHA-256
+`7d89acc1cc32bf9bccac95d7800161c03aea7fd243c8f9554c7e400a2e1a23a8`.
+Encoded labels use 49/50 pixels within their 70-pixel atlas slots (previously
+70), leaving roughly 10 pixels at each end. Atlas preview and scoped comparison
+are in `work/ui/slot-info/`. All three Slot Info texture copies and three title
+stamp copies match expected output; all other resources, the executable and
+every movie are byte-identical to 0.1.34. Not yet checked in live gameplay.
+
+## Movie playback padding fix: local 0.1.34 (2026-10-28)
+
+After pow confirmed the 0.1.29 MP4 exports were smooth, they explicitly allowed
+isolated emulator-window replays of the supplied credits state, without keyboard
+or mouse input or changes to regular settings. Three controlled PCSX2 2.8.2
+replays found repeated MPEG decoder pauses at GOP boundaries. 127/129 baseline
+gaps over 60 ms coincide with GOP starts; the translated ending has about 90.9 MB
+of long video zero-stuffing runs. Display synchronization alone did not help.
+
+`tools/movie_pacing.py` moves this stuffing into MPEG-PS padding streams (0xBE),
+keeping encoded pictures, timestamps, audio, original nonvideo ranges and file
+lengths. In matched decoder-counter range 1500–4500, pacing improved from 29.13
+to 29.96 fps, and consecutive-counter gaps over 60 ms fell from 56 to 2. The
+repacked news/ending/opening pass pixel-and-timestamp equality for all 23,782
+frames. Lyrics and karaoke are pixel-identical. Evidence and caveats are in
+`docs/credits_stutter_investigation.md` and `work/ui/credits-stutter/`.
+
+Prepare each of MOVIE001/002/003 with:
+`py -3.11 tools/movie_pacing.py work/output/movies/MOVIE002.PSS work/output/movie-pacing/MOVIE002.PSS --verify`
+(substitute the movie name), then build with
+`python tools/build.py 0.1.34 --movie-overlay --movie-pacing --write`.
+The build checks both input/output hashes and full-frame verification metadata.
+The 0.1.33 runtime story overlay remains; no additional executable timing patch.
+
+`tools/trace_movie_playback.py` is read-only PINE telemetry. Raw replay CSVs and
+test profiles are ignored under `work/source/credits-stutter/`. All test emulator
+processes were stopped; normal PCSX2 settings/cards are unchanged. The state
+uses a newer emulator and Japanese BIOS, while all controlled replays used the
+installed 2.8.2 and available US BIOS. No claim of zero stutter on every system.
+The separate `ACE-EN-0.1.34-movie-pacing-diagnostic.iso` is ONLY a 0.1.29 copy
+with the ending repacked, retaining the old executable/title for state comparison.
+It is not the full 0.1.34 build and must not be packaged or released.
+No 0.1.34 release has been requested or published.
+Completed ISO: `work/output/ACE-EN-0.1.34.iso`, 3,357,147,136 bytes, SHA-256
+`feed69fbce919173ce71b57d22cc38406bf5c189aaa789758f9f8621cd38210a`.
+Full movie scope and game-data scope verification against 0.1.33 pass: only
+the three repacked MOVIE0 movies and three title stamps change; the executable,
+fonts, gameplay data and 22 original story movies remain as in 0.1.33. Use a
+fresh boot and normal memory-card save for this full build. Old states restore
+older executable/heap/disc-stream state; use the separate diagnostic ISO only
+for the supplied 0.1.29 credits-state comparison.
+
+## Runtime story subtitles: local 0.1.33 (2026-10-27)
+
+pow explicitly requested implementing the overlay approach. `tools/movie_overlay.py`
+now overlays all 171 story cards onto decoded RGB32 pictures before queue
+publication. This restores all 22 original MOVIE1 PSS files while retaining
+the three translated MOVIE0 movies, including credits and both songs' lyrics.
+Build with `python tools/build.py 0.1.33 --movie-overlay --write`.
+The 1,522,944-byte payload is a second ELF load segment at 0x34a480; all four
+heap-start references move to 0x4be180, while BSS clearing stops at the old end.
+Open hook: 0x2001a0. Successful-picture hook: 0x1f24c0, tail-calling 0x1f2e10.
+The decoded-pixel layout was checked against the real supplied ending state.
+Actual machine-code CPU checks cover 953 pictures / 171 cards and 51 movie-state
+cases, with pixel/register/buffer guards. Fresh-boot playback remains unverified;
+old states retain incompatible executable/heap data. No desktop control or
+release. See `docs/movie_overlay_0.1.33.md` and `work/ui/movie-overlay/`.
+Finished ISO: `work/output/ACE-EN-0.1.33.iso`, SHA-256
+`62f705bc67ae40539f8147ce4209f93617f17e725ebee389882568133acdc8c0`.
+Movie/game-data scope verification passes: only the executable, three title
+stamps and original story-video restoration differ from 0.1.32.
+Local original-disc patch: `work/output/ACE-English-0.1.33-local.xdelta`,
+319,280,205 bytes versus 890,566,740 (64.15% smaller). Retro Trans Tools full
+reconstruction matches the ISO. It is not an upgrade patch or public release.
+
+## Patch size and runtime movie overlays (2026-10-27)
+
+pow requested smaller patches without sacrificing video quality, translations
+or lyrics, then suggested in-game subtitles over the movies' bottom bars.
+A stronger-compression experiment saves only 3,536,293 bytes (0.397%); the
+local `work/output/ACE-English-0.1.32-compact.xdelta` fully reconstructs the
+public 0.1.32 ISO through Retro Trans Tools. Published assets are unchanged.
+Evidence: `work/ui/patch-size/compact-0.1.32.json`.
+The overlay approach has 148 bottom-bar captions and 23 title cards ready in
+existing English timing metadata. Movie loader/draw routines are located, but
+no runtime renderer or reliable presentation-clock hook is implemented.
+See `docs/movie_overlay_feasibility.md` for addresses, constraints and results.
+Keep all lyrics and translations; retain harder-to-mask movie replacements
+until equivalent overlays are validated. No new release is authorized.
+
 ## Release 0.1.32 published (2026-10-27)
 
 pow explicitly requested this release. Published the existing verified 0.1.32

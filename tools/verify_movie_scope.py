@@ -41,6 +41,12 @@ def nonvideo_hash(path, packets):
 
 def verify(iso, original_story=False):
     build_report = json.loads(iso.with_suffix('.json').read_text(encoding='utf-8'))
+    overlay = build_report.get('movie_overlay')
+    if overlay:
+        require(overlay['card_count'] == 171 and len(overlay['movies']) == 22,
+                'Incomplete runtime story captions')
+        require(not build_report.get('movies_without_lyrics'), 'Overlay build must retain lyrics')
+        original_story = True
     allowed = {mt.disc_path(n) for n in ('MOVIE001','MOVIE002','MOVIE003')}
     expected_story = {mt.disc_path('M1_MOVIE%03d' % n) for n in range(1, 23)}
     if not original_story:
@@ -67,10 +73,25 @@ def verify(iso, original_story=False):
                 src,dst = mt.source_movie(movie),mt.OUT/(movie+'.PSS')
                 if no_lyrics and (mt.OUT/(movie+'.nolyrics.PSS')).exists():
                     dst = mt.OUT/(movie+'.nolyrics.PSS')
+                pacing = build_report.get('movie_pacing', {}).get(name)
+                if pacing:
+                    import movie_pacing
+                    require(movie_pacing.file_hash(dst) == pacing['source_sha256'], 'Pacing source mismatch: '+movie)
+                    dst = iso.parent/'movie-pacing'/dst.name
+                    require(pacing.get('decoded_frames_verified', 0) > 0, 'Unverified pacing movie: '+movie)
                 with open(dst,'rb') as stream:
                     require(range_hash(stream,0,dst.stat().st_size) == actual,'Built movie file mismatch: '+movie)
                 packets = mt.video_packets(src)
-                require(packets == mt.video_packets(dst),'Packet positions changed: '+movie)
+                if not pacing:
+                    require(packets == mt.video_packets(dst),'Packet positions changed: '+movie)
+                else:
+                    # Repacking only splits original video PES ranges into shorter
+                    # video PES + padding packets. Original audio/pack ranges stay
+                    # at exactly the same offsets and are hashed below.
+                    with dst.open('rb') as f:
+                        import mmap
+                        with mmap.mmap(f.fileno(), 0, access=mmap.ACCESS_READ) as data:
+                            list(movie_pacing.packets(data))
                 before,after = nonvideo_hash(src,packets),nonvideo_hash(dst,packets)
                 require(before == after,'Audio or nonvideo bytes changed: '+movie)
                 results[name] = {'status':'translated','sha256':actual,'nonvideo_sha256':after}
@@ -83,11 +104,14 @@ def verify(iso, original_story=False):
     translated_story = sum(results[n]['status'] == 'translated' for n in story)
     report = {'iso':iso.name,'translated_movies':sorted(wanted),'original_story_movies':22-translated_story,
               'translated_story_movies':translated_story,
+              'runtime_translated_story_movies': 22 if overlay else 0,
               'audio_and_nonvideo_unchanged':True,'movies':results}
     target = iso.with_suffix('.movies.verify.json')
     target.write_text(json.dumps(report,indent=1),encoding='utf-8')
     print('PASS: %d translated movies, %d translated / %d original story movies; all audio and nonvideo bytes unchanged'
           % (len(wanted), translated_story, 22-translated_story))
+    if overlay:
+        print('All 22 original story movies have runtime English caption tables (171 cards).')
     print('Report:',target)
 
 

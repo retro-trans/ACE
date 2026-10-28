@@ -13,7 +13,8 @@ Limits (Japanese maxima in brackets). The briefing text buffer is not located; a
 turned out to be sized for the Japanese (operator window, 2026-10-14), every byte limit here equals the Japanese
 maximum:
   name       1 line,  200 units, 27 bytes   [195 units, 27 bytes]
-  objective  2 lines, 200 units, 39 bytes   [201 units, 39 bytes]
+  victory / defeat condition  1 line, 200 units, 39 bytes
+  secret objective  2 lines, 200 units, 39 bytes   [201 units, 39 bytes]
   briefing / debriefing / failure  2 lines, 440 units, 89 visible bytes  [450 units, 89 bytes]
 
 Translation files: work/translation/en/briefing/fNNN.json {table, mission, rows: [{id, ja, en, notes}]}
@@ -27,11 +28,13 @@ from encyclopedia_layout import font
 
 DIR = ROOT / 'work/translation/en/briefing'
 TOKEN = re.compile(r'<[a-z]+\([^)]*\)>')
-LIMITS = {'name': (1, 200, 27), 'objective': (2, 200, 39), 'text': (2, 440, 89)}
+LIMITS = {'name': (1, 200, 27), 'condition': (1, 200, 39),
+          'objective': (2, 200, 39), 'text': (2, 440, 89)}
 
 
 def kind(ident):
-    return 'name' if ident == 1 else 'objective' if ident < 100 else 'text'
+    return ('name' if ident == 1 else 'condition' if ident in (2, 3)
+            else 'objective' if ident < 100 else 'text')
 
 
 def visible(text):

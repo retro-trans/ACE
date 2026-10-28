@@ -1,0 +1,57 @@
+{
+  "counter_range": [
+    1500,
+    4500
+  ],
+  "tests": {
+    "baseline": {
+      "measured_fps": 29.125919788051846,
+      "consecutive_counter_gaps_over_60ms": 56,
+      "max_consecutive_counter_gap_ms": 104.43699999999723,
+      "sample_count": 18704,
+      "first_change": [
+        35.258979,
+        1500
+      ],
+      "last_change": [
+        138.260018,
+        4500
+      ],
+      "sampled_counter_jumps": 1,
+      "frame1961_gap_ms": 104.43699999999723
+    },
+    "synchronized": {
+      "measured_fps": 28.533987903015827,
+      "consecutive_counter_gaps_over_60ms": 84,
+      "max_consecutive_counter_gap_ms": 149.67300000000705,
+      "sample_count": 19078,
+      "first_change": [
+        7.501803,
+        1500
+      ],
+      "last_change": [
+        112.639578,
+        4500
+      ],
+      "sampled_counter_jumps": 0,
+      "frame1961_gap_ms": 98.42500000000243
+    },
+    "repacked": {
+      "measured_fps": 29.960534186737174,
+      "consecutive_counter_gaps_over_60ms": 2,
+      "max_consecutive_counter_gap_ms": 61.40200000000107,
+      "sample_count": 18077,
+      "first_change": [
+        44.229221,
+        1500
+      ],
+      "last_change": [
+        144.360947,
+        4500
+      ],
+      "sampled_counter_jumps": 0,
+      "frame1961_gap_ms": 33.39300000000378
+    }
+  },
+  "limits": "Decoder counter sampling, not a direct host-display measurement. Controlled state replay uses PCSX2 2.8.2/US BIOS, with the supplied 2.9.146/Japanese-BIOS state. Normal settings unchanged."
+}

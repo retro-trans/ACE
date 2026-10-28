@@ -1,10 +1,75 @@
 # Ending credit stutter investigation — 2026-10-27
 
-Status: offline investigation completed; the reported playback stutter is not
-reproduced or fixed. No game build, movie payload, emulator setting or release
-was changed. The user previously requested continuing without desktop control;
-no emulator was launched or controlled. The user is unsure whether audio also
-stutters.
+Status (2026-10-28): repeated frame-group stalls reproduced in an isolated
+PCSX2 replay and substantially reduced by lossless movie repacking. The user
+explicitly authorized isolated emulator replay windows after initially asking
+for work without desktop control. Normal emulator settings, memory cards and
+public releases remain unchanged. The original offline findings follow below.
+
+## Runtime follow-up and padding fix
+
+After the user reported that the MP4 exports played correctly, compared the
+original game, 0.1.29 executable and saved RAM. Movie-player ranges
+`0x1ef910..0x1f3000` and `0x1ffe90..0x200b80` are identical in all three.
+The saved ring is valid: capacity 2, producer 1, queued 1. A snapshot alone
+does not establish playback cadence.
+
+Ran three isolated PCSX2 2.8.2 sessions, using the same supplied state, 0.1.29
+executable and 4x D3D12 renderer. No keyboard/mouse input was sent. Test-only
+data directories, disabled memory cards and muted output kept the regular
+installation unchanged. The third ISO is a diagnostic copy of 0.1.29 with
+only MOVIE002 repacked; its executable/title intentionally stay 0.1.29 for
+state compatibility. It is not the normal 0.1.34 build.
+
+Read-only PINE sampling tracked the MPEG decoder counter and output queue;
+PresentMon 2.6.0 independently recorded host presents. The baseline host
+present interval was mostly regular (median 16.68 ms, p99 17.35 ms), while
+the movie decoder repeatedly paused at GOP boundaries. Of 129 decoder gaps
+over 60 ms, 127 were at GOP starts. For example, counter 1961 followed
+137,623 zero bytes and paused 104.44 ms. The translated ES contains roughly
+90.9 MB of long zero runs, compared with 6.8 MB in the original movie.
+
+Matched decoder-counter range 1500–4500:
+
+| Test | Average decoded fps | Consecutive-counter gaps >60 ms |
+| --- | ---: | ---: |
+| Existing 0.1.29, VSync off | 29.13 | 56 |
+| VSync + host refresh/timing synchronization | 28.53 | 84 |
+| Repacked ending, original VSync-off settings | 29.96 | 2 |
+
+The repacked run's two remaining consecutive-counter gaps in that range were
+about 61 ms. Sampling includes host scheduling noise; long polling gaps with
+counter jumps are not counted as single-frame stalls. PresentMon's display
+tracking had many discarded/occluded presents, so it does not certify visible
+display cadence. This identifies excessive video stuffing as a repeatable
+cause in this replay, not every possible source of stutter.
+
+`tools/movie_pacing.py` retains small alignment runs but replaces long video
+stuffing with MPEG-PS padding streams (0xBE). It splits only original video
+PES ranges; picture headers/timestamps, encoded picture data, original pack
+clocks, all original nonvideo ranges and total PSS length remain intact.
+90,879,883 video-stuffing bytes were moved out of the ending video stream.
+FFmpeg frame-MD5 comparisons prove every one of its 14,342 decoded pictures
+and timestamps is identical. The same full-frame check covers the repacked
+news and opening movies. This keeps translations and karaoke pixel-exact.
+
+Evidence: `work/ui/credits-stutter/replay-comparison.json`,
+`{baseline,synchronized,repacked}.json`, `padding-correlation.json`,
+`repack-video-verification.json` and `MOVIE00N-pacing.json`. Raw queue and
+PresentMon CSVs are retained in ignored `work/source/credits-stutter/traces/`.
+`tools/trace_movie_playback.py` only sends PINE identification and RAM-read
+commands; it never changes memory or sends input. Its protocol was checked
+against the official PCSX2 2.8.2 source and a saved-RAM socket fixture.
+
+The state was created with PCSX2 2.9.146 and a Japanese BIOS, whereas these
+controlled replays used installed 2.8.2 and the available US BIOS. All three
+tests used the same combination; fresh-boot confirmation on the user's usual
+configuration remains useful. No emulator-global timing settings were changed.
+
+Sources for emulator settings and measurements:
+[PCSX2 2.8.2 timing settings](https://github.com/PCSX2/pcsx2/blob/v2.8.2/pcsx2-qt/Settings/EmulationSettingsWidget.cpp),
+[PCSX2 target-speed logic](https://github.com/PCSX2/pcsx2/blob/v2.8.2/pcsx2/VMManager.cpp),
+[PresentMon](https://github.com/GameTechDev/PresentMon).
 
 ## Supplied state
 
@@ -75,6 +140,26 @@ and native frame cadence. This MP4 is a comparison aid, not a PS2 patch or a
 test of the console decoder.
 
 ## Remaining verification
+
+### Full 0.1.29 MP4 exports (2026-10-27)
+
+The user subsequently confirmed noticing the stutter in 0.1.29 during the song.
+Extracted both song movies directly from `work/output/ACE-EN-0.1.29.iso`:
+
+- `work/output/mp4/0.1.29/ACE-0.1.29-Ending-Credits.mp4`: 14,342 frames,
+  478.544733 seconds of video, 116,570,676 bytes.
+- `work/output/mp4/0.1.29/ACE-0.1.29-Opening-Garnet-Moon.mp4`: 5,410 frames,
+  180.513667 seconds of video, 62,334,367 bytes.
+
+Both retain 512x448 pixels, with 7:6 sample aspect ratio for 4:3 display,
+30000/1001 fps, and exactly the source decoded frame counts. H.264 CRF 16
+and stereo AAC 320 kbps; no interpolation, scaling or frame-rate conversion.
+Existing translations, lyrics and karaoke are included. The complete extracted
+48 kHz soundtrack is retained, including its approximately half-second tail
+beyond the last video frame. Source and output hashes, audio sample counts and
+stream metadata are in `work/output/mp4/0.1.29/export-report.json`.
+The ending sample at 170 seconds was visually checked. These are PC playback
+comparison files, not a game build or proof of smooth PS2 playback.
 
 The useful next evidence is emulator frame-time/speed data during the credit
 roll, including whether audio breaks up, and comparison with the original PSS

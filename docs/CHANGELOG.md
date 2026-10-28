@@ -1,5 +1,103 @@
 # Changelog
 
+## 0.1.38 - 2026-10-28
+
+- Public release requested by pow. Includes all local changes from 0.1.33–0.1.37:
+  runtime story subtitles, lossless movie repacking, Slot Info labels, briefing
+  conditions and lock-on name capacity. Retains English lyrics and karaoke.
+- Package original-disc and direct public 0.1.32 upgrade routes for Retro Trans.
+
+- Fix radio speaker names stopping after 12 characters (`Titans Soldi`). Raise
+  the speaker draw/reveal count to the translation budget of 22 characters.
+  Keep the existing 50-glyph drawing allocation and font size unchanged.
+- Retain full translated names, the 4x font and all 0.1.37 fixes and lyrics.
+- Verify all 69 names and execute the speaker wrapper to check the new count
+  and unchanged font arguments. The final ISO changes only one executable
+  immediate and three title stamps. Fresh-boot gameplay confirmation pending.
+
+## 0.1.37 - 2026-10-28 (local test build; not released)
+
+- Fix target names stopping after 12 glyphs, such as `Jonathan's G`. Raise the
+  lock-on widget's drawing limit to 24 glyphs, and increase
+  its drawing allocation to match (1,520 to 2,864 bytes per widget).
+- Preserve full translated names and the existing 156-unit width limit. All
+  104 lock-on labels fit; 15 exceed the old cap, with a maximum of 19 glyphs.
+- Retain 0.1.36 briefing fixes, Slot Info labels, movie pacing and all lyrics.
+- Verify native allocation arithmetic, all labels and final ISO scope: only
+  two capacity constants and version stamps change. Font size remains 12.
+  Fresh-boot gameplay verification remains pending; old save states retain
+  the original code and allocation.
+
+## 0.1.36 - 2026-10-28 (local test build; not released)
+
+- Fix the incomplete `Escort the` victory condition in Intercept E2 Launch:
+  use `Escort friendly warship` on one line. The condition panel does not show
+  the second line previously inserted by the layout tool.
+- Fix the same wrapping issue in the city-damage defeat condition and speech
+  victory condition. Validate victory/defeat labels as single-line fields;
+  retain two-line secret objectives and dialogue. All 801 briefing rows pass.
+- Retain 0.1.35 Slot Info labels, movie pacing, translations and lyrics.
+- Verify all nine briefing-table copies and three version stamps; all other
+  resources, executable and movies match 0.1.35. Live gameplay not checked.
+
+## 0.1.35 - 2026-10-28 (local test build; not released)
+
+- Shorten the Slot Info weapon-stat labels to `Power` and `Reload`, under the
+  existing Weapon heading, to leave room before the stat bars. Preserve weapon
+  categories, bar positions and values in both Campaign and Free Missions.
+- Retain 0.1.34 movie pacing, runtime story subtitles, translations and lyrics.
+- Verify the encoded texture preview and all three on-disc copies. Only Slot
+  Info labels and version stamps differ from 0.1.34; live gameplay not checked.
+
+## 0.1.34 - 2026-10-28 (local test build; not released)
+
+- Fix repeated movie frame-group pauses by moving excessive zero stuffing out
+  of MPEG video payloads into standard program-stream padding packets. Repack
+  the news, opening and ending without re-encoding pictures or changing audio,
+  timestamps, lyrics or file sizes. All decoded frames match their prior versions.
+- In an isolated replay of the supplied credits state, the matched frame range
+  1500–4500 improved from 29.13 to 29.96 decoded frames/second; consecutive-frame
+  gaps over 60 ms fell from 56 to 2. Display synchronization alone did not help.
+  This is measured improvement in PCSX2 2.8.2, not a claim of zero stutter on all systems.
+- Keep the runtime story captions and original story-video quality from 0.1.33.
+  Build with `--movie-overlay --movie-pacing`; retain all translations and karaoke.
+  Add a read-only playback tracer and full-frame repacking checks. No release.
+- Final movie/game-data checks pass against 0.1.33: only the three MOVIE0
+  repacks and version stamps differ. Normal emulator settings remain unchanged.
+
+## Movie exports - 2026-10-27 (no build change)
+
+- Export the opening song and ending credits directly from the 0.1.29 ISO
+  into `work/output/mp4/0.1.29/` for offline stutter comparison. Preserve
+  translated captions/lyrics, native 30000/1001 frame cadence and soundtrack;
+  use high-quality H.264/AAC with 4:3 display metadata. No game files change.
+
+## 0.1.33 - 2026-10-27 (local test build; not released)
+
+- Restore original video bytes in all 22 story movies and render their 171
+  English captions/title cards onto decoded pictures during playback. Keep
+  the corrected fade coverage and existing font rendering; retain all three
+  translated opening/ending movies, English lyrics and romaji karaoke.
+- Reserve overlay memory through an ELF load segment and updated heap bounds.
+  Caption timing follows queued movie pictures; no gameplay font or new GS
+  packet is used. Add CPU execution, pixel-coverage and movie-scope checks.
+- Update all three title stamps to 0.1.33. Fresh-boot playback/gameplay testing
+  is still required; no credit-stutter fix or mission-completion claim.
+  See `docs/movie_overlay_0.1.33.md`.
+- The original-disc patch shrinks from 890,566,740 to 319,280,205 bytes
+  (64.15%). Retro Trans Tools full decode matches the new ISO SHA-256.
+  All 953 CPU frame cases and movie/game-data scope checks pass.
+
+## Patch-size investigation - 2026-10-27 (no build change)
+
+- Produce a local compact patch for the identical public 0.1.32 ISO, saving
+  3,536,293 bytes (0.397%). Full Retro Trans Tools decode and SHA-256 verification
+  pass. Published assets remain unchanged.
+- Assess runtime movie subtitles: inventory 148 bottom-bar captions and 23
+  title cards, and locate movie loading/drawing routines for further work.
+  No runtime overlay is implemented. Record findings in
+  `docs/movie_overlay_feasibility.md`; all translations and lyrics remain intact.
+
 ## Investigation - 2026-10-27 (no build change)
 
 - Inspect the supplied ending save state without desktop control and add a

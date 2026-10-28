@@ -1,0 +1,79 @@
+{
+  "glyphs_before": 12,
+  "glyphs_after": 22,
+  "allocation_glyphs": 50,
+  "allocation_unchanged": true,
+  "font_size_unchanged": true,
+  "address": "0x201af0",
+  "labels_checked": 69,
+  "affected": [
+    {
+      "text": "Original Navi",
+      "previously_visible": "Original Nav",
+      "glyphs": 13,
+      "width": 66
+    },
+    {
+      "text": "Kouichirou Misumaru",
+      "previously_visible": "Kouichirou M",
+      "glyphs": 19,
+      "width": 112
+    },
+    {
+      "text": "Allied Soldier",
+      "previously_visible": "Allied Soldi",
+      "glyphs": 14,
+      "width": 68
+    },
+    {
+      "text": "Grados Soldier",
+      "previously_visible": "Grados Soldi",
+      "glyphs": 14,
+      "width": 75
+    },
+    {
+      "text": "Giganos Soldier",
+      "previously_visible": "Giganos Sold",
+      "glyphs": 15,
+      "width": 80
+    },
+    {
+      "text": "Drake Soldier",
+      "previously_visible": "Drake Soldie",
+      "glyphs": 13,
+      "width": 68
+    },
+    {
+      "text": "Poseidal Soldier",
+      "previously_visible": "Poseidal Sol",
+      "glyphs": 16,
+      "width": 83
+    },
+    {
+      "text": "White Fang Soldier",
+      "previously_visible": "White Fang S",
+      "glyphs": 18,
+      "width": 96
+    },
+    {
+      "text": "Neo Zeon Soldier",
+      "previously_visible": "Neo Zeon Sol",
+      "glyphs": 16,
+      "width": 90
+    },
+    {
+      "text": "Titans Soldier",
+      "previously_visible": "Titans Soldi",
+      "glyphs": 14,
+      "width": 70
+    },
+    {
+      "text": "Martian Successors",
+      "previously_visible": "Martian Succ",
+      "glyphs": 18,
+      "width": 99
+    }
+  ],
+  "native_wrapper_verified": true,
+  "runtime_verified": false
+}

@@ -1,0 +1,17 @@
+{
+  "payload_bytes": 1522944,
+  "card_count": 171,
+  "cpu_frame_checks": 953,
+  "framebuffer_pixel_comparisons": 437190656,
+  "movie_state_checks": 51,
+  "all_checks_passed": true,
+  "heap_start": "0x4be180",
+  "outside_overlay_and_other_buffer_unchanged": true,
+  "callee_saved_registers_and_queue_bookkeeping_preserved": true,
+  "runtime_playback_verified": false,
+  "previews": [
+    "work\\ui\\movie-overlay\\M1_MOVIE001-f80.png",
+    "work\\ui\\movie-overlay\\M1_MOVIE002-f250.png",
+    "work\\ui\\movie-overlay\\M1_MOVIE011-f795.png"
+  ]
+}
